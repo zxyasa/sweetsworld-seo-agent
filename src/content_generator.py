@@ -1,19 +1,48 @@
 """Content generation module for creating SEO-optimized article HTML."""
-from typing import Dict
+from typing import Dict, Optional
 
 
-def generate_article_html(topic_dict: Dict[str, str]) -> str:
+def generate_article_html(
+    topic_dict: Dict[str, str],
+    use_ai: bool = False,
+    openai_generator: Optional[any] = None,
+    gsc_data: Optional[Dict] = None
+) -> str:
     """
-    Generate SEO-optimized HTML article content from topic data.
+    Generate SEO-optimized HTML article content.
 
-    This is a template-based generator. Future versions can integrate
-    with OpenAI or other AI services for dynamic content generation.
+    Supports both template-based and AI-powered generation.
 
     Args:
         topic_dict: Dictionary containing topic information with keys:
                    - title: Article title
                    - primary_keyword: Main SEO keyword
                    - category_hint: Category/topic hint
+        use_ai: Whether to use OpenAI for generation (default: False)
+        openai_generator: OpenAIGenerator instance (required if use_ai=True)
+        gsc_data: Optional Google Search Console keyword data
+
+    Returns:
+        str: Complete HTML content for the article
+    """
+    # Use AI generation if enabled
+    if use_ai and openai_generator:
+        try:
+            return openai_generator.generate_article_html(topic_dict, gsc_data)
+        except Exception as e:
+            print(f"⚠️  AI generation failed, falling back to template: {str(e)}")
+            # Fall back to template generation
+
+    # Use template generation
+    return generate_template_html(topic_dict)
+
+
+def generate_template_html(topic_dict: Dict[str, str]) -> str:
+    """
+    Generate SEO-optimized HTML using template.
+
+    Args:
+        topic_dict: Dictionary containing topic information
 
     Returns:
         str: Complete HTML content for the article

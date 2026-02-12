@@ -2,12 +2,25 @@
 import csv
 import sys
 from pathlib import Path
-from typing import List, Dict
+from typing import List, Dict, Optional
 
 from config import get_settings
 from wp_client import WPClient
 from content_generator import generate_article_html
 from telegram_notify import send_telegram
+
+# Optional imports for AI and GSC features
+try:
+    from openai_generator import OpenAIGenerator
+    OPENAI_AVAILABLE = True
+except ImportError:
+    OPENAI_AVAILABLE = False
+
+try:
+    from gsc_client import GSCClient
+    GSC_AVAILABLE = True
+except ImportError:
+    GSC_AVAILABLE = False
 
 
 def read_topics(csv_path: Path) -> List[Dict[str, str]]:
@@ -78,6 +91,48 @@ def main():
         sys.exit(1)
     print("✅ WordPress connection successful\n")
 
+    # Initialize OpenAI generator if enabled
+    openai_generator = None
+    if settings.use_ai_generation:
+        if not OPENAI_AVAILABLE:
+            print("⚠️  OpenAI requested but openai package not installed")
+            print("   Run: pip install openai")
+            print("   Falling back to template generation\n")
+        elif not settings.openai_api_key:
+            print("⚠️  USE_AI_GENERATION=true but OPENAI_API_KEY not set")
+            print("   Falling back to template generation\n")
+        else:
+            try:
+                openai_generator = OpenAIGenerator(
+                    api_key=settings.openai_api_key,
+                    model=settings.openai_model
+                )
+                print(f"✅ OpenAI enabled (model: {settings.openai_model})\n")
+            except Exception as e:
+                print(f"⚠️  Failed to initialize OpenAI: {e}")
+                print("   Falling back to template generation\n")
+
+    # Initialize GSC client if enabled
+    gsc_client = None
+    if settings.use_gsc_data:
+        if not GSC_AVAILABLE:
+            print("⚠️  GSC requested but google-api-python-client not installed")
+            print("   Run: pip install google-api-python-client google-auth-oauthlib")
+            print("   Continuing without GSC data\n")
+        elif not settings.gsc_property_url:
+            print("⚠️  USE_GSC_DATA=true but GSC_PROPERTY_URL not set")
+            print("   Continuing without GSC data\n")
+        else:
+            try:
+                gsc_client = GSCClient(
+                    property_url=settings.gsc_property_url,
+                    credentials_file=settings.gsc_credentials_file
+                )
+                print(f"✅ Google Search Console enabled\n")
+            except Exception as e:
+                print(f"⚠️  Failed to initialize GSC: {e}")
+                print("   Continuing without GSC data\n")
+
     # Read topics from CSV
     topics_csv_path = Path(__file__).parent.parent / "topics.csv"
 
@@ -103,9 +158,29 @@ def main():
             continue
 
         try:
+            # Get GSC data if available
+            gsc_data = None
+            if gsc_client and topic.get('primary_keyword'):
+                try:
+                    gsc_data = gsc_client.get_related_keywords(
+                        primary_keyword=topic['primary_keyword'],
+                        days=90,
+                        max_results=15
+                    )
+                    if gsc_data['related_keywords']:
+                        print(f"  📊 Found {len(gsc_data['related_keywords'])} related keywords from GSC")
+                except Exception as e:
+                    print(f"  ⚠️  GSC lookup failed: {e}")
+
             # Generate HTML content
-            html_content = generate_article_html(topic)
-            print(f"  ✅ Generated HTML content ({len(html_content)} characters)")
+            html_content = generate_article_html(
+                topic_dict=topic,
+                use_ai=bool(openai_generator),
+                openai_generator=openai_generator,
+                gsc_data=gsc_data
+            )
+            generation_mode = "AI-powered" if openai_generator else "template"
+            print(f"  ✅ Generated HTML content ({len(html_content)} characters, {generation_mode})")
 
             # Create draft post in WordPress
             result = wp_client.create_post_draft(

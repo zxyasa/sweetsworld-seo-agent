@@ -4,34 +4,45 @@
 
 ## 功能特性
 
+### 核心功能
 - ✅ 从 CSV 文件读取选题
-- ✅ 生成 SEO 优化的 HTML 文章内容（模板版）
+- ✅ **双模式内容生成**：模板生成 或 AI 生成（OpenAI）
 - ✅ 通过 WordPress REST API 创建草稿文章
 - ✅ Telegram 消息推送（草稿链接）
 - ✅ 完整的错误处理和状态反馈
+
+### 高级功能（可选）
+- 🤖 **OpenAI 集成** - AI 动态生成高质量 SEO 文章
+- 📊 **Google Search Console 集成** - 获取真实搜索关键词数据
+- 🎯 智能关键词优化和内容个性化
 
 ## 技术栈
 
 - Python 3.10+
 - WordPress REST API (Application Password 认证)
 - Telegram Bot API
-- 依赖：`requests` + `python-dotenv`
+- OpenAI API (可选)
+- Google Search Console API (可选)
+- 依赖：`requests` + `python-dotenv` + `openai` + `google-api-python-client`
 
 ## 目录结构
 
 ```
 sweetsworld-seo-agent/
-├── README.md              # 项目文档
-├── .gitignore            # Git 忽略文件
-├── .env.example          # 环境变量模板
-├── requirements.txt      # Python 依赖
-├── topics.csv            # 选题数据
+├── README.md                 # 项目文档
+├── .gitignore               # Git 忽略文件
+├── .env.example             # 环境变量模板
+├── requirements.txt         # Python 依赖
+├── topics.csv               # 选题数据
+├── gsc_credentials.json     # GSC 凭证（可选，需自行创建）
 └── src/
-    ├── config.py         # 配置管理
-    ├── wp_client.py      # WordPress API 客户端
-    ├── content_generator.py  # 内容生成器
-    ├── telegram_notify.py    # Telegram 通知
-    └── run_mvp.py        # 主程序入口
+    ├── config.py            # 配置管理
+    ├── wp_client.py         # WordPress API 客户端
+    ├── content_generator.py # 内容生成器（支持模板+AI）
+    ├── openai_generator.py  # OpenAI 集成
+    ├── gsc_client.py        # Google Search Console 集成
+    ├── telegram_notify.py   # Telegram 通知
+    └── run_mvp.py           # 主程序入口
 ```
 
 ## 快速开始
@@ -95,6 +106,64 @@ TELEGRAM_CHAT_ID="your_chat_id"
 3. 按提示设置 Bot 名称和用户名
 4. 获取 Bot Token 并填入 `.env`
 5. 搜索 [@userinfobot](https://t.me/userinfobot) 获取你的 Chat ID
+
+#### 配置 OpenAI API（可选 - AI 内容生成）
+
+如果希望使用 AI 动态生成文章内容，需要配置 OpenAI API：
+
+1. 访问 [OpenAI Platform](https://platform.openai.com/)
+2. 登录并进入 **API Keys** 页面
+3. 点击 **Create new secret key** 生成 API Key
+4. 复制 API Key 并添加到 `.env` 文件：
+
+```env
+OPENAI_API_KEY="sk-proj-..."
+OPENAI_MODEL="gpt-4o"
+USE_AI_GENERATION="true"
+```
+
+**注意：**
+- 设置 `USE_AI_GENERATION="true"` 启用 AI 生成
+- 设置为 `"false"` 或留空则使用模板生成（免费）
+- 推荐模型：`gpt-4o`（性价比高）或 `gpt-4-turbo`
+- OpenAI API 按使用量计费，请注意成本控制
+
+#### 配置 Google Search Console（可选 - 关键词数据）
+
+如果希望从 GSC 获取真实搜索关键词数据来优化内容：
+
+1. **创建 Google Cloud 项目**
+   - 访问 [Google Cloud Console](https://console.cloud.google.com/)
+   - 创建新项目或选择现有项目
+
+2. **启用 Search Console API**
+   - 在项目中搜索并启用 **Google Search Console API**
+
+3. **创建服务账号**
+   - 进入 **IAM & Admin** → **Service Accounts**
+   - 创建服务账号（名称如 "SEO Agent"）
+   - 点击服务账号 → **Keys** → **Add Key** → **Create new key**
+   - 选择 **JSON** 格式下载凭证文件
+   - 将文件重命名为 `gsc_credentials.json` 并放到项目根目录
+
+4. **授权服务账号访问 Search Console**
+   - 登录 [Google Search Console](https://search.google.com/search-console)
+   - 选择你的网站属性（sweetsworld.com.au）
+   - 进入 **Settings** → **Users and permissions**
+   - 点击 **Add user**，输入服务账号邮箱（格式：`xxx@xxx.iam.gserviceaccount.com`）
+   - 权限选择 **Full**，点击 **Add**
+
+5. **配置 .env 文件**
+```env
+GSC_PROPERTY_URL="https://sweetsworld.com.au"
+GSC_CREDENTIALS_FILE="gsc_credentials.json"
+USE_GSC_DATA="true"
+```
+
+**注意：**
+- GSC 数据需要网站已有一定搜索流量
+- 新网站可能没有足够数据，建议先使用模板生成
+- 设置 `USE_GSC_DATA="false"` 可禁用 GSC 集成
 
 ### 3. 准备选题数据
 
@@ -192,15 +261,25 @@ python src/run_mvp.py
 - 确认网站可正常访问
 - 尝试增加请求超时时间（修改 `wp_client.py` 中的 `timeout` 参数）
 
-## 后续扩展计划
+## 功能清单
 
-- [ ] 集成 OpenAI API 生成动态内容
-- [ ] 集成 Google Search Console 获取真实关键词
-- [ ] 自动获取 WooCommerce 产品数据
-- [ ] 支持自动设置特色图片
+### ✅ 已实现
+- [x] WordPress REST API 集成（草稿创建）
+- [x] 完善的错误处理（401/403/404/500）
+- [x] 模板式内容生成
+- [x] **OpenAI API 集成**（AI 动态内容生成）
+- [x] **Google Search Console 集成**（真实关键词数据）
+- [x] Telegram 通知推送
+- [x] CSV 批量处理
+
+### 🚀 后续扩展计划
+- [ ] 自动获取 WooCommerce 产品数据并插入文章
+- [ ] 支持自动设置特色图片（Unsplash/Pexels）
 - [ ] 支持自动分类和标签
-- [ ] 添加内容质量检查
+- [ ] 添加内容质量检查和 SEO 评分
 - [ ] 支持批量更新已有文章
+- [ ] 定时任务和自动化执行
+- [ ] 内容 A/B 测试
 
 ## 开发环境
 

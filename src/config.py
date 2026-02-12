@@ -28,11 +28,24 @@ load_dotenv(dotenv_path=env_path)
 @dataclass
 class Settings:
     """Application settings loaded from environment variables."""
+    # WordPress settings
     wp_base_url: str
     wp_username: str
     wp_app_password: str
+
+    # Telegram settings (optional)
     telegram_bot_token: str
     telegram_chat_id: str
+
+    # OpenAI settings (optional)
+    openai_api_key: str
+    openai_model: str
+    use_ai_generation: bool
+
+    # Google Search Console settings (optional)
+    gsc_property_url: str
+    gsc_credentials_file: str
+    use_gsc_data: bool
 
 
 def get_settings() -> Settings:
@@ -54,12 +67,24 @@ def get_settings() -> Settings:
             f"   → Get Application Password from: Users → Profile → Application Passwords"
         )
 
-    # Load settings
+    # Load WordPress settings
     wp_base_url = os.getenv("WP_BASE_URL", "").strip().strip('"').strip("'")
     wp_username = os.getenv("WP_USERNAME", "").strip().strip('"').strip("'")
     wp_app_password = os.getenv("WP_APP_PASSWORD", "").strip().strip('"').strip("'")
+
+    # Load Telegram settings (optional)
     telegram_bot_token = os.getenv("TELEGRAM_BOT_TOKEN", "").strip().strip('"').strip("'")
     telegram_chat_id = os.getenv("TELEGRAM_CHAT_ID", "").strip().strip('"').strip("'")
+
+    # Load OpenAI settings (optional)
+    openai_api_key = os.getenv("OPENAI_API_KEY", "").strip().strip('"').strip("'")
+    openai_model = os.getenv("OPENAI_MODEL", "gpt-4o").strip().strip('"').strip("'")
+    use_ai_generation = os.getenv("USE_AI_GENERATION", "false").strip().lower() == "true"
+
+    # Load GSC settings (optional)
+    gsc_property_url = os.getenv("GSC_PROPERTY_URL", "").strip().strip('"').strip("'")
+    gsc_credentials_file = os.getenv("GSC_CREDENTIALS_FILE", "gsc_credentials.json").strip().strip('"').strip("'")
+    use_gsc_data = os.getenv("USE_GSC_DATA", "false").strip().lower() == "true"
 
     # Validate required WordPress settings
     missing_fields = []
@@ -104,4 +129,10 @@ def get_settings() -> Settings:
         wp_app_password=wp_app_password,
         telegram_bot_token=telegram_bot_token,
         telegram_chat_id=telegram_chat_id,
+        openai_api_key=openai_api_key,
+        openai_model=openai_model,
+        use_ai_generation=use_ai_generation,
+        gsc_property_url=gsc_property_url,
+        gsc_credentials_file=gsc_credentials_file,
+        use_gsc_data=use_gsc_data,
     )
