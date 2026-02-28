@@ -1,53 +1,88 @@
-# Sweetsworld SEO Automation Agent
+# Sweetsworld Content Distribution Agent
 
-自动化 SEO 内容生成工具，用于为 [sweetsworld.com.au](https://sweetsworld.com.au) 创建 WordPress 草稿文章，并通过 Telegram 发送通知。
+Auto-publish WordPress blog posts to social media platforms.
 
-## 功能特性
+## Setup
 
-### 核心功能
-- ✅ 从 CSV 文件读取选题
-- ✅ **双模式内容生成**：模板生成 或 AI 生成（OpenAI）
-- ✅ 通过 WordPress REST API 创建草稿文章
-- ✅ Telegram 消息推送（草稿链接）
-- ✅ 完整的错误处理和状态反馈
+1. Clone the repo and install dependencies:
+   ```bash
+   npm install
+   ```
 
-### 高级功能（可选）
-- 🤖 **OpenAI 集成** - AI 动态生成高质量 SEO 文章
-- 📊 **Google Search Console 集成** - 获取真实搜索关键词数据
-- 🎯 智能关键词优化和内容个性化
+2. Copy `.env.example` to `.env` and fill in your API tokens:
+   ```bash
+   cp .env.example .env
+   ```
 
-## 技术栈
+3. Build the project:
+   ```bash
+   npm run build
+   ```
 
-- Python 3.10+
-- WordPress REST API (Application Password 认证)
-- Telegram Bot API
-- OpenAI API (可选)
-- Google Search Console API (可选)
-- 依赖：`requests` + `python-dotenv` + `openai` + `google-api-python-client`
+## Running
 
-## 目录结构
+- Start the server:
+  ```bash
+  npm run dev
+  ```
 
+- Health check:
+  ```bash
+  curl http://localhost:8787/health
+  ```
+
+- Test webhook:
+  ```bash
+  curl -X POST http://localhost:8787/webhook/wp \
+    -H "Content-Type: application/json" \
+    -d '{
+      "title": "Delicious Chocolate Cake Recipe",
+      "url": "https://sweetsworld.com.au/chocolate-cake",
+      "slug": "chocolate-cake",
+      "excerpt": "Learn how to bake the perfect chocolate cake.",
+      "image": "https://sweetsworld.com.au/images/cake.jpg"
+    }'
+  ```
+
+- CLI publish:
+  ```bash
+  npm run cli -- --url "https://sweetsworld.com.au/chocolate-cake" --title "Chocolate Cake" --slug "chocolate-cake" --excerpt "Perfect cake recipe" --dry-run
+  ```
+
+## WordPress Integration
+
+Add this to your `functions.php` or create a plugin:
+
+```php
+add_action('publish_post', 'send_to_social_agent', 10, 2);
+
+function send_to_social_agent($ID, $post) {
+    if ($post->post_type !== 'post') return;
+
+    $data = array(
+        'title' => get_the_title($ID),
+        'url' => get_permalink($ID),
+        'slug' => $post->post_name,
+        'excerpt' => get_the_excerpt($ID),
+        'image' => get_the_post_thumbnail_url($ID, 'full')
+    );
+
+    wp_remote_post('https://YOUR-SERVER/webhook/wp', array(
+        'body' => json_encode($data),
+        'headers' => array('Content-Type' => 'application/json'),
+    ));
+}
 ```
-sweetsworld-seo-agent/
-├── README.md                 # 项目文档
-├── .gitignore               # Git 忽略文件
-├── .env.example             # 环境变量模板
-├── requirements.txt         # Python 依赖
-├── topics.csv               # 选题数据
-├── gsc_credentials.json     # GSC 凭证（可选，需自行创建）
-└── src/
-    ├── config.py            # 配置管理
-    ├── wp_client.py         # WordPress API 客户端
-    ├── content_generator.py # 内容生成器（支持模板+AI）
-    ├── openai_generator.py  # OpenAI 集成
-    ├── gsc_client.py        # Google Search Console 集成
-    ├── telegram_notify.py   # Telegram 通知
-    └── run_mvp.py           # 主程序入口
-```
 
-## 快速开始
+## API Tokens
 
-### 1. 环境准备
+- **Facebook**: Get Page Access Token from Meta for Developers
+- **Instagram**: Business Account ID from Meta
+- **X (Twitter)**: Bearer Token from Developer Portal
+- **Pinterest**: Access Token from Pinterest API
+- **Google Business Profile**: OAuth credentials from Google Cloud Console
+
+Set `PUBLISH_MODE=live` to enable actual posting (default is dry-run).
 
 ```bash
 # 克隆或进入项目目录

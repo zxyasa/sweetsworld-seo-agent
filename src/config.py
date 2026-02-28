@@ -83,7 +83,15 @@ def get_settings() -> Settings:
 
     # Load GSC settings (optional)
     gsc_property_url = os.getenv("GSC_PROPERTY_URL", "").strip().strip('"').strip("'")
-    gsc_credentials_file = os.getenv("GSC_CREDENTIALS_FILE", "gsc_credentials.json").strip().strip('"').strip("'")
+    gsc_credentials_file_raw = os.getenv("GSC_CREDENTIALS_FILE", "gsc_credentials.json").strip().strip('"').strip("'")
+
+    # Convert to absolute path if it's a relative path
+    if not gsc_credentials_file_raw.startswith('/'):
+        # Relative path - resolve relative to project root
+        project_root = Path(__file__).parent.parent
+        gsc_credentials_file = str(project_root / gsc_credentials_file_raw)
+    else:
+        gsc_credentials_file = gsc_credentials_file_raw
     use_gsc_data = os.getenv("USE_GSC_DATA", "false").strip().lower() == "true"
 
     # Validate required WordPress settings

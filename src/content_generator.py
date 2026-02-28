@@ -1,5 +1,5 @@
 """Content generation module for creating SEO-optimized article HTML."""
-from typing import Dict, Optional
+from typing import Dict, Optional, List
 
 
 def generate_article_html(
@@ -34,15 +34,45 @@ def generate_article_html(
             # Fall back to template generation
 
     # Use template generation
-    return generate_template_html(topic_dict)
+    return generate_template_html(topic_dict, gsc_data)
 
 
-def generate_template_html(topic_dict: Dict[str, str]) -> str:
+def _pick_internal_links(gsc_data: Optional[Dict]) -> List[str]:
+    links: List[str] = []
+
+    if gsc_data:
+        for u in gsc_data.get("internal_link_urls", []) or []:
+            if isinstance(u, str) and u.strip():
+                links.append(u.strip())
+
+        for row in gsc_data.get("top_pages", []) or []:
+            url = row.get("url") if isinstance(row, dict) else None
+            if isinstance(url, str) and url.strip():
+                links.append(url.strip())
+
+    if not links:
+        links = [
+            "/candy/",
+            "/wholesale-candy-australia/",
+            "/candy/sour-lollies/",
+        ]
+
+    dedup = []
+    seen = set()
+    for u in links:
+        if u not in seen:
+            seen.add(u)
+            dedup.append(u)
+    return dedup[:3]
+
+
+def generate_template_html(topic_dict: Dict[str, str], gsc_data: Optional[Dict] = None) -> str:
     """
     Generate SEO-optimized HTML using template.
 
     Args:
         topic_dict: Dictionary containing topic information
+        gsc_data: Optional Google Search Console page/link data
 
     Returns:
         str: Complete HTML content for the article
@@ -50,6 +80,12 @@ def generate_template_html(topic_dict: Dict[str, str]) -> str:
     title = topic_dict.get("title", "Untitled")
     keyword = topic_dict.get("primary_keyword", "")
     category = topic_dict.get("category_hint", "Products")
+
+    links = _pick_internal_links(gsc_data)
+    cta_links = " | ".join(
+        f'<a href="{u}" style="color: #ff6b6b; font-weight: bold;">Related Resource {i}</a>'
+        for i, u in enumerate(links, 1)
+    )
 
     html = f"""
 <article class="seo-content">
@@ -98,9 +134,7 @@ def generate_template_html(topic_dict: Dict[str, str]) -> str:
             wholesale quantities or personal treats, we've got you covered.
         </p>
         <p style="margin-bottom: 0;">
-            <a href="/candy/" style="color: #ff6b6b; font-weight: bold;">Browse All Candy</a> |
-            <a href="/wholesale-candy-australia/" style="color: #ff6b6b; font-weight: bold;">Wholesale Options</a> |
-            <a href="/candy/sour-lollies/" style="color: #ff6b6b; font-weight: bold;">Sour Lollies Collection</a>
+            {cta_links}
         </p>
     </div>
 
