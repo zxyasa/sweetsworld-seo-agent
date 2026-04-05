@@ -2,9 +2,12 @@
 SEO 关键词发现和主题建议
 从 Google Search Console 数据中发现高潜力关键词并生成文章建议
 """
+import logging
 from typing import Dict, List, Optional
 import json
 from datetime import datetime, timedelta
+
+logger = logging.getLogger(__name__)
 
 
 def discover_opportunities(
@@ -12,7 +15,8 @@ def discover_opportunities(
     openai_api_key: str,
     model: str = "gpt-4o",
     days: int = 90,
-    min_impressions: int = 50
+    min_impressions: int = 50,
+    site_description: str = "sweetsworld.com.au, an Australian candy and confectionery e-commerce website",
 ) -> Dict:
     """
     从 GSC 数据中发现内容机会
@@ -92,7 +96,7 @@ def discover_opportunities(
             for opp in top_opportunities
         ])
 
-        prompt = f"""You are an SEO content strategist for sweetsworld.com.au, an Australian candy and confectionery e-commerce website.
+        prompt = f"""You are an SEO content strategist for {site_description}.
 
 I've discovered the following **high-potential keywords** from Google Search Console:
 These keywords have high impressions but low CTR, ranking on pages 2-3, indicating significant optimization opportunity.
@@ -154,6 +158,7 @@ Requirements:
         }
 
     except Exception as e:
+        logger.exception("Failed to discover SEO opportunities from GSC data")
         return {
             'status': 'error',
             'message': f'发现失败: {str(e)}',
@@ -165,7 +170,8 @@ Requirements:
 def discover_from_topic(
     topic_area: str,
     openai_api_key: str,
-    model: str = "gpt-4o"
+    model: str = "gpt-4o",
+    site_description: str = "sweetsworld.com.au, an Australian candy and confectionery e-commerce website",
 ) -> List[Dict]:
     """
     基于主题领域生成关键词和文章建议（无需 GSC 数据）
@@ -183,7 +189,7 @@ def discover_from_topic(
 
         client = OpenAI(api_key=openai_api_key)
 
-        prompt = f"""You are an SEO content strategist for sweetsworld.com.au, an Australian candy and confectionery e-commerce website.
+        prompt = f"""You are an SEO content strategist for {site_description}.
 
 The user wants to create content in this area:
 "{topic_area}"
