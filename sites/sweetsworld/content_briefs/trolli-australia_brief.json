@@ -1,0 +1,101 @@
+{
+  "brief_id": "trolli-australia-brief-v1",
+  "slug": "trolli-australia",
+  "keyword": "trolli australia",
+  "search_intent": "Transactional with commercial intent",
+  "page_type": "landing_page",
+  "title": "Trolli Australia: Buy Trolli Gummies and Sour Worms Online",
+  "meta_description": "Trolli Australia: Buy Trolli Gummies and Sour Worms Online. Compare stock options, buying factors, and the best next steps for trolli in Australia.",
+  "intro": "Use this page to compare where to buy trolli in Australia, what to check before ordering, and which gummy candy options are the best fit for your basket.",
+  "outline": [
+    "Where to buy trolli with less guesswork",
+    "How to compare Gummy Candy options before ordering"
+  ],
+  "sections": [
+    {
+      "heading": "Where to buy trolli with less guesswork",
+      "paragraphs": [
+        "Landing pages for trolli need to show real commercial value quickly, including price context, stock clarity, and relevant product paths.",
+        "The goal is to reduce purchase friction rather than publish a thin page that repeats the keyword."
+      ],
+      "bullets": [
+        "Cover supporting search demand around trolli."
+      ]
+    },
+    {
+      "heading": "How to compare Gummy Candy options before ordering",
+      "paragraphs": [
+        "A stronger landing page explains the trade-offs between pack size, flavour range, stock depth, and delivery timing.",
+        "That gives the page a conversion job as well as a ranking job."
+      ],
+      "bullets": [
+        "Compare unit price instead of headline price alone.",
+        "Check stock, bundle size, and delivery timing together.",
+        "Keep the call to action aligned with the buying task."
+      ]
+    }
+  ],
+  "faq_items": [
+    {
+      "question": "Where can I buy trolli online in Australia?",
+      "answer": "Start with Australian stores that show live stock, delivery windows, and product range depth for trolli before checkout."
+    },
+    {
+      "question": "How should I compare trolli prices?",
+      "answer": "Compare unit price, pack size, shipping cost, and bundle options together instead of looking at the headline price only."
+    },
+    {
+      "question": "Are there other gummy candy options worth comparing?",
+      "answer": "Yes. Nearby collections or substitute products can be useful when trolli is out of stock or only available in limited pack sizes."
+    }
+  ],
+  "faq_questions": [
+    "Where can I buy trolli online in Australia?",
+    "How should I compare trolli prices?",
+    "Are there other gummy candy options worth comparing?"
+  ],
+  "internal_links": [
+    {
+      "url": "https://sweetsworld.com.au/where-to-buy/haribo-australia/",
+      "label": "Haribo Australia",
+      "anchor_text": "Shop Haribo Australia",
+      "link_kind": "commercial"
+    },
+    {
+      "url": "https://sweetsworld.com.au/candy-types/hersheys-australia/",
+      "label": "Hersheys Australia",
+      "anchor_text": "Compare Hersheys Australia",
+      "link_kind": "collection"
+    },
+    {
+      "url": "https://sweetsworld.com.au/candy/",
+      "label": "Candy",
+      "anchor_text": "Shop Candy",
+      "link_kind": "category"
+    }
+  ],
+  "selected_products": [],
+  "related_keywords": [
+    "sweetsworld",
+    "sweets world",
+    "white knight chocolate",
+    "fantales lollies",
+    "clinkers chocolate",
+    "darrell lea kotara"
+  ],
+  "cta": {
+    "heading": "Move from trolli research into a purchase",
+    "body": "Compare the shortlist, then click through to the most relevant collection or product page to check live stock and delivery details.",
+    "button_text": "Browse Related Collection"
+  },
+  "distribution_channels": [
+    "facebook",
+    "instagram",
+    "gbp",
+    "pinterest"
+  ],
+  "schema_types": [
+    "BreadcrumbList",
+    "ItemList"
+  ]
+}

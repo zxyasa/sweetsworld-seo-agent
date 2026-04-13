@@ -1,0 +1,132 @@
+{
+  "brief_id": "candy-necklace-australia-brief-v1",
+  "slug": "candy-necklace-australia",
+  "keyword": "candy necklace australia",
+  "search_intent": "Transactional with commercial intent",
+  "page_type": "landing_page",
+  "title": "Candy Necklace Australia: Buy Candy Jewellery and Wearable Sweets Online",
+  "meta_description": "Candy Necklace Australia: Buy Candy Jewellery and Wearable Sweets Online. Compare stock options, buying factors, and the best next steps for candy...",
+  "intro": "Use this page to compare where to buy candy necklace in Australia, what to check before ordering, and which novelty candy options are the best fit for your basket.",
+  "outline": [
+    "Where to buy candy necklace with less guesswork",
+    "How to compare Novelty Candy options before ordering"
+  ],
+  "sections": [
+    {
+      "heading": "Where to buy candy necklace with less guesswork",
+      "paragraphs": [
+        "Landing pages for candy necklace need to show real commercial value quickly, including price context, stock clarity, and relevant product paths.",
+        "The goal is to reduce purchase friction rather than publish a thin page that repeats the keyword."
+      ],
+      "bullets": [
+        "Jelly Joy Stick 20g- Sweetsworld - Chocolate Shop",
+        "Pendant Necklace Candy 22g",
+        "Super Candy Necklace 57g"
+      ]
+    },
+    {
+      "heading": "How to compare Novelty Candy options before ordering",
+      "paragraphs": [
+        "A stronger landing page explains the trade-offs between pack size, flavour range, stock depth, and delivery timing.",
+        "That gives the page a conversion job as well as a ranking job."
+      ],
+      "bullets": [
+        "Compare unit price instead of headline price alone.",
+        "Check stock, bundle size, and delivery timing together.",
+        "Keep the call to action aligned with the buying task."
+      ]
+    }
+  ],
+  "faq_items": [
+    {
+      "question": "Where can I buy candy necklace online in Australia?",
+      "answer": "Start with Australian stores that show live stock, delivery windows, and product range depth for candy necklace before checkout."
+    },
+    {
+      "question": "How should I compare candy necklace prices?",
+      "answer": "Compare unit price, pack size, shipping cost, and bundle options together instead of looking at the headline price only."
+    },
+    {
+      "question": "Are there other novelty candy options worth comparing?",
+      "answer": "Yes. Nearby collections or substitute products can be useful when candy necklace is out of stock or only available in limited pack sizes."
+    }
+  ],
+  "faq_questions": [
+    "Where can I buy candy necklace online in Australia?",
+    "How should I compare candy necklace prices?",
+    "Are there other novelty candy options worth comparing?"
+  ],
+  "internal_links": [
+    {
+      "url": "https://sweetsworld.com.au/candy/",
+      "label": "Candy",
+      "anchor_text": "Shop Candy",
+      "link_kind": "category"
+    },
+    {
+      "url": "https://sweetsworld.com.au/party-lollies/kidsparty/",
+      "label": "Kidsparty",
+      "anchor_text": "Browse Kidsparty",
+      "link_kind": "collection"
+    },
+    {
+      "url": "https://sweetsworld.com.au/party-lollies/kidsparty/jelly-joy-stick-20g/",
+      "label": "Jelly Joy Stick 20g",
+      "anchor_text": "View Jelly Joy Stick 20g",
+      "link_kind": "product"
+    }
+  ],
+  "selected_products": [
+    {
+      "product_name": "Jelly Joy Stick 20g- Sweetsworld - Chocolate Shop",
+      "category": "Candy",
+      "description": "Jelly Joy Stick 20g Product Description: It has strawberry, orange, grape, mango, peach and pineapple flavours Adds lots of joy and happiness to the young and old Great snack for all occasions, parties and gatherings...",
+      "price": "0.5",
+      "url": "https://sweetsworld.com.au/party-lollies/kidsparty/jelly-joy-stick-20g/",
+      "matched_tokens": [
+        "sweet",
+        "novelty"
+      ],
+      "matched_phrases": [],
+      "selection_reason": "direct_match"
+    },
+    {
+      "product_name": "Pendant Necklace Candy 22g",
+      "category": "Candy",
+      "description": "Pendant Necklace Candy– A Sweet Treat You Can Wear! Product Description: Looking for a fun and tasty treat that’s a little different? Try the Pendant Necklace Candy ! This colourful candy necklace is not just for...",
+      "price": "1",
+      "url": "https://sweetsworld.com.au/party-lollies/kidsparty/pendant-necklace-candy/",
+      "matched_tokens": [
+        "necklace",
+        "sweet"
+      ],
+      "matched_phrases": [],
+      "selection_reason": "direct_match"
+    },
+    {
+      "product_name": "Super Candy Necklace 57g",
+      "category": "Uncategorized",
+      "description": "Super Candy Necklace 57g Product Description: Each edible jewelry consists of multicolored candy on a string. colorful novelty candy . INGREDIENTS: Glucose, Maltodextrin, Emulsifier (470), Food Acid (330), Flavours...",
+      "price": "2.5",
+      "url": "https://sweetsworld.com.au/uncategorized/super-candy-necklace-57g/",
+      "matched_tokens": [
+        "necklace",
+        "novelty"
+      ],
+      "matched_phrases": [],
+      "selection_reason": "direct_match"
+    }
+  ],
+  "related_keywords": [
+    "sweetsworld",
+    "sweets world",
+    "white knight chocolate",
+    "fantales lollies",
+    "fantails lolly",
+    "darrell lea kotara"
+  ],
+  "cta": {
+    "heading": "Move from candy necklace research into a purchase",
+    "body": "Compare the shortlist, then click through to the most relevant collection or product page to check live stock and delivery details."
+  }
+}

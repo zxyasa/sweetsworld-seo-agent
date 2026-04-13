@@ -1,0 +1,146 @@
+{
+  "brief_id": "cheetos-australia-brief-v1",
+  "slug": "cheetos-australia",
+  "keyword": "cheetos australia",
+  "search_intent": "Transactional with commercial intent",
+  "page_type": "landing_page",
+  "title": "Cheetos Australia: Buy Cheetos Flamin Hot and Crunchy Online",
+  "meta_description": "Cheetos Australia: Buy Cheetos Flamin Hot and Crunchy Online. Compare stock options, buying factors, and the best next steps for cheetos in Australia.",
+  "intro": "Use this page to compare where to buy cheetos in Australia, what to check before ordering, and which american snacks options are the best fit for your basket.",
+  "outline": [
+    "Where to buy cheetos with less guesswork",
+    "How to compare American Snacks options before ordering"
+  ],
+  "sections": [
+    {
+      "heading": "Where to buy cheetos with less guesswork",
+      "paragraphs": [
+        "Landing pages for cheetos need to show real commercial value quickly, including price context, stock clarity, and relevant product paths.",
+        "The goal is to reduce purchase friction rather than publish a thin page that repeats the keyword."
+      ],
+      "bullets": [
+        "Cheetos Crunchy Cheddar Jalapeno 8oz",
+        "Cheetos Flamin Hot Limon 226.8g",
+        "Cheetos Mac'N Cheese Flamin Hot 160g",
+        "REESE'S Snack Cake 77g"
+      ]
+    },
+    {
+      "heading": "How to compare American Snacks options before ordering",
+      "paragraphs": [
+        "A stronger landing page explains the trade-offs between pack size, flavour range, stock depth, and delivery timing.",
+        "That gives the page a conversion job as well as a ranking job."
+      ],
+      "bullets": [
+        "Compare unit price instead of headline price alone.",
+        "Check stock, bundle size, and delivery timing together.",
+        "Keep the call to action aligned with the buying task."
+      ]
+    }
+  ],
+  "faq_items": [
+    {
+      "question": "Where can I buy cheetos online in Australia?",
+      "answer": "Start with Australian stores that show live stock, delivery windows, and product range depth for cheetos before checkout."
+    },
+    {
+      "question": "How should I compare cheetos prices?",
+      "answer": "Compare unit price, pack size, shipping cost, and bundle options together instead of looking at the headline price only."
+    },
+    {
+      "question": "Are there other american snacks options worth comparing?",
+      "answer": "Yes. Nearby collections or substitute products can be useful when cheetos is out of stock or only available in limited pack sizes."
+    }
+  ],
+  "faq_questions": [
+    "Where can I buy cheetos online in Australia?",
+    "How should I compare cheetos prices?",
+    "Are there other american snacks options worth comparing?"
+  ],
+  "internal_links": [
+    {
+      "url": "https://sweetsworld.com.au/where-to-buy/haribo-australia/",
+      "label": "Haribo Australia",
+      "anchor_text": "Shop Haribo Australia",
+      "link_kind": "commercial"
+    },
+    {
+      "url": "https://sweetsworld.com.au/uncategorized/28400062114/",
+      "label": "28400062114",
+      "anchor_text": "Compare 28400062114",
+      "link_kind": "collection"
+    },
+    {
+      "url": "https://sweetsworld.com.au/uncategorized/",
+      "label": "Uncategorized",
+      "anchor_text": "Shop Uncategorized",
+      "link_kind": "category"
+    }
+  ],
+  "selected_products": [
+    {
+      "product_name": "Cheetos Crunchy Cheddar Jalapeno 8oz",
+      "category": "Uncategorized",
+      "description": "",
+      "price": "14.99",
+      "url": "https://sweetsworld.com.au/uncategorized/28400062114/",
+      "matched_tokens": [
+        "cheeto",
+        "crunchy"
+      ],
+      "matched_phrases": [],
+      "selection_reason": "direct_match"
+    },
+    {
+      "product_name": "Cheetos Flamin Hot Limon 226.8g",
+      "category": "Candy",
+      "description": "",
+      "price": "14.99",
+      "url": "https://sweetsworld.com.au/candy/cheetos-flamin-hot-limon-2268g/",
+      "matched_tokens": [
+        "cheeto",
+        "flamin"
+      ],
+      "matched_phrases": [],
+      "selection_reason": "direct_match"
+    },
+    {
+      "product_name": "Cheetos Mac'N Cheese Flamin Hot 160g",
+      "category": "Uncategorized",
+      "description": "Ingredients: Wheat Flour, Palm Oil, Whey, Salt, Maltodextrin, Cheddar Cheese (Milk, Cultures, Salt, Enzymes), Corn Syrup Solids, Sugar, Modified Corn Starch, Cultured Nonfat Buttermilk, Autolyzed Yeast Extract...",
+      "price": "9.99",
+      "url": "https://sweetsworld.com.au/uncategorized/cheetos-macn-cheese-flamin-hot/",
+      "matched_tokens": [
+        "cheeto",
+        "flamin"
+      ],
+      "matched_phrases": [],
+      "selection_reason": "direct_match"
+    },
+    {
+      "product_name": "REESE'S Snack Cake 77g",
+      "category": "American Chocolate",
+      "description": "REESE'S Snack Cake 77g Product Description: Two Soft Baked Chocolate Cakes Topped with Reese’s Peanut Butter Creme Covered in Smooth Real Milk Chocolate Ingredients: Milk Chocolate [Sugar, Cocoa Butter, Chocolate...",
+      "price": "4.99",
+      "url": "https://sweetsworld.com.au/candy/american-candy/american-chocolate/reeses-snack-cake-77g/",
+      "matched_tokens": [
+        "american",
+        "snack"
+      ],
+      "matched_phrases": [],
+      "selection_reason": "direct_match"
+    }
+  ],
+  "related_keywords": [
+    "sweetsworld",
+    "sweets world",
+    "white knight chocolate",
+    "fantales lollies",
+    "clinkers chocolate",
+    "fantails lolly"
+  ],
+  "cta": {
+    "heading": "Move from cheetos research into a purchase",
+    "body": "Compare the shortlist, then click through to the most relevant collection or product page to check live stock and delivery details."
+  }
+}

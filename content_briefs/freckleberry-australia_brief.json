@@ -1,0 +1,154 @@
+{
+  "brief_id": "freckleberry-australia-brief-v1",
+  "slug": "freckleberry-australia",
+  "keyword": "freckleberry australia",
+  "search_intent": "Transactional with commercial intent",
+  "page_type": "landing_page",
+  "title": "Freckleberry Australia: Buy Freckleberry Chocolate and Gifts Online",
+  "meta_description": "Freckleberry Australia: Buy Freckleberry Chocolate and Gifts Online. Compare stock options, buying factors, and the best next steps for freckleberry in...",
+  "intro": "Use this page to compare where to buy freckleberry in Australia, what to check before ordering, and which australian chocolate options are the best fit for your basket.",
+  "outline": [
+    "Where to buy freckleberry with less guesswork",
+    "How to compare Australian Chocolate options before ordering"
+  ],
+  "sections": [
+    {
+      "heading": "Where to buy freckleberry with less guesswork",
+      "paragraphs": [
+        "Landing pages for freckleberry need to show real commercial value quickly, including price context, stock clarity, and relevant product paths.",
+        "The goal is to reduce purchase friction rather than publish a thin page that repeats the keyword."
+      ],
+      "bullets": [
+        "Freckleberry 1 40g",
+        "Freckleberry 2- 40g",
+        "Freckleberry 3 40g",
+        "Freckleberry 4 40g"
+      ]
+    },
+    {
+      "heading": "How to compare Australian Chocolate options before ordering",
+      "paragraphs": [
+        "A stronger landing page explains the trade-offs between pack size, flavour range, stock depth, and delivery timing.",
+        "That gives the page a conversion job as well as a ranking job."
+      ],
+      "bullets": [
+        "Compare unit price instead of headline price alone.",
+        "Check stock, bundle size, and delivery timing together.",
+        "Keep the call to action aligned with the buying task."
+      ]
+    }
+  ],
+  "faq_items": [
+    {
+      "question": "Where can I buy freckleberry online in Australia?",
+      "answer": "Start with Australian stores that show live stock, delivery windows, and product range depth for freckleberry before checkout."
+    },
+    {
+      "question": "How should I compare freckleberry prices?",
+      "answer": "Compare unit price, pack size, shipping cost, and bundle options together instead of looking at the headline price only."
+    },
+    {
+      "question": "Are there other australian chocolate options worth comparing?",
+      "answer": "Yes. Nearby collections or substitute products can be useful when freckleberry is out of stock or only available in limited pack sizes."
+    }
+  ],
+  "faq_questions": [
+    "Where can I buy freckleberry online in Australia?",
+    "How should I compare freckleberry prices?",
+    "Are there other australian chocolate options worth comparing?"
+  ],
+  "internal_links": [
+    {
+      "url": "https://sweetsworld.com.au/chocolate/",
+      "label": "Chocolate",
+      "anchor_text": "Shop Chocolate",
+      "link_kind": "category"
+    },
+    {
+      "url": "https://sweetsworld.com.au/chocolate/australian-chocolate/",
+      "label": "Australian Chocolate",
+      "anchor_text": "Browse Australian Chocolate",
+      "link_kind": "collection"
+    },
+    {
+      "url": "https://sweetsworld.com.au/chocolate/australian-chocolate/1000295/",
+      "label": "1000295",
+      "anchor_text": "See 1000295",
+      "link_kind": "product"
+    }
+  ],
+  "selected_products": [
+    {
+      "product_name": "Freckleberry 1 40g",
+      "category": "Australian Chocolate",
+      "description": "",
+      "price": "9.99",
+      "url": "https://sweetsworld.com.au/chocolate/australian-chocolate/1000295/",
+      "matched_tokens": [
+        "chocolate",
+        "freckleberry",
+        "gift",
+        "australian"
+      ],
+      "matched_phrases": [],
+      "selection_reason": "direct_match"
+    },
+    {
+      "product_name": "Freckleberry 2- 40g",
+      "category": "Australian Chocolate",
+      "description": "Freckleberry 2: Fun, Colourful, and Delicious! Looking for a sweet treat that’s as fun to look at as it is to eat? The Freckleberry 2 is the perfect pick! This tasty chocolate disc is topped with crunchy, colourful...",
+      "price": "9.99",
+      "url": "https://sweetsworld.com.au/chocolate/australian-chocolate/freckleberry-2/",
+      "matched_tokens": [
+        "chocolate",
+        "freckleberry",
+        "gift",
+        "australian"
+      ],
+      "matched_phrases": [],
+      "selection_reason": "direct_match"
+    },
+    {
+      "product_name": "Freckleberry 3 40g",
+      "category": "Australian Chocolate",
+      "description": "",
+      "price": "9.99",
+      "url": "https://sweetsworld.com.au/chocolate/australian-chocolate/1000297/",
+      "matched_tokens": [
+        "chocolate",
+        "freckleberry",
+        "gift",
+        "australian"
+      ],
+      "matched_phrases": [],
+      "selection_reason": "direct_match"
+    },
+    {
+      "product_name": "Freckleberry 4 40g",
+      "category": "Australian Chocolate",
+      "description": "",
+      "price": "9.99",
+      "url": "https://sweetsworld.com.au/chocolate/australian-chocolate/1000298/",
+      "matched_tokens": [
+        "chocolate",
+        "freckleberry",
+        "gift",
+        "australian"
+      ],
+      "matched_phrases": [],
+      "selection_reason": "direct_match"
+    }
+  ],
+  "related_keywords": [
+    "sweetsworld",
+    "sweets world",
+    "white knight chocolate",
+    "fantales lollies",
+    "fantails lolly",
+    "darrell lea kotara"
+  ],
+  "cta": {
+    "heading": "Move from freckleberry research into a purchase",
+    "body": "Compare the shortlist, then click through to the most relevant collection or product page to check live stock and delivery details."
+  }
+}

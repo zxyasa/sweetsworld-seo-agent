@@ -1,0 +1,107 @@
+{
+  "brief_id": "chocolate-coated-nuts-australia-brief-v1",
+  "slug": "chocolate-coated-nuts-australia",
+  "keyword": "chocolate coated nuts australia",
+  "search_intent": "Transactional with commercial intent",
+  "page_type": "landing_page",
+  "title": "Chocolate Coated Nuts Australia: Buy Choc Almonds and Peanuts Online",
+  "meta_description": "Chocolate Coated Nuts Australia: Buy Choc Almonds and Peanuts Online. Compare stock options, buying factors, and the best next steps for chocolate coated...",
+  "intro": "Use this page to compare where to buy chocolate coated nuts in Australia, what to check before ordering, and which chocolate bars options are the best fit for your basket.",
+  "outline": [
+    "Where to buy chocolate coated nuts with less guesswork",
+    "How to compare Chocolate Bars options before ordering"
+  ],
+  "sections": [
+    {
+      "heading": "Where to buy chocolate coated nuts with less guesswork",
+      "paragraphs": [
+        "Landing pages for chocolate coated nuts need to show real commercial value quickly, including price context, stock clarity, and relevant product paths.",
+        "The goal is to reduce purchase friction rather than publish a thin page that repeats the keyword."
+      ],
+      "bullets": [
+        "D/L Twists Raspberry Milk Chocolate Coated 200g"
+      ]
+    },
+    {
+      "heading": "How to compare Chocolate Bars options before ordering",
+      "paragraphs": [
+        "A stronger landing page explains the trade-offs between pack size, flavour range, stock depth, and delivery timing.",
+        "That gives the page a conversion job as well as a ranking job."
+      ],
+      "bullets": [
+        "Compare unit price instead of headline price alone.",
+        "Check stock, bundle size, and delivery timing together.",
+        "Keep the call to action aligned with the buying task."
+      ]
+    }
+  ],
+  "faq_items": [
+    {
+      "question": "Where can I buy chocolate coated nuts online in Australia?",
+      "answer": "Start with Australian stores that show live stock, delivery windows, and product range depth for chocolate coated nuts before checkout."
+    },
+    {
+      "question": "How should I compare chocolate coated nuts prices?",
+      "answer": "Compare unit price, pack size, shipping cost, and bundle options together instead of looking at the headline price only."
+    },
+    {
+      "question": "Are there other chocolate bars options worth comparing?",
+      "answer": "Yes. Nearby collections or substitute products can be useful when chocolate coated nuts is out of stock or only available in limited pack sizes."
+    }
+  ],
+  "faq_questions": [
+    "Where can I buy chocolate coated nuts online in Australia?",
+    "How should I compare chocolate coated nuts prices?",
+    "Are there other chocolate bars options worth comparing?"
+  ],
+  "internal_links": [
+    {
+      "url": "https://sweetsworld.com.au/chocolate/",
+      "label": "Chocolate",
+      "anchor_text": "Shop Chocolate",
+      "link_kind": "category"
+    },
+    {
+      "url": "https://sweetsworld.com.au/chocolate/australian-chocolate/",
+      "label": "Australian Chocolate",
+      "anchor_text": "Browse Australian Chocolate",
+      "link_kind": "collection"
+    },
+    {
+      "url": "https://sweetsworld.com.au/chocolate/australian-chocolate/twistsraspberrymilkchocolatecoated200g/",
+      "label": "Twistsraspberrymilkchocolatecoated200g",
+      "anchor_text": "See Twistsraspberrymilkchocolatecoated200g",
+      "link_kind": "product"
+    }
+  ],
+  "selected_products": [
+    {
+      "product_name": "D/L Twists Raspberry Milk Chocolate Coated 200g",
+      "category": "Australian Chocolate",
+      "description": "",
+      "price": "7.5",
+      "url": "https://sweetsworld.com.au/chocolate/australian-chocolate/twistsraspberrymilkchocolatecoated200g/",
+      "matched_tokens": [
+        "chocolate",
+        "coated",
+        "choc"
+      ],
+      "matched_phrases": [
+        "chocolate coated"
+      ],
+      "selection_reason": "direct_match"
+    }
+  ],
+  "related_keywords": [
+    "sweetsworld",
+    "sweets world",
+    "white knight chocolate",
+    "fantales lollies",
+    "fantails lolly",
+    "darrell lea kotara"
+  ],
+  "cta": {
+    "heading": "Move from chocolate coated nuts research into a purchase",
+    "body": "Compare the shortlist, then click through to the most relevant collection or product page to check live stock and delivery details."
+  }
+}

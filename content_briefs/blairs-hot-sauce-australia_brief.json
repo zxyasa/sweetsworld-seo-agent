@@ -1,0 +1,135 @@
+{
+  "brief_id": "blairs-hot-sauce-australia-brief-v1",
+  "slug": "blairs-hot-sauce-australia",
+  "keyword": "blairs hot sauce australia",
+  "search_intent": "Transactional with commercial intent",
+  "page_type": "landing_page",
+  "title": "Blair's Hot Sauce Australia: Buy Blair's Death Sauce Online",
+  "meta_description": "Blair's Hot Sauce Australia: Buy Blair's Death Sauce Online. Compare stock options, buying factors, and the best next steps for blairs hot sauce in...",
+  "intro": "Use this page to compare where to buy blairs hot sauce in Australia, what to check before ordering, and which hot sauce options are the best fit for your basket.",
+  "outline": [
+    "Where to buy blairs hot sauce with less guesswork",
+    "How to compare Hot Sauce options before ordering"
+  ],
+  "sections": [
+    {
+      "heading": "Where to buy blairs hot sauce with less guesswork",
+      "paragraphs": [
+        "Landing pages for blairs hot sauce need to show real commercial value quickly, including price context, stock clarity, and relevant product paths.",
+        "The goal is to reduce purchase friction rather than publish a thin page that repeats the keyword."
+      ],
+      "bullets": [
+        "Blair's Death Sauce Beyond",
+        "Blair's Death Sauce Crystal Death 150ml",
+        "Blair's Death Sauce Golden"
+      ]
+    },
+    {
+      "heading": "How to compare Hot Sauce options before ordering",
+      "paragraphs": [
+        "A stronger landing page explains the trade-offs between pack size, flavour range, stock depth, and delivery timing.",
+        "That gives the page a conversion job as well as a ranking job."
+      ],
+      "bullets": [
+        "Compare unit price instead of headline price alone.",
+        "Check stock, bundle size, and delivery timing together.",
+        "Keep the call to action aligned with the buying task."
+      ]
+    }
+  ],
+  "faq_items": [
+    {
+      "question": "Where can I buy blairs hot sauce online in Australia?",
+      "answer": "Start with Australian stores that show live stock, delivery windows, and product range depth for blairs hot sauce before checkout."
+    },
+    {
+      "question": "How should I compare blairs hot sauce prices?",
+      "answer": "Compare unit price, pack size, shipping cost, and bundle options together instead of looking at the headline price only."
+    },
+    {
+      "question": "Are there other hot sauce options worth comparing?",
+      "answer": "Yes. Nearby collections or substitute products can be useful when blairs hot sauce is out of stock or only available in limited pack sizes."
+    }
+  ],
+  "faq_questions": [
+    "Where can I buy blairs hot sauce online in Australia?",
+    "How should I compare blairs hot sauce prices?",
+    "Are there other hot sauce options worth comparing?"
+  ],
+  "internal_links": [
+    {
+      "url": "https://sweetsworld.com.au/grocery/sauce/",
+      "label": "Sauce",
+      "anchor_text": "Shop Sauce",
+      "link_kind": "collection"
+    },
+    {
+      "url": "https://sweetsworld.com.au/grocery/",
+      "label": "Grocery",
+      "anchor_text": "Browse Grocery",
+      "link_kind": "category"
+    },
+    {
+      "url": "https://sweetsworld.com.au/grocery/sauce/blairsdeathsaucebeyond/",
+      "label": "Blairsdeathsaucebeyond",
+      "anchor_text": "See Blairsdeathsaucebeyond",
+      "link_kind": "product"
+    }
+  ],
+  "selected_products": [
+    {
+      "product_name": "Blair's Death Sauce Beyond",
+      "category": "Sauce",
+      "description": "Blair's Death Sauce Beyond Product Description: This distinctive bottle of hot sauce was originally formulated in 1992, and brought back from the dead in 2007. Each Bottle is Hand dipped in its signature Italian blue...",
+      "price": "21.99",
+      "url": "https://sweetsworld.com.au/grocery/sauce/blairsdeathsaucebeyond/",
+      "matched_tokens": [
+        "blair",
+        "sauce",
+        "death"
+      ],
+      "matched_phrases": [],
+      "selection_reason": "direct_match"
+    },
+    {
+      "product_name": "Blair's Death Sauce Crystal Death 150ml",
+      "category": "Candy",
+      "description": "Blair's Death Sauce Crystal Death: Pure Heat for Chili Lovers Blair's Death Sauce Crystal Death is an intense hot sauce crafted for true spice enthusiasts. Made with pure chili extracts, it delivers an unmatched heat...",
+      "price": "49.99",
+      "url": "https://sweetsworld.com.au/candy/blairs-death-sauce-crystal-death-150ml/",
+      "matched_tokens": [
+        "blair",
+        "sauce",
+        "death"
+      ],
+      "matched_phrases": [],
+      "selection_reason": "direct_match"
+    },
+    {
+      "product_name": "Blair's Death Sauce Golden",
+      "category": "Grocery",
+      "description": "Blair's Death Sauce Golden Product Description: Death Sauce is worth its weight in gold. A hot sauce so delectable, it’s Goldelicious….the only term that accurately describes the rich beauty of gold. Kick up the...",
+      "price": "12.99",
+      "url": "https://sweetsworld.com.au/grocery/sauce/blairs-death-sauce-golden/",
+      "matched_tokens": [
+        "blair",
+        "sauce",
+        "death"
+      ],
+      "matched_phrases": [],
+      "selection_reason": "direct_match"
+    }
+  ],
+  "related_keywords": [
+    "sweetsworld",
+    "sweets world",
+    "white knight chocolate",
+    "fantales lollies",
+    "fantails lolly",
+    "darrell lea kotara"
+  ],
+  "cta": {
+    "heading": "Move from blairs hot sauce research into a purchase",
+    "body": "Compare the shortlist, then click through to the most relevant collection or product page to check live stock and delivery details."
+  }
+}

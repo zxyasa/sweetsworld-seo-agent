@@ -1,0 +1,150 @@
+{
+  "brief_id": "allens-red-frogs-australia-brief-v1",
+  "slug": "allens-red-frogs-australia",
+  "keyword": "allens red frogs australia",
+  "search_intent": "Transactional with commercial intent",
+  "page_type": "landing_page",
+  "title": "Allen's Red Frogs Australia: Buy Red Frogs Bulk and Gift Packs",
+  "meta_description": "Allen's Red Frogs Australia: Buy Red Frogs Bulk and Gift Packs. Compare stock options, buying factors, and the best next steps for allens red frogs in...",
+  "intro": "Use this page to compare where to buy allens red frogs in Australia, what to check before ordering, and which classic candy options are the best fit for your basket.",
+  "outline": [
+    "Where to buy allens red frogs with less guesswork",
+    "How to compare Classic Candy options before ordering"
+  ],
+  "sections": [
+    {
+      "heading": "Where to buy allens red frogs with less guesswork",
+      "paragraphs": [
+        "Landing pages for allens red frogs need to show real commercial value quickly, including price context, stock clarity, and relevant product paths.",
+        "The goal is to reduce purchase friction rather than publish a thin page that repeats the keyword."
+      ],
+      "bullets": [
+        "Davies Hard Centres Gift Pack – Classic Sweet Treats",
+        "THORNTONS CLASSIC COLLECT. MILK 262g",
+        "THORNTONS CLASSIC DARK COLLECTION 260g",
+        "THORNTONS CLASSIC MILK COLLECTION 260g"
+      ]
+    },
+    {
+      "heading": "How to compare Classic Candy options before ordering",
+      "paragraphs": [
+        "A stronger landing page explains the trade-offs between pack size, flavour range, stock depth, and delivery timing.",
+        "That gives the page a conversion job as well as a ranking job."
+      ],
+      "bullets": [
+        "Compare unit price instead of headline price alone.",
+        "Check stock, bundle size, and delivery timing together.",
+        "Keep the call to action aligned with the buying task."
+      ]
+    }
+  ],
+  "faq_items": [
+    {
+      "question": "Where can I buy allens red frogs online in Australia?",
+      "answer": "Start with Australian stores that show live stock, delivery windows, and product range depth for allens red frogs before checkout."
+    },
+    {
+      "question": "How should I compare allens red frogs prices?",
+      "answer": "Compare unit price, pack size, shipping cost, and bundle options together instead of looking at the headline price only."
+    },
+    {
+      "question": "Are there other classic candy options worth comparing?",
+      "answer": "Yes. Nearby collections or substitute products can be useful when allens red frogs is out of stock or only available in limited pack sizes."
+    }
+  ],
+  "faq_questions": [
+    "Where can I buy allens red frogs online in Australia?",
+    "How should I compare allens red frogs prices?",
+    "Are there other classic candy options worth comparing?"
+  ],
+  "internal_links": [
+    {
+      "url": "https://sweetsworld.com.au/products/old-fashioned-lollies-australia/",
+      "label": "Old Fashioned Lollies Australia",
+      "anchor_text": "Shop Old Fashioned Lollies Australia",
+      "link_kind": "collection"
+    },
+    {
+      "url": "https://sweetsworld.com.au/candy/",
+      "label": "Candy",
+      "anchor_text": "Browse Candy",
+      "link_kind": "category"
+    },
+    {
+      "url": "https://sweetsworld.com.au/gift/corporate-gift/davies-hard-centres-gift-pack/",
+      "label": "Davies Hard Centres Gift Pack",
+      "anchor_text": "Compare Davies Hard Centres Gift Pack",
+      "link_kind": "product"
+    }
+  ],
+  "selected_products": [
+    {
+      "product_name": "Davies Hard Centres Gift Pack – Classic Sweet Treats",
+      "category": "Corporate Gift",
+      "description": "The Davies Hard Centres Gift Pack is a delightful assortment of classic hard-centre sweets, perfect for sharing or gifting. Each candy offers a firm yet chewy texture, combining fruity and creamy flavours for a...",
+      "price": "21.99",
+      "url": "https://sweetsworld.com.au/gift/corporate-gift/davies-hard-centres-gift-pack/",
+      "matched_tokens": [
+        "gift",
+        "pack",
+        "classic"
+      ],
+      "matched_phrases": [],
+      "selection_reason": "direct_match"
+    },
+    {
+      "product_name": "THORNTONS CLASSIC COLLECT. MILK 262g",
+      "category": "Chocolate Box",
+      "description": "THORNTONS CLASSIC COLLECT. MILK 262g Product Description: An Assortment of Milk, White and Dark Chocolates Since 1911, our chocolate makers have been lovingly crafting recipes for generations of chocolate lovers to...",
+      "price": "25",
+      "url": "https://sweetsworld.com.au/gift/chocolate-box/thorntonsclassiccollectmilk262g/",
+      "matched_tokens": [
+        "gift",
+        "pack",
+        "classic"
+      ],
+      "matched_phrases": [],
+      "selection_reason": "direct_match"
+    },
+    {
+      "product_name": "THORNTONS CLASSIC DARK COLLECTION 260g",
+      "category": "Chocolate Box",
+      "description": "THORNTONS CLASSIC DARK COLLECTION 260g Product description: In this classic selection of dark chocolates, you'll find delicious creamy fudge, honeycomb, nutty caramel and toffee chocolates, to name a few. Drizzled...",
+      "price": "25",
+      "url": "https://sweetsworld.com.au/gift/chocolate-box/thorntons-classic-dark-collection/",
+      "matched_tokens": [
+        "gift",
+        "pack",
+        "classic"
+      ],
+      "matched_phrases": [],
+      "selection_reason": "direct_match"
+    },
+    {
+      "product_name": "THORNTONS CLASSIC MILK COLLECTION 260g",
+      "category": "Chocolate Box",
+      "description": "THORNTONS CLASSIC MILK COLLECTION 260g Product Description: Thorntons Classic Collection brings together all the real crowd pleasers that have been enjoyed through the generations, so you can be sure our Classic...",
+      "price": "25",
+      "url": "https://sweetsworld.com.au/gift/chocolate-box/thorntonsclassicmilkcollection260g/",
+      "matched_tokens": [
+        "gift",
+        "pack",
+        "classic"
+      ],
+      "matched_phrases": [],
+      "selection_reason": "direct_match"
+    }
+  ],
+  "related_keywords": [
+    "sweetsworld",
+    "sweets world",
+    "white knight chocolate",
+    "fantales lollies",
+    "clinkers chocolate",
+    "fantails lolly"
+  ],
+  "cta": {
+    "heading": "Move from allens red frogs research into a purchase",
+    "body": "Compare the shortlist, then click through to the most relevant collection or product page to check live stock and delivery details."
+  }
+}

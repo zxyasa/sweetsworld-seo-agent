@@ -1,0 +1,165 @@
+{
+  "brief_id": "jelly-beans-australia-brief-v1",
+  "slug": "jelly-beans-australia",
+  "keyword": "jelly beans australia",
+  "search_intent": "Transactional with commercial intent",
+  "page_type": "landing_page",
+  "title": "Jelly Beans Australia: Buy Jelly Belly and Bulk Jelly Beans Online",
+  "meta_description": "Jelly Beans Australia: Buy Jelly Belly and Bulk Jelly Beans Online. Compare stock options, buying factors, and the best next steps for jelly beans in...",
+  "intro": "Use this page to compare where to buy jelly beans in Australia, what to check before ordering, and which candy & lollies options are the best fit for your basket.",
+  "outline": [
+    "Where to buy jelly beans with less guesswork",
+    "How to compare Candy & Lollies options before ordering"
+  ],
+  "sections": [
+    {
+      "heading": "Where to buy jelly beans with less guesswork",
+      "paragraphs": [
+        "Landing pages for jelly beans need to show real commercial value quickly, including price context, stock clarity, and relevant product paths.",
+        "The goal is to reduce purchase friction rather than publish a thin page that repeats the keyword."
+      ],
+      "bullets": [
+        "ASS KICKIN JELLY BEANS 255G",
+        "Assorted Jelly Beans 150g",
+        "Assorted Jelly Beans 500g",
+        "Baby Bottle Jelly Bean 40g"
+      ]
+    },
+    {
+      "heading": "How to compare Candy & Lollies options before ordering",
+      "paragraphs": [
+        "A stronger landing page explains the trade-offs between pack size, flavour range, stock depth, and delivery timing.",
+        "That gives the page a conversion job as well as a ranking job."
+      ],
+      "bullets": [
+        "Compare unit price instead of headline price alone.",
+        "Check stock, bundle size, and delivery timing together.",
+        "Keep the call to action aligned with the buying task."
+      ]
+    }
+  ],
+  "faq_items": [
+    {
+      "question": "Where can I buy jelly beans online in Australia?",
+      "answer": "Start with Australian stores that show live stock, delivery windows, and product range depth for jelly beans before checkout."
+    },
+    {
+      "question": "How should I compare jelly beans prices?",
+      "answer": "Compare unit price, pack size, shipping cost, and bundle options together instead of looking at the headline price only."
+    },
+    {
+      "question": "Are there other candy & lollies options worth comparing?",
+      "answer": "Yes. Nearby collections or substitute products can be useful when jelly beans is out of stock or only available in limited pack sizes."
+    }
+  ],
+  "faq_questions": [
+    "Where can I buy jelly beans online in Australia?",
+    "How should I compare jelly beans prices?",
+    "Are there other candy & lollies options worth comparing?"
+  ],
+  "internal_links": [
+    {
+      "url": "https://sweetsworld.com.au/products/lollipops-australia/",
+      "label": "Lollipops Australia",
+      "anchor_text": "Shop Lollipops Australia",
+      "link_kind": "collection"
+    },
+    {
+      "url": "https://sweetsworld.com.au/where-to-buy/gummy-bears-australia/",
+      "label": "Gummy Bears Australia",
+      "anchor_text": "Browse Gummy Bears Australia",
+      "link_kind": "commercial"
+    },
+    {
+      "url": "https://sweetsworld.com.au/candy/",
+      "label": "Candy",
+      "anchor_text": "Compare Candy",
+      "link_kind": "category"
+    }
+  ],
+  "selected_products": [
+    {
+      "product_name": "ASS KICKIN JELLY BEANS 255G",
+      "category": "Candy",
+      "description": "",
+      "price": "25",
+      "url": "https://sweetsworld.com.au/candy/ass-kickin-jelly-beans-255g/",
+      "matched_tokens": [
+        "jelly",
+        "bean"
+      ],
+      "matched_phrases": [
+        "jelly bean"
+      ],
+      "selection_reason": "direct_match"
+    },
+    {
+      "product_name": "Assorted Jelly Beans 150g",
+      "category": "Candy",
+      "description": "",
+      "price": "5.99",
+      "url": "https://sweetsworld.com.au/candy/old-fashion-lollies/assortedjellybeans200g/",
+      "matched_tokens": [
+        "jelly",
+        "bean"
+      ],
+      "matched_phrases": [
+        "jelly bean"
+      ],
+      "selection_reason": "direct_match"
+    },
+    {
+      "product_name": "Assorted Jelly Beans 500g",
+      "category": "Candy",
+      "description": "",
+      "price": "20",
+      "url": "https://sweetsworld.com.au/candy/old-fashion-lollies/assortedjellybeans400g/",
+      "matched_tokens": [
+        "jelly",
+        "bean"
+      ],
+      "matched_phrases": [
+        "jelly bean"
+      ],
+      "selection_reason": "direct_match"
+    },
+    {
+      "product_name": "Baby Bottle Jelly Bean 40g",
+      "category": "Candy",
+      "description": "",
+      "price": "2.5",
+      "url": "https://sweetsworld.com.au/candy/babybottlejellybean/",
+      "matched_tokens": [
+        "jelly",
+        "bean"
+      ],
+      "matched_phrases": [
+        "jelly bean"
+      ],
+      "selection_reason": "direct_match"
+    }
+  ],
+  "related_keywords": [
+    "sweetsworld",
+    "sweets world",
+    "white knight chocolate",
+    "fantales lollies",
+    "clinkers chocolate",
+    "fantails lolly"
+  ],
+  "cta": {
+    "heading": "Move from jelly beans research into a purchase",
+    "body": "Compare the shortlist, then click through to the most relevant collection or product page to check live stock and delivery details.",
+    "button_text": "Browse Related Collection"
+  },
+  "distribution_channels": [
+    "facebook",
+    "instagram",
+    "gbp",
+    "pinterest"
+  ],
+  "schema_types": [
+    "BreadcrumbList",
+    "ItemList"
+  ]
+}

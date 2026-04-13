@@ -1,0 +1,495 @@
+{
+  "generated_at": "2026-04-13T00:30:21+00:00",
+  "days": 7,
+  "decision": "hold",
+  "next_action": "Waiting for GSC impression signal on the 10 live pilot pages. Re-run pilot_gate after 2026-04-14 to check again.",
+  "dashboard_report_source": "live",
+  "summary": {
+    "published_count": 10,
+    "approved_count": 0,
+    "reviewed_count": 10,
+    "qa_pass_rate": 1.0,
+    "review_window_days": 14,
+    "total_impressions": 0,
+    "total_clicks": 0,
+    "avg_ctr": 0.0,
+    "avg_position": 0.0,
+    "pages_with_impressions": 0,
+    "pages_stuck_in_positions_5_to_10": 0,
+    "content_upgrade_count": 0,
+    "ga4_total_sessions": 0,
+    "ga4_avg_bounce_rate": 0.0,
+    "ga4_avg_session_duration_s": 0.0,
+    "ga4_pages_with_data": 0,
+    "ga4_pages_high_bounce": 0,
+    "ga4_pages_low_duration": 0,
+    "blocking_issue_count": 1,
+    "dashboard_issue_count": 9,
+    "warning_issue_count": 8
+  },
+  "checks": {
+    "published_batch_within_expected_range": true,
+    "manual_qa_complete": true,
+    "no_technical_blockers": false,
+    "no_orphaned_records": true,
+    "search_console_review_available": true,
+    "indexation_signal_present": false,
+    "query_intent_fit_present": false,
+    "ctr_meets_threshold": true,
+    "engagement_acceptable": true,
+    "approved_queue_available": false,
+    "no_duplicate_publishes": true
+  },
+  "blocking_reasons": [
+    "technical blockers remain on published pilot pages after filtering soft warnings",
+    "no GSC impression signal yet on the published pilot batch",
+    "no GSC click/query-fit signal yet on the published pilot batch"
+  ],
+  "technical_blockers": {
+    "blocking_issue_count": 1,
+    "dashboard_issue_count": 9,
+    "warning_issue_count": 8,
+    "blocking_issue_breakdown": {
+      "missing_from_post_sitemap": 1
+    },
+    "warning_issue_breakdown": {
+      "missing_from_post_sitemap": 8
+    },
+    "blocking_pages": [
+      {
+        "slug": "free-business-audit-newcastle",
+        "page_type": "landing_page",
+        "post_link": "https://newcastlehub.info/free-business-audit-newcastle/",
+        "published_at": "2026-04-05T06:16:11",
+        "issues": [
+          {
+            "issue": "missing_from_post_sitemap",
+            "note": "not in post sitemap after grace window"
+          }
+        ],
+        "warnings": []
+      }
+    ],
+    "warning_pages": [
+      {
+        "slug": "website-design-newcastle",
+        "page_type": "landing_page",
+        "post_link": "https://newcastlehub.info/website-design-newcastle/",
+        "published_at": "2026-04-06T01:00:28",
+        "issues": [
+          {
+            "issue": "missing_from_post_sitemap",
+            "note": "fresh publish (7.0d old); allow sitemap propagation"
+          }
+        ]
+      },
+      {
+        "slug": "seo-newcastle-nsw",
+        "page_type": "landing_page",
+        "post_link": "https://newcastlehub.info/seo-newcastle-nsw/",
+        "published_at": "2026-04-07T01:00:36",
+        "issues": [
+          {
+            "issue": "missing_from_post_sitemap",
+            "note": "fresh publish (6.0d old); allow sitemap propagation"
+          }
+        ]
+      },
+      {
+        "slug": "digital-marketing-newcastle",
+        "page_type": "landing_page",
+        "post_link": "https://newcastlehub.info/digital-marketing-newcastle/",
+        "published_at": "2026-04-07T23:22:44",
+        "issues": [
+          {
+            "issue": "missing_from_post_sitemap",
+            "note": "fresh publish (5.0d old); allow sitemap propagation"
+          }
+        ]
+      },
+      {
+        "slug": "newcastle-business-online-presence",
+        "page_type": "guide_page",
+        "post_link": "https://newcastlehub.info/newcastle-business-online-presence/",
+        "published_at": "2026-04-07T23:23:19",
+        "issues": [
+          {
+            "issue": "missing_from_post_sitemap",
+            "note": "fresh publish (5.0d old); allow sitemap propagation"
+          }
+        ]
+      },
+      {
+        "slug": "google-reviews-newcastle",
+        "page_type": "guide_page",
+        "post_link": "https://newcastlehub.info/google-reviews-newcastle/",
+        "published_at": "2026-04-09T01:00:36",
+        "issues": [
+          {
+            "issue": "missing_from_post_sitemap",
+            "note": "fresh publish (4.0d old); allow sitemap propagation"
+          }
+        ]
+      },
+      {
+        "slug": "local-seo-vs-national-seo",
+        "page_type": "comparison_page",
+        "post_link": "https://newcastlehub.info/local-seo-vs-national-seo/",
+        "published_at": "2026-04-10T01:00:37",
+        "issues": [
+          {
+            "issue": "missing_from_post_sitemap",
+            "note": "fresh publish (3.0d old); allow sitemap propagation"
+          }
+        ]
+      },
+      {
+        "slug": "best-website-builders-small-business",
+        "page_type": "comparison_page",
+        "post_link": "https://newcastlehub.info/best-website-builders-small-business/",
+        "published_at": "2026-04-11T01:00:38",
+        "issues": [
+          {
+            "issue": "missing_from_post_sitemap",
+            "note": "fresh publish (2.0d old); allow sitemap propagation"
+          }
+        ]
+      },
+      {
+        "slug": "social-media-newcastle",
+        "page_type": "landing_page",
+        "post_link": "https://newcastlehub.info/social-media-newcastle/",
+        "published_at": "2026-04-12T01:00:37",
+        "issues": [
+          {
+            "issue": "missing_from_post_sitemap",
+            "note": "fresh publish (1.0d old); allow sitemap propagation"
+          }
+        ]
+      }
+    ]
+  },
+  "gsc_performance": {
+    "avg_ctr": 0.0,
+    "avg_position": 0.0,
+    "ctr_check_applicable": false,
+    "min_ctr_pct": 1.0,
+    "pages_stuck_detail": [],
+    "pages_low_ctr_detail": [],
+    "content_upgrade_candidates": []
+  },
+  "ga4_behavior": {
+    "total_sessions": 0,
+    "avg_bounce_rate": 0.0,
+    "avg_session_duration_s": 0.0,
+    "pages_with_ga4": 0,
+    "ga4_check_applicable": false,
+    "max_bounce_rate": 0.7,
+    "min_session_duration_s": 30.0,
+    "pages_high_bounce_detail": [],
+    "pages_low_duration_detail": []
+  },
+  "approved_queue": [],
+  "dashboard_report": {
+    "generated_at": "2026-04-13T00:30:21+00:00",
+    "days": 7,
+    "published_count": 10,
+    "blocking_issue_count": 9,
+    "gsc_enabled": true,
+    "gsc_error": "",
+    "ga4_enabled": false,
+    "ga4_error": "",
+    "sitemap_error": "",
+    "pages": [
+      {
+        "slug": "google-business-profile-newcastle",
+        "keyword": "google business profile newcastle",
+        "page_type": "guide_page",
+        "post_link": "https://newcastlehub.info/2026/04/01/google-business-profile-newcastle/",
+        "published_at": "2026-04-01T09:22:41",
+        "wp_modified": "2026-04-01T09:22:41",
+        "health": {
+          "status_code": 200,
+          "final_url": "https://newcastlehub.info/google-business-profile-newcastle/",
+          "title": "How to Set Up Google Business Profile in Newcastle | Newcastle Hub",
+          "meta_description": "How to Set Up Google Business Profile in Newcastle. Compare stock options, buying factors, and the best next steps for google business profile newcastle...",
+          "canonical": "https://newcastlehub.info/google-business-profile-newcastle/",
+          "h1_count": 1,
+          "noindex": false
+        },
+        "in_post_sitemap": true,
+        "gsc": {
+          "clicks": 0,
+          "impressions": 0,
+          "ctr": 0.0,
+          "position": 0.0,
+          "top_queries": []
+        },
+        "ga4": null,
+        "issues": []
+      },
+      {
+        "slug": "free-business-audit-newcastle",
+        "keyword": "free business audit newcastle",
+        "page_type": "landing_page",
+        "post_link": "https://newcastlehub.info/free-business-audit-newcastle/",
+        "published_at": "2026-04-05T06:16:11",
+        "wp_modified": "2026-04-05T06:16:11",
+        "health": {
+          "status_code": 200,
+          "final_url": "https://newcastlehub.info/free-business-audit-newcastle/",
+          "title": "Free Newcastle Business Digital Audit \u2014 What to Expect | Newcastle Hub",
+          "meta_description": "Free Newcastle Business Digital Audit \u2014 What to Expect. Compare stock options, buying factors, and the best next steps for free business audit newcastle...",
+          "canonical": "https://newcastlehub.info/free-business-audit-newcastle/",
+          "h1_count": 1,
+          "noindex": false
+        },
+        "in_post_sitemap": false,
+        "gsc": {
+          "clicks": 0,
+          "impressions": 0,
+          "ctr": 0.0,
+          "position": 0.0,
+          "top_queries": []
+        },
+        "ga4": null,
+        "issues": [
+          "missing_from_post_sitemap"
+        ]
+      },
+      {
+        "slug": "website-design-newcastle",
+        "keyword": "website design newcastle",
+        "page_type": "landing_page",
+        "post_link": "https://newcastlehub.info/website-design-newcastle/",
+        "published_at": "2026-04-06T01:00:28",
+        "wp_modified": "2026-04-06T01:00:28",
+        "health": {
+          "status_code": 200,
+          "final_url": "https://newcastlehub.info/website-design-newcastle/",
+          "title": "Website Design for Newcastle Small Businesses - Newcastle Hub Info",
+          "meta_description": "Website Design for Newcastle Small Businesses. Compare stock options, buying factors, and the best next steps for website design newcastle in Australia.",
+          "canonical": "https://newcastlehub.info/website-design-newcastle/",
+          "h1_count": 1,
+          "noindex": false
+        },
+        "in_post_sitemap": false,
+        "gsc": {
+          "clicks": 0,
+          "impressions": 0,
+          "ctr": 0.0,
+          "position": 0.0,
+          "top_queries": []
+        },
+        "ga4": null,
+        "issues": [
+          "missing_from_post_sitemap"
+        ]
+      },
+      {
+        "slug": "seo-newcastle-nsw",
+        "keyword": "seo newcastle",
+        "page_type": "landing_page",
+        "post_link": "https://newcastlehub.info/seo-newcastle-nsw/",
+        "published_at": "2026-04-07T01:00:36",
+        "wp_modified": "2026-04-07T01:00:36",
+        "health": {
+          "status_code": 200,
+          "final_url": "https://newcastlehub.info/seo-newcastle-nsw/",
+          "title": "SEO Services Newcastle NSW \u2014 Get Found on Google - Newcastle Hub Info",
+          "meta_description": "SEO Services Newcastle NSW \u2014 Get Found on Google. Compare stock options, buying factors, and the best next steps for seo newcastle in Australia.",
+          "canonical": "https://newcastlehub.info/seo-newcastle-nsw/",
+          "h1_count": 1,
+          "noindex": false
+        },
+        "in_post_sitemap": false,
+        "gsc": {
+          "clicks": 0,
+          "impressions": 0,
+          "ctr": 0.0,
+          "position": 0.0,
+          "top_queries": []
+        },
+        "ga4": null,
+        "issues": [
+          "missing_from_post_sitemap"
+        ]
+      },
+      {
+        "slug": "digital-marketing-newcastle",
+        "keyword": "digital marketing newcastle",
+        "page_type": "landing_page",
+        "post_link": "https://newcastlehub.info/digital-marketing-newcastle/",
+        "published_at": "2026-04-07T23:22:44",
+        "wp_modified": "2026-04-07T23:22:44",
+        "health": {
+          "status_code": 200,
+          "final_url": "https://newcastlehub.info/digital-marketing-newcastle/",
+          "title": "Digital Marketing for Newcastle Businesses - Newcastle Hub Info",
+          "meta_description": "Digital Marketing for Newcastle Businesses. Compare stock options, buying factors, and the best next steps for digital marketing newcastle in Australia.",
+          "canonical": "https://newcastlehub.info/digital-marketing-newcastle/",
+          "h1_count": 1,
+          "noindex": false
+        },
+        "in_post_sitemap": false,
+        "gsc": {
+          "clicks": 0,
+          "impressions": 0,
+          "ctr": 0.0,
+          "position": 0.0,
+          "top_queries": []
+        },
+        "ga4": null,
+        "issues": [
+          "missing_from_post_sitemap"
+        ]
+      },
+      {
+        "slug": "newcastle-business-online-presence",
+        "keyword": "online presence newcastle",
+        "page_type": "guide_page",
+        "post_link": "https://newcastlehub.info/newcastle-business-online-presence/",
+        "published_at": "2026-04-07T23:23:19",
+        "wp_modified": "2026-04-07T23:23:19",
+        "health": {
+          "status_code": 200,
+          "final_url": "https://newcastlehub.info/newcastle-business-online-presence/",
+          "title": "How to Build Your Newcastle Business Online Presence - Newcastle Hub Info",
+          "meta_description": "How to Build Your Newcastle Business Online Presence. Compare stock options, buying factors, and the best next steps for online presence newcastle in...",
+          "canonical": "https://newcastlehub.info/newcastle-business-online-presence/",
+          "h1_count": 1,
+          "noindex": false
+        },
+        "in_post_sitemap": false,
+        "gsc": {
+          "clicks": 0,
+          "impressions": 0,
+          "ctr": 0.0,
+          "position": 0.0,
+          "top_queries": []
+        },
+        "ga4": null,
+        "issues": [
+          "missing_from_post_sitemap"
+        ]
+      },
+      {
+        "slug": "google-reviews-newcastle",
+        "keyword": "google reviews newcastle",
+        "page_type": "guide_page",
+        "post_link": "https://newcastlehub.info/google-reviews-newcastle/",
+        "published_at": "2026-04-09T01:00:36",
+        "wp_modified": "2026-04-09T01:00:36",
+        "health": {
+          "status_code": 200,
+          "final_url": "https://newcastlehub.info/google-reviews-newcastle/",
+          "title": "How to Get More Google Reviews for Your Newcastle Business - Newcastle Hub Info",
+          "meta_description": "How to Get More Google Reviews for Your Newcastle Business. Compare stock options, buying factors, and the best next steps for google reviews newcastle...",
+          "canonical": "https://newcastlehub.info/google-reviews-newcastle/",
+          "h1_count": 1,
+          "noindex": false
+        },
+        "in_post_sitemap": false,
+        "gsc": {
+          "clicks": 0,
+          "impressions": 0,
+          "ctr": 0.0,
+          "position": 0.0,
+          "top_queries": []
+        },
+        "ga4": null,
+        "issues": [
+          "missing_from_post_sitemap"
+        ]
+      },
+      {
+        "slug": "local-seo-vs-national-seo",
+        "keyword": "local seo vs national seo",
+        "page_type": "comparison_page",
+        "post_link": "https://newcastlehub.info/local-seo-vs-national-seo/",
+        "published_at": "2026-04-10T01:00:37",
+        "wp_modified": "2026-04-10T01:00:37",
+        "health": {
+          "status_code": 200,
+          "final_url": "https://newcastlehub.info/local-seo-vs-national-seo/",
+          "title": "Local SEO vs National SEO \u2014 Which Does Your Business Need? - Newcastle Hub Info",
+          "meta_description": "Local SEO vs National SEO \u2014 Which Does Your Business Need?. Compare options, ingredients, pack sizes, and pricing for local seo vs national seo...",
+          "canonical": "https://newcastlehub.info/local-seo-vs-national-seo/",
+          "h1_count": 1,
+          "noindex": false
+        },
+        "in_post_sitemap": false,
+        "gsc": {
+          "clicks": 0,
+          "impressions": 0,
+          "ctr": 0.0,
+          "position": 0.0,
+          "top_queries": []
+        },
+        "ga4": null,
+        "issues": [
+          "missing_from_post_sitemap"
+        ]
+      },
+      {
+        "slug": "best-website-builders-small-business",
+        "keyword": "website builder small business",
+        "page_type": "comparison_page",
+        "post_link": "https://newcastlehub.info/best-website-builders-small-business/",
+        "published_at": "2026-04-11T01:00:38",
+        "wp_modified": "2026-04-11T01:00:38",
+        "health": {
+          "status_code": 200,
+          "final_url": "https://newcastlehub.info/best-website-builders-small-business/",
+          "title": "Best Website Builders for Newcastle Small Businesses - Newcastle Hub Info",
+          "meta_description": "Best Website Builders for Newcastle Small Businesses. Compare options, ingredients, pack sizes, and pricing for website builder small business available...",
+          "canonical": "https://newcastlehub.info/best-website-builders-small-business/",
+          "h1_count": 1,
+          "noindex": false
+        },
+        "in_post_sitemap": false,
+        "gsc": {
+          "clicks": 0,
+          "impressions": 0,
+          "ctr": 0.0,
+          "position": 0.0,
+          "top_queries": []
+        },
+        "ga4": null,
+        "issues": [
+          "missing_from_post_sitemap"
+        ]
+      },
+      {
+        "slug": "social-media-newcastle",
+        "keyword": "social media newcastle",
+        "page_type": "landing_page",
+        "post_link": "https://newcastlehub.info/social-media-newcastle/",
+        "published_at": "2026-04-12T01:00:37",
+        "wp_modified": "2026-04-12T01:00:37",
+        "health": {
+          "status_code": 200,
+          "final_url": "https://newcastlehub.info/social-media-newcastle/",
+          "title": "Social Media Management for Newcastle Businesses - Newcastle Hub Info",
+          "meta_description": "Social Media Management for Newcastle Businesses. Compare stock options, buying factors, and the best next steps for social media newcastle in Australia.",
+          "canonical": "https://newcastlehub.info/social-media-newcastle/",
+          "h1_count": 1,
+          "noindex": false
+        },
+        "in_post_sitemap": false,
+        "gsc": {
+          "clicks": 0,
+          "impressions": 0,
+          "ctr": 0.0,
+          "position": 0.0,
+          "top_queries": []
+        },
+        "ga4": null,
+        "issues": [
+          "missing_from_post_sitemap"
+        ]
+      }
+    ],
+    "recommendation": "Hold expansion until pilot checks are cleaner."
+  }
+}

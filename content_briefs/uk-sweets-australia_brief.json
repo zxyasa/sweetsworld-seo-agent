@@ -1,0 +1,143 @@
+{
+  "brief_id": "uk-sweets-australia-brief-v1",
+  "slug": "uk-sweets-australia",
+  "keyword": "uk sweets australia",
+  "search_intent": "Commercial category intent",
+  "page_type": "category_page",
+  "title": "UK Sweets Australia: British Lollies and Candy to Buy Online",
+  "meta_description": "UK Sweets Australia: British Lollies and Candy to Buy Online. Compare stock options, buying factors, and the best next steps for uk sweets in Australia.",
+  "intro": "This page explains the uk sweets range, the main product formats to compare, and the next collection or product pages worth opening before you buy.",
+  "outline": [
+    "What defines the uk sweets range",
+    "How to shop British Candy more confidently"
+  ],
+  "sections": [
+    {
+      "heading": "What defines the uk sweets range",
+      "paragraphs": [
+        "A category page for uk sweets should explain flavour profile, product format, and the most recognisable options in the range.",
+        "That helps search engines and shoppers understand the scope of the page before they move deeper into the catalogue."
+      ],
+      "bullets": [
+        "Haribo Sweet & Sour Bears 140g",
+        "BARCEL TAKIS Dragon Sweet Chili 92.3g",
+        "Davies Hard Centres Gift Pack – Classic Sweet Treats",
+        "DORITOS SPICY SWEET CHILLI- 276.4g"
+      ]
+    },
+    {
+      "heading": "How to shop British Candy more confidently",
+      "paragraphs": [
+        "Category pages should guide users through format, suitability, and value instead of listing products without context.",
+        "This is the section that turns a collection page into a useful SEO landing surface."
+      ],
+      "bullets": [
+        "Show best sellers before long-tail variants.",
+        "Explain when bundles make more sense than single items.",
+        "Link into adjacent collections and product pages."
+      ]
+    }
+  ],
+  "faq_items": [
+    {
+      "question": "What should I look for when choosing uk sweets?",
+      "answer": "Focus on suitability for the use case, flavour profile, pack size, and delivery timing rather than assuming every popular candy is the right fit."
+    },
+    {
+      "question": "What is the best next step after reading this page?",
+      "answer": "Use the linked category or product pages to compare live stock, range depth, and practical buying options."
+    },
+    {
+      "question": "Can this page help me compare british candy options?",
+      "answer": "Yes. It should clarify which products or collections are the best fit instead of leaving the reader with generic advice."
+    }
+  ],
+  "faq_questions": [
+    "What should I look for when choosing uk sweets?",
+    "What is the best next step after reading this page?",
+    "Can this page help me compare british candy options?"
+  ],
+  "internal_links": [
+    {
+      "url": "https://sweetsworld.com.au/candy/",
+      "label": "Candy",
+      "anchor_text": "Explore Candy",
+      "link_kind": "category"
+    },
+    {
+      "url": "https://sweetsworld.com.au/candy/sour-lollies/",
+      "label": "Sour Lollies",
+      "anchor_text": "Browse Sour Lollies",
+      "link_kind": "collection"
+    },
+    {
+      "url": "https://sweetsworld.com.au/candy/sour-lollies/haribosweetsourbears140g/",
+      "label": "Haribosweetsourbears140g",
+      "anchor_text": "See Haribosweetsourbears140g",
+      "link_kind": "product"
+    }
+  ],
+  "selected_products": [
+    {
+      "product_name": "Haribo Sweet & Sour Bears 140g",
+      "category": "British Lollies",
+      "description": "",
+      "price": "5.99",
+      "url": "https://sweetsworld.com.au/candy/sour-lollies/haribosweetsourbears140g/",
+      "matched_tokens": [
+        "sweet",
+        "british"
+      ],
+      "matched_phrases": [],
+      "selection_reason": "direct_match"
+    },
+    {
+      "product_name": "BARCEL TAKIS Dragon Sweet Chili 92.3g",
+      "category": "Uncategorized",
+      "description": "BARCEL TAKIS Dragon Sweet Chili 92.3g Product Description: Der beliebte salzige Takis Tortilla Snack in der Kombination aus scharfen roten Chilis und süß-sauer Sauce. Eigenen sich perfekt für einen Filmabend mit...",
+      "price": "7.99",
+      "url": "https://sweetsworld.com.au/uncategorized/barcel-takis-dragon-sweet-chili-923g/",
+      "matched_tokens": [
+        "sweet"
+      ],
+      "matched_phrases": [],
+      "selection_reason": "direct_match"
+    },
+    {
+      "product_name": "Davies Hard Centres Gift Pack – Classic Sweet Treats",
+      "category": "Corporate Gift",
+      "description": "The Davies Hard Centres Gift Pack is a delightful assortment of classic hard-centre sweets, perfect for sharing or gifting. Each candy offers a firm yet chewy texture, combining fruity and creamy flavours for a...",
+      "price": "21.99",
+      "url": "https://sweetsworld.com.au/gift/corporate-gift/davies-hard-centres-gift-pack/",
+      "matched_tokens": [
+        "sweet"
+      ],
+      "matched_phrases": [],
+      "selection_reason": "direct_match"
+    },
+    {
+      "product_name": "DORITOS SPICY SWEET CHILLI- 276.4g",
+      "category": "Grocery",
+      "description": "DORITOS SPICY SWEET CHILLI- 276.4g Product Description: Get ready to turn up the flavor with DORITOS Spicy Sweet Chilli – the perfect chip for those who like a little heat with a touch of sweet! These bold tortilla...",
+      "price": "9.99",
+      "url": "https://sweetsworld.com.au/grocery/doritos-spicy-sweet-chilli/",
+      "matched_tokens": [
+        "sweet"
+      ],
+      "matched_phrases": [],
+      "selection_reason": "direct_match"
+    }
+  ],
+  "related_keywords": [
+    "sweetsworld",
+    "sweets world",
+    "white knight chocolate",
+    "fantales lollies",
+    "fantails lolly",
+    "clinkers chocolate"
+  ],
+  "cta": {
+    "heading": "Use this page as a shortlist for uk sweets",
+    "body": "Review the key options, then move into the linked collection or product pages when you are ready to compare live stock and pricing."
+  }
+}

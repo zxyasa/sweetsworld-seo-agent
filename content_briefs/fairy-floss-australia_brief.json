@@ -1,0 +1,155 @@
+{
+  "brief_id": "fairy-floss-australia-brief-v1",
+  "slug": "fairy-floss-australia",
+  "keyword": "fairy floss australia",
+  "search_intent": "Transactional with commercial intent",
+  "page_type": "landing_page",
+  "title": "Fairy Floss Australia: Buy Cotton Candy and Fairy Floss Online",
+  "meta_description": "Fairy Floss Australia: Buy Cotton Candy and Fairy Floss Online. Compare stock options, buying factors, and the best next steps for fairy floss in...",
+  "intro": "Use this page to compare where to buy fairy floss in Australia, what to check before ordering, and which classic candy options are the best fit for your basket.",
+  "outline": [
+    "Where to buy fairy floss with less guesswork",
+    "How to compare Classic Candy options before ordering"
+  ],
+  "sections": [
+    {
+      "heading": "Where to buy fairy floss with less guesswork",
+      "paragraphs": [
+        "Landing pages for fairy floss need to show real commercial value quickly, including price context, stock clarity, and relevant product paths.",
+        "The goal is to reduce purchase friction rather than publish a thin page that repeats the keyword."
+      ],
+      "bullets": [
+        "Fairy Floss 60g",
+        "2025 Fluffy Crunch Fairy Floss Easter Egg Pack",
+        "Fairy Floss 50g",
+        "Fluffy Crunch Fairy Floss Apple Pie 50g"
+      ]
+    },
+    {
+      "heading": "How to compare Classic Candy options before ordering",
+      "paragraphs": [
+        "A stronger landing page explains the trade-offs between pack size, flavour range, stock depth, and delivery timing.",
+        "That gives the page a conversion job as well as a ranking job."
+      ],
+      "bullets": [
+        "Compare unit price instead of headline price alone.",
+        "Check stock, bundle size, and delivery timing together.",
+        "Keep the call to action aligned with the buying task."
+      ]
+    }
+  ],
+  "faq_items": [
+    {
+      "question": "Where can I buy fairy floss online in Australia?",
+      "answer": "Start with Australian stores that show live stock, delivery windows, and product range depth for fairy floss before checkout."
+    },
+    {
+      "question": "How should I compare fairy floss prices?",
+      "answer": "Compare unit price, pack size, shipping cost, and bundle options together instead of looking at the headline price only."
+    },
+    {
+      "question": "Are there other classic candy options worth comparing?",
+      "answer": "Yes. Nearby collections or substitute products can be useful when fairy floss is out of stock or only available in limited pack sizes."
+    }
+  ],
+  "faq_questions": [
+    "Where can I buy fairy floss online in Australia?",
+    "How should I compare fairy floss prices?",
+    "Are there other classic candy options worth comparing?"
+  ],
+  "internal_links": [
+    {
+      "url": "https://sweetsworld.com.au/candy/",
+      "label": "Candy",
+      "anchor_text": "Shop Candy",
+      "link_kind": "category"
+    },
+    {
+      "url": "https://sweetsworld.com.au/candy/fairyfloss60g/",
+      "label": "Fairyfloss60g",
+      "anchor_text": "Browse Fairyfloss60g",
+      "link_kind": "collection"
+    },
+    {
+      "url": "https://sweetsworld.com.au/candy/sour-lollies/fairy-floss-50g/",
+      "label": "Fairy Floss 50g",
+      "anchor_text": "Compare Fairy Floss 50g",
+      "link_kind": "product"
+    }
+  ],
+  "selected_products": [
+    {
+      "product_name": "Fairy Floss 60g",
+      "category": "Candy",
+      "description": "Fairy Floss 60g Product Description: Fairy Floss Lollinauts are a tub of pink and blue fairy floss with a resealable lid. Fairy Floss is also called Cotton Candy\" and is 100% Australian made. Please note, fairy floss...",
+      "price": "5.99",
+      "url": "https://sweetsworld.com.au/candy/fairyfloss60g/",
+      "matched_tokens": [
+        "fairy",
+        "floss",
+        "cotton"
+      ],
+      "matched_phrases": [
+        "fairy floss"
+      ],
+      "selection_reason": "direct_match"
+    },
+    {
+      "product_name": "2025 Fluffy Crunch Fairy Floss Easter Egg Pack",
+      "category": "Candy",
+      "description": "The Fluffy Crunch Fairy Floss Easter Egg Pack from Sweetsworld is more than just an Easter treat. It’s a vibrant, flavor-packed experience that brings a unique twist to your Easter celebrations. Suitable for all...",
+      "price": "17.99",
+      "url": "https://sweetsworld.com.au/candy/fluffy-crunch-fairy-floss-easter-egg-pack/",
+      "matched_tokens": [
+        "fairy",
+        "floss"
+      ],
+      "matched_phrases": [
+        "fairy floss"
+      ],
+      "selection_reason": "direct_match"
+    },
+    {
+      "product_name": "Fairy Floss 50g",
+      "category": "Candy",
+      "description": "Enjoy the nostalgic sweetness of Fairy Floss 50g —soft, fluffy, and melt-in-your-mouth delicious. Perfect for parties, movies, or a fun treat anytime, it comes in bright colours and a handy carry pack that’s easy to...",
+      "price": "4.99",
+      "url": "https://sweetsworld.com.au/candy/sour-lollies/fairy-floss-50g/",
+      "matched_tokens": [
+        "fairy",
+        "floss"
+      ],
+      "matched_phrases": [
+        "fairy floss"
+      ],
+      "selection_reason": "direct_match"
+    },
+    {
+      "product_name": "Fluffy Crunch Fairy Floss Apple Pie 50g",
+      "category": "Candy",
+      "description": "",
+      "price": "8.99",
+      "url": "https://sweetsworld.com.au/candy/fluffycrunchfairyflossapplepie50g/",
+      "matched_tokens": [
+        "fairy",
+        "floss"
+      ],
+      "matched_phrases": [
+        "fairy floss"
+      ],
+      "selection_reason": "direct_match"
+    }
+  ],
+  "related_keywords": [
+    "sweetsworld",
+    "sweets world",
+    "white knight chocolate",
+    "fantales lollies",
+    "fantails lolly",
+    "darrell lea kotara"
+  ],
+  "cta": {
+    "heading": "Move from fairy floss research into a purchase",
+    "body": "Compare the shortlist, then click through to the most relevant collection or product page to check live stock and delivery details."
+  }
+}

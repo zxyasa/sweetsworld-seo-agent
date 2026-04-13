@@ -1,0 +1,157 @@
+{
+  "brief_id": "reeses-australia-brief-v1",
+  "slug": "reeses-australia",
+  "keyword": "reeses australia where to buy",
+  "search_intent": "Transactional with commercial intent",
+  "page_type": "landing_page",
+  "title": "Reese's Australia: Buy Peanut Butter Cups and Reese's Candy Online",
+  "meta_description": "Reese's Australia: Buy Peanut Butter Cups and Reese's Candy Online. Compare stock options, buying factors, and the best next steps for reeses in Australia.",
+  "intro": "Use this page to compare where to buy reeses in Australia, what to check before ordering, and which american candy options are the best fit for your basket.",
+  "outline": [
+    "Where to buy reeses with less guesswork",
+    "How to compare American Candy options before ordering"
+  ],
+  "sections": [
+    {
+      "heading": "Where to buy reeses with less guesswork",
+      "paragraphs": [
+        "Landing pages for reeses need to show real commercial value quickly, including price context, stock clarity, and relevant product paths.",
+        "The goal is to reduce purchase friction rather than publish a thin page that repeats the keyword."
+      ],
+      "bullets": [
+        "Reese's Peanut Butter Cups Miniatures 150g",
+        "Reese's Thins Peanut Butter Cups DARK Chocolate 208g",
+        "Reese's Thins Peanut Butter Cups Milk Chocolate 208g",
+        "Reese's 2 Peanut Butter Cups 42g"
+      ]
+    },
+    {
+      "heading": "How to compare American Candy options before ordering",
+      "paragraphs": [
+        "A stronger landing page explains the trade-offs between pack size, flavour range, stock depth, and delivery timing.",
+        "That gives the page a conversion job as well as a ranking job."
+      ],
+      "bullets": [
+        "Compare unit price instead of headline price alone.",
+        "Check stock, bundle size, and delivery timing together.",
+        "Keep the call to action aligned with the buying task."
+      ]
+    }
+  ],
+  "faq_items": [
+    {
+      "question": "Where can I buy reeses online in Australia?",
+      "answer": "Start with Australian stores that show live stock, delivery windows, and product range depth for reeses before checkout."
+    },
+    {
+      "question": "How should I compare reeses prices?",
+      "answer": "Compare unit price, pack size, shipping cost, and bundle options together instead of looking at the headline price only."
+    },
+    {
+      "question": "Are there other american candy options worth comparing?",
+      "answer": "Yes. Nearby collections or substitute products can be useful when reeses is out of stock or only available in limited pack sizes."
+    }
+  ],
+  "faq_questions": [
+    "Where can I buy reeses online in Australia?",
+    "How should I compare reeses prices?",
+    "Are there other american candy options worth comparing?"
+  ],
+  "internal_links": [
+    {
+      "url": "https://sweetsworld.com.au/where-to-buy/haribo-australia/",
+      "label": "Haribo Australia",
+      "anchor_text": "Shop Haribo Australia",
+      "link_kind": "commercial"
+    },
+    {
+      "url": "https://sweetsworld.com.au/candy/american-candy/",
+      "label": "American Candy",
+      "anchor_text": "Browse American Candy",
+      "link_kind": "collection"
+    },
+    {
+      "url": "https://sweetsworld.com.au/candy/",
+      "label": "Candy",
+      "anchor_text": "Compare Candy",
+      "link_kind": "category"
+    }
+  ],
+  "selected_products": [
+    {
+      "product_name": "Reese's Peanut Butter Cups Miniatures 150g",
+      "category": "American Chocolate",
+      "description": "",
+      "price": "9.99",
+      "url": "https://sweetsworld.com.au/candy/american-candy/american-chocolate/reeses-peanut-butter-cups-miniatures-150g/",
+      "matched_tokens": [
+        "american",
+        "reese",
+        "peanut",
+        "butter",
+        "cups"
+      ],
+      "matched_phrases": [],
+      "selection_reason": "direct_match"
+    },
+    {
+      "product_name": "Reese's Thins Peanut Butter Cups DARK Chocolate 208g",
+      "category": "American Candy Box",
+      "description": "Reese's Thins Peanut Butter Cups DARK Chocolate 208g Product Description: Behold a THiN-gineering marvel. We packed all this delicious dark chocolate and peanut butter into a thinner cup. Don’t ask us how. #NotSorry...",
+      "price": "14.99",
+      "url": "https://sweetsworld.com.au/candy/american-candy/american-chocolate/reeses-thins-peanut-butter-cups-dark-chocolate-208g/",
+      "matched_tokens": [
+        "american",
+        "reese",
+        "peanut",
+        "butter",
+        "cups"
+      ],
+      "matched_phrases": [],
+      "selection_reason": "direct_match"
+    },
+    {
+      "product_name": "Reese's Thins Peanut Butter Cups Milk Chocolate 208g",
+      "category": "American Candy Box",
+      "description": "Reese's Thins Peanut Butter Cups Milk Chocolate 208g Product Description: Reese's Thins are 40% thinner than regular peanut butter cups and 100% as delicious. Individually wrapped peanut butter cups Deliciously...",
+      "price": "14.99",
+      "url": "https://sweetsworld.com.au/candy/american-candy/american-chocolate/reesesthinspeanutbuttercupsmilkchocolate208g/",
+      "matched_tokens": [
+        "american",
+        "reese",
+        "peanut",
+        "butter",
+        "cups"
+      ],
+      "matched_phrases": [],
+      "selection_reason": "direct_match"
+    },
+    {
+      "product_name": "Reese's 2 Peanut Butter Cups 42g",
+      "category": "Uncategorized",
+      "description": "",
+      "price": "3.99",
+      "url": "https://sweetsworld.com.au/uncategorized/reeses-2-peanut-butter-cups-42g/",
+      "matched_tokens": [
+        "reese",
+        "peanut",
+        "butter",
+        "cups"
+      ],
+      "matched_phrases": [],
+      "selection_reason": "direct_match"
+    }
+  ],
+  "related_keywords": [
+    "sweetsworld",
+    "sweets world",
+    "white knight chocolate",
+    "fantales lollies",
+    "clinkers chocolate",
+    "fantails lolly"
+  ],
+  "cta": {
+    "heading": "Move from reeses research into a purchase",
+    "body": "Compare the shortlist, then click through to the most relevant collection or product page to check live stock and delivery details."
+  }
+}

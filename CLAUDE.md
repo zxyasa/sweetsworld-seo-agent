@@ -1,12 +1,90 @@
 # sweetsworld-seo-agent — Claude 行为约束协议
 
+> **全局计划**: `apps/website-os/CLAUDE.md` — 开工前必读，了解当前阶段和跨项目进度
+> **本项目当前阶段**: P1 运行中 → P2 待开始（接入 GSC 实时数据、33个质量不达标页面重新生成）
+
 ## 项目简介
-SEO automation agent for SweetsWorld
+
+多站点 SEO 内容自动化系统。支持：
+- **sweetsworld.com.au** — 澳洲糖果电商 SEO 内容
+- **newcastlehub.info** — 纽卡素本地商业服务 SEO 内容
+
+每个站点有独立配置、数据目录、topics 队列，共享同一套 Python 引擎。
+
+## 项目结构（关键路径）
+
+```
+src/
+  run_mvp.py              # 主入口，--site 参数选站点
+  config.py               # Settings dataclass，读取 .env
+  site_context.py         # SiteContext dataclass，读取 site.json
+  content_brief_engine.py # Brief 生成（内链、FAQ、产品匹配）
+  content_generator.py    # SiteProfile + HTML 内容生成
+  openai_generator.py     # OpenAI/LLM API 调用封装
+  page_type_strategies/   # 8 种页面类型策略
+  page_type_registry.py   # 策略注册表
+
+sites/
+  sweetsworld/
+    site.json             # 站点配置（prompt_config、collection_paths 等）
+    .env                  # WP/API 凭证
+    data/topics.db        # SQLite 队列（224 条）
+  newcastlehub/
+    site.json
+    .env
+    data/topics.db        # SQLite 队列
+
+apps/
+  growth-graph/           # Entity Graph + Command Center（AIO Growth OS）
+  wordpress-ai-ops/       # 批量 WP 操作脚本（FAQ注入、内链、提交GSC）
+```
 
 ## 运行命令
+
 ```bash
-# (请根据项目实际情况补充)
+cd /Users/michaelzhao/agents/agents/sweetsworld-seo-agent
+
+# 发布 sweetsworld（默认站点）
+python src/run_mvp.py --site sweetsworld --dry-run    # 预览
+python src/run_mvp.py --site sweetsworld               # 实际发布
+
+# 发布 newcastlehub
+python src/run_mvp.py --site newcastlehub --dry-run
+python src/run_mvp.py --site newcastlehub
+
+# 加载对应站点的 .env
+export $(cat sites/newcastlehub/.env | xargs) && python src/run_mvp.py --site newcastlehub
 ```
+
+## 已激活的 launchd 定时任务
+
+| 任务 | 时间 | 脚本 |
+|------|------|------|
+| `com.sweetsworld.seo-agent.daily` | 每天 10:30 | sweetsworld 自动发布 |
+| `com.sweetsworld.seo-agent.monitor` | 每天 10:00 | pilot_gate + GSC 推送 |
+| `com.sweetsworld.seo-agent.url-health` | 每周二 09:00 | 产品 URL 健康检查 |
+| `com.sweetsworld.growth-graph.weekly` | 每周一 09:00 | Entity Graph 重建 |
+
+## 关键 .env 变量
+
+```
+WP_BASE_URL          # WordPress 站点地址
+WP_USERNAME          # WordPress 用户名
+WP_APP_PASSWORD      # WordPress 应用密码
+OPENAI_API_KEY       # 内容生成（GPT-4o）
+ANTHROPIC_API_KEY    # Claude API（备用）
+TELEGRAM_BOT_TOKEN   # Telegram 通知
+TELEGRAM_CHAT_ID     # Telegram 聊天 ID
+USE_AI_GENERATION    # true/false
+SEO_STATE_FILE       # 每日配额状态文件路径（多站点时各自独立）
+```
+
+## 多站点注意事项
+
+- 每个站点的 `site.json` 包含 `prompt_config`（AI 写作指令）— 禁止在 Python 代码里写站点专用文案
+- `sites/<site_id>/data/seo_daily_state.json` 是各站点独立的配额状态
+- `os.environ["WP_BASE_URL"]` 在 run_mvp.py 里被动态覆盖，确保所有 helper 使用正确的站点 URL
+- 新站点：在 `sites/` 下创建目录 + `site.json` + `.env` + `data/`，无需改 Python 代码
 
 ---
 
@@ -174,3 +252,11 @@ git log --oneline --grep="\[ai:" -20
 - .ai/tasks/<name>/context.md
 并更新 .ai/active-task.json
 ```
+
+## Known Issues (from 2026-04-05 code review)
+
+- [FIXED 2026-04-07] `src/wp_client.py:331` — bridge token hardcoded → now reads `WP_SEO_BRIDGE_TOKEN` env var at call time, returns False with warning if unset
+- [FIXED 2026-04-07] `src/wp_client.py:336` — SEO meta passed via GET query params → changed `json=payload` to `data=payload` in `write_seo_meta_via_db` so token+meta go in POST form body (PHP `$_POST`-readable), not URL query string
+- [FIXED 2026-04-07] `src/citation_planner.py:284` — `_build_hashtags()` causes test failures → added `safe_keyword = keyword or ""` guard before `.split()` to prevent `AttributeError` on `None` keyword
+- [FIXED 2026-04-07] `src/citation_planner.py:334` — platform entity type `"social_asset"` → `"social_platform"` (matches graph_builder.py); `"social_platform"` added to `ENTITY_TYPES` in growth-graph/entity_graph.py
+- [FIXED 2026-04-07] `src/wp_client.py:86` — `RequestException` silently swallowed → added `logger.warning` to bare `except RequestException` in `update_item_content` and `update_category_description`

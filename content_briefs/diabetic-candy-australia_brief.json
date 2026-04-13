@@ -1,0 +1,132 @@
+{
+  "brief_id": "diabetic-candy-australia-brief-v1",
+  "slug": "diabetic-candy-australia",
+  "keyword": "diabetic candy australia",
+  "search_intent": "Transactional with commercial intent",
+  "page_type": "landing_page",
+  "title": "Diabetic Candy Australia: Low Sugar Lollies Safe for Diabetics",
+  "meta_description": "Diabetic Candy Australia: Low Sugar Lollies Safe for Diabetics. Compare stock options, buying factors, and the best next steps for diabetic candy in...",
+  "intro": "Use this page to compare where to buy diabetic candy in Australia, what to check before ordering, and which sugar free options are the best fit for your basket.",
+  "outline": [
+    "Where to buy diabetic candy with less guesswork",
+    "How to compare Sugar Free options before ordering"
+  ],
+  "sections": [
+    {
+      "heading": "Where to buy diabetic candy with less guesswork",
+      "paragraphs": [
+        "Landing pages for diabetic candy need to show real commercial value quickly, including price context, stock clarity, and relevant product paths.",
+        "The goal is to reduce purchase friction rather than publish a thin page that repeats the keyword."
+      ],
+      "bullets": [
+        "Air Heads Gum with micro-candies Sugarfree Watermelon",
+        "Aura Sugar Free Hard Boiled Gourmet Lemon- 70g",
+        "C&H Sugar Free TROPICAL FRUIT 175G"
+      ]
+    },
+    {
+      "heading": "How to compare Sugar Free options before ordering",
+      "paragraphs": [
+        "A stronger landing page explains the trade-offs between pack size, flavour range, stock depth, and delivery timing.",
+        "That gives the page a conversion job as well as a ranking job."
+      ],
+      "bullets": [
+        "Compare unit price instead of headline price alone.",
+        "Check stock, bundle size, and delivery timing together.",
+        "Keep the call to action aligned with the buying task."
+      ]
+    }
+  ],
+  "faq_items": [
+    {
+      "question": "Where can I buy diabetic candy online in Australia?",
+      "answer": "Start with Australian stores that show live stock, delivery windows, and product range depth for diabetic candy before checkout."
+    },
+    {
+      "question": "How should I compare diabetic candy prices?",
+      "answer": "Compare unit price, pack size, shipping cost, and bundle options together instead of looking at the headline price only."
+    },
+    {
+      "question": "Are there other sugar free options worth comparing?",
+      "answer": "Yes. Nearby collections or substitute products can be useful when diabetic candy is out of stock or only available in limited pack sizes."
+    }
+  ],
+  "faq_questions": [
+    "Where can I buy diabetic candy online in Australia?",
+    "How should I compare diabetic candy prices?",
+    "Are there other sugar free options worth comparing?"
+  ],
+  "internal_links": [
+    {
+      "url": "https://sweetsworld.com.au/candy/american-candy/",
+      "label": "American Candy",
+      "anchor_text": "Shop American Candy",
+      "link_kind": "collection"
+    },
+    {
+      "url": "https://sweetsworld.com.au/candy/",
+      "label": "Candy",
+      "anchor_text": "Browse Candy",
+      "link_kind": "category"
+    },
+    {
+      "url": "https://sweetsworld.com.au/candy/american-candy/airheadsgumwithmicro-candiessugarfreewatermelon/",
+      "label": "Airheadsgumwithmicro Candiessugarfreewatermelon",
+      "anchor_text": "See Airheadsgumwithmicro Candiessugarfreewatermelon",
+      "link_kind": "product"
+    }
+  ],
+  "selected_products": [
+    {
+      "product_name": "Air Heads Gum with micro-candies Sugarfree Watermelon",
+      "category": "American Candy Box",
+      "description": "",
+      "price": "5.99",
+      "url": "https://sweetsworld.com.au/candy/american-candy/airheadsgumwithmicro-candiessugarfreewatermelon/",
+      "matched_tokens": [
+        "sugar",
+        "free"
+      ],
+      "matched_phrases": [],
+      "selection_reason": "direct_match"
+    },
+    {
+      "product_name": "Aura Sugar Free Hard Boiled Gourmet Lemon- 70g",
+      "category": "Candy",
+      "description": "Aura Sugar Free Hard Boiled Gourmet Lemon- 70g Product Description: • A delicious hard-boiled gourmet lemon flavoured candy made with natural colours and flavours. • 100% real Lemon juice • Sugar free, gluten free...",
+      "price": "6.99",
+      "url": "https://sweetsworld.com.au/candy/aura-sugar-free-hard-boiled-gourmet-lemon/",
+      "matched_tokens": [
+        "sugar",
+        "free"
+      ],
+      "matched_phrases": [],
+      "selection_reason": "direct_match"
+    },
+    {
+      "product_name": "C&H Sugar Free TROPICAL FRUIT 175G",
+      "category": "Candy",
+      "description": "",
+      "price": "7.99",
+      "url": "https://sweetsworld.com.au/candy/6083779/",
+      "matched_tokens": [
+        "sugar",
+        "free"
+      ],
+      "matched_phrases": [],
+      "selection_reason": "direct_match"
+    }
+  ],
+  "related_keywords": [
+    "sweetsworld",
+    "sweets world",
+    "white knight chocolate",
+    "fantales lollies",
+    "fantails lolly",
+    "darrell lea kotara"
+  ],
+  "cta": {
+    "heading": "Move from diabetic candy research into a purchase",
+    "body": "Compare the shortlist, then click through to the most relevant collection or product page to check live stock and delivery details."
+  }
+}

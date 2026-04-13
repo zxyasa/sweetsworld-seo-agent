@@ -1,0 +1,68 @@
+{
+  "schema_version": 1,
+  "description": "Quality gates that must pass before increasing page count or enabling broader automation.",
+  "pilot_scope": {
+    "initial_page_family": "occasion_page",
+    "draft_sample_min": 5,
+    "draft_sample_max": 20,
+    "initial_publish_batch_min": 3,
+    "initial_publish_batch_max": 500,
+    "review_window_days": 14
+  },
+  "manual_qa_requirements": {
+    "all_pages_need_manual_review": true,
+    "required_checks": [
+      "intent_match",
+      "product_match",
+      "template_quality",
+      "internal_link_quality",
+      "anchor_variation",
+      "no_thin_filler"
+    ],
+    "minimum_pass_rate": 0.9,
+    "hard_fail_conditions": [
+      "wrong_page_type",
+      "wrong_products",
+      "duplicate_slug",
+      "empty_sections",
+      "repeated_anchor_text"
+    ]
+  },
+  "expansion_gates": {
+    "require_no_duplicate_publishes": true,
+    "require_manual_qa_complete": true,
+    "require_search_console_review": true,
+    "require_indexation_signal": true,
+    "require_query_intent_fit": true
+  },
+  "gsc_quality": {
+    "ctr_check_min_impressions": 100,
+    "min_ctr_pct": 1.0,
+    "position_stuck_min": 5.0,
+    "position_stuck_max": 10.9,
+    "require_ctr_gate": false
+  },
+  "ga4_quality": {
+    "min_sessions_for_check": 50,
+    "max_bounce_rate": 0.70,
+    "min_session_duration_s": 30.0,
+    "min_page_sessions_for_rule": 10,
+    "require_engagement_gate": false
+  },
+  "blockers": [
+    "Do not expand if category and landing intent are mixed.",
+    "Do not expand if product rules are overridden ad hoc by AI.",
+    "Do not expand if pilot pages are thin or templated without substance.",
+    "Do not expand if internal links use repeated anchors across the batch."
+  ],
+  "decision_log_template": {
+    "review_date": "2026-03-29",
+    "reviewer": "manual",
+    "pages_reviewed": 5,
+    "qa_pass_rate": 1.0,
+    "indexation_signal": "pending",
+    "query_intent_fit": "pending",
+    "decision": "hold",
+    "notes": "Expand only after GSC shows the pilot is being indexed and queries match expected intent."
+  }
+}

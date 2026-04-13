@@ -1,0 +1,142 @@
+{
+  "brief_id": "american-candy-guide-brief-v1",
+  "slug": "american-candy-guide",
+  "keyword": "popular american candy brands",
+  "search_intent": "Commercial category intent",
+  "page_type": "category_page",
+  "title": "American Candy Guide: Popular US Sweets Explained",
+  "meta_description": "American Candy Guide: Popular US Sweets Explained. Compare stock options, buying factors, and the best next steps for popular american candy brands in...",
+  "intro": "This page explains the popular american candy brands range, the main product formats to compare, and the next collection or product pages worth opening before you buy.",
+  "outline": [
+    "What defines the popular american candy brands range",
+    "How to shop American Candy more confidently"
+  ],
+  "sections": [
+    {
+      "heading": "What defines the popular american candy brands range",
+      "paragraphs": [
+        "A category page for popular american candy brands should explain flavour profile, product format, and the most recognisable options in the range.",
+        "That helps search engines and shoppers understand the scope of the page before they move deeper into the catalogue."
+      ],
+      "bullets": [
+        "Davies Hard Centres Gift Pack – Classic Sweet Treats",
+        "Haribo Sweet & Sour Bears 140g",
+        "HOLLOW CHOCOLATE BUNNY SWEET WILLIAM 120g Vegan, Gluten Free, Nut Free",
+        "Jelly Joy Stick 20g- Sweetsworld – Chocolate Shop"
+      ]
+    },
+    {
+      "heading": "How to shop American Candy more confidently",
+      "paragraphs": [
+        "Category pages should guide users through format, suitability, and value instead of listing products without context.",
+        "This is the section that turns a collection page into a useful SEO landing surface."
+      ],
+      "bullets": [
+        "Show best sellers before long-tail variants.",
+        "Explain when bundles make more sense than single items.",
+        "Link into adjacent collections and product pages."
+      ]
+    }
+  ],
+  "faq_items": [
+    {
+      "question": "What should I look for when choosing popular american candy brands?",
+      "answer": "Focus on suitability for the use case, flavour profile, pack size, and delivery timing rather than assuming every popular candy is the right fit."
+    },
+    {
+      "question": "What is the best next step after reading this page?",
+      "answer": "Use the linked category or product pages to compare live stock, range depth, and practical buying options."
+    },
+    {
+      "question": "Can this page help me compare american candy options?",
+      "answer": "Yes. It should clarify which products or collections are the best fit instead of leaving the reader with generic advice."
+    }
+  ],
+  "faq_questions": [
+    "What should I look for when choosing popular american candy brands?",
+    "What is the best next step after reading this page?",
+    "Can this page help me compare american candy options?"
+  ],
+  "internal_links": [
+    {
+      "url": "https://sweetsworld.com.au/candy/american-candy/",
+      "label": "American Candy",
+      "anchor_text": "Explore American Candy",
+      "link_kind": "collection"
+    },
+    {
+      "url": "https://sweetsworld.com.au/candy/",
+      "label": "Candy",
+      "anchor_text": "Browse Candy",
+      "link_kind": "category"
+    },
+    {
+      "url": "https://sweetsworld.com.au/gift/corporate-gift/davies-hard-centres-gift-pack/",
+      "label": "Davies Hard Centres Gift Pack",
+      "anchor_text": "Compare Davies Hard Centres Gift Pack",
+      "link_kind": "product"
+    }
+  ],
+  "selected_products": [
+    {
+      "product_name": "Davies Hard Centres Gift Pack – Classic Sweet Treats",
+      "category": "Shop Gift Packs",
+      "description": "The Davies Hard Centres Gift Pack is a delightful assortment of classic hard-centre sweets, perfect for sharing or gifting. Each candy offers a firm yet chewy texture, combining fruity and creamy flavours for a...",
+      "price": "21.99",
+      "url": "https://sweetsworld.com.au/gift/corporate-gift/davies-hard-centres-gift-pack/",
+      "matched_tokens": [
+        "sweet"
+      ],
+      "matched_phrases": [],
+      "selection_reason": "direct_match"
+    },
+    {
+      "product_name": "Haribo Sweet & Sour Bears 140g",
+      "category": "UK Sweets",
+      "description": "",
+      "price": "5.99",
+      "url": "https://sweetsworld.com.au/candy/sour-lollies/haribosweetsourbears140g/",
+      "matched_tokens": [
+        "sweet"
+      ],
+      "matched_phrases": [],
+      "selection_reason": "direct_match"
+    },
+    {
+      "product_name": "HOLLOW CHOCOLATE BUNNY SWEET WILLIAM 120g Vegan, Gluten Free, Nut Free",
+      "category": "Easter",
+      "description": "Hollow Chocolate Easter Bunny Blended from extracts of cocoa and soy. Non – GMO Ingredients No artificial colours or flavours ALL Sweet William products are NUT FREE, DAIRY FREE, GLUTEN FREE, EGG FREE and are made in...",
+      "price": "24.99",
+      "url": "https://sweetsworld.com.au/chocolate/australian-chocolate/hollowchocolatebunnysweetwilliam120g/",
+      "matched_tokens": [
+        "sweet"
+      ],
+      "matched_phrases": [],
+      "selection_reason": "direct_match"
+    },
+    {
+      "product_name": "Jelly Joy Stick 20g- Sweetsworld – Chocolate Shop",
+      "category": "Old Fashion Lollies",
+      "description": "Jelly Joy Stick 20g Product Description: It has strawberry, orange, grape, mango, peach and pineapple flavours Adds lots of joy and happiness to the young and old Great snack for all occasions, parties and gatherings...",
+      "price": "0.50",
+      "url": "https://sweetsworld.com.au/party-lollies/kidsparty/jelly-joy-stick-20g/",
+      "matched_tokens": [
+        "sweet"
+      ],
+      "matched_phrases": [],
+      "selection_reason": "direct_match"
+    }
+  ],
+  "related_keywords": [
+    "sweetsworld",
+    "sweets world",
+    "white knight chocolate",
+    "fantales lollies",
+    "fantails lolly",
+    "darrell lea kotara"
+  ],
+  "cta": {
+    "heading": "Use this page as a shortlist for popular american candy brands",
+    "body": "Review the key options, then move into the linked collection or product pages when you are ready to compare live stock and pricing."
+  }
+}

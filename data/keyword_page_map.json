@@ -1,0 +1,61 @@
+{
+  "schema_version": 1,
+  "description": "Canonical keyword ownership map so one keyword resolves to one primary page type and slug.",
+  "allowed_page_types": [
+    "occasion_page",
+    "category_page",
+    "landing_page",
+    "guide_page"
+  ],
+  "intent_examples": {
+    "occasion_page": [
+      "informational",
+      "commercial_informational"
+    ],
+    "category_page": [
+      "category",
+      "commercial_category"
+    ],
+    "landing_page": [
+      "commercial",
+      "transactional"
+    ],
+    "guide_page": [
+      "informational"
+    ]
+  },
+  "rules": [
+    "Each keyword may have only one canonical owner page.",
+    "Category and landing pages must not share the same primary keyword.",
+    "Close variants may be mapped as support keywords, not separate canonical pages.",
+    "Every canonical page must declare one primary keyword and optional support keywords."
+  ],
+  "records": [
+    {
+      "primary_keyword": "american candy australia",
+      "canonical_slug": "american-candy-australia",
+      "page_type": "landing_page",
+      "intent": "commercial",
+      "cluster": "american-candy",
+      "support_keywords": [
+        "buy american candy online",
+        "imported american candy australia"
+      ],
+      "owner_status": "planned",
+      "notes": "Commercial keyword mapped to one landing page only."
+    },
+    {
+      "primary_keyword": "american candy",
+      "canonical_slug": "american-candy",
+      "page_type": "category_page",
+      "intent": "category",
+      "cluster": "american-candy",
+      "support_keywords": [
+        "american candy brands",
+        "best american candy"
+      ],
+      "owner_status": "planned",
+      "notes": "Category keyword kept separate from the landing page intent."
+    }
+  ]
+}

@@ -1,0 +1,158 @@
+{
+  "brief_id": "european-chocolate-australia-brief-v1",
+  "slug": "european-chocolate-australia",
+  "keyword": "european chocolate australia",
+  "search_intent": "Commercial category intent",
+  "page_type": "category_page",
+  "title": "European Chocolate Australia: Belgian and Swiss Choc Online",
+  "meta_description": "European Chocolate Australia: Belgian and Swiss Choc Online. Compare stock options, buying factors, and the best next steps for european chocolate in...",
+  "intro": "This page explains the european chocolate range, the main product formats to compare, and the next collection or product pages worth opening before you buy.",
+  "outline": [
+    "What defines the european chocolate range",
+    "How to shop European Chocolate more confidently"
+  ],
+  "sections": [
+    {
+      "heading": "What defines the european chocolate range",
+      "paragraphs": [
+        "A category page for european chocolate should explain flavour profile, product format, and the most recognisable options in the range.",
+        "That helps search engines and shoppers understand the scope of the page before they move deeper into the catalogue."
+      ],
+      "bullets": [
+        "Belgian Milk Chocolate Easter Character 50g",
+        "Belgian Milk Chocolate Egg 500g",
+        "Trefin Belgian Chocolate Seashells 200g",
+        "Balance Belgian Chocolate Assorted Collection- No Sugar Added Chocolate Gift Box 148g"
+      ]
+    },
+    {
+      "heading": "How to shop European Chocolate more confidently",
+      "paragraphs": [
+        "Category pages should guide users through format, suitability, and value instead of listing products without context.",
+        "This is the section that turns a collection page into a useful SEO landing surface."
+      ],
+      "bullets": [
+        "Show best sellers before long-tail variants.",
+        "Explain when bundles make more sense than single items.",
+        "Link into adjacent collections and product pages."
+      ]
+    }
+  ],
+  "faq_items": [
+    {
+      "question": "What should I look for when choosing european chocolate?",
+      "answer": "Focus on suitability for the use case, flavour profile, pack size, and delivery timing rather than assuming every popular candy is the right fit."
+    },
+    {
+      "question": "What is the best next step after reading this page?",
+      "answer": "Use the linked category or product pages to compare live stock, range depth, and practical buying options."
+    },
+    {
+      "question": "Can this page help me compare european chocolate options?",
+      "answer": "Yes. It should clarify which products or collections are the best fit instead of leaving the reader with generic advice."
+    }
+  ],
+  "faq_questions": [
+    "What should I look for when choosing european chocolate?",
+    "What is the best next step after reading this page?",
+    "Can this page help me compare european chocolate options?"
+  ],
+  "internal_links": [
+    {
+      "url": "https://sweetsworld.com.au/products/uk-sweets-australia/",
+      "label": "Uk Sweets Australia",
+      "anchor_text": "Explore Uk Sweets Australia",
+      "link_kind": "collection"
+    },
+    {
+      "url": "https://sweetsworld.com.au/where-to-buy/belgian-chocolate-australia/",
+      "label": "Belgian Chocolate Australia",
+      "anchor_text": "Browse Belgian Chocolate Australia",
+      "link_kind": "commercial"
+    },
+    {
+      "url": "https://sweetsworld.com.au/chocolate/",
+      "label": "Chocolate",
+      "anchor_text": "See Chocolate",
+      "link_kind": "category"
+    }
+  ],
+  "selected_products": [
+    {
+      "product_name": "Belgian Milk Chocolate Easter Character 50g",
+      "category": "Uncategorized",
+      "description": "Belgian Milk Chocolate Easter Character 50g Product Description: A miniature Easter egg made from Belgian milk chocolate, bursting to life with colourful candy chocolate beans and centre of white Belgian chocolate...",
+      "price": "5.5",
+      "url": "https://sweetsworld.com.au/uncategorized/belgian-milk-chocolate-easter-character-50g/",
+      "matched_tokens": [
+        "chocolate",
+        "belgian",
+        "choc"
+      ],
+      "matched_phrases": [],
+      "selection_reason": "direct_match"
+    },
+    {
+      "product_name": "Belgian Milk Chocolate Egg 500g",
+      "category": "Easter",
+      "description": "",
+      "price": "40",
+      "url": "https://sweetsworld.com.au/easterchocolate/belgianmilkchocegg500g/",
+      "matched_tokens": [
+        "chocolate",
+        "belgian",
+        "choc"
+      ],
+      "matched_phrases": [],
+      "selection_reason": "direct_match"
+    },
+    {
+      "product_name": "Trefin Belgian Chocolate Seashells 200g",
+      "category": "Chocolate Box",
+      "description": "Indulge in the smooth and creamy taste of Trefin Belgian Chocolate Seashells , now available at Sweets World ! These beautifully crafted chocolates are shaped like delicate seashells and made from rich Belgian...",
+      "price": "20",
+      "url": "https://sweetsworld.com.au/gift/chocolate-box/trefin-belgian-chocolate-seashells/",
+      "matched_tokens": [
+        "chocolate",
+        "belgian",
+        "choc"
+      ],
+      "matched_phrases": [],
+      "selection_reason": "direct_match"
+    },
+    {
+      "product_name": "Balance Belgian Chocolate Assorted Collection- No Sugar Added Chocolate Gift Box 148g",
+      "category": "British Lollies",
+      "description": "Balance Belgian Chocolate Assorted Collection- No Sugar Added Chocolate Gift Box 148g Product Description: Treat yourself or someone special with the Balance Belgian Chocolate Assorted Collection , available at...",
+      "price": "24.99",
+      "url": "https://sweetsworld.com.au/british-lollies/uk-chocolate/balance-belgian-chocolate-assorted-collection/",
+      "matched_tokens": [
+        "chocolate",
+        "belgian",
+        "choc"
+      ],
+      "matched_phrases": [],
+      "selection_reason": "direct_match"
+    }
+  ],
+  "related_keywords": [
+    "sweetsworld",
+    "sweets world",
+    "white knight chocolate",
+    "fantales lollies",
+    "clinkers chocolate",
+    "fantails lolly"
+  ],
+  "cta": {
+    "heading": "Use this page as a shortlist for european chocolate",
+    "body": "Review the key options, then move into the linked collection or product pages when you are ready to compare live stock and pricing.",
+    "button_text": "Browse Collection"
+  },
+  "distribution_channels": [
+    "pinterest",
+    "facebook"
+  ],
+  "schema_types": [
+    "BreadcrumbList"
+  ]
+}

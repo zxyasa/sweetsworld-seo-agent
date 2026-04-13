@@ -1,0 +1,531 @@
+{
+  "updated_at": "2026-04-13T11:00:33",
+  "runs": [
+    {
+      "timestamp": "2026-04-01T20:14:05",
+      "slug": "local-seo-newcastle",
+      "title": "Local SEO Newcastle — Complete Guide",
+      "status": "error",
+      "link": "",
+      "post_id": null,
+      "message": "[newcastlehub] Content contains foreign domain(s): ['https://sweetsworld.com.au']\nThis is a data isolation violation — publish aborted."
+    },
+    {
+      "timestamp": "2026-04-01T20:14:11",
+      "slug": "google-business-profile-newcastle",
+      "title": "How to Set Up Google Business Profile in Newcastle",
+      "status": "error",
+      "link": "",
+      "post_id": null,
+      "message": "400 Client Error: Bad Request for url: https://newcastlehub.info/wp-json/wp/v2/categories"
+    },
+    {
+      "timestamp": "2026-04-01T20:14:33",
+      "slug": "free-business-audit-newcastle",
+      "title": "Free Newcastle Business Digital Audit — What to Expect",
+      "status": "error",
+      "link": "",
+      "post_id": null,
+      "message": "[newcastlehub] Content contains foreign domain(s): ['https://sweetsworld.com.au']\nThis is a data isolation violation — publish aborted."
+    },
+    {
+      "timestamp": "2026-04-01T20:14:40",
+      "slug": "website-design-newcastle",
+      "title": "Website Design for Newcastle Small Businesses",
+      "status": "error",
+      "link": "",
+      "post_id": null,
+      "message": "400 Client Error: Bad Request for url: https://newcastlehub.info/wp-json/wp/v2/categories"
+    },
+    {
+      "timestamp": "2026-04-01T20:14:47",
+      "slug": "seo-newcastle-nsw",
+      "title": "SEO Services Newcastle NSW — Get Found on Google",
+      "status": "error",
+      "link": "",
+      "post_id": null,
+      "message": "400 Client Error: Bad Request for url: https://newcastlehub.info/wp-json/wp/v2/categories"
+    },
+    {
+      "timestamp": "2026-04-01T20:14:53",
+      "slug": "digital-marketing-newcastle",
+      "title": "Digital Marketing for Newcastle Businesses",
+      "status": "error",
+      "link": "",
+      "post_id": null,
+      "message": "400 Client Error: Bad Request for url: https://newcastlehub.info/wp-json/wp/v2/categories"
+    },
+    {
+      "timestamp": "2026-04-01T20:15:13",
+      "slug": "newcastle-business-online-presence",
+      "title": "How to Build Your Newcastle Business Online Presence",
+      "status": "error",
+      "link": "",
+      "post_id": null,
+      "message": "[newcastlehub] Content contains foreign domain(s): ['https://sweetsworld.com.au']\nThis is a data isolation violation — publish aborted."
+    },
+    {
+      "timestamp": "2026-04-01T20:15:31",
+      "slug": "google-reviews-newcastle",
+      "title": "How to Get More Google Reviews for Your Newcastle Business",
+      "status": "error",
+      "link": "",
+      "post_id": null,
+      "message": "[newcastlehub] Content contains foreign domain(s): ['https://sweetsworld.com.au']\nThis is a data isolation violation — publish aborted."
+    },
+    {
+      "timestamp": "2026-04-01T20:15:53",
+      "slug": "local-seo-vs-national-seo",
+      "title": "Local SEO vs National SEO — Which Does Your Business Need?",
+      "status": "error",
+      "link": "",
+      "post_id": null,
+      "message": "[newcastlehub] Content contains foreign domain(s): ['https://sweetsworld.com.au']\nThis is a data isolation violation — publish aborted."
+    },
+    {
+      "timestamp": "2026-04-01T20:16:00",
+      "slug": "best-website-builders-small-business",
+      "title": "Best Website Builders for Newcastle Small Businesses",
+      "status": "error",
+      "link": "",
+      "post_id": null,
+      "message": "400 Client Error: Bad Request for url: https://newcastlehub.info/wp-json/wp/v2/categories"
+    },
+    {
+      "timestamp": "2026-04-01T20:16:20",
+      "slug": "social-media-newcastle",
+      "title": "Social Media Management for Newcastle Businesses",
+      "status": "error",
+      "link": "",
+      "post_id": null,
+      "message": "[newcastlehub] Content contains foreign domain(s): ['https://sweetsworld.com.au']\nThis is a data isolation violation — publish aborted."
+    },
+    {
+      "timestamp": "2026-04-01T20:16:42",
+      "slug": "newcastle-business-directory",
+      "title": "Newcastle Business Directory — Get Listed Online",
+      "status": "error",
+      "link": "",
+      "post_id": null,
+      "message": "[newcastlehub] Content contains foreign domain(s): ['https://sweetsworld.com.au']\nThis is a data isolation violation — publish aborted."
+    },
+    {
+      "timestamp": "2026-04-01T20:17:04",
+      "slug": "seo-newcastle-cbd",
+      "title": "SEO Services for Newcastle CBD Businesses",
+      "status": "error",
+      "link": "",
+      "post_id": null,
+      "message": "[newcastlehub] Content contains foreign domain(s): ['https://sweetsworld.com.au']\nThis is a data isolation violation — publish aborted."
+    },
+    {
+      "timestamp": "2026-04-01T20:17:11",
+      "slug": "seo-hunter-valley",
+      "title": "SEO Services Hunter Valley NSW",
+      "status": "error",
+      "link": "",
+      "post_id": null,
+      "message": "400 Client Error: Bad Request for url: https://newcastlehub.info/wp-json/wp/v2/categories"
+    },
+    {
+      "timestamp": "2026-04-01T20:17:17",
+      "slug": "seo-lake-macquarie",
+      "title": "SEO Services Lake Macquarie NSW",
+      "status": "error",
+      "link": "",
+      "post_id": null,
+      "message": "400 Client Error: Bad Request for url: https://newcastlehub.info/wp-json/wp/v2/categories"
+    },
+    {
+      "timestamp": "2026-04-01T20:17:34",
+      "slug": "website-speed-newcastle",
+      "title": "Why Your Newcastle Business Website is Slow (and How to Fix It)",
+      "status": "error",
+      "link": "",
+      "post_id": null,
+      "message": "[newcastlehub] Content contains foreign domain(s): ['https://sweetsworld.com.au']\nThis is a data isolation violation — publish aborted."
+    },
+    {
+      "timestamp": "2026-04-01T20:17:53",
+      "slug": "content-marketing-newcastle",
+      "title": "Content Marketing for Newcastle Businesses — A Practical Guide",
+      "status": "error",
+      "link": "",
+      "post_id": null,
+      "message": "[newcastlehub] Content contains foreign domain(s): ['https://sweetsworld.com.au']\nThis is a data isolation violation — publish aborted."
+    },
+    {
+      "timestamp": "2026-04-01T20:18:13",
+      "slug": "email-marketing-newcastle",
+      "title": "Email Marketing for Newcastle Small Businesses",
+      "status": "error",
+      "link": "",
+      "post_id": null,
+      "message": "[newcastlehub] Content contains foreign domain(s): ['https://sweetsworld.com.au']\nThis is a data isolation violation — publish aborted."
+    },
+    {
+      "timestamp": "2026-04-01T20:18:28",
+      "slug": "citation-building-newcastle",
+      "title": "What Are Local Citations and Why Does Your Newcastle Business Need Them",
+      "status": "error",
+      "link": "",
+      "post_id": null,
+      "message": "[newcastlehub] Content contains foreign domain(s): ['https://sweetsworld.com.au']\nThis is a data isolation violation — publish aborted."
+    },
+    {
+      "timestamp": "2026-04-01T20:18:45",
+      "slug": "technical-seo-newcastle",
+      "title": "Technical SEO Checklist for Newcastle Business Websites",
+      "status": "error",
+      "link": "",
+      "post_id": null,
+      "message": "[newcastlehub] Content contains foreign domain(s): ['https://sweetsworld.com.au']\nThis is a data isolation violation — publish aborted."
+    },
+    {
+      "timestamp": "2026-04-01T20:19:03",
+      "slug": "how-to-rank-google-maps-newcastle",
+      "title": "How to Rank on Google Maps in Newcastle",
+      "status": "error",
+      "link": "",
+      "post_id": null,
+      "message": "[newcastlehub] Content contains foreign domain(s): ['https://sweetsworld.com.au']\nThis is a data isolation violation — publish aborted."
+    },
+    {
+      "timestamp": "2026-04-01T20:19:23",
+      "slug": "newcastle-digital-marketing-faq",
+      "title": "Newcastle Digital Marketing — Frequently Asked Questions",
+      "status": "error",
+      "link": "",
+      "post_id": null,
+      "message": "[newcastlehub] Content contains foreign domain(s): ['https://sweetsworld.com.au']\nThis is a data isolation violation — publish aborted."
+    },
+    {
+      "timestamp": "2026-04-01T20:19:30",
+      "slug": "local-seo-faq-newcastle",
+      "title": "Local SEO FAQs for Newcastle Businesses",
+      "status": "error",
+      "link": "",
+      "post_id": null,
+      "message": "400 Client Error: Bad Request for url: https://newcastlehub.info/wp-json/wp/v2/categories"
+    },
+    {
+      "timestamp": "2026-04-01T20:22:44",
+      "slug": "google-business-profile-newcastle",
+      "title": "How to Set Up Google Business Profile in Newcastle",
+      "status": "published",
+      "link": "https://newcastlehub.info/2026/04/01/google-business-profile-newcastle/",
+      "post_id": 890,
+      "message": ""
+    },
+    {
+      "timestamp": "2026-04-05T16:16:14",
+      "slug": "free-business-audit-newcastle",
+      "title": "Free Newcastle Business Digital Audit — What to Expect",
+      "status": "published",
+      "link": "https://newcastlehub.info/free-business-audit-newcastle/",
+      "post_id": 899,
+      "message": ""
+    },
+    {
+      "timestamp": "2026-04-06T11:00:31",
+      "slug": "website-design-newcastle",
+      "title": "Website Design for Newcastle Small Businesses",
+      "status": "published",
+      "link": "https://newcastlehub.info/website-design-newcastle/",
+      "post_id": 901,
+      "message": ""
+    },
+    {
+      "timestamp": "2026-04-07T11:00:39",
+      "slug": "seo-newcastle-nsw",
+      "title": "SEO Services Newcastle NSW — Get Found on Google",
+      "status": "published",
+      "link": "https://newcastlehub.info/seo-newcastle-nsw/",
+      "post_id": 903,
+      "message": ""
+    },
+    {
+      "timestamp": "2026-04-08T09:22:46",
+      "slug": "digital-marketing-newcastle",
+      "title": "Digital Marketing for Newcastle Businesses",
+      "status": "published",
+      "link": "https://newcastlehub.info/digital-marketing-newcastle/",
+      "post_id": 905,
+      "message": ""
+    },
+    {
+      "timestamp": "2026-04-08T09:23:21",
+      "slug": "newcastle-business-online-presence",
+      "title": "How to Build Your Newcastle Business Online Presence",
+      "status": "published",
+      "link": "https://newcastlehub.info/newcastle-business-online-presence/",
+      "post_id": 907,
+      "message": ""
+    },
+    {
+      "timestamp": "2026-04-09T11:00:38",
+      "slug": "google-reviews-newcastle",
+      "title": "How to Get More Google Reviews for Your Newcastle Business",
+      "status": "published",
+      "link": "https://newcastlehub.info/google-reviews-newcastle/",
+      "post_id": 995,
+      "message": ""
+    },
+    {
+      "timestamp": "2026-04-10T11:00:39",
+      "slug": "local-seo-vs-national-seo",
+      "title": "Local SEO vs National SEO — Which Does Your Business Need?",
+      "status": "published",
+      "link": "https://newcastlehub.info/local-seo-vs-national-seo/",
+      "post_id": 999,
+      "message": ""
+    },
+    {
+      "timestamp": "2026-04-11T11:00:41",
+      "slug": "best-website-builders-small-business",
+      "title": "Best Website Builders for Newcastle Small Businesses",
+      "status": "published",
+      "link": "https://newcastlehub.info/best-website-builders-small-business/",
+      "post_id": 1001,
+      "message": ""
+    },
+    {
+      "timestamp": "2026-04-12T11:00:40",
+      "slug": "social-media-newcastle",
+      "title": "Social Media Management for Newcastle Businesses",
+      "status": "published",
+      "link": "https://newcastlehub.info/social-media-newcastle/",
+      "post_id": 1003,
+      "message": ""
+    },
+    {
+      "timestamp": "2026-04-13T11:00:33",
+      "slug": "newcastle-business-directory",
+      "title": "Newcastle Business Directory — Get Listed Online",
+      "status": "published",
+      "link": "https://newcastlehub.info/newcastle-business-directory/",
+      "post_id": 1008,
+      "message": ""
+    }
+  ],
+  "topics": {
+    "local-seo-newcastle": {
+      "slug": "local-seo-newcastle",
+      "title": "Local SEO Newcastle — Complete Guide",
+      "status": "error",
+      "last_attempted_at": "2026-04-01T20:14:05",
+      "post_link": "",
+      "post_id": null,
+      "last_error": "[newcastlehub] Content contains foreign domain(s): ['https://sweetsworld.com.au']\nThis is a data isolation violation — publish aborted."
+    },
+    "google-business-profile-newcastle": {
+      "slug": "google-business-profile-newcastle",
+      "title": "How to Set Up Google Business Profile in Newcastle",
+      "status": "published",
+      "last_attempted_at": "2026-04-01T20:22:44",
+      "post_link": "https://newcastlehub.info/2026/04/01/google-business-profile-newcastle/",
+      "post_id": 890,
+      "last_error": "",
+      "last_success_at": "2026-04-01T20:22:44"
+    },
+    "free-business-audit-newcastle": {
+      "slug": "free-business-audit-newcastle",
+      "title": "Free Newcastle Business Digital Audit — What to Expect",
+      "status": "published",
+      "last_attempted_at": "2026-04-05T16:16:14",
+      "post_link": "https://newcastlehub.info/free-business-audit-newcastle/",
+      "post_id": 899,
+      "last_error": "",
+      "last_success_at": "2026-04-05T16:16:14"
+    },
+    "website-design-newcastle": {
+      "slug": "website-design-newcastle",
+      "title": "Website Design for Newcastle Small Businesses",
+      "status": "published",
+      "last_attempted_at": "2026-04-06T11:00:31",
+      "post_link": "https://newcastlehub.info/website-design-newcastle/",
+      "post_id": 901,
+      "last_error": "",
+      "last_success_at": "2026-04-06T11:00:31"
+    },
+    "seo-newcastle-nsw": {
+      "slug": "seo-newcastle-nsw",
+      "title": "SEO Services Newcastle NSW — Get Found on Google",
+      "status": "published",
+      "last_attempted_at": "2026-04-07T11:00:39",
+      "post_link": "https://newcastlehub.info/seo-newcastle-nsw/",
+      "post_id": 903,
+      "last_error": "",
+      "last_success_at": "2026-04-07T11:00:39"
+    },
+    "digital-marketing-newcastle": {
+      "slug": "digital-marketing-newcastle",
+      "title": "Digital Marketing for Newcastle Businesses",
+      "status": "published",
+      "last_attempted_at": "2026-04-08T09:22:46",
+      "post_link": "https://newcastlehub.info/digital-marketing-newcastle/",
+      "post_id": 905,
+      "last_error": "",
+      "last_success_at": "2026-04-08T09:22:46"
+    },
+    "newcastle-business-online-presence": {
+      "slug": "newcastle-business-online-presence",
+      "title": "How to Build Your Newcastle Business Online Presence",
+      "status": "published",
+      "last_attempted_at": "2026-04-08T09:23:21",
+      "post_link": "https://newcastlehub.info/newcastle-business-online-presence/",
+      "post_id": 907,
+      "last_error": "",
+      "last_success_at": "2026-04-08T09:23:21"
+    },
+    "google-reviews-newcastle": {
+      "slug": "google-reviews-newcastle",
+      "title": "How to Get More Google Reviews for Your Newcastle Business",
+      "status": "published",
+      "last_attempted_at": "2026-04-09T11:00:38",
+      "post_link": "https://newcastlehub.info/google-reviews-newcastle/",
+      "post_id": 995,
+      "last_error": "",
+      "last_success_at": "2026-04-09T11:00:38"
+    },
+    "local-seo-vs-national-seo": {
+      "slug": "local-seo-vs-national-seo",
+      "title": "Local SEO vs National SEO — Which Does Your Business Need?",
+      "status": "published",
+      "last_attempted_at": "2026-04-10T11:00:39",
+      "post_link": "https://newcastlehub.info/local-seo-vs-national-seo/",
+      "post_id": 999,
+      "last_error": "",
+      "last_success_at": "2026-04-10T11:00:39"
+    },
+    "best-website-builders-small-business": {
+      "slug": "best-website-builders-small-business",
+      "title": "Best Website Builders for Newcastle Small Businesses",
+      "status": "published",
+      "last_attempted_at": "2026-04-11T11:00:41",
+      "post_link": "https://newcastlehub.info/best-website-builders-small-business/",
+      "post_id": 1001,
+      "last_error": "",
+      "last_success_at": "2026-04-11T11:00:41"
+    },
+    "social-media-newcastle": {
+      "slug": "social-media-newcastle",
+      "title": "Social Media Management for Newcastle Businesses",
+      "status": "published",
+      "last_attempted_at": "2026-04-12T11:00:40",
+      "post_link": "https://newcastlehub.info/social-media-newcastle/",
+      "post_id": 1003,
+      "last_error": "",
+      "last_success_at": "2026-04-12T11:00:40"
+    },
+    "newcastle-business-directory": {
+      "slug": "newcastle-business-directory",
+      "title": "Newcastle Business Directory — Get Listed Online",
+      "status": "published",
+      "last_attempted_at": "2026-04-13T11:00:33",
+      "post_link": "https://newcastlehub.info/newcastle-business-directory/",
+      "post_id": 1008,
+      "last_error": "",
+      "last_success_at": "2026-04-13T11:00:33"
+    },
+    "seo-newcastle-cbd": {
+      "slug": "seo-newcastle-cbd",
+      "title": "SEO Services for Newcastle CBD Businesses",
+      "status": "error",
+      "last_attempted_at": "2026-04-01T20:17:04",
+      "post_link": "",
+      "post_id": null,
+      "last_error": "[newcastlehub] Content contains foreign domain(s): ['https://sweetsworld.com.au']\nThis is a data isolation violation — publish aborted."
+    },
+    "seo-hunter-valley": {
+      "slug": "seo-hunter-valley",
+      "title": "SEO Services Hunter Valley NSW",
+      "status": "error",
+      "last_attempted_at": "2026-04-01T20:17:11",
+      "post_link": "",
+      "post_id": null,
+      "last_error": "400 Client Error: Bad Request for url: https://newcastlehub.info/wp-json/wp/v2/categories"
+    },
+    "seo-lake-macquarie": {
+      "slug": "seo-lake-macquarie",
+      "title": "SEO Services Lake Macquarie NSW",
+      "status": "error",
+      "last_attempted_at": "2026-04-01T20:17:17",
+      "post_link": "",
+      "post_id": null,
+      "last_error": "400 Client Error: Bad Request for url: https://newcastlehub.info/wp-json/wp/v2/categories"
+    },
+    "website-speed-newcastle": {
+      "slug": "website-speed-newcastle",
+      "title": "Why Your Newcastle Business Website is Slow (and How to Fix It)",
+      "status": "error",
+      "last_attempted_at": "2026-04-01T20:17:34",
+      "post_link": "",
+      "post_id": null,
+      "last_error": "[newcastlehub] Content contains foreign domain(s): ['https://sweetsworld.com.au']\nThis is a data isolation violation — publish aborted."
+    },
+    "content-marketing-newcastle": {
+      "slug": "content-marketing-newcastle",
+      "title": "Content Marketing for Newcastle Businesses — A Practical Guide",
+      "status": "error",
+      "last_attempted_at": "2026-04-01T20:17:53",
+      "post_link": "",
+      "post_id": null,
+      "last_error": "[newcastlehub] Content contains foreign domain(s): ['https://sweetsworld.com.au']\nThis is a data isolation violation — publish aborted."
+    },
+    "email-marketing-newcastle": {
+      "slug": "email-marketing-newcastle",
+      "title": "Email Marketing for Newcastle Small Businesses",
+      "status": "error",
+      "last_attempted_at": "2026-04-01T20:18:13",
+      "post_link": "",
+      "post_id": null,
+      "last_error": "[newcastlehub] Content contains foreign domain(s): ['https://sweetsworld.com.au']\nThis is a data isolation violation — publish aborted."
+    },
+    "citation-building-newcastle": {
+      "slug": "citation-building-newcastle",
+      "title": "What Are Local Citations and Why Does Your Newcastle Business Need Them",
+      "status": "error",
+      "last_attempted_at": "2026-04-01T20:18:28",
+      "post_link": "",
+      "post_id": null,
+      "last_error": "[newcastlehub] Content contains foreign domain(s): ['https://sweetsworld.com.au']\nThis is a data isolation violation — publish aborted."
+    },
+    "technical-seo-newcastle": {
+      "slug": "technical-seo-newcastle",
+      "title": "Technical SEO Checklist for Newcastle Business Websites",
+      "status": "error",
+      "last_attempted_at": "2026-04-01T20:18:45",
+      "post_link": "",
+      "post_id": null,
+      "last_error": "[newcastlehub] Content contains foreign domain(s): ['https://sweetsworld.com.au']\nThis is a data isolation violation — publish aborted."
+    },
+    "how-to-rank-google-maps-newcastle": {
+      "slug": "how-to-rank-google-maps-newcastle",
+      "title": "How to Rank on Google Maps in Newcastle",
+      "status": "error",
+      "last_attempted_at": "2026-04-01T20:19:03",
+      "post_link": "",
+      "post_id": null,
+      "last_error": "[newcastlehub] Content contains foreign domain(s): ['https://sweetsworld.com.au']\nThis is a data isolation violation — publish aborted."
+    },
+    "newcastle-digital-marketing-faq": {
+      "slug": "newcastle-digital-marketing-faq",
+      "title": "Newcastle Digital Marketing — Frequently Asked Questions",
+      "status": "error",
+      "last_attempted_at": "2026-04-01T20:19:23",
+      "post_link": "",
+      "post_id": null,
+      "last_error": "[newcastlehub] Content contains foreign domain(s): ['https://sweetsworld.com.au']\nThis is a data isolation violation — publish aborted."
+    },
+    "local-seo-faq-newcastle": {
+      "slug": "local-seo-faq-newcastle",
+      "title": "Local SEO FAQs for Newcastle Businesses",
+      "status": "error",
+      "last_attempted_at": "2026-04-01T20:19:30",
+      "post_link": "",
+      "post_id": null,
+      "last_error": "400 Client Error: Bad Request for url: https://newcastlehub.info/wp-json/wp/v2/categories"
+    }
+  }
+}

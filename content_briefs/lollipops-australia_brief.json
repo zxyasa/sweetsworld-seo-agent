@@ -1,0 +1,142 @@
+{
+  "brief_id": "lollipops-australia-brief-v1",
+  "slug": "lollipops-australia",
+  "keyword": "lollipops australia",
+  "search_intent": "Commercial category intent",
+  "page_type": "category_page",
+  "title": "Lollipops Australia: Buy Giant Lollipops and Bulk Lollipops Online",
+  "meta_description": "Lollipops Australia: Buy Giant Lollipops and Bulk Lollipops Online. Compare stock options, buying factors, and the best next steps for lollipops in...",
+  "intro": "This page explains the lollipops range, the main product formats to compare, and the next collection or product pages worth opening before you buy.",
+  "outline": [
+    "What defines the lollipops range",
+    "How to shop Candy & Lollies more confidently"
+  ],
+  "sections": [
+    {
+      "heading": "What defines the lollipops range",
+      "paragraphs": [
+        "A category page for lollipops should explain flavour profile, product format, and the most recognisable options in the range.",
+        "That helps search engines and shoppers understand the scope of the page before they move deeper into the catalogue."
+      ],
+      "bullets": [
+        "10 pcs sherbet lollipops",
+        "CADBURY GIANT BUTTONS- 119G",
+        "Campfire Giant Marshmallows 340g",
+        "Chamoy Flavored TAKIS FUEGO LollipopsX3 72g"
+      ]
+    },
+    {
+      "heading": "How to shop Candy & Lollies more confidently",
+      "paragraphs": [
+        "Category pages should guide users through format, suitability, and value instead of listing products without context.",
+        "This is the section that turns a collection page into a useful SEO landing surface."
+      ],
+      "bullets": [
+        "Show best sellers before long-tail variants.",
+        "Explain when bundles make more sense than single items.",
+        "Link into adjacent collections and product pages."
+      ]
+    }
+  ],
+  "faq_items": [
+    {
+      "question": "What should I look for when choosing lollipops?",
+      "answer": "Focus on suitability for the use case, flavour profile, pack size, and delivery timing rather than assuming every popular candy is the right fit."
+    },
+    {
+      "question": "What is the best next step after reading this page?",
+      "answer": "Use the linked category or product pages to compare live stock, range depth, and practical buying options."
+    },
+    {
+      "question": "Can this page help me compare candy & lollies options?",
+      "answer": "Yes. It should clarify which products or collections are the best fit instead of leaving the reader with generic advice."
+    }
+  ],
+  "faq_questions": [
+    "What should I look for when choosing lollipops?",
+    "What is the best next step after reading this page?",
+    "Can this page help me compare candy & lollies options?"
+  ],
+  "internal_links": [
+    {
+      "url": "https://sweetsworld.com.au/candy/",
+      "label": "Candy",
+      "anchor_text": "Explore Candy",
+      "link_kind": "category"
+    },
+    {
+      "url": "https://sweetsworld.com.au/candy/10-pcs-sherbet-lollipops/",
+      "label": "10 Pcs Sherbet Lollipops",
+      "anchor_text": "Browse 10 Pcs Sherbet Lollipops",
+      "link_kind": "collection"
+    },
+    {
+      "url": "https://sweetsworld.com.au/british-lollies/uk-chocolate/cadbury-giant-buttons/",
+      "label": "Cadbury Giant Buttons",
+      "anchor_text": "Compare Cadbury Giant Buttons",
+      "link_kind": "product"
+    }
+  ],
+  "selected_products": [
+    {
+      "product_name": "10 pcs sherbet lollipops",
+      "category": "Candy",
+      "description": "",
+      "price": "4.99",
+      "url": "https://sweetsworld.com.au/candy/10-pcs-sherbet-lollipops/",
+      "matched_tokens": [
+        "lollipop"
+      ],
+      "matched_phrases": [],
+      "selection_reason": "direct_match"
+    },
+    {
+      "product_name": "CADBURY GIANT BUTTONS- 119G",
+      "category": "Chocolate Gift Box",
+      "description": "CADBURY GIANT BUTTONS – A Classic Treat, Bigger and Better! Product Description: The creamy, classic milk chocolate from Cadbury comes in big button-shaped bites! Made with fresh milk from British farms. At Sweets...",
+      "price": "7.99",
+      "url": "https://sweetsworld.com.au/british-lollies/uk-chocolate/cadbury-giant-buttons/",
+      "matched_tokens": [
+        "giant"
+      ],
+      "matched_phrases": [],
+      "selection_reason": "direct_match"
+    },
+    {
+      "product_name": "Campfire Giant Marshmallows 340g",
+      "category": "Candy",
+      "description": "",
+      "price": "11.99",
+      "url": "https://sweetsworld.com.au/candy/campfire-giant-marshmallows-340g/",
+      "matched_tokens": [
+        "giant"
+      ],
+      "matched_phrases": [],
+      "selection_reason": "direct_match"
+    },
+    {
+      "product_name": "Chamoy Flavored TAKIS FUEGO LollipopsX3 72g",
+      "category": "Candy",
+      "description": "Ingredients SUGAR, CORN SYRUP, CHILI PEPPER (CHILE), SALT, CITRIC ACID, MALTODEXTRIN, NATURAL AND ARTIFICIAL FLAVORS, MAGNESIUM STEARATE, RED 40, TITANIUM DIOXIDE, SOY LECITHIN. Allergens No allergen statement found...",
+      "price": "7.99",
+      "url": "https://sweetsworld.com.au/candy/chamoy-flavored-takis-fuego-lollipopsx3-72g/",
+      "matched_tokens": [
+        "lollipop"
+      ],
+      "matched_phrases": [],
+      "selection_reason": "direct_match"
+    }
+  ],
+  "related_keywords": [
+    "sweetsworld",
+    "sweets world",
+    "white knight chocolate",
+    "fantales lollies",
+    "clinkers chocolate",
+    "fantails lolly"
+  ],
+  "cta": {
+    "heading": "Use this page as a shortlist for lollipops",
+    "body": "Review the key options, then move into the linked collection or product pages when you are ready to compare live stock and pricing."
+  }
+}

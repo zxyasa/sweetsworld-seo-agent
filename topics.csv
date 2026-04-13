@@ -1,3 +1,225 @@
-slug,title,primary_keyword,category_hint
-wholesale-candy-australia-guide,Wholesale Candy Australia: Supplier Guide (2026),wholesale candy australia,Wholesale Candy
-sour-lollies-buying-guide,Sour Lollies Buying Guide: Flavours, Brands & Bulk,sour lollies australia,Sour Lollies
+slug,title,primary_keyword,category_hint,page_type,cluster,priority
+white-knight-chocolate-where-to-buy-australia,White Knight Chocolate: Where to Buy in Australia,white knight chocolate where to buy,Chocolate Bars,landing_page,chocolate,1
+fantales-lollies-buying-guide,"Fantales Lollies Buying Guide: Where to Buy, 1kg Options, and Best Alternatives",fantales lollies,Candy & Lollies,guide_page,australian_candy,2
+are-jolly-ranchers-halal,"Are Jolly Ranchers Halal? Ingredients, Gelatine, and What to Check",are jolly ranchers halal,American Candy,guide_page,halal_vegan,2
+are-nerds-vegan,"Are Nerds Vegan? Ingredients, Colours, and Vegan-Friendly Alternatives",are nerds vegan,Candy Ingredients,guide_page,halal_vegan,2
+nilla-wafers-australia-where-to-buy,"Nilla Wafers in Australia: Where to Buy and Best Alternatives",nilla wafers australia where to buy,American Snacks,landing_page,american_candy,2
+best-candy-for-kids-australia,Best Candy for Kids Australia: Safe and Fun Lolly Picks,best candy for kids australia,Kids Candy,occasion_page,occasion,3
+best-lollies-for-party-bags,Best Lollies for Party Bags Australia: Bulk Picks Under Budget,best lollies for party bags,Party Supplies,occasion_page,occasion,3
+best-candy-for-movie-night,Best Candy for Movie Night Australia: Sweet and Salty Picks,best candy for movie night australia,Candy,occasion_page,occasion,3
+american-candy-australia,American Candy Australia: Buy US Sweets Online,american candy australia,American Candy,landing_page,american_candy,1
+american-candy-guide,American Candy Guide: Popular US Sweets Explained,popular american candy brands,American Candy,category_page,american_candy,2
+japanese-candy-australia,Japanese Candy Australia: Where to Buy Dagashi and Pocky,japanese candy australia,Japanese Candy,category_page,japanese_candy,2
+sour-lollies-australia,Sour Lollies Australia: Best Sour Candy to Buy Online,sour lollies australia,Sour Candy,category_page,sour_candy,2
+buy-bulk-candy-online-australia,Buy Bulk Candy Online Australia: Cheapest Lolly Packs,buy bulk candy online australia,Wholesale,landing_page,commercial,1
+candy-gift-box-australia,Candy Gift Box Australia: Best Sweet Hampers and Lolly Bags,candy gift box australia,Gift Sets,landing_page,commercial,1
+cheap-candy-online-australia,Cheap Candy Online Australia: Best Value Lolly Deals,cheap candy online australia,Candy,landing_page,commercial,2
+christmas-candy-australia,Christmas Candy Australia: Festive Lollies and Sweet Gifts,christmas candy australia,Seasonal Candy,occasion_page,seasonal,1
+halloween-candy-australia,Halloween Candy Australia: Best Trick or Treat Lollies,halloween candy australia,Seasonal Candy,occasion_page,seasonal,1
+easter-candy-australia,Easter Candy Australia: Chocolate Eggs and Easter Lollies,easter candy australia,Easter Chocolate,occasion_page,seasonal,1
+valentines-day-candy-australia,Valentine's Day Candy Australia: Sweet Gifts for Your Partner,valentines day candy australia,Gift Sets,occasion_page,seasonal,2
+mothers-day-chocolate-australia,Mother's Day Chocolate Australia: Sweet Gifts Mum Will Love,mothers day chocolate australia,Gift Sets,occasion_page,seasonal,2
+fathers-day-candy-australia,Father's Day Candy Australia: Sweet and Savoury Gift Ideas,fathers day candy australia,Gift Sets,occasion_page,seasonal,2
+wedding-candy-australia,Wedding Candy Australia: Lolly Buffets and Bonbonniere Ideas,wedding candy australia,Gift Sets,occasion_page,occasion,1
+birthday-candy-australia,Birthday Candy Australia: Fun Lolly Bags and Party Sweets,birthday candy australia,Party Supplies,occasion_page,occasion,1
+engagement-party-lollies,Engagement Party Lollies: Sweet Ideas for Your Celebration,engagement party lollies australia,Party Supplies,occasion_page,occasion,2
+baby-shower-candy-australia,Baby Shower Candy Australia: Cute Sweet Treats for the Big Day,baby shower candy australia,Party Supplies,occasion_page,occasion,2
+uk-sweets-australia,UK Sweets Australia: British Lollies and Candy to Buy Online,uk sweets australia,British Candy,category_page,international_candy,1
+british-chocolate-australia,British Chocolate Australia: Buy Cadbury UK and More Online,british chocolate australia,British Candy,landing_page,international_candy,2
+korean-snacks-australia,Korean Snacks Australia: Buy K-Snacks and Pepero Online,korean snacks australia,Korean Snacks,category_page,international_candy,2
+european-chocolate-australia,European Chocolate Australia: Belgian and Swiss Choc Online,european chocolate australia,European Chocolate,category_page,international_candy,2
+halal-candy-australia,Halal Candy Australia: Gelatine-Free Lollies and Sweets,halal candy australia,Halal Candy,landing_page,halal_vegan,1
+vegan-lollies-australia,Vegan Lollies Australia: Gelatine-Free and Plant-Based Candy,vegan lollies australia,Vegan Candy,landing_page,halal_vegan,1
+sugar-free-lollies-australia,Sugar Free Lollies Australia: Best Low-Sugar Candy Online,sugar free lollies australia,Sugar Free,landing_page,health,2
+lolly-buffet-ideas-australia,Lolly Buffet Ideas Australia: How to Set Up the Perfect Sweet Table,lolly buffet ideas,Party Supplies,guide_page,occasion,1
+bulk-lollies-australia,Bulk Lollies Australia: Wholesale Candy for Parties and Events,bulk lollies australia,Wholesale,landing_page,commercial,1
+gluten-free-lollies-australia,Gluten Free Lollies Australia: Safe Candy for Coeliac and Gluten Intolerant,gluten free lollies australia,Gluten Free,landing_page,health,1
+dairy-free-chocolate-australia,Dairy Free Chocolate Australia: Milk-Free Choc and Candy Online,dairy free chocolate australia,Dairy Free,landing_page,health,1
+no-artificial-colours-lollies,Natural Lollies Australia: No Artificial Colours or Flavours,lollies no artificial colours australia,Natural Candy,landing_page,health,2
+nut-free-candy-australia,Nut Free Candy Australia: Safe Lollies for Nut Allergy Kids,nut free candy australia,Allergy Friendly,landing_page,health,2
+allergy-friendly-lollies-australia,Allergy Friendly Lollies Australia: Nut Free Gluten Free Dairy Free Options,allergy friendly lollies australia,Allergy Friendly,guide_page,health,2
+dutch-candy-australia,Dutch Candy Australia: Buy Holland Sweets and Licorice Online,dutch candy australia,Dutch Candy,category_page,international_candy,2
+german-candy-australia,German Candy Australia: Buy Haribo and German Sweets Online,german candy australia,German Candy,category_page,international_candy,2
+turkish-candy-australia,Turkish Candy Australia: Turkish Delight and Sweet Treats Online,turkish candy australia,Turkish Candy,category_page,international_candy,2
+belgian-chocolate-australia,Belgian Chocolate Australia: Buy Authentic Belgian Choc Online,belgian chocolate australia,Belgian Chocolate,landing_page,international_candy,1
+italian-candy-australia,Italian Candy Australia: Buy Italian Sweets and Confectionery Online,italian candy australia,Italian Candy,category_page,international_candy,3
+mexican-candy-australia,Mexican Candy Australia: Buy Takis Pulparindo and More Online,mexican candy australia,Mexican Candy,category_page,international_candy,2
+swedish-candy-australia,Swedish Candy Australia: Pick and Mix Scandinavian Lollies Online,swedish candy australia,Swedish Candy,category_page,international_candy,3
+canadian-candy-australia,Canadian Candy Australia: Buy Ketchup Chips and Canadian Sweets,canadian candy australia,Canadian Candy,category_page,international_candy,3
+haribo-australia,Haribo Australia: Buy Goldbears and Haribo Gummies Online,haribo australia,Gummy Candy,landing_page,brand,1
+reeses-australia,Reese's Australia: Buy Peanut Butter Cups and Reese's Candy Online,reeses australia where to buy,American Candy,landing_page,brand,1
+skittles-australia,Skittles Australia: All Flavours and Varieties to Buy Online,skittles australia,American Candy,landing_page,brand,1
+jolly-rancher-australia,Jolly Rancher Australia: Buy Hard Candy and Gummies Online,jolly rancher australia,American Candy,landing_page,brand,2
+twizzlers-australia,Twizzlers Australia: Where to Buy Red Licorice Twists Online,twizzlers australia,American Candy,landing_page,brand,2
+nerds-candy-australia,Nerds Candy Australia: Buy Nerds Rope and Nerds Clusters Online,nerds candy australia,American Candy,landing_page,brand,2
+hersheys-australia,Hershey's Australia: Buy Hershey's Chocolate and Kisses Online,hersheys australia,American Chocolate,landing_page,brand,2
+trolli-australia,Trolli Australia: Buy Trolli Gummies and Sour Worms Online,trolli australia,Gummy Candy,landing_page,brand,2
+pop-rocks-australia,Pop Rocks Australia: Buy Popping Candy Online,pop rocks australia,Novelty Candy,landing_page,brand,3
+darrell-lea-gift-ideas,Darrell Lea Gift Ideas: Best Australian Chocolate Gifts,darrell lea gift ideas,Australian Chocolate,landing_page,brand,2
+pez-australia,PEZ Australia: Buy PEZ Dispensers and Candy Online,pez australia,Novelty Candy,landing_page,brand,3
+warheads-australia,Warheads Australia: Buy Sour Warheads Candy Online,warheads australia,Sour Candy,landing_page,brand,2
+jelly-belly-australia,Jelly Belly Australia: Buy Jelly Beans and Gift Boxes Online,jelly belly australia,Jelly Beans,landing_page,brand,1
+twix-buy-australia,Twix Australia: Where to Buy Bulk Twix and Gift Packs Online,twix australia,Chocolate Bars,landing_page,brand,3
+candy-hamper-australia,Candy Hamper Australia: Sweet Gift Hampers for Every Occasion,candy hamper australia,Gift Sets,landing_page,gift,1
+lolly-bag-ideas-kids,Lolly Bag Ideas for Kids: What to Put in Party Bags Australia,lolly bag ideas for kids,Party Supplies,guide_page,gift,1
+corporate-candy-gifts-australia,Corporate Candy Gifts Australia: Branded Sweet Hampers for Clients,corporate candy gifts australia,Gift Sets,landing_page,gift,2
+personalised-candy-gifts-australia,Personalised Candy Gifts Australia: Custom Sweet Hampers and Lolly Bags,personalised candy gifts australia,Gift Sets,landing_page,gift,2
+candy-gift-ideas-for-him,Candy Gift Ideas for Him: Best Sweet Gifts for Men Australia,candy gift ideas for him,Gift Sets,occasion_page,gift,2
+candy-gift-ideas-for-her,Candy Gift Ideas for Her: Best Sweet Gifts for Women Australia,candy gift ideas for her,Gift Sets,occasion_page,gift,2
+get-well-soon-candy-australia,Get Well Soon Candy Australia: Sweet Care Packages to Cheer Someone Up,get well soon candy australia,Gift Sets,occasion_page,gift,3
+thank-you-candy-gifts-australia,Thank You Candy Gifts Australia: Sweet Ways to Say Thanks,thank you candy gifts australia,Gift Sets,occasion_page,gift,3
+m-and-ms-australia,M&Ms Australia: All Flavours and Varieties to Buy Online,m&ms australia,American Chocolate,landing_page,brand,1
+kit-kat-australia,Kit Kat Australia: Buy Kit Kat Flavours Including Japan Varieties,kit kat australia,Chocolate Bars,landing_page,brand,1
+twirl-chocolate-australia,Twirl Chocolate Australia: Where to Buy Cadbury Twirl Online,twirl chocolate australia,British Candy,landing_page,brand,2
+cadbury-favourites-australia,Cadbury Favourites Australia: Buy Cadbury Chocolate Gift Boxes,cadbury favourites australia,British Candy,landing_page,brand,1
+lindt-chocolate-australia,Lindt Chocolate Australia: Buy Lindt Balls and Gift Boxes Online,lindt chocolate australia,European Chocolate,landing_page,brand,1
+maltesers-australia,Maltesers Australia: Buy Maltesers Bags and Gift Boxes Online,maltesers australia,British Candy,landing_page,brand,2
+after-eight-australia,After Eight Australia: Buy Mint Chocolate Thins Online,after eight australia,British Candy,landing_page,brand,2
+bounty-bar-australia,Bounty Bar Australia: Where to Buy Coconut Chocolate Online,bounty bar australia,Chocolate Bars,landing_page,brand,3
+twirl-australia,Twirl Australia: Where to Buy Cadbury Twirl Bars Online,twirl chocolate bar australia,British Candy,landing_page,brand,2
+airheads-australia,Airheads Australia: Buy Airheads Candy and Xtremes Online,airheads australia,American Candy,landing_page,brand,2
+starburst-australia,Starburst Australia: Buy Starburst Chews and FaveReds Online,starburst australia,American Candy,landing_page,brand,2
+mike-and-ike-australia,Mike and Ike Australia: Buy Mike and Ike Candy Online,mike and ike australia,American Candy,landing_page,brand,3
+sour-patch-kids-australia,Sour Patch Kids Australia: Where to Buy Sour Patch Kids Online,sour patch kids australia,Sour Candy,landing_page,brand,1
+laffy-taffy-australia,Laffy Taffy Australia: Buy Stretchy Taffy Candy Online,laffy taffy australia,American Candy,landing_page,brand,3
+swedish-fish-australia,Swedish Fish Australia: Where to Buy Swedish Fish Candy Online,swedish fish australia,Swedish Candy,landing_page,brand,2
+black-forest-gummies-australia,Black Forest Gummies Australia: Buy Organic Gummy Bears Online,black forest gummies australia,Gummy Candy,landing_page,brand,3
+dots-candy-australia,Dots Candy Australia: Where to Buy Dots Gumdrops Online,dots candy australia,American Candy,landing_page,brand,3
+starbursts-gummies-australia,Starburst Gummies Australia: Buy Starburst Gummy Worms Online,starburst gummies australia,American Candy,landing_page,brand,3
+kinder-chocolate-australia,Kinder Chocolate Australia: Buy Kinder Surprise and Bueno Online,kinder chocolate australia,European Chocolate,landing_page,brand,1
+ferrero-rocher-australia,Ferrero Rocher Australia: Buy Ferrero Gift Boxes Online,ferrero rocher australia,European Chocolate,landing_page,brand,1
+anthon-berg-australia,Anthon Berg Australia: Buy Chocolate Liqueurs Online,anthon berg australia,European Chocolate,landing_page,brand,2
+lotus-biscoff-australia,Lotus Biscoff Australia: Buy Biscoff Spread and Biscuits Online,lotus biscoff australia,European Snacks,landing_page,brand,2
+hostess-twinkies-australia,Hostess Twinkies Australia: Where to Buy Twinkies Online,hostess twinkies australia,American Candy,landing_page,brand,2
+takis-australia,Takis Australia: Buy Takis Fuego and All Flavours Online,takis australia,Mexican Candy,landing_page,brand,1
+tnt-sour-candy-australia,TNT Sour Candy Australia: Buy TNT Sour Straps and Turbo Tubes Online,tnt sour candy australia,Sour Candy,landing_page,brand,1
+freckleberry-australia,Freckleberry Australia: Buy Freckleberry Chocolate and Gifts Online,freckleberry australia,Australian Chocolate,landing_page,brand,2
+allens-lollies-australia,Allen's Lollies Australia: Buy Allen's Red Frogs Snakes and More,allens lollies australia,Candy & Lollies,landing_page,brand,1
+lolliland-australia,Lolliland Australia: Buy Lolliland Bulk Lollies and Gummies Online,lolliland australia,Candy & Lollies,landing_page,brand,2
+faygo-australia,Faygo Australia: Buy Faygo Soda and American Drinks Online,faygo australia,American Drinks,landing_page,brand,2
+peeps-australia,Peeps Australia: Buy Peeps Marshmallow Candy Online,peeps australia,American Candy,landing_page,brand,3
+wonka-australia,Wonka Australia: Buy Nerds Gobstoppers and Wonka Candy Online,wonka candy australia,American Candy,landing_page,brand,2
+charlotte-piper-australia,Charlotte Piper Australia: Buy Australian Chocolates Online,charlotte piper australia,Australian Chocolate,landing_page,brand,2
+kellys-candy-australia,Kelly's Candy Australia: Buy Kelly's Lollies and Sweets Online,kellys candy australia,Candy & Lollies,landing_page,brand,3
+jack-daniels-bbq-australia,Jack Daniel's BBQ Sauce Australia: Buy JD Sauces and Gift Sets Online,jack daniels bbq sauce australia,Grocery,landing_page,brand,2
+pop-tarts-australia,Pop Tarts Australia: Buy Pop Tarts All Flavours Online,pop tarts australia,American Snacks,landing_page,brand,1
+mtn-dew-australia,Mountain Dew Australia: Buy Mtn Dew Drinks and Varieties Online,mountain dew australia,American Drinks,landing_page,brand,2
+milka-chocolate-australia,Milka Chocolate Australia: Buy Milka Purple Bars and Gift Sets Online,milka chocolate australia,European Chocolate,landing_page,brand,2
+cheetos-australia,Cheetos Australia: Buy Cheetos Flamin Hot and Crunchy Online,cheetos australia,American Snacks,landing_page,brand,1
+fini-sweets-australia,Fini Sweets Australia: Buy Fini Gummy and Licorice Online,fini sweets australia,Gummy Candy,landing_page,brand,3
+zappo-lollies-australia,Zappo Lollies Australia: Buy Zappo Chews Online,zappo lollies australia,Candy & Lollies,landing_page,brand,2
+butlers-chocolate-ireland,Butlers Chocolate Australia: Buy Irish Butlers Chocolates Online,butlers chocolate australia,Irish Chocolate,landing_page,brand,2
+blairs-hot-sauce-australia,Blair's Hot Sauce Australia: Buy Blair's Death Sauce Online,blairs hot sauce australia,Hot Sauce,landing_page,brand,3
+wicked-fizz-australia,Wicked Fizz Australia: Buy Wicked Fizz Chews Online,wicked fizz australia,Candy & Lollies,landing_page,brand,2
+kool-aid-australia,Kool-Aid Australia: Buy Kool-Aid Drinks and Jammers Online,kool aid australia,American Drinks,landing_page,brand,2
+lacroix-sparkling-water-australia,LaCroix Australia: Buy LaCroix Sparkling Water Online,lacroix australia,American Drinks,landing_page,brand,3
+old-fashioned-lollies-australia,Old Fashioned Lollies Australia: Classic Retro Sweets You Grew Up With,old fashioned lollies australia,Classic Candy,category_page,classic,1
+allens-red-frogs-australia,Allen's Red Frogs Australia: Buy Red Frogs Bulk and Gift Packs,allens red frogs australia,Classic Candy,landing_page,classic,1
+allens-snakes-alive-australia,Allen's Snakes Alive Australia: Buy Snakes Lollies in Bulk Online,allens snakes alive australia,Classic Candy,landing_page,classic,1
+jaffas-lollies-australia,Jaffas Lollies Australia: Buy Jaffas Orange Chocolate Balls Online,jaffas lollies australia,Classic Candy,landing_page,classic,2
+minties-australia,Minties Australia: Buy Minties Lollies in Bulk Online,minties australia,Classic Candy,landing_page,classic,2
+musk-sticks-australia,Musk Sticks Australia: Buy Musk Sticks Lollies Online,musk sticks australia,Classic Candy,landing_page,classic,2
+clinkers-lollies-australia,Clinkers Australia: Buy Clinkers Chocolate Lollies Online,clinkers australia,Classic Candy,landing_page,classic,2
+humbugs-candy-australia,Humbugs Australia: Buy Peppermint Humbugs Boiled Sweets Online,humbugs candy australia,Classic Candy,landing_page,classic,3
+spearmint-leaves-australia,Spearmint Leaves Australia: Buy Spearmint Jelly Lollies Online,spearmint leaves australia,Classic Candy,landing_page,classic,3
+pineapple-chunks-australia,Pineapple Chunks Australia: Buy Pineapple Chew Lollies Online,pineapple chunks australia,Classic Candy,landing_page,classic,2
+licorice-allsorts-australia,Licorice Allsorts Australia: Buy Bassetts and Darrell Lea Allsorts,licorice allsorts australia,Classic Candy,landing_page,classic,2
+werthers-original-australia,Werther's Original Australia: Buy Werther's Caramel Sweets Online,werthers original australia,Classic Candy,landing_page,classic,2
+chupa-chups-australia,Chupa Chups Australia: Buy Chupa Chups Lollipops and Bulk Packs,chupa chups australia,Classic Candy,landing_page,classic,1
+mentos-australia,Mentos Australia: Buy Mentos Rolls and Mint Fresheners Online,mentos australia,Classic Candy,landing_page,classic,2
+jawbreakers-australia,Jawbreakers Australia: Buy Gobstoppers and Jawbreaker Candy Online,jawbreakers australia,Classic Candy,landing_page,classic,2
+candy-canes-australia,Candy Canes Australia: Buy Christmas Candy Canes in Bulk Online,candy canes australia,Seasonal Candy,landing_page,classic,2
+redskins-lollies-australia,Red Rippers Australia: Buy Redskins Raspberry Chew Lollies Online,redskins lollies australia,Classic Candy,landing_page,classic,2
+boiled-sweets-australia,Boiled Sweets Australia: Buy Classic Hard Candy and Drops Online,boiled sweets australia,Classic Candy,category_page,classic,3
+retro-lolly-bags-australia,Retro Lolly Bags Australia: Old School Sweets for Nostalgic Gifting,retro lolly bag australia,Gift Sets,occasion_page,classic,2
+strawberry-candy-australia,Strawberry Candy Australia: Best Strawberry Lollies and Sweets Online,strawberry candy australia,Candy & Lollies,category_page,flavour,2
+watermelon-candy-australia,Watermelon Candy Australia: Buy Watermelon Lollies and Gummies Online,watermelon candy australia,Candy & Lollies,category_page,flavour,2
+grape-candy-australia,Grape Candy Australia: Buy Grape Lollies and Grape Flavoured Sweets,grape candy australia,Candy & Lollies,category_page,flavour,3
+cherry-candy-australia,Cherry Candy Australia: Buy Cherry Lollies and Cherry Flavoured Sweets,cherry candy australia,Candy & Lollies,category_page,flavour,3
+cola-candy-australia,Cola Candy Australia: Buy Cola Bottles and Cola Flavoured Lollies,cola candy australia,Candy & Lollies,category_page,flavour,2
+raspberry-candy-australia,Raspberry Candy Australia: Buy Raspberry Lollies and Sweets Online,raspberry candy australia,Candy & Lollies,category_page,flavour,2
+mango-candy-australia,Mango Candy Australia: Buy Mango Lollies and Mango Sweets Online,mango candy australia,Candy & Lollies,category_page,flavour,2
+peach-candy-australia,Peach Candy Australia: Buy Peach Rings and Peach Flavoured Sweets,peach candy australia,Candy & Lollies,category_page,flavour,3
+lemon-candy-australia,Lemon Candy Australia: Buy Lemon Lollies and Sour Lemon Sweets,lemon candy australia,Sour Candy,category_page,flavour,2
+orange-candy-australia,Orange Candy Australia: Buy Orange Lollies and Orange Chocolate Online,orange candy australia,Candy & Lollies,category_page,flavour,3
+bubblegum-candy-australia,Bubblegum Candy Australia: Buy Bubblegum Lollies and Chewing Gum Online,bubblegum candy australia,Candy & Lollies,category_page,flavour,2
+mint-chocolate-australia,Mint Chocolate Australia: Buy Mint Dark Chocolate and Mint Lollies Online,mint chocolate australia,Chocolate Bars,category_page,flavour,1
+caramel-chocolate-australia,Caramel Chocolate Australia: Buy Caramel Chews and Caramel Chocolate,caramel chocolate australia,Chocolate Bars,category_page,flavour,1
+peanut-butter-candy-australia,Peanut Butter Candy Australia: Buy Peanut Butter Cups and Sweets Online,peanut butter candy australia,American Candy,category_page,flavour,1
+coconut-chocolate-australia,Coconut Chocolate Australia: Buy Coconut Lollies and Chocolate Online,coconut chocolate australia,Chocolate Bars,category_page,flavour,2
+cinnamon-candy-australia,Cinnamon Candy Australia: Buy Hot Cinnamon Lollies and Sweets Online,cinnamon candy australia,Candy & Lollies,category_page,flavour,3
+butterscotch-candy-australia,Butterscotch Candy Australia: Buy Butterscotch Lollies and Toffees Online,butterscotch candy australia,Classic Candy,category_page,flavour,3
+blueberry-candy-australia,Blueberry Candy Australia: Buy Blueberry Lollies and Gummies Online,blueberry candy australia,Candy & Lollies,category_page,flavour,3
+passionfruit-candy-australia,Passionfruit Candy Australia: Buy Passionfruit Lollies and Sweets Online,passionfruit candy australia,Candy & Lollies,category_page,flavour,3
+lollipops-australia,Lollipops Australia: Buy Giant Lollipops and Bulk Lollipops Online,lollipops australia,Candy & Lollies,category_page,format,1
+gummy-bears-australia,Gummy Bears Australia: Buy Haribo and Bulk Gummy Bears Online,gummy bears australia,Gummy Candy,landing_page,format,1
+licorice-australia,Licorice Australia: Buy Black and Red Licorice Twists Online,licorice australia,Classic Candy,category_page,format,1
+marshmallows-australia,Marshmallows Australia: Buy Bulk Marshmallows and Flavoured Varieties,marshmallows australia,Candy & Lollies,landing_page,format,2
+chocolate-bars-australia,Chocolate Bars Australia: Best Chocolate Bars to Buy Online,chocolate bars australia,Chocolate Bars,category_page,format,1
+chewing-gum-australia,Chewing Gum Australia: Buy Bulk Chewing Gum and Sugar Free Gum Online,chewing gum australia,Classic Candy,category_page,format,2
+hard-candy-australia,Hard Candy Australia: Buy Boiled Sweets and Hard Lollies Online,hard candy australia,Classic Candy,category_page,format,2
+candy-necklace-australia,Candy Necklace Australia: Buy Candy Jewellery and Wearable Sweets Online,candy necklace australia,Novelty Candy,landing_page,format,3
+pick-and-mix-lollies-online,Pick and Mix Lollies Online Australia: Build Your Own Lolly Bag,pick and mix lollies online australia,Candy & Lollies,landing_page,commercial,1
+buy-lollies-online-australia,Buy Lollies Online Australia: Best Online Lolly Shop,buy lollies online australia,Candy & Lollies,landing_page,commercial,1
+candy-subscription-box-australia,Candy Subscription Box Australia: Monthly Lolly Box Delivered,candy subscription box australia,Gift Sets,landing_page,commercial,1
+candy-mystery-box-australia,Candy Mystery Box Australia: Surprise Lolly Packs and Sweet Boxes,candy mystery box australia,Gift Sets,landing_page,commercial,2
+lolly-shop-online-australia,Lolly Shop Online Australia: Best Place to Buy Lollies and Candy,lolly shop online australia,Candy & Lollies,landing_page,commercial,1
+australian-made-chocolate,Australian Made Chocolate: Best Locally Made Chocolate Brands,australian made chocolate,Australian Chocolate,category_page,australian,1
+australian-candy-brands,Australian Candy Brands: Best Made in Australia Lollies and Sweets,australian candy brands,Australian Candy,category_page,australian,1
+school-canteen-lollies-australia,School Canteen Lollies Australia: Healthy and Fun Lolly Ideas,school canteen lollies australia,Kids Candy,guide_page,occasion,2
+tuck-shop-lollies-australia,Tuck Shop Lollies Australia: Best Value Bulk Lollies for Schools,tuck shop lollies australia,Kids Candy,landing_page,occasion,2
+hot-candy-australia,Hot Candy Australia: Spicy Lollies and Chilli Sweets Online,hot candy australia,Novelty Candy,category_page,flavour,2
+spicy-chocolate-australia,Spicy Chocolate Australia: Buy Chilli Chocolate and Hot Choc Online,spicy chocolate australia,Chocolate Bars,landing_page,flavour,2
+american-soda-australia,American Soda Australia: Buy US Soft Drinks and Sodas Online,american soda australia,American Drinks,category_page,format,1
+craft-soda-australia,Craft Soda Australia: Buy Artisan and Unusual Sodas Online,craft soda australia,American Drinks,landing_page,format,2
+candy-advent-calendar-australia,Candy Advent Calendar Australia: Sweet Christmas Countdown Calendars,candy advent calendar australia,Seasonal Candy,landing_page,seasonal,1
+stocking-fillers-australia,Stocking Fillers Australia: Best Candy and Sweet Stocking Stuffers,stocking fillers australia,Gift Sets,occasion_page,seasonal,1
+candy-for-office-australia,Office Candy Australia: Best Sweets and Snacks for the Workplace,candy for office australia,Gift Sets,occasion_page,occasion,3
+lolly-advent-calendar-australia,Lolly Advent Calendar Australia: Best Candy Countdown Calendars,lolly advent calendar australia,Seasonal Candy,landing_page,seasonal,2
+fairy-floss-australia,Fairy Floss Australia: Buy Cotton Candy and Fairy Floss Online,fairy floss australia,Classic Candy,landing_page,format,2
+fudge-australia,Fudge Australia: Buy Handmade Fudge and Chocolate Fudge Online,fudge australia,Classic Candy,category_page,format,2
+nougat-australia,Nougat Australia: Buy Soft Nougat and Almond Nougat Online,nougat australia,Classic Candy,landing_page,format,2
+rocky-road-australia,Rocky Road Australia: Buy Rocky Road Chocolate Blocks Online,rocky road australia,Australian Chocolate,landing_page,format,1
+toffee-australia,Toffee Australia: Buy Butterscotch Toffee and Toffee Lollies Online,toffee australia,Classic Candy,landing_page,format,2
+jelly-beans-australia,Jelly Beans Australia: Buy Jelly Belly and Bulk Jelly Beans Online,jelly beans australia,Candy & Lollies,landing_page,format,1
+sour-straps-australia,Sour Straps Australia: Buy Sour Straps Lollies in Bulk Online,sour straps australia,Sour Candy,landing_page,format,1
+chocolate-truffles-australia,Chocolate Truffles Australia: Buy Luxury Chocolate Truffles Online,chocolate truffles australia,European Chocolate,landing_page,format,2
+caramel-popcorn-australia,Caramel Popcorn Australia: Buy Sweet Popcorn and Snack Packs Online,caramel popcorn australia,Snacks,landing_page,format,2
+chocolate-coated-nuts-australia,Chocolate Coated Nuts Australia: Buy Choc Almonds and Peanuts Online,chocolate coated nuts australia,Chocolate Bars,landing_page,format,2
+candy-for-teenagers-australia,Candy for Teenagers Australia: Cool and Trendy Lolly Picks,candy for teenagers australia,Candy & Lollies,occasion_page,occasion,2
+candy-for-adults-australia,Candy for Adults Australia: Sophisticated Sweets and Gourmet Lollies,candy for adults australia,Candy & Lollies,occasion_page,occasion,2
+90s-candy-australia,90s Candy Australia: Nostalgic Retro Sweets from the Nineties,90s candy australia,Classic Candy,category_page,classic,2
+graduation-candy-australia,Graduation Candy Australia: Sweet Gifts to Celebrate Finishing School,graduation candy australia,Gift Sets,occasion_page,occasion,3
+teacher-gifts-candy-australia,Teacher Gift Candy Australia: Sweet Thank You Gifts for Teachers,teacher gift candy australia,Gift Sets,occasion_page,occasion,2
+farewell-party-lollies-australia,Farewell Party Lollies Australia: Sweet Sendoff Ideas and Lolly Bags,farewell party lollies australia,Party Supplies,occasion_page,occasion,3
+new-years-eve-candy-australia,New Year's Eve Candy Australia: Party Lollies for NYE Celebrations,new years eve candy australia,Seasonal Candy,occasion_page,seasonal,2
+wholesale-candy-australia,Wholesale Candy Australia: Bulk Lolly Suppliers for Events and Retail,wholesale candy australia,Wholesale,landing_page,commercial,1
+candy-catering-australia,Candy Catering Australia: Lolly Buffet and Sweet Table Hire,candy catering australia,Wholesale,landing_page,commercial,2
+bulk-candy-for-events-australia,Bulk Candy for Events Australia: Weddings Parties and Corporates,bulk candy for events australia,Wholesale,landing_page,commercial,1
+keto-candy-australia,Keto Candy Australia: Low Carb and Sugar Free Lollies for Keto Diet,keto candy australia,Sugar Free,landing_page,health,2
+diabetic-candy-australia,Diabetic Candy Australia: Low Sugar Lollies Safe for Diabetics,diabetic candy australia,Sugar Free,landing_page,health,2
+no-gelatine-candy-australia,No Gelatine Candy Australia: Gelatine Free Lollies and Sweets,no gelatine candy australia,Halal Candy,landing_page,health,1
+most-popular-candy-australia,Most Popular Candy in Australia: Best Selling Lollies and Sweets,most popular candy australia,Candy & Lollies,guide_page,australian,1
+best-australian-candy-to-send-overseas,Best Australian Candy to Send Overseas: Iconic Lollies for Gifts Abroad,best australian candy to send overseas,Australian Candy,guide_page,australian,2
+how-to-set-up-candy-bar,How to Set Up a Candy Bar: DIY Lolly Buffet Guide for Parties,how to set up a candy bar,Party Supplies,guide_page,occasion,1
+candy-bouquet-ideas-australia,Candy Bouquet Ideas Australia: How to Make a Sweet Bouquet,candy bouquet ideas australia,Gift Sets,guide_page,gift,2
+darrell-lea-liquorice-australia,Darrell Lea Liquorice Australia: Buy Soft Eating Liquorice Online,darrell lea liquorice australia,Australian Chocolate,landing_page,brand,1
+pink-lady-chocolates-australia,Pink Lady Chocolates Australia: Buy Pink Lady Foil Chocolates Online,pink lady chocolates australia,Australian Chocolate,landing_page,brand,2
+best-candy-australia-2026,Best Candy in Australia 2026: Top Lollies and Sweets,best candy australia 2026,Candy & Lollies,guide_page,australian,1
+healthy-candy-alternatives-australia,Healthy Candy Alternatives Australia: Low Sugar and Natural Sweets,healthy candy alternatives australia,Health & Alternatives,landing_page,health,2
+candy-australia-guide-2026,Ultimate Guide to Candy in Australia 2026: Lollies Sweets and More,candy australia guide 2026,Candy & Lollies,guide_page,australian,2
+faq-bulk-candy-australia,Bulk Candy Australia FAQ: Everything You Need to Know,bulk candy australia faq,Bulk & Wholesale,faq_page,commercial,3
+faq-halal-lollies-australia,Halal Lollies Australia FAQ: Common Questions Answered,halal lollies australia faq,Halal & Vegan,faq_page,halal_vegan,3
+faq-american-candy-australia,American Candy Australia FAQ: What to Buy and Where,american candy australia faq,American Candy,faq_page,american_candy,3
+faq-chocolate-gifts-australia,Chocolate Gifts Australia FAQ: Choosing the Right Gift,chocolate gifts australia faq,Gifting,faq_page,gift,3
+allens-vs-cadbury-lollies-australia,"Allen's vs Cadbury Lollies Australia: Which Brand Is Worth It?",allens vs cadbury lollies australia,Candy & Lollies,comparison_page,classic,3
+bulk-candy-vs-retail-australia,"Bulk Candy vs Retail in Australia: Price, Variety and Value Compared",bulk candy vs retail australia,Bulk & Wholesale,comparison_page,commercial,3
+natural-candy-vs-regular-australia,"Natural Candy vs Regular Candy Australia: Ingredients, Taste and Price",natural candy vs regular australia,Health & Alternatives,comparison_page,health,3
+best-halal-lollies-australia,Best Halal Lollies in Australia: Top Picks for Every Occasion,best halal lollies australia,Halal & Vegan,best_of_page,halal_vegan,3
+best-bulk-candy-deals-australia,Best Bulk Candy Deals in Australia: Top Wholesale Picks,best bulk candy deals australia,Bulk & Wholesale,best_of_page,commercial,3
+best-australian-candy-brands,Best Australian Candy Brands: Classic and Artisan Picks,best australian candy brands,Australian Chocolate,best_of_page,australian,3
+best-american-candy-to-try-australia,Best American Candy to Try in Australia: Must-Have US Sweets,best american candy australia,American Candy,best_of_page,american_candy,3
+buy-candy-online-sydney,"Buy Candy Online Sydney: Fast Delivery of Lollies & Sweets",buy candy online sydney,Online Delivery,city_landing_page,commercial,3
+buy-lollies-online-melbourne,"Buy Lollies Online Melbourne: Sweets Delivered to Your Door",buy lollies online melbourne,Online Delivery,city_landing_page,commercial,3
+order-candy-online-brisbane,"Order Candy Online Brisbane: Lollies and Sweets Delivered",order candy online brisbane,Online Delivery,city_landing_page,commercial,3
+buy-candy-online-perth,"Buy Candy Online Perth: Australian Lollies Shipped to Perth",buy candy online perth,Online Delivery,city_landing_page,commercial,4

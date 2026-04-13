@@ -1,0 +1,118 @@
+{
+  "brief_id": "mexican-candy-australia-brief-v1",
+  "slug": "mexican-candy-australia",
+  "keyword": "mexican candy australia",
+  "search_intent": "Commercial category intent",
+  "page_type": "category_page",
+  "title": "Mexican Candy Australia: Buy Takis Pulparindo and More Online",
+  "meta_description": "Mexican Candy Australia: Buy Takis Pulparindo and More Online. Compare stock options, buying factors, and the best next steps for mexican candy in...",
+  "intro": "This page explains the mexican candy range, the main product formats to compare, and the next collection or product pages worth opening before you buy.",
+  "outline": [
+    "What defines the mexican candy range",
+    "How to shop Mexican Candy more confidently"
+  ],
+  "sections": [
+    {
+      "heading": "What defines the mexican candy range",
+      "paragraphs": [
+        "A category page for mexican candy should explain flavour profile, product format, and the most recognisable options in the range.",
+        "That helps search engines and shoppers understand the scope of the page before they move deeper into the catalogue."
+      ],
+      "bullets": [
+        "BARCEL TAKIS XPLOSION 92G",
+        "De la Rosa Pulparindots Tamarind Candy Watermelon 30g"
+      ]
+    },
+    {
+      "heading": "How to shop Mexican Candy more confidently",
+      "paragraphs": [
+        "Category pages should guide users through format, suitability, and value instead of listing products without context.",
+        "This is the section that turns a collection page into a useful SEO landing surface."
+      ],
+      "bullets": [
+        "Show best sellers before long-tail variants.",
+        "Explain when bundles make more sense than single items.",
+        "Link into adjacent collections and product pages."
+      ]
+    }
+  ],
+  "faq_items": [
+    {
+      "question": "What should I look for when choosing mexican candy?",
+      "answer": "Focus on suitability for the use case, flavour profile, pack size, and delivery timing rather than assuming every popular candy is the right fit."
+    },
+    {
+      "question": "What is the best next step after reading this page?",
+      "answer": "Use the linked category or product pages to compare live stock, range depth, and practical buying options."
+    },
+    {
+      "question": "Can this page help me compare mexican candy options?",
+      "answer": "Yes. It should clarify which products or collections are the best fit instead of leaving the reader with generic advice."
+    }
+  ],
+  "faq_questions": [
+    "What should I look for when choosing mexican candy?",
+    "What is the best next step after reading this page?",
+    "Can this page help me compare mexican candy options?"
+  ],
+  "internal_links": [
+    {
+      "url": "https://sweetsworld.com.au/candy/",
+      "label": "Candy",
+      "anchor_text": "Explore Candy",
+      "link_kind": "category"
+    },
+    {
+      "url": "https://sweetsworld.com.au/candy/barcel-takis-xplosion-92g/",
+      "label": "Barcel Takis Xplosion 92g",
+      "anchor_text": "Browse Barcel Takis Xplosion 92g",
+      "link_kind": "collection"
+    },
+    {
+      "url": "https://sweetsworld.com.au/shop/candy/allensfantales1kg/",
+      "label": "Allensfantales1kg",
+      "anchor_text": "View Allensfantales1kg",
+      "link_kind": "product"
+    }
+  ],
+  "selected_products": [
+    {
+      "product_name": "BARCEL TAKIS XPLOSION 92G",
+      "category": "Candy",
+      "description": "Taste the Heat of Barcel Takis Xplosion Barcel Takis Xplosion delivers a fiery burst of cheese and chili flavour. Every crunchy bite packs bold Mexican-inspired seasoning. You will crave the intense heat with each...",
+      "price": "7.99",
+      "url": "https://sweetsworld.com.au/candy/barcel-takis-xplosion-92g/",
+      "matched_tokens": [
+        "mexican",
+        "taki"
+      ],
+      "matched_phrases": [],
+      "selection_reason": "direct_match"
+    },
+    {
+      "product_name": "De la Rosa Pulparindots Tamarind Candy Watermelon 30g",
+      "category": "Uncategorized",
+      "description": "De la Rosa Pulparindots Tamarind Candy Watermelon 30g Product Description: Pulparindots Sandia - A Mexican style fruit based chewy, spicy snack, perfect for sharing. These are small spicy tamarind bites with a taste...",
+      "price": "2",
+      "url": "https://sweetsworld.com.au/uncategorized/de-la-rosa-pulparindots-tamarind-candy-watermelon-30g/",
+      "matched_tokens": [
+        "mexican",
+        "pulparindo"
+      ],
+      "matched_phrases": [],
+      "selection_reason": "direct_match"
+    }
+  ],
+  "related_keywords": [
+    "sweetsworld",
+    "sweets world",
+    "white knight chocolate",
+    "fantales lollies",
+    "fantails lolly",
+    "darrell lea kotara"
+  ],
+  "cta": {
+    "heading": "Use this page as a shortlist for mexican candy",
+    "body": "Review the key options, then move into the linked collection or product pages when you are ready to compare live stock and pricing."
+  }
+}

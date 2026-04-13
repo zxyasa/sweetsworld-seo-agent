@@ -1,0 +1,124 @@
+{
+  "brief_id": "belgian-chocolate-australia-brief-v1",
+  "slug": "belgian-chocolate-australia",
+  "keyword": "belgian chocolate australia",
+  "search_intent": "Transactional with commercial intent",
+  "page_type": "landing_page",
+  "title": "Belgian Chocolate Australia: Buy Authentic Belgian Choc Online",
+  "meta_description": "Belgian Chocolate Australia: Buy Authentic Belgian Choc Online. Compare stock options, buying factors, and the best next steps for belgian chocolate in...",
+  "intro": "Use this page to compare where to buy belgian chocolate in Australia, what to check before ordering, and which belgian chocolate options are the best fit for your basket.",
+  "outline": [
+    "Where to buy belgian chocolate with less guesswork",
+    "How to compare Belgian Chocolate options before ordering"
+  ],
+  "sections": [
+    {
+      "heading": "Where to buy belgian chocolate with less guesswork",
+      "paragraphs": [
+        "Landing pages for belgian chocolate need to show real commercial value quickly, including price context, stock clarity, and relevant product paths.",
+        "The goal is to reduce purchase friction rather than publish a thin page that repeats the keyword."
+      ],
+      "bullets": [
+        "Trefin Belgian Chocolate Seashells 200g",
+        "Balance Belgian Chocolate Assorted Collection- No Sugar Added Chocolate Gift Box 148g"
+      ]
+    },
+    {
+      "heading": "How to compare Belgian Chocolate options before ordering",
+      "paragraphs": [
+        "A stronger landing page explains the trade-offs between pack size, flavour range, stock depth, and delivery timing.",
+        "That gives the page a conversion job as well as a ranking job."
+      ],
+      "bullets": [
+        "Compare unit price instead of headline price alone.",
+        "Check stock, bundle size, and delivery timing together.",
+        "Keep the call to action aligned with the buying task."
+      ]
+    }
+  ],
+  "faq_items": [
+    {
+      "question": "Where can I buy belgian chocolate online in Australia?",
+      "answer": "Start with Australian stores that show live stock, delivery windows, and product range depth for belgian chocolate before checkout."
+    },
+    {
+      "question": "How should I compare belgian chocolate prices?",
+      "answer": "Compare unit price, pack size, shipping cost, and bundle options together instead of looking at the headline price only."
+    },
+    {
+      "question": "Are there other belgian chocolate options worth comparing?",
+      "answer": "Yes. Nearby collections or substitute products can be useful when belgian chocolate is out of stock or only available in limited pack sizes."
+    }
+  ],
+  "faq_questions": [
+    "Where can I buy belgian chocolate online in Australia?",
+    "How should I compare belgian chocolate prices?",
+    "Are there other belgian chocolate options worth comparing?"
+  ],
+  "internal_links": [
+    {
+      "url": "https://sweetsworld.com.au/products/uk-sweets-australia/",
+      "label": "Uk Sweets Australia",
+      "anchor_text": "Shop Uk Sweets Australia",
+      "link_kind": "collection"
+    },
+    {
+      "url": "https://sweetsworld.com.au/chocolate/",
+      "label": "Chocolate",
+      "anchor_text": "Browse Chocolate",
+      "link_kind": "category"
+    },
+    {
+      "url": "https://sweetsworld.com.au/gift/chocolate-box/trefin-belgian-chocolate-seashells/",
+      "label": "Trefin Belgian Chocolate Seashells",
+      "anchor_text": "Compare Trefin Belgian Chocolate Seashells",
+      "link_kind": "product"
+    }
+  ],
+  "selected_products": [
+    {
+      "product_name": "Trefin Belgian Chocolate Seashells 200g",
+      "category": "Chocolate Box",
+      "description": "Indulge in the smooth and creamy taste of Trefin Belgian Chocolate Seashells , now available at Sweets World ! These beautifully crafted chocolates are shaped like delicate seashells and made from rich Belgian...",
+      "price": "20",
+      "url": "https://sweetsworld.com.au/gift/chocolate-box/trefin-belgian-chocolate-seashells/",
+      "matched_tokens": [
+        "chocolate",
+        "belgian",
+        "choc"
+      ],
+      "matched_phrases": [
+        "belgian chocolate"
+      ],
+      "selection_reason": "direct_match"
+    },
+    {
+      "product_name": "Balance Belgian Chocolate Assorted Collection- No Sugar Added Chocolate Gift Box 148g",
+      "category": "British Lollies",
+      "description": "Balance Belgian Chocolate Assorted Collection- No Sugar Added Chocolate Gift Box 148g Product Description: Treat yourself or someone special with the Balance Belgian Chocolate Assorted Collection , available at...",
+      "price": "24.99",
+      "url": "https://sweetsworld.com.au/british-lollies/uk-chocolate/balance-belgian-chocolate-assorted-collection/",
+      "matched_tokens": [
+        "chocolate",
+        "belgian",
+        "choc"
+      ],
+      "matched_phrases": [
+        "belgian chocolate"
+      ],
+      "selection_reason": "direct_match"
+    }
+  ],
+  "related_keywords": [
+    "sweetsworld",
+    "sweets world",
+    "white knight chocolate",
+    "fantales lollies",
+    "clinkers chocolate",
+    "fantails lolly"
+  ],
+  "cta": {
+    "heading": "Move from belgian chocolate research into a purchase",
+    "body": "Compare the shortlist, then click through to the most relevant collection or product page to check live stock and delivery details."
+  }
+}

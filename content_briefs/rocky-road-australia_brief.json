@@ -1,0 +1,173 @@
+{
+  "brief_id": "rocky-road-australia-brief-v1",
+  "slug": "rocky-road-australia",
+  "keyword": "rocky road australia",
+  "search_intent": "Transactional with commercial intent",
+  "page_type": "landing_page",
+  "title": "Rocky Road Australia: Buy Rocky Road Chocolate Blocks Online",
+  "meta_description": "Rocky Road Australia: Buy Rocky Road Chocolate Blocks Online. Compare stock options, buying factors, and the best next steps for rocky road in Australia.",
+  "intro": "Use this page to compare where to buy rocky road in Australia, what to check before ordering, and which australian chocolate options are the best fit for your basket.",
+  "outline": [
+    "Where to buy rocky road with less guesswork",
+    "How to compare Australian Chocolate options before ordering"
+  ],
+  "sections": [
+    {
+      "heading": "Where to buy rocky road with less guesswork",
+      "paragraphs": [
+        "Landing pages for rocky road need to show real commercial value quickly, including price context, stock clarity, and relevant product paths.",
+        "The goal is to reduce purchase friction rather than publish a thin page that repeats the keyword."
+      ],
+      "bullets": [
+        "Dark Chocolate Espresso Rocky Road 175g",
+        "DARK CHOCOLATE ROCKY ROAD GINGER 200G",
+        "Dark Chocolate Rocky Road Mint 200g",
+        "Dark Chocolate Rocky Road Original 200g"
+      ]
+    },
+    {
+      "heading": "How to compare Australian Chocolate options before ordering",
+      "paragraphs": [
+        "A stronger landing page explains the trade-offs between pack size, flavour range, stock depth, and delivery timing.",
+        "That gives the page a conversion job as well as a ranking job."
+      ],
+      "bullets": [
+        "Compare unit price instead of headline price alone.",
+        "Check stock, bundle size, and delivery timing together.",
+        "Keep the call to action aligned with the buying task."
+      ]
+    }
+  ],
+  "faq_items": [
+    {
+      "question": "Where can I buy rocky road online in Australia?",
+      "answer": "Start with Australian stores that show live stock, delivery windows, and product range depth for rocky road before checkout."
+    },
+    {
+      "question": "How should I compare rocky road prices?",
+      "answer": "Compare unit price, pack size, shipping cost, and bundle options together instead of looking at the headline price only."
+    },
+    {
+      "question": "Are there other australian chocolate options worth comparing?",
+      "answer": "Yes. Nearby collections or substitute products can be useful when rocky road is out of stock or only available in limited pack sizes."
+    }
+  ],
+  "faq_questions": [
+    "Where can I buy rocky road online in Australia?",
+    "How should I compare rocky road prices?",
+    "Are there other australian chocolate options worth comparing?"
+  ],
+  "internal_links": [
+    {
+      "url": "https://sweetsworld.com.au/products/lollipops-australia/",
+      "label": "Lollipops Australia",
+      "anchor_text": "Shop Lollipops Australia",
+      "link_kind": "collection"
+    },
+    {
+      "url": "https://sweetsworld.com.au/where-to-buy/gummy-bears-australia/",
+      "label": "Gummy Bears Australia",
+      "anchor_text": "Browse Gummy Bears Australia",
+      "link_kind": "commercial"
+    },
+    {
+      "url": "https://sweetsworld.com.au/chocolate/",
+      "label": "Chocolate",
+      "anchor_text": "Compare Chocolate",
+      "link_kind": "category"
+    }
+  ],
+  "selected_products": [
+    {
+      "product_name": "Dark Chocolate Espresso Rocky Road 175g",
+      "category": "Australian Chocolate",
+      "description": "",
+      "price": "17.99",
+      "url": "https://sweetsworld.com.au/chocolate/australian-chocolate/rrcmkespressorockyroad175g/",
+      "matched_tokens": [
+        "chocolate",
+        "rocky",
+        "road",
+        "australian"
+      ],
+      "matched_phrases": [
+        "rocky road"
+      ],
+      "selection_reason": "direct_match"
+    },
+    {
+      "product_name": "DARK CHOCOLATE ROCKY ROAD GINGER 200G",
+      "category": "Australian Chocolate",
+      "description": "",
+      "price": "17.99",
+      "url": "https://sweetsworld.com.au/chocolate/australian-chocolate/darkchocginger200g/",
+      "matched_tokens": [
+        "chocolate",
+        "rocky",
+        "road",
+        "australian"
+      ],
+      "matched_phrases": [
+        "rocky road"
+      ],
+      "selection_reason": "direct_match"
+    },
+    {
+      "product_name": "Dark Chocolate Rocky Road Mint 200g",
+      "category": "Australian Chocolate",
+      "description": "",
+      "price": "17.99",
+      "url": "https://sweetsworld.com.au/chocolate/australian-chocolate/darkchocolaterockyroadmint200g/",
+      "matched_tokens": [
+        "chocolate",
+        "rocky",
+        "road",
+        "australian"
+      ],
+      "matched_phrases": [
+        "rocky road"
+      ],
+      "selection_reason": "direct_match"
+    },
+    {
+      "product_name": "Dark Chocolate Rocky Road Original 200g",
+      "category": "Australian Chocolate",
+      "description": "200g Dark Chocolate Rocky Road",
+      "price": "17.99",
+      "url": "https://sweetsworld.com.au/chocolate/australian-chocolate/rrcpuredarkchocolaterockyroad/",
+      "matched_tokens": [
+        "chocolate",
+        "rocky",
+        "road",
+        "australian"
+      ],
+      "matched_phrases": [
+        "rocky road"
+      ],
+      "selection_reason": "direct_match"
+    }
+  ],
+  "related_keywords": [
+    "sweetsworld",
+    "sweets world",
+    "white knight chocolate",
+    "fantales lollies",
+    "clinkers chocolate",
+    "fantails lolly"
+  ],
+  "cta": {
+    "heading": "Move from rocky road research into a purchase",
+    "body": "Compare the shortlist, then click through to the most relevant collection or product page to check live stock and delivery details.",
+    "button_text": "Browse Related Collection"
+  },
+  "distribution_channels": [
+    "facebook",
+    "instagram",
+    "gbp",
+    "pinterest"
+  ],
+  "schema_types": [
+    "BreadcrumbList",
+    "ItemList"
+  ]
+}

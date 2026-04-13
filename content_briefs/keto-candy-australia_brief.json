@@ -1,0 +1,134 @@
+{
+  "brief_id": "keto-candy-australia-brief-v1",
+  "slug": "keto-candy-australia",
+  "keyword": "keto candy australia",
+  "search_intent": "Transactional with commercial intent",
+  "page_type": "landing_page",
+  "title": "Keto Candy Australia: Low Carb and Sugar Free Lollies for Keto Diet",
+  "meta_description": "Keto Candy Australia: Low Carb and Sugar Free Lollies for Keto Diet. Compare stock options, buying factors, and the best next steps for keto candy in...",
+  "intro": "Use this page to compare where to buy keto candy in Australia, what to check before ordering, and which sugar free options are the best fit for your basket.",
+  "outline": [
+    "Where to buy keto candy with less guesswork",
+    "How to compare Sugar Free options before ordering"
+  ],
+  "sections": [
+    {
+      "heading": "Where to buy keto candy with less guesswork",
+      "paragraphs": [
+        "Landing pages for keto candy need to show real commercial value quickly, including price context, stock clarity, and relevant product paths.",
+        "The goal is to reduce purchase friction rather than publish a thin page that repeats the keyword."
+      ],
+      "bullets": [
+        "Sugar Free Chews Vanilla and Choc Mix 70g",
+        "Sugarfree Hard Boiled Gourmet Chocolate 70g",
+        "Air Heads Gum with micro-candies Sugarfree Watermelon"
+      ]
+    },
+    {
+      "heading": "How to compare Sugar Free options before ordering",
+      "paragraphs": [
+        "A stronger landing page explains the trade-offs between pack size, flavour range, stock depth, and delivery timing.",
+        "That gives the page a conversion job as well as a ranking job."
+      ],
+      "bullets": [
+        "Compare unit price instead of headline price alone.",
+        "Check stock, bundle size, and delivery timing together.",
+        "Keep the call to action aligned with the buying task."
+      ]
+    }
+  ],
+  "faq_items": [
+    {
+      "question": "Where can I buy keto candy online in Australia?",
+      "answer": "Start with Australian stores that show live stock, delivery windows, and product range depth for keto candy before checkout."
+    },
+    {
+      "question": "How should I compare keto candy prices?",
+      "answer": "Compare unit price, pack size, shipping cost, and bundle options together instead of looking at the headline price only."
+    },
+    {
+      "question": "Are there other sugar free options worth comparing?",
+      "answer": "Yes. Nearby collections or substitute products can be useful when keto candy is out of stock or only available in limited pack sizes."
+    }
+  ],
+  "faq_questions": [
+    "Where can I buy keto candy online in Australia?",
+    "How should I compare keto candy prices?",
+    "Are there other sugar free options worth comparing?"
+  ],
+  "internal_links": [
+    {
+      "url": "https://sweetsworld.com.au/chocolate/australian-chocolate/",
+      "label": "Australian Chocolate",
+      "anchor_text": "Shop Australian Chocolate",
+      "link_kind": "collection"
+    },
+    {
+      "url": "https://sweetsworld.com.au/chocolate/",
+      "label": "Chocolate",
+      "anchor_text": "Browse Chocolate",
+      "link_kind": "category"
+    },
+    {
+      "url": "https://sweetsworld.com.au/chocolate/australian-chocolate/sugarfreechewsvanillaandchocmix70g/",
+      "label": "Sugarfreechewsvanillaandchocmix70g",
+      "anchor_text": "See Sugarfreechewsvanillaandchocmix70g",
+      "link_kind": "product"
+    }
+  ],
+  "selected_products": [
+    {
+      "product_name": "Sugar Free Chews Vanilla and Choc Mix 70g",
+      "category": "Australian Chocolate",
+      "description": "Sugar Free Chews Vanilla and Choc Mix 70g Product Description: Sugar free, gluten free and low carb. Natural colours and flavours. Delicious vanilla and chocolate flavour chews. INGREDIENTS: Sweeteners (maltitols...",
+      "price": "6.99",
+      "url": "https://sweetsworld.com.au/chocolate/australian-chocolate/sugarfreechewsvanillaandchocmix70g/",
+      "matched_tokens": [
+        "carb",
+        "sugar",
+        "free"
+      ],
+      "matched_phrases": [],
+      "selection_reason": "direct_match"
+    },
+    {
+      "product_name": "Sugarfree Hard Boiled Gourmet Chocolate 70g",
+      "category": "Candy",
+      "description": "Sugarfree Hard Boiled Gourmet Chocolate 70g Product Description: Sugar free, gluten free low carb and fat free. No artificial colours and flavours. A delicious hard-boiled gourmet blackcurrant flavoured candy made...",
+      "price": "6.99",
+      "url": "https://sweetsworld.com.au/candy/sugarfreehardboiledgourmetchocolate/",
+      "matched_tokens": [
+        "carb",
+        "sugar",
+        "free"
+      ],
+      "matched_phrases": [],
+      "selection_reason": "direct_match"
+    },
+    {
+      "product_name": "Air Heads Gum with micro-candies Sugarfree Watermelon",
+      "category": "American Candy Box",
+      "description": "",
+      "price": "5.99",
+      "url": "https://sweetsworld.com.au/candy/american-candy/airheadsgumwithmicro-candiessugarfreewatermelon/",
+      "matched_tokens": [
+        "sugar",
+        "free"
+      ],
+      "matched_phrases": [],
+      "selection_reason": "direct_match"
+    }
+  ],
+  "related_keywords": [
+    "sweetsworld",
+    "sweets world",
+    "white knight chocolate",
+    "fantales lollies",
+    "fantails lolly",
+    "darrell lea kotara"
+  ],
+  "cta": {
+    "heading": "Move from keto candy research into a purchase",
+    "body": "Compare the shortlist, then click through to the most relevant collection or product page to check live stock and delivery details."
+  }
+}

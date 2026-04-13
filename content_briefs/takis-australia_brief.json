@@ -1,0 +1,147 @@
+{
+  "brief_id": "takis-australia-brief-v1",
+  "slug": "takis-australia",
+  "keyword": "takis australia",
+  "search_intent": "Transactional with commercial intent",
+  "page_type": "landing_page",
+  "title": "Takis Australia: Buy Takis Fuego and All Flavours Online",
+  "meta_description": "Takis Australia: Buy Takis Fuego and All Flavours Online. Compare stock options, buying factors, and the best next steps for takis in Australia.",
+  "intro": "Use this page to compare where to buy takis in Australia, what to check before ordering, and which mexican candy options are the best fit for your basket.",
+  "outline": [
+    "Where to buy takis with less guesswork",
+    "How to compare Mexican Candy options before ordering"
+  ],
+  "sections": [
+    {
+      "heading": "Where to buy takis with less guesswork",
+      "paragraphs": [
+        "Landing pages for takis need to show real commercial value quickly, including price context, stock clarity, and relevant product paths.",
+        "The goal is to reduce purchase friction rather than publish a thin page that repeats the keyword."
+      ],
+      "bullets": [
+        "BARCEL TAKIS FUEGO 200g",
+        "BARCEL TAKIS FUEGO 280G",
+        "BARCEL TAKIS FUEGO 92G",
+        "Chamoy Flavored TAKIS FUEGO LollipopsX3 72g"
+      ]
+    },
+    {
+      "heading": "How to compare Mexican Candy options before ordering",
+      "paragraphs": [
+        "A stronger landing page explains the trade-offs between pack size, flavour range, stock depth, and delivery timing.",
+        "That gives the page a conversion job as well as a ranking job."
+      ],
+      "bullets": [
+        "Compare unit price instead of headline price alone.",
+        "Check stock, bundle size, and delivery timing together.",
+        "Keep the call to action aligned with the buying task."
+      ]
+    }
+  ],
+  "faq_items": [
+    {
+      "question": "Where can I buy takis online in Australia?",
+      "answer": "Start with Australian stores that show live stock, delivery windows, and product range depth for takis before checkout."
+    },
+    {
+      "question": "How should I compare takis prices?",
+      "answer": "Compare unit price, pack size, shipping cost, and bundle options together instead of looking at the headline price only."
+    },
+    {
+      "question": "Are there other mexican candy options worth comparing?",
+      "answer": "Yes. Nearby collections or substitute products can be useful when takis is out of stock or only available in limited pack sizes."
+    }
+  ],
+  "faq_questions": [
+    "Where can I buy takis online in Australia?",
+    "How should I compare takis prices?",
+    "Are there other mexican candy options worth comparing?"
+  ],
+  "internal_links": [
+    {
+      "url": "https://sweetsworld.com.au/where-to-buy/haribo-australia/",
+      "label": "Haribo Australia",
+      "anchor_text": "Shop Haribo Australia",
+      "link_kind": "commercial"
+    },
+    {
+      "url": "https://sweetsworld.com.au/candy/",
+      "label": "Candy",
+      "anchor_text": "Compare Candy",
+      "link_kind": "category"
+    },
+    {
+      "url": "https://sweetsworld.com.au/uncategorized/barcel-takis-fuego-200g/",
+      "label": "Barcel Takis Fuego 200g",
+      "anchor_text": "Shop Barcel Takis Fuego 200g",
+      "link_kind": "collection"
+    }
+  ],
+  "selected_products": [
+    {
+      "product_name": "BARCEL TAKIS FUEGO 200g",
+      "category": "Uncategorized",
+      "description": "Turn up the heat with Barcel Takis Fuego 200g , now available at Sweets World ! These rolled tortilla chips are famous for their bold flavour and intense crunch, making them a favourite among spicy snack lovers all...",
+      "price": "14.99",
+      "url": "https://sweetsworld.com.au/uncategorized/barcel-takis-fuego-200g/",
+      "matched_tokens": [
+        "taki",
+        "fuego",
+        "flavour"
+      ],
+      "matched_phrases": [],
+      "selection_reason": "direct_match"
+    },
+    {
+      "product_name": "BARCEL TAKIS FUEGO 280G",
+      "category": "Chips",
+      "description": "Takis Chips is a fiery and flavorful snack that has gained immense popularity in recent years. These rolled tortilla chips are coated with a spicy seasoning blend that packs a punch of heat and flavor in every bite...",
+      "price": "19.99",
+      "url": "https://sweetsworld.com.au/grocery/chips/barcel-takis-fuego-280g/",
+      "matched_tokens": [
+        "taki",
+        "fuego"
+      ],
+      "matched_phrases": [],
+      "selection_reason": "direct_match"
+    },
+    {
+      "product_name": "BARCEL TAKIS FUEGO 92G",
+      "category": "Uncategorized",
+      "description": "",
+      "price": "7.99",
+      "url": "https://sweetsworld.com.au/uncategorized/barcel-takis-fuego-92g/",
+      "matched_tokens": [
+        "taki",
+        "fuego"
+      ],
+      "matched_phrases": [],
+      "selection_reason": "direct_match"
+    },
+    {
+      "product_name": "Chamoy Flavored TAKIS FUEGO LollipopsX3 72g",
+      "category": "Candy",
+      "description": "Ingredients SUGAR, CORN SYRUP, CHILI PEPPER (CHILE), SALT, CITRIC ACID, MALTODEXTRIN, NATURAL AND ARTIFICIAL FLAVORS, MAGNESIUM STEARATE, RED 40, TITANIUM DIOXIDE, SOY LECITHIN. Allergens No allergen statement found...",
+      "price": "7.99",
+      "url": "https://sweetsworld.com.au/candy/chamoy-flavored-takis-fuego-lollipopsx3-72g/",
+      "matched_tokens": [
+        "taki",
+        "fuego"
+      ],
+      "matched_phrases": [],
+      "selection_reason": "direct_match"
+    }
+  ],
+  "related_keywords": [
+    "sweetsworld",
+    "sweets world",
+    "white knight chocolate",
+    "fantales lollies",
+    "clinkers chocolate",
+    "fantails lolly"
+  ],
+  "cta": {
+    "heading": "Move from takis research into a purchase",
+    "body": "Compare the shortlist, then click through to the most relevant collection or product page to check live stock and delivery details."
+  }
+}

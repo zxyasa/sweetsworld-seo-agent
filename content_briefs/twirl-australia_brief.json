@@ -1,0 +1,119 @@
+{
+  "brief_id": "twirl-australia-brief-v1",
+  "slug": "twirl-australia",
+  "keyword": "twirl chocolate bar australia",
+  "search_intent": "Transactional with commercial intent",
+  "page_type": "landing_page",
+  "title": "Twirl Australia: Where to Buy Cadbury Twirl Bars Online",
+  "meta_description": "Twirl Australia: Where to Buy Cadbury Twirl Bars Online. Compare stock options, buying factors, and the best next steps for twirl chocolate bar in...",
+  "intro": "Use this page to compare where to buy twirl chocolate bar in Australia, what to check before ordering, and which british candy options are the best fit for your basket.",
+  "outline": [
+    "Where to buy twirl chocolate bar with less guesswork",
+    "How to compare British Candy options before ordering"
+  ],
+  "sections": [
+    {
+      "heading": "Where to buy twirl chocolate bar with less guesswork",
+      "paragraphs": [
+        "Landing pages for twirl chocolate bar need to show real commercial value quickly, including price context, stock clarity, and relevant product paths.",
+        "The goal is to reduce purchase friction rather than publish a thin page that repeats the keyword."
+      ],
+      "bullets": [
+        "Cadbury Wispa Bar 36g",
+        "Cadbury Cherry Ripe Dark Chocolate Gift Box 186g"
+      ]
+    },
+    {
+      "heading": "How to compare British Candy options before ordering",
+      "paragraphs": [
+        "A stronger landing page explains the trade-offs between pack size, flavour range, stock depth, and delivery timing.",
+        "That gives the page a conversion job as well as a ranking job."
+      ],
+      "bullets": [
+        "Compare unit price instead of headline price alone.",
+        "Check stock, bundle size, and delivery timing together.",
+        "Keep the call to action aligned with the buying task."
+      ]
+    }
+  ],
+  "faq_items": [
+    {
+      "question": "Where can I buy twirl chocolate bar online in Australia?",
+      "answer": "Start with Australian stores that show live stock, delivery windows, and product range depth for twirl chocolate bar before checkout."
+    },
+    {
+      "question": "How should I compare twirl chocolate bar prices?",
+      "answer": "Compare unit price, pack size, shipping cost, and bundle options together instead of looking at the headline price only."
+    },
+    {
+      "question": "Are there other british candy options worth comparing?",
+      "answer": "Yes. Nearby collections or substitute products can be useful when twirl chocolate bar is out of stock or only available in limited pack sizes."
+    }
+  ],
+  "faq_questions": [
+    "Where can I buy twirl chocolate bar online in Australia?",
+    "How should I compare twirl chocolate bar prices?",
+    "Are there other british candy options worth comparing?"
+  ],
+  "internal_links": [
+    {
+      "url": "https://sweetsworld.com.au/candy/",
+      "label": "Candy",
+      "anchor_text": "Shop Candy",
+      "link_kind": "category"
+    },
+    {
+      "url": "https://sweetsworld.com.au/british-lollies/uk-chocolate/",
+      "label": "Uk Chocolate",
+      "anchor_text": "Browse Uk Chocolate",
+      "link_kind": "collection"
+    },
+    {
+      "url": "https://sweetsworld.com.au/british-lollies/uk-chocolate/cadburywispabar36g/",
+      "label": "Cadburywispabar36g",
+      "anchor_text": "View Cadburywispabar36g",
+      "link_kind": "product"
+    }
+  ],
+  "selected_products": [
+    {
+      "product_name": "Cadbury Wispa Bar 36g",
+      "category": "British Lollies",
+      "description": "Cadbury Wispa Bar 36g Product Description: The Cadbury Wispa bar first appeared on UK shelves in 1981 and was then discontinued in 2003. Four years after being discontinued and following a massive consumer campaign...",
+      "price": "2.99",
+      "url": "https://sweetsworld.com.au/british-lollies/uk-chocolate/cadburywispabar36g/",
+      "matched_tokens": [
+        "chocolate",
+        "cadbury",
+        "british"
+      ],
+      "matched_phrases": [],
+      "selection_reason": "direct_match"
+    },
+    {
+      "product_name": "Cadbury Cherry Ripe Dark Chocolate Gift Box 186g",
+      "category": "Easter",
+      "description": "Cadbury Cherry Ripe Dark Chocolate Gift Box 186g Product Description: Cadbury Cherry Ripe Gift Box - Dark Chocolate hollow egg with cherry, coconut jelly pieces and dark chocolate solid eggs. Ingredients Cherry Ripe...",
+      "price": "7.99",
+      "url": "https://sweetsworld.com.au/easterchocolate/cadbury-cherry-ripe/",
+      "matched_tokens": [
+        "chocolate",
+        "cadbury"
+      ],
+      "matched_phrases": [],
+      "selection_reason": "direct_match"
+    }
+  ],
+  "related_keywords": [
+    "sweetsworld",
+    "sweets world",
+    "white knight chocolate",
+    "fantales lollies",
+    "fantails lolly",
+    "darrell lea kotara"
+  ],
+  "cta": {
+    "heading": "Move from twirl chocolate bar research into a purchase",
+    "body": "Compare the shortlist, then click through to the most relevant collection or product page to check live stock and delivery details."
+  }
+}

@@ -1,0 +1,74 @@
+{
+  "slug": "are-jolly-ranchers-halal",
+  "title": "Are Jolly Ranchers Halal? Ingredients, Gelatine, and What to Check",
+  "primary_keyword": "are jolly ranchers halal",
+  "category_hint": "American Candy",
+  "_source_line": "4",
+  "page_type": "guide_page",
+  "selected_products": [
+    {
+      "product_name": "Jolly Rancher Hard Candy 184g",
+      "category": "American Candy Box",
+      "description": "",
+      "price": "11.99",
+      "url": "https://sweetsworld.com.au/candy/american-candy/jolly-rancher-hard-candy/",
+      "matched_tokens": [
+        "american",
+        "jolly",
+        "rancher"
+      ],
+      "matched_phrases": [
+        "jolly rancher"
+      ],
+      "selection_reason": "direct_match"
+    },
+    {
+      "product_name": "Jolly Rancher Lolly Pop 17g",
+      "category": "American Candy Box",
+      "description": "",
+      "price": "1.00",
+      "url": "https://sweetsworld.com.au/candy/american-candy/jollyrancherlollypop17g/",
+      "matched_tokens": [
+        "american",
+        "jolly",
+        "rancher"
+      ],
+      "matched_phrases": [
+        "jolly rancher"
+      ],
+      "selection_reason": "direct_match"
+    },
+    {
+      "product_name": "Jolly Rancher Lollypop 16g",
+      "category": "American Candy Box",
+      "description": "Jolly Rancher Lollypops from Sweetsworld are more than just candies. They are a joyful burst of fruity flavors, perfect for various occasions, and made with quality ingredients. Available for convenient delivery...",
+      "price": "1.00",
+      "url": "https://sweetsworld.com.au/candy/american-candy/jolly-rancher-lollypop-16g/",
+      "matched_tokens": [
+        "american",
+        "jolly",
+        "rancher"
+      ],
+      "matched_phrases": [
+        "jolly rancher"
+      ],
+      "selection_reason": "direct_match"
+    },
+    {
+      "product_name": "Jolly Rancher Tropical 184g",
+      "category": "American Candy Box",
+      "description": "",
+      "price": "11.99",
+      "url": "https://sweetsworld.com.au/candy/american-candy/jolly-rancher-tropical-184g/",
+      "matched_tokens": [
+        "american",
+        "jolly",
+        "rancher"
+      ],
+      "matched_phrases": [
+        "jolly rancher"
+      ],
+      "selection_reason": "direct_match"
+    }
+  ]
+}

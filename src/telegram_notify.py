@@ -26,6 +26,19 @@ def _get_configured_site_domain() -> str:
     return extract_site_domain(get_settings().wp_base_url)
 
 
+def format_topic_suggestions(suggestions: list) -> str:
+    """Format a list of SEO suggestions as Telegram-friendly HTML."""
+    lines = ["🎯 <b>选题建议</b>\n"]
+    for i, s in enumerate(suggestions, 1):
+        title = html.escape(s.get("title", ""))
+        slug = html.escape(s.get("slug", ""))
+        keyword = html.escape(s.get("primary_keyword", ""))
+        lines.append(f"{i}. <b>{title}</b>")
+        lines.append(f"   🔑 {keyword}")
+        lines.append(f"   🔗 /{slug}\n")
+    return "\n".join(lines)
+
+
 def send_telegram(bot_token: str, chat_id: str, text: str, parse_mode: str = "HTML") -> None:
     """Send a message via Telegram Bot API.
 
@@ -70,11 +83,11 @@ def notify_pilot_gate(bot_token: str, chat_id: str, gate: dict) -> None:
     domain_suffix = f" — {html.escape(site_domain)}" if site_domain else ""
 
     if decision == "expand":
-        header = "✅ <b>SEO Pilot Gate: EXPAND</b>"
+        header = f"✅ <b>SEO Pilot Gate: EXPAND</b>{domain_suffix}"
     elif impressions > 0:
         header = f"📈 SEO Pilot: GSC Signal Detected!{domain_suffix}"
     else:
-        header = "📊 <b>SEO Pilot Daily Report</b>"
+        header = f"📊 <b>SEO Pilot Daily Report</b>{domain_suffix}"
 
     blocking_reasons = gate.get("blocking_reasons") or []
     reasons_text = ""

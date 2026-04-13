@@ -1,0 +1,155 @@
+{
+  "brief_id": "wholesale-candy-australia-brief-v1",
+  "slug": "wholesale-candy-australia",
+  "keyword": "wholesale candy australia",
+  "search_intent": "Transactional with commercial intent",
+  "page_type": "landing_page",
+  "title": "Wholesale Candy Australia: Bulk Lolly Suppliers for Events and Retail",
+  "meta_description": "Wholesale Candy Australia: Bulk Lolly Suppliers for Events and Retail. Compare stock options, buying factors, and the best next steps for wholesale...",
+  "intro": "Use this page to compare where to buy wholesale candy in Australia, what to check before ordering, and which wholesale options are the best fit for your basket.",
+  "outline": [
+    "Where to buy wholesale candy with less guesswork",
+    "How to compare Wholesale options before ordering"
+  ],
+  "sections": [
+    {
+      "heading": "Where to buy wholesale candy with less guesswork",
+      "paragraphs": [
+        "Landing pages for wholesale candy need to show real commercial value quickly, including price context, stock clarity, and relevant product paths.",
+        "The goal is to reduce purchase friction rather than publish a thin page that repeats the keyword."
+      ],
+      "bullets": [
+        "BIG LOLLY SPEARMINT LEAVES 2KG",
+        "BIG LOLLY TEETH 1.5KG",
+        "BIG LOLLY BUDS CARAMEL 850G",
+        "BIG LOLLY CHOC BUDS 850G"
+      ]
+    },
+    {
+      "heading": "How to compare Wholesale options before ordering",
+      "paragraphs": [
+        "A stronger landing page explains the trade-offs between pack size, flavour range, stock depth, and delivery timing.",
+        "That gives the page a conversion job as well as a ranking job."
+      ],
+      "bullets": [
+        "Compare unit price instead of headline price alone.",
+        "Check stock, bundle size, and delivery timing together.",
+        "Keep the call to action aligned with the buying task."
+      ]
+    }
+  ],
+  "faq_items": [
+    {
+      "question": "Where can I buy wholesale candy online in Australia?",
+      "answer": "Start with Australian stores that show live stock, delivery windows, and product range depth for wholesale candy before checkout."
+    },
+    {
+      "question": "How should I compare wholesale candy prices?",
+      "answer": "Compare unit price, pack size, shipping cost, and bundle options together instead of looking at the headline price only."
+    },
+    {
+      "question": "Are there other wholesale options worth comparing?",
+      "answer": "Yes. Nearby collections or substitute products can be useful when wholesale candy is out of stock or only available in limited pack sizes."
+    }
+  ],
+  "faq_questions": [
+    "Where can I buy wholesale candy online in Australia?",
+    "How should I compare wholesale candy prices?",
+    "Are there other wholesale options worth comparing?"
+  ],
+  "internal_links": [
+    {
+      "url": "https://sweetsworld.com.au/where-to-buy/buy-bulk-candy-online-australia/",
+      "label": "Buy Bulk Candy Online Australia",
+      "anchor_text": "Shop Buy Bulk Candy Online Australia",
+      "link_kind": "commercial"
+    },
+    {
+      "url": "https://sweetsworld.com.au/candy/big-lolly-spearmint-leaves-2kg/",
+      "label": "Big Lolly Spearmint Leaves 2kg",
+      "anchor_text": "Compare Big Lolly Spearmint Leaves 2kg",
+      "link_kind": "collection"
+    },
+    {
+      "url": "https://sweetsworld.com.au/candy/",
+      "label": "Candy",
+      "anchor_text": "Shop Candy",
+      "link_kind": "category"
+    }
+  ],
+  "selected_products": [
+    {
+      "product_name": "BIG LOLLY SPEARMINT LEAVES 2KG",
+      "category": "Candy",
+      "description": "",
+      "price": "39.99",
+      "url": "https://sweetsworld.com.au/candy/big-lolly-spearmint-leaves-2kg/",
+      "matched_tokens": [
+        "wholesale",
+        "lolly"
+      ],
+      "matched_phrases": [],
+      "selection_reason": "direct_match"
+    },
+    {
+      "product_name": "BIG LOLLY TEETH 1.5KG",
+      "category": "Candy",
+      "description": "",
+      "price": "39.99",
+      "url": "https://sweetsworld.com.au/candy/big-lolly-teeth-15kg/",
+      "matched_tokens": [
+        "wholesale",
+        "lolly"
+      ],
+      "matched_phrases": [],
+      "selection_reason": "direct_match"
+    },
+    {
+      "product_name": "BIG LOLLY BUDS CARAMEL 850G",
+      "category": "Candy",
+      "description": "Big Lolly Buds Caramel offer a rich, creamy caramel experience perfect for any caramel lover. Made with high-quality ingredients, these delightful treats are ideal for sharing, snacking, or adding to gift baskets...",
+      "price": "29.99",
+      "url": "https://sweetsworld.com.au/candy/big-lolly-buds-caramel-850g/",
+      "matched_tokens": [
+        "lolly"
+      ],
+      "matched_phrases": [],
+      "selection_reason": "direct_match"
+    },
+    {
+      "product_name": "BIG LOLLY CHOC BUDS 850G",
+      "category": "Candy",
+      "description": "Big Lolly Choc Buds offer a rich, creamy chocolate experience perfect for any chocolate lover. Made with high-quality ingredients, these delightful treats are ideal for sharing, snacking, or adding to gift baskets...",
+      "price": "29.99",
+      "url": "https://sweetsworld.com.au/candy/big-lolly-choc-buds-850g/",
+      "matched_tokens": [
+        "lolly"
+      ],
+      "matched_phrases": [],
+      "selection_reason": "direct_match"
+    }
+  ],
+  "related_keywords": [
+    "sweetsworld",
+    "sweets world",
+    "white knight chocolate",
+    "fantales lollies",
+    "clinkers chocolate",
+    "fantails lolly"
+  ],
+  "cta": {
+    "heading": "Move from wholesale candy research into a purchase",
+    "body": "Compare the shortlist, then click through to the most relevant collection or product page to check live stock and delivery details.",
+    "button_text": "Browse Related Collection"
+  },
+  "distribution_channels": [
+    "facebook",
+    "instagram",
+    "gbp",
+    "pinterest"
+  ],
+  "schema_types": [
+    "BreadcrumbList",
+    "ItemList"
+  ]
+}

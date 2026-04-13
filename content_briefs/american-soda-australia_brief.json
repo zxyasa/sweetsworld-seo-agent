@@ -1,0 +1,152 @@
+{
+  "brief_id": "american-soda-australia-brief-v1",
+  "slug": "american-soda-australia",
+  "keyword": "american soda australia",
+  "search_intent": "Commercial category intent",
+  "page_type": "category_page",
+  "title": "American Soda Australia: Buy US Soft Drinks and Sodas Online",
+  "meta_description": "American Soda Australia: Buy US Soft Drinks and Sodas Online. Compare stock options, buying factors, and the best next steps for american soda in...",
+  "intro": "This page explains the american soda range, the main product formats to compare, and the next collection or product pages worth opening before you buy.",
+  "outline": [
+    "What defines the american soda range",
+    "How to shop American Drinks more confidently"
+  ],
+  "sections": [
+    {
+      "heading": "What defines the american soda range",
+      "paragraphs": [
+        "A category page for american soda should explain flavour profile, product format, and the most recognisable options in the range.",
+        "That helps search engines and shoppers understand the scope of the page before they move deeper into the catalogue."
+      ],
+      "bullets": [
+        "CHUPA CHUPS 3D FIZZY DRINKS 15G (45) - (Duplicate Imported from WooCommerce)",
+        "STARBURST LEMON DRINK MIX 13.5G",
+        "2026 Davies Soft Centres Easter Egg Pack",
+        "Bunny Plush Toy – Super Soft & Cute Little Rabbit Green 38cm"
+      ]
+    },
+    {
+      "heading": "How to shop American Drinks more confidently",
+      "paragraphs": [
+        "Category pages should guide users through format, suitability, and value instead of listing products without context.",
+        "This is the section that turns a collection page into a useful SEO landing surface."
+      ],
+      "bullets": [
+        "Show best sellers before long-tail variants.",
+        "Explain when bundles make more sense than single items.",
+        "Link into adjacent collections and product pages."
+      ]
+    }
+  ],
+  "faq_items": [
+    {
+      "question": "What should I look for when choosing american soda?",
+      "answer": "Focus on suitability for the use case, flavour profile, pack size, and delivery timing rather than assuming every popular candy is the right fit."
+    },
+    {
+      "question": "What is the best next step after reading this page?",
+      "answer": "Use the linked category or product pages to compare live stock, range depth, and practical buying options."
+    },
+    {
+      "question": "Can this page help me compare american drinks options?",
+      "answer": "Yes. It should clarify which products or collections are the best fit instead of leaving the reader with generic advice."
+    }
+  ],
+  "faq_questions": [
+    "What should I look for when choosing american soda?",
+    "What is the best next step after reading this page?",
+    "Can this page help me compare american drinks options?"
+  ],
+  "internal_links": [
+    {
+      "url": "https://sweetsworld.com.au/products/lollipops-australia/",
+      "label": "Lollipops Australia",
+      "anchor_text": "Explore Lollipops Australia",
+      "link_kind": "collection"
+    },
+    {
+      "url": "https://sweetsworld.com.au/where-to-buy/gummy-bears-australia/",
+      "label": "Gummy Bears Australia",
+      "anchor_text": "Browse Gummy Bears Australia",
+      "link_kind": "commercial"
+    },
+    {
+      "url": "https://sweetsworld.com.au/candy/",
+      "label": "Candy",
+      "anchor_text": "Explore Candy",
+      "link_kind": "category"
+    }
+  ],
+  "selected_products": [
+    {
+      "product_name": "CHUPA CHUPS 3D FIZZY DRINKS 15G (45) - (Duplicate Imported from WooCommerce)",
+      "category": "Candy",
+      "description": "CHUPA CHUPS 3D FIZZY DRINKS 15G (45) Product Description: Chupa Chups Fizzy Drinks Lollipops are a uniquely fun 3D glass shape, providing the fizzy sensation of your favourite soft drink. Flavours include Cola...",
+      "price": "49.99",
+      "url": "https://sweetsworld.com.au/candy/chupachups3dfizzydrinks15g45/",
+      "matched_tokens": [
+        "soft",
+        "drink"
+      ],
+      "matched_phrases": [],
+      "selection_reason": "direct_match"
+    },
+    {
+      "product_name": "STARBURST LEMON DRINK MIX 13.5G",
+      "category": "Candy",
+      "description": "STARBURST LEMON DRINK MIX 13.5G Product Description: Sometimes you just need to add water to make up a batch of your favourite American drinks! We've got all your favourite powdered and liquid drink mixes from the...",
+      "price": "4.99",
+      "url": "https://sweetsworld.com.au/candy/starburstlemondrinkmix135g/",
+      "matched_tokens": [
+        "american",
+        "drink"
+      ],
+      "matched_phrases": [],
+      "selection_reason": "direct_match"
+    },
+    {
+      "product_name": "2026 Davies Soft Centres Easter Egg Pack",
+      "category": "Easter",
+      "description": "The Davies Soft Centres Easter Egg Pack from Sweetsworld is more than an Easter treat; it’s a fusion of exquisite taste, ethical production, and the essence of the festive spirit. Available for delivery throughout...",
+      "price": "27.99",
+      "url": "https://sweetsworld.com.au/easterchocolate/davies-soft-centres-easter-egg-pack/",
+      "matched_tokens": [
+        "soft"
+      ],
+      "matched_phrases": [],
+      "selection_reason": "direct_match"
+    },
+    {
+      "product_name": "Bunny Plush Toy – Super Soft & Cute Little Rabbit Green 38cm",
+      "category": "Candy",
+      "description": "",
+      "price": "39.99",
+      "url": "https://sweetsworld.com.au/candy/bunny-plush-toy-super-soft-cute-little-rabbit-green-38cm/",
+      "matched_tokens": [
+        "soft"
+      ],
+      "matched_phrases": [],
+      "selection_reason": "direct_match"
+    }
+  ],
+  "related_keywords": [
+    "sweetsworld",
+    "sweets world",
+    "white knight chocolate",
+    "fantales lollies",
+    "clinkers chocolate",
+    "fantails lolly"
+  ],
+  "cta": {
+    "heading": "Use this page as a shortlist for american soda",
+    "body": "Review the key options, then move into the linked collection or product pages when you are ready to compare live stock and pricing.",
+    "button_text": "Browse Collection"
+  },
+  "distribution_channels": [
+    "pinterest",
+    "facebook"
+  ],
+  "schema_types": [
+    "BreadcrumbList"
+  ]
+}

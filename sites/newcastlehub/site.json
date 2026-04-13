@@ -1,0 +1,92 @@
+{
+  "site_id": "newcastlehub",
+  "display_name": "Newcastle Hub",
+  "base_url": "https://newcastlehub.info",
+  "niche": "local_business_hub",
+  "audience": "Newcastle NSW small business owners and local residents looking for services",
+  "brand_voice": "professional, helpful, locally focused, and knowledgeable about Newcastle NSW",
+  "language": "en-AU",
+
+  "content": {
+    "catalog_file": "services.json",
+    "catalog_type": "services",
+    "topics_file": "topics.csv",
+    "faq_context": "business",
+    "default_category_hint": "Digital Marketing"
+  },
+
+  "collection_paths": {
+    "services":          "/services/",
+    "business_audit":    "/free-newcastle-business-audit/",
+    "contact":           "/contact/",
+    "about":             "/about/"
+  },
+
+  "wp_categories": {
+    "guide_page": {
+      "slug": "business-guides",
+      "name": "Business Guides"
+    },
+    "landing_page": {
+      "slug": "services",
+      "name": "Services"
+    },
+    "faq_page": {
+      "slug": "faqs",
+      "name": "FAQs"
+    },
+    "comparison_page": {
+      "slug": "comparisons",
+      "name": "Comparisons"
+    },
+    "city_landing_page": {
+      "slug": "newcastle-local",
+      "name": "Newcastle Local"
+    }
+  },
+
+  "wp": {
+    "env_username": "WP_USERNAME",
+    "env_password": "WP_APP_PASSWORD"
+  },
+
+  "gsc": {
+    "property":        "sc-domain:newcastlehub.info",
+    "env_credentials": "GSC_CREDENTIALS_FILE"
+  },
+
+  "telegram": {
+    "env_bot_token": "TELEGRAM_BOT_TOKEN",
+    "env_chat_id":   "TELEGRAM_CHAT_ID"
+  },
+
+  "indexing_key_file": "TODO: fill before activation",
+
+  "active_skin": "newcastlehub-default",
+  "skin_valid_from": null,
+  "skin_valid_until": null,
+
+  "feature_flags": {
+    "use_topics_db": true,
+    "auto_publish": true,
+    "google_indexing_api": false,
+    "social_distribution": false,
+    "aio_visibility_tracking": false,
+    "citation_planner": false,
+    "ai_website_os_validation": false
+  },
+
+  "publish": {
+    "daily_limit":          1,
+    "indexing_api_enabled": false,
+    "auto_publish":         true
+  },
+
+  "prompt_config": {
+    "target_audience": "Newcastle NSW small business owners and local residents seeking digital marketing, SEO, and online business services",
+    "language_instruction": "English (Australian English spelling — colour, honour, organise, etc.) with a Newcastle NSW local flavour",
+    "word_count": "1200-1500",
+    "tone_style": "- Professional, helpful, and locally focused\n- Knowledgeable about Newcastle, Hunter Region, and NSW business landscape\n- Practical and action-oriented — give readers steps they can act on today\n- Avoid jargon; explain technical terms when first introduced",
+    "extra_instructions": "This article is for Newcastle Hub (newcastlehub.info), a digital marketing and local SEO service for Newcastle NSW businesses.\n- DO NOT mention candy, food, retail products, or confectionery of any kind.\n- DO NOT mention SweetsWorld or any unrelated brands.\n- All examples, analogies, and use-cases must relate to service businesses (tradies, cafes, professional services, retail shops) in Newcastle or the Hunter Region.\n- When recommending tools or platforms, prefer ones commonly used by Australian small businesses.\n- Internal links should point to newcastlehub.info pages only (services, free audit, contact)."
+  }
+}

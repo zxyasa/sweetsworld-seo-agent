@@ -1,0 +1,135 @@
+{
+  "brief_id": "dutch-candy-australia-brief-v1",
+  "slug": "dutch-candy-australia",
+  "keyword": "dutch candy australia",
+  "search_intent": "Commercial category intent",
+  "page_type": "category_page",
+  "title": "Dutch Candy Australia: Buy Holland Sweets and Licorice Online",
+  "meta_description": "Dutch Candy Australia: Buy Holland Sweets and Licorice Online. Compare stock options, buying factors, and the best next steps for dutch candy in Australia.",
+  "intro": "This page explains the dutch candy range, the main product formats to compare, and the next collection or product pages worth opening before you buy.",
+  "outline": [
+    "What defines the dutch candy range",
+    "How to shop Dutch Candy more confidently"
+  ],
+  "sections": [
+    {
+      "heading": "What defines the dutch candy range",
+      "paragraphs": [
+        "A category page for dutch candy should explain flavour profile, product format, and the most recognisable options in the range.",
+        "That helps search engines and shoppers understand the scope of the page before they move deeper into the catalogue."
+      ],
+      "bullets": [
+        "Dutch Salmiak Rocks Licorice 100g",
+        "Dutch Schoolkrijt Licorice Chalk- 100g",
+        "Dutch Triple Salt Licorice 100g"
+      ]
+    },
+    {
+      "heading": "How to shop Dutch Candy more confidently",
+      "paragraphs": [
+        "Category pages should guide users through format, suitability, and value instead of listing products without context.",
+        "This is the section that turns a collection page into a useful SEO landing surface."
+      ],
+      "bullets": [
+        "Show best sellers before long-tail variants.",
+        "Explain when bundles make more sense than single items.",
+        "Link into adjacent collections and product pages."
+      ]
+    }
+  ],
+  "faq_items": [
+    {
+      "question": "What should I look for when choosing dutch candy?",
+      "answer": "Focus on suitability for the use case, flavour profile, pack size, and delivery timing rather than assuming every popular candy is the right fit."
+    },
+    {
+      "question": "What is the best next step after reading this page?",
+      "answer": "Use the linked category or product pages to compare live stock, range depth, and practical buying options."
+    },
+    {
+      "question": "Can this page help me compare dutch candy options?",
+      "answer": "Yes. It should clarify which products or collections are the best fit instead of leaving the reader with generic advice."
+    }
+  ],
+  "faq_questions": [
+    "What should I look for when choosing dutch candy?",
+    "What is the best next step after reading this page?",
+    "Can this page help me compare dutch candy options?"
+  ],
+  "internal_links": [
+    {
+      "url": "https://sweetsworld.com.au/candy/",
+      "label": "Candy",
+      "anchor_text": "Explore Candy",
+      "link_kind": "category"
+    },
+    {
+      "url": "https://sweetsworld.com.au/candy/dutch-sweets/",
+      "label": "Dutch Sweets",
+      "anchor_text": "Browse Dutch Sweets",
+      "link_kind": "collection"
+    },
+    {
+      "url": "https://sweetsworld.com.au/candy/dutch-sweets/dutchsalmiakrockslicorice100g/",
+      "label": "Dutchsalmiakrockslicorice100g",
+      "anchor_text": "See Dutchsalmiakrockslicorice100g",
+      "link_kind": "product"
+    }
+  ],
+  "selected_products": [
+    {
+      "product_name": "Dutch Salmiak Rocks Licorice 100g",
+      "category": "Candy",
+      "description": "",
+      "price": "5",
+      "url": "https://sweetsworld.com.au/candy/dutch-sweets/dutchsalmiakrockslicorice100g/",
+      "matched_tokens": [
+        "dutch",
+        "sweet",
+        "licorice"
+      ],
+      "matched_phrases": [],
+      "selection_reason": "direct_match"
+    },
+    {
+      "product_name": "Dutch Schoolkrijt Licorice Chalk- 100g",
+      "category": "Candy",
+      "description": "Dutch Schoolkrijt Licorice Chalk – 100g of Classic Dutch Delight At Sweets World , we love sharing unique and traditional treats from around the globe, and the Dutch Schoolkrijt Licorice Chalk is a fun and tasty...",
+      "price": "6",
+      "url": "https://sweetsworld.com.au/candy/dutch-sweets/dutch-schoolkrijt-licorice-chalk/",
+      "matched_tokens": [
+        "dutch",
+        "sweet",
+        "licorice"
+      ],
+      "matched_phrases": [],
+      "selection_reason": "direct_match"
+    },
+    {
+      "product_name": "Dutch Triple Salt Licorice 100g",
+      "category": "Candy",
+      "description": "Dutch Triple Salt Licorice – 100g Available at Sweets World If you love bold and intense flavours, then the Dutch Triple Salt Licorice is a must-try. This 100g bag is packed with strong, salty licorice that delivers...",
+      "price": "5",
+      "url": "https://sweetsworld.com.au/candy/dutch-sweets/dutch-triple-salt-licorice/",
+      "matched_tokens": [
+        "dutch",
+        "sweet",
+        "licorice"
+      ],
+      "matched_phrases": [],
+      "selection_reason": "direct_match"
+    }
+  ],
+  "related_keywords": [
+    "sweetsworld",
+    "sweets world",
+    "white knight chocolate",
+    "fantales lollies",
+    "fantails lolly",
+    "darrell lea kotara"
+  ],
+  "cta": {
+    "heading": "Use this page as a shortlist for dutch candy",
+    "body": "Review the key options, then move into the linked collection or product pages when you are ready to compare live stock and pricing."
+  }
+}

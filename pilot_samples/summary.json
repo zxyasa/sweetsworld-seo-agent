@@ -1,0 +1,14 @@
+{
+  "count": 1,
+  "output_dir": "/Users/michaelzhao/agents/agents/sweetsworld-seo-agent/pilot_samples",
+  "samples": [
+    {
+      "slug": "are-jolly-ranchers-halal",
+      "title": "Are Jolly Ranchers Halal? Ingredients, Gelatine, and What to Check",
+      "page_type": "guide_page",
+      "brief_id": "are-jolly-ranchers-halal-brief-v1",
+      "output_dir": "/Users/michaelzhao/agents/agents/sweetsworld-seo-agent/pilot_samples/are-jolly-ranchers-halal",
+      "selected_products": 4
+    }
+  ]
+}

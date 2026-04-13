@@ -1,0 +1,145 @@
+{
+  "brief_id": "haribo-australia-brief-v1",
+  "slug": "haribo-australia",
+  "keyword": "haribo australia",
+  "search_intent": "Transactional with commercial intent",
+  "page_type": "landing_page",
+  "title": "Haribo Australia: Buy Goldbears and Haribo Gummies Online",
+  "meta_description": "Haribo Australia: Buy Goldbears and Haribo Gummies Online. Compare stock options, buying factors, and the best next steps for haribo in Australia.",
+  "intro": "Use this page to compare where to buy haribo in Australia, what to check before ordering, and which gummy candy options are the best fit for your basket.",
+  "outline": [
+    "Where to buy haribo with less guesswork",
+    "How to compare Gummy Candy options before ordering"
+  ],
+  "sections": [
+    {
+      "heading": "Where to buy haribo with less guesswork",
+      "paragraphs": [
+        "Landing pages for haribo need to show real commercial value quickly, including price context, stock clarity, and relevant product paths.",
+        "The goal is to reduce purchase friction rather than publish a thin page that repeats the keyword."
+      ],
+      "bullets": [
+        "Haribo Goldbears 150g",
+        "Haribo Peaches 142g",
+        "Haribo Rainbow Worms 142g",
+        "Haribo Frogs 142g"
+      ]
+    },
+    {
+      "heading": "How to compare Gummy Candy options before ordering",
+      "paragraphs": [
+        "A stronger landing page explains the trade-offs between pack size, flavour range, stock depth, and delivery timing.",
+        "That gives the page a conversion job as well as a ranking job."
+      ],
+      "bullets": [
+        "Compare unit price instead of headline price alone.",
+        "Check stock, bundle size, and delivery timing together.",
+        "Keep the call to action aligned with the buying task."
+      ]
+    }
+  ],
+  "faq_items": [
+    {
+      "question": "Where can I buy haribo online in Australia?",
+      "answer": "Start with Australian stores that show live stock, delivery windows, and product range depth for haribo before checkout."
+    },
+    {
+      "question": "How should I compare haribo prices?",
+      "answer": "Compare unit price, pack size, shipping cost, and bundle options together instead of looking at the headline price only."
+    },
+    {
+      "question": "Are there other gummy candy options worth comparing?",
+      "answer": "Yes. Nearby collections or substitute products can be useful when haribo is out of stock or only available in limited pack sizes."
+    }
+  ],
+  "faq_questions": [
+    "Where can I buy haribo online in Australia?",
+    "How should I compare haribo prices?",
+    "Are there other gummy candy options worth comparing?"
+  ],
+  "internal_links": [
+    {
+      "url": "https://sweetsworld.com.au/candy/",
+      "label": "Candy",
+      "anchor_text": "Shop Candy",
+      "link_kind": "category"
+    },
+    {
+      "url": "https://sweetsworld.com.au/candy/haribogoldbears150g/",
+      "label": "Haribogoldbears150g",
+      "anchor_text": "Browse Haribogoldbears150g",
+      "link_kind": "collection"
+    },
+    {
+      "url": "https://sweetsworld.com.au/shop/candy/allensfantales1kg/",
+      "label": "Allensfantales1kg",
+      "anchor_text": "View Allensfantales1kg",
+      "link_kind": "product"
+    }
+  ],
+  "selected_products": [
+    {
+      "product_name": "Haribo Goldbears 150g",
+      "category": "Candy",
+      "description": "",
+      "price": "5.99",
+      "url": "https://sweetsworld.com.au/candy/haribogoldbears150g/",
+      "matched_tokens": [
+        "haribo",
+        "goldbear"
+      ],
+      "matched_phrases": [],
+      "selection_reason": "direct_match"
+    },
+    {
+      "product_name": "Haribo Peaches 142g",
+      "category": "Candy",
+      "description": "Haribo Peaches 142g Product Description: Soft peach-flavoured gummy treats, sugar-coated for additional awesomeness. Exactly how happy these peaches are has yet to actually be verified, but they certainly market-test...",
+      "price": "4.99",
+      "url": "https://sweetsworld.com.au/candy/haribopeaches142g/",
+      "matched_tokens": [
+        "gummy",
+        "haribo"
+      ],
+      "matched_phrases": [],
+      "selection_reason": "direct_match"
+    },
+    {
+      "product_name": "Haribo Rainbow Worms 142g",
+      "category": "Candy",
+      "description": "Haribo Rainbow Worms: Chewy, Fruity, and Colorful Fun Haribo Rainbow Worms are vibrant, wiggly gummy candies bursting with fruity flavors. These colorful worms feature dual flavors in each piece, offering a chewy...",
+      "price": "5.99",
+      "url": "https://sweetsworld.com.au/candy/haribo-rainbow-worms-142g/",
+      "matched_tokens": [
+        "gummy",
+        "haribo"
+      ],
+      "matched_phrases": [],
+      "selection_reason": "direct_match"
+    },
+    {
+      "product_name": "Haribo Frogs 142g",
+      "category": "American Candy Box",
+      "description": "",
+      "price": "5.99",
+      "url": "https://sweetsworld.com.au/candy/american-candy/haribofrogs142g/",
+      "matched_tokens": [
+        "haribo"
+      ],
+      "matched_phrases": [],
+      "selection_reason": "direct_match"
+    }
+  ],
+  "related_keywords": [
+    "sweetsworld",
+    "sweets world",
+    "white knight chocolate",
+    "fantales lollies",
+    "clinkers chocolate",
+    "fantails lolly"
+  ],
+  "cta": {
+    "heading": "Move from haribo research into a purchase",
+    "body": "Compare the shortlist, then click through to the most relevant collection or product page to check live stock and delivery details."
+  }
+}

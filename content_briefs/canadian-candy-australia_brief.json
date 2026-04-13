@@ -1,0 +1,104 @@
+{
+  "brief_id": "canadian-candy-australia-brief-v1",
+  "slug": "canadian-candy-australia",
+  "keyword": "canadian candy australia",
+  "search_intent": "Commercial category intent",
+  "page_type": "category_page",
+  "title": "Canadian Candy Australia: Buy Ketchup Chips and Canadian Sweets",
+  "meta_description": "Canadian Candy Australia: Buy Ketchup Chips and Canadian Sweets. Compare stock options, buying factors, and the best next steps for canadian candy in...",
+  "intro": "This page explains the canadian candy range, the main product formats to compare, and the next collection or product pages worth opening before you buy.",
+  "outline": [
+    "What defines the canadian candy range",
+    "How to shop Canadian Candy more confidently"
+  ],
+  "sections": [
+    {
+      "heading": "What defines the canadian candy range",
+      "paragraphs": [
+        "A category page for canadian candy should explain flavour profile, product format, and the most recognisable options in the range.",
+        "That helps search engines and shoppers understand the scope of the page before they move deeper into the catalogue."
+      ],
+      "bullets": [
+        "CHIPS AHOY ORIGINAL COOKIES 368g"
+      ]
+    },
+    {
+      "heading": "How to shop Canadian Candy more confidently",
+      "paragraphs": [
+        "Category pages should guide users through format, suitability, and value instead of listing products without context.",
+        "This is the section that turns a collection page into a useful SEO landing surface."
+      ],
+      "bullets": [
+        "Show best sellers before long-tail variants.",
+        "Explain when bundles make more sense than single items.",
+        "Link into adjacent collections and product pages."
+      ]
+    }
+  ],
+  "faq_items": [
+    {
+      "question": "What should I look for when choosing canadian candy?",
+      "answer": "Focus on suitability for the use case, flavour profile, pack size, and delivery timing rather than assuming every popular candy is the right fit."
+    },
+    {
+      "question": "What is the best next step after reading this page?",
+      "answer": "Use the linked category or product pages to compare live stock, range depth, and practical buying options."
+    },
+    {
+      "question": "Can this page help me compare canadian candy options?",
+      "answer": "Yes. It should clarify which products or collections are the best fit instead of leaving the reader with generic advice."
+    }
+  ],
+  "faq_questions": [
+    "What should I look for when choosing canadian candy?",
+    "What is the best next step after reading this page?",
+    "Can this page help me compare canadian candy options?"
+  ],
+  "internal_links": [
+    {
+      "url": "https://sweetsworld.com.au/candy/",
+      "label": "Candy",
+      "anchor_text": "Explore Candy",
+      "link_kind": "category"
+    },
+    {
+      "url": "https://sweetsworld.com.au/candy/chip-ahoy-original-cookies-368g/",
+      "label": "Chip Ahoy Original Cookies 368g",
+      "anchor_text": "Browse Chip Ahoy Original Cookies 368g",
+      "link_kind": "collection"
+    },
+    {
+      "url": "https://sweetsworld.com.au/shop/candy/allensfantales1kg/",
+      "label": "Allensfantales1kg",
+      "anchor_text": "Compare Allensfantales1kg",
+      "link_kind": "product"
+    }
+  ],
+  "selected_products": [
+    {
+      "product_name": "CHIPS AHOY ORIGINAL COOKIES 368g",
+      "category": "Candy",
+      "description": "Chips Ahoy Original Cookies from Sweetsworld are more than just treats. They are crunchy, chocolatey delights that have stood the test of time. Made with a focus on quality and sustainability, these cookies are a...",
+      "price": "19.99",
+      "url": "https://sweetsworld.com.au/candy/chip-ahoy-original-cookies-368g/",
+      "matched_tokens": [
+        "chip",
+        "sweet"
+      ],
+      "matched_phrases": [],
+      "selection_reason": "direct_match"
+    }
+  ],
+  "related_keywords": [
+    "sweetsworld",
+    "sweets world",
+    "white knight chocolate",
+    "fantales lollies",
+    "fantails lolly",
+    "darrell lea kotara"
+  ],
+  "cta": {
+    "heading": "Use this page as a shortlist for canadian candy",
+    "body": "Review the key options, then move into the linked collection or product pages when you are ready to compare live stock and pricing."
+  }
+}

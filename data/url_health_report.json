@@ -1,0 +1,26 @@
+{
+  "generated_at": "2026-04-13T23:23:05.328737+00:00",
+  "total_checked": 2611,
+  "total_issues": 1,
+  "issues": [
+    {
+      "product_id": 29071,
+      "product_name": "Liquorice Lovers Chocolate Liquorice Sticks 200g",
+      "sku": "9338124000059",
+      "original_url": "https://sweetsworld.com.au/chocolate/australian-chocolate/liquoriceloverschocolateliquoricesticks200g/",
+      "final_url": "https://sweetsworld.com.au/chocolate/australian-chocolate/liquoriceloverschocolateliquoricesticks200g/",
+      "status_code": 0,
+      "issue": "connection_error",
+      "diagnosis": "Could not connect to the URL (timeout or connection refused).",
+      "redirect_chain": [
+        "301 → https://sweetsworld.com.au/chocolate/australian-chocolate/liquoriceloverschocolateliquoricesticks200g/",
+        "301 → https://sweetsworld.com.au/chocolate/australian-chocolate/liquoriceloverschocolateliquoricesticks200g/",
+        "301 → https://sweetsworld.com.au/chocolate/australian-chocolate/liquoriceloverschocolateliquoricesticks200g/",
+        "301 → https://sweetsworld.com.au/chocolate/australian-chocolate/liquoriceloverschocolateliquoricesticks200g/",
+        "301 → https://sweetsworld.com.au/chocolate/australian-chocolate/liquoriceloverschocolateliquoricesticks200g/",
+        "301 → https://sweetsworld.com.au/chocolate/australian-chocolate/liquoriceloverschocolateliquoricesticks200g/"
+      ]
+    }
+  ],
+  "healthy": 2610
+}

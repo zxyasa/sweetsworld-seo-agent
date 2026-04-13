@@ -1,0 +1,146 @@
+{
+  "brief_id": "vegan-lollies-australia-brief-v1",
+  "slug": "vegan-lollies-australia",
+  "keyword": "vegan lollies australia",
+  "search_intent": "Transactional with commercial intent",
+  "page_type": "landing_page",
+  "title": "Vegan Lollies Australia: Gelatine-Free and Plant-Based Candy",
+  "meta_description": "Vegan Lollies Australia: Gelatine-Free and Plant-Based Candy. Compare stock options, buying factors, and the best next steps for vegan lollies in...",
+  "intro": "Use this page to compare where to buy vegan lollies in Australia, what to check before ordering, and which vegan candy options are the best fit for your basket.",
+  "outline": [
+    "Where to buy vegan lollies with less guesswork",
+    "How to compare Vegan Candy options before ordering"
+  ],
+  "sections": [
+    {
+      "heading": "Where to buy vegan lollies with less guesswork",
+      "paragraphs": [
+        "Landing pages for vegan lollies need to show real commercial value quickly, including price context, stock clarity, and relevant product paths.",
+        "The goal is to reduce purchase friction rather than publish a thin page that repeats the keyword."
+      ],
+      "bullets": [
+        "Eskal Mint Cremes 150g (Gluten Free, Vegan)",
+        "HOLLOW CHOCOLATE BUNNY SWEET WILLIAM 120g Vegan, Gluten Free, Nut Free",
+        "Milk Choc Rocky Road 135g - Vegan & Gluten Free",
+        "Moofree Dairy Free White Choc & Strawberry Hammy Hamster (Moofree Easter Egg Choccy Chum Surprise (Organic The ethical choice No palm oil Dairy, gluten & soya free Vegan))"
+      ]
+    },
+    {
+      "heading": "How to compare Vegan Candy options before ordering",
+      "paragraphs": [
+        "A stronger landing page explains the trade-offs between pack size, flavour range, stock depth, and delivery timing.",
+        "That gives the page a conversion job as well as a ranking job."
+      ],
+      "bullets": [
+        "Compare unit price instead of headline price alone.",
+        "Check stock, bundle size, and delivery timing together.",
+        "Keep the call to action aligned with the buying task."
+      ]
+    }
+  ],
+  "faq_items": [
+    {
+      "question": "Where can I buy vegan lollies online in Australia?",
+      "answer": "Start with Australian stores that show live stock, delivery windows, and product range depth for vegan lollies before checkout."
+    },
+    {
+      "question": "How should I compare vegan lollies prices?",
+      "answer": "Compare unit price, pack size, shipping cost, and bundle options together instead of looking at the headline price only."
+    },
+    {
+      "question": "Are there other vegan candy options worth comparing?",
+      "answer": "Yes. Nearby collections or substitute products can be useful when vegan lollies is out of stock or only available in limited pack sizes."
+    }
+  ],
+  "faq_questions": [
+    "Where can I buy vegan lollies online in Australia?",
+    "How should I compare vegan lollies prices?",
+    "Are there other vegan candy options worth comparing?"
+  ],
+  "internal_links": [
+    {
+      "url": "https://sweetsworld.com.au/candy-guides/are-jolly-ranchers-halal/",
+      "label": "Are Jolly Ranchers Halal",
+      "anchor_text": "Shop Are Jolly Ranchers Halal",
+      "link_kind": "collection"
+    },
+    {
+      "url": "https://sweetsworld.com.au/candy/",
+      "label": "Candy",
+      "anchor_text": "Compare Candy",
+      "link_kind": "category"
+    },
+    {
+      "url": "https://sweetsworld.com.au/british-lollies/uk-chocolate/eskalmintcremes150g/",
+      "label": "Eskalmintcremes150g",
+      "anchor_text": "See Eskalmintcremes150g",
+      "link_kind": "product"
+    }
+  ],
+  "selected_products": [
+    {
+      "product_name": "Eskal Mint Cremes 150g (Gluten Free, Vegan)",
+      "category": "Chocolate Gift Box",
+      "description": "",
+      "price": "14.99",
+      "url": "https://sweetsworld.com.au/british-lollies/uk-chocolate/eskalmintcremes150g/",
+      "matched_tokens": [
+        "vegan",
+        "free"
+      ],
+      "matched_phrases": [],
+      "selection_reason": "direct_match"
+    },
+    {
+      "product_name": "HOLLOW CHOCOLATE BUNNY SWEET WILLIAM 120g Vegan, Gluten Free, Nut Free",
+      "category": "Australian Chocolate",
+      "description": "Hollow Chocolate Easter Bunny Blended from extracts of cocoa and soy. Non – GMO Ingredients No artificial colours or flavours ALL Sweet William products are NUT FREE, DAIRY FREE, GLUTEN FREE, EGG FREE and are made in...",
+      "price": "24.99",
+      "url": "https://sweetsworld.com.au/chocolate/australian-chocolate/hollowchocolatebunnysweetwilliam120g/",
+      "matched_tokens": [
+        "vegan",
+        "free"
+      ],
+      "matched_phrases": [],
+      "selection_reason": "direct_match"
+    },
+    {
+      "product_name": "Milk Choc Rocky Road 135g - Vegan & Gluten Free",
+      "category": "Uncategorized",
+      "description": "",
+      "price": "15.99",
+      "url": "https://sweetsworld.com.au/uncategorized/milk-choc-rocky-road-135g-vegan-gluten-free/",
+      "matched_tokens": [
+        "vegan",
+        "free"
+      ],
+      "matched_phrases": [],
+      "selection_reason": "direct_match"
+    },
+    {
+      "product_name": "Moofree Dairy Free White Choc & Strawberry Hammy Hamster (Moofree Easter Egg Choccy Chum Surprise (Organic The ethical choice No palm oil Dairy, gluten & soya free Vegan))",
+      "category": "British Lollies",
+      "description": "Moofree Dairy Free White Choc & Strawberry Hammy Hamster (Moofree Easter Egg Choccy Chum Surprise (Organic The ethical choice No palm oil Dairy, gluten & soya free Vegan)) Product description: Mikey Bunny was...",
+      "price": "11.99",
+      "url": "https://sweetsworld.com.au/british-lollies/uk-chocolate/moofreedairyfreewhitechocstrawberryhammyhamster85g/",
+      "matched_tokens": [
+        "vegan",
+        "free"
+      ],
+      "matched_phrases": [],
+      "selection_reason": "direct_match"
+    }
+  ],
+  "related_keywords": [
+    "sweetsworld",
+    "sweets world",
+    "white knight chocolate",
+    "fantales lollies",
+    "fantails lolly",
+    "clinkers chocolate"
+  ],
+  "cta": {
+    "heading": "Move from vegan lollies research into a purchase",
+    "body": "Compare the shortlist, then click through to the most relevant collection or product page to check live stock and delivery details."
+  }
+}

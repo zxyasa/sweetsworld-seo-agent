@@ -1,0 +1,154 @@
+{
+  "brief_id": "swedish-fish-australia-brief-v1",
+  "slug": "swedish-fish-australia",
+  "keyword": "swedish fish australia",
+  "search_intent": "Transactional with commercial intent",
+  "page_type": "landing_page",
+  "title": "Swedish Fish Australia: Where to Buy Swedish Fish Candy Online",
+  "meta_description": "Swedish Fish Australia: Where to Buy Swedish Fish Candy Online. Compare stock options, buying factors, and the best next steps for swedish fish in...",
+  "intro": "Use this page to compare where to buy swedish fish in Australia, what to check before ordering, and which swedish candy options are the best fit for your basket.",
+  "outline": [
+    "Where to buy swedish fish with less guesswork",
+    "How to compare Swedish Candy options before ordering"
+  ],
+  "sections": [
+    {
+      "heading": "Where to buy swedish fish with less guesswork",
+      "paragraphs": [
+        "Landing pages for swedish fish need to show real commercial value quickly, including price context, stock clarity, and relevant product paths.",
+        "The goal is to reduce purchase friction rather than publish a thin page that repeats the keyword."
+      ],
+      "bullets": [
+        "Swedish Fish 141g",
+        "Swedish Fish 226g",
+        "Swedish Fish Mini 56g",
+        "Swedish Fish Mini Tropical 99g"
+      ]
+    },
+    {
+      "heading": "How to compare Swedish Candy options before ordering",
+      "paragraphs": [
+        "A stronger landing page explains the trade-offs between pack size, flavour range, stock depth, and delivery timing.",
+        "That gives the page a conversion job as well as a ranking job."
+      ],
+      "bullets": [
+        "Compare unit price instead of headline price alone.",
+        "Check stock, bundle size, and delivery timing together.",
+        "Keep the call to action aligned with the buying task."
+      ]
+    }
+  ],
+  "faq_items": [
+    {
+      "question": "Where can I buy swedish fish online in Australia?",
+      "answer": "Start with Australian stores that show live stock, delivery windows, and product range depth for swedish fish before checkout."
+    },
+    {
+      "question": "How should I compare swedish fish prices?",
+      "answer": "Compare unit price, pack size, shipping cost, and bundle options together instead of looking at the headline price only."
+    },
+    {
+      "question": "Are there other swedish candy options worth comparing?",
+      "answer": "Yes. Nearby collections or substitute products can be useful when swedish fish is out of stock or only available in limited pack sizes."
+    }
+  ],
+  "faq_questions": [
+    "Where can I buy swedish fish online in Australia?",
+    "How should I compare swedish fish prices?",
+    "Are there other swedish candy options worth comparing?"
+  ],
+  "internal_links": [
+    {
+      "url": "https://sweetsworld.com.au/candy/",
+      "label": "Candy",
+      "anchor_text": "Shop Candy",
+      "link_kind": "category"
+    },
+    {
+      "url": "https://sweetsworld.com.au/candy/american-candy/",
+      "label": "American Candy",
+      "anchor_text": "Browse American Candy",
+      "link_kind": "collection"
+    },
+    {
+      "url": "https://sweetsworld.com.au/candy/american-candy/swedish-fish-141g/",
+      "label": "Swedish Fish 141g",
+      "anchor_text": "See Swedish Fish 141g",
+      "link_kind": "product"
+    }
+  ],
+  "selected_products": [
+    {
+      "product_name": "Swedish Fish 141g",
+      "category": "American Candy Box",
+      "description": "Swedish Fish 141g Product Description: Swedish Fish are soft, chewy fish-shaped candy. Even though Swedish Fish have been around for over 50 years they still have a dedicated following of young and old. Once you buy...",
+      "price": "4.99",
+      "url": "https://sweetsworld.com.au/candy/american-candy/swedish-fish-141g/",
+      "matched_tokens": [
+        "swedish",
+        "fish"
+      ],
+      "matched_phrases": [
+        "swedish fish"
+      ],
+      "selection_reason": "direct_match"
+    },
+    {
+      "product_name": "Swedish Fish 226g",
+      "category": "Uncategorized",
+      "description": "Swedish Fish 226g Product Description: - Swedish Fish are a fat-free candy, which means this is a sweet treat that you can feel good about enjoying - Swedish Fish are a red, chewy, and delicious gummy candy that's...",
+      "price": "7.99",
+      "url": "https://sweetsworld.com.au/uncategorized/swedish-fish-226g/",
+      "matched_tokens": [
+        "swedish",
+        "fish"
+      ],
+      "matched_phrases": [
+        "swedish fish"
+      ],
+      "selection_reason": "direct_match"
+    },
+    {
+      "product_name": "Swedish Fish Mini 56g",
+      "category": "American Candy Box",
+      "description": "Swedish Fish Mini 56g Product Description: Swedish Fish Assorted is a popular brand of chewy candy that is known for its distinctive fish-shaped pieces and bold fruity flavors. The candy contains a combination of...",
+      "price": "2.99",
+      "url": "https://sweetsworld.com.au/candy/american-candy/swedish-fish/",
+      "matched_tokens": [
+        "swedish",
+        "fish"
+      ],
+      "matched_phrases": [
+        "swedish fish"
+      ],
+      "selection_reason": "direct_match"
+    },
+    {
+      "product_name": "Swedish Fish Mini Tropical 99g",
+      "category": "American Candy Box",
+      "description": "",
+      "price": "5.99",
+      "url": "https://sweetsworld.com.au/candy/american-candy/swedishfishminitropical99g/",
+      "matched_tokens": [
+        "swedish",
+        "fish"
+      ],
+      "matched_phrases": [
+        "swedish fish"
+      ],
+      "selection_reason": "direct_match"
+    }
+  ],
+  "related_keywords": [
+    "sweetsworld",
+    "sweets world",
+    "white knight chocolate",
+    "fantales lollies",
+    "fantails lolly",
+    "darrell lea kotara"
+  ],
+  "cta": {
+    "heading": "Move from swedish fish research into a purchase",
+    "body": "Compare the shortlist, then click through to the most relevant collection or product page to check live stock and delivery details."
+  }
+}

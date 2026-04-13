@@ -1,0 +1,235 @@
+{
+  "updated_at": "2026-04-13T10:30:56",
+  "runs": [
+    {
+      "timestamp": "2026-04-02T10:30:46",
+      "slug": "dutch-candy-australia",
+      "title": "Dutch Candy Australia: Buy Holland Sweets and Licorice Online",
+      "status": "published",
+      "link": "https://sweetsworld.com.au/candy-categories/dutch-candy-australia/",
+      "post_id": 70997,
+      "message": ""
+    },
+    {
+      "timestamp": "2026-04-03T10:30:40",
+      "slug": "german-candy-australia",
+      "title": "German Candy Australia: Buy Haribo and German Sweets Online",
+      "status": "published",
+      "link": "https://sweetsworld.com.au/candy-categories/german-candy-australia/",
+      "post_id": 71009,
+      "message": ""
+    },
+    {
+      "timestamp": "2026-04-04T10:30:40",
+      "slug": "turkish-candy-australia",
+      "title": "Turkish Candy Australia: Turkish Delight and Sweet Treats Online",
+      "status": "published",
+      "link": "https://sweetsworld.com.au/candy-categories/turkish-candy-australia/",
+      "post_id": 71020,
+      "message": ""
+    },
+    {
+      "timestamp": "2026-04-05T10:30:36",
+      "slug": "mexican-candy-australia",
+      "title": "Mexican Candy Australia: Buy Takis Pulparindo and More Online",
+      "status": "published",
+      "link": "https://sweetsworld.com.au/candy-categories/mexican-candy-australia/",
+      "post_id": 71031,
+      "message": ""
+    },
+    {
+      "timestamp": "2026-04-06T10:30:41",
+      "slug": "jolly-rancher-australia",
+      "title": "Jolly Rancher Australia: Buy Hard Candy and Gummies Online",
+      "status": "published",
+      "link": "https://sweetsworld.com.au/candy-types/jolly-rancher-australia/",
+      "post_id": 71043,
+      "message": ""
+    },
+    {
+      "timestamp": "2026-04-07T10:30:42",
+      "slug": "twizzlers-australia",
+      "title": "Twizzlers Australia: Where to Buy Red Licorice Twists Online",
+      "status": "published",
+      "link": "https://sweetsworld.com.au/candy-types/twizzlers-australia/",
+      "post_id": 71489,
+      "message": ""
+    },
+    {
+      "timestamp": "2026-04-08T10:30:57",
+      "slug": "nerds-candy-australia",
+      "title": "Nerds Candy Australia: Buy Nerds Rope and Nerds Clusters Online",
+      "status": "published",
+      "link": "https://sweetsworld.com.au/candy-types/nerds-candy-australia/",
+      "post_id": 71761,
+      "message": ""
+    },
+    {
+      "timestamp": "2026-04-09T10:30:46",
+      "slug": "hersheys-australia",
+      "title": "Hershey's Australia: Buy Hershey's Chocolate and Kisses Online",
+      "status": "published",
+      "link": "https://sweetsworld.com.au/candy-types/hersheys-australia/",
+      "post_id": 71820,
+      "message": ""
+    },
+    {
+      "timestamp": "2026-04-10T10:30:45",
+      "slug": "trolli-australia",
+      "title": "Trolli Australia: Buy Trolli Gummies and Sour Worms Online",
+      "status": "published",
+      "link": "https://sweetsworld.com.au/candy-types/trolli-australia/",
+      "post_id": 71841,
+      "message": ""
+    },
+    {
+      "timestamp": "2026-04-11T10:30:55",
+      "slug": "darrell-lea-gift-ideas",
+      "title": "Darrell Lea Gift Ideas: Best Australian Chocolate Gifts",
+      "status": "published",
+      "link": "https://sweetsworld.com.au/candy-types/darrell-lea-gift-ideas/",
+      "post_id": 72063,
+      "message": ""
+    },
+    {
+      "timestamp": "2026-04-12T10:31:07",
+      "slug": "warheads-australia",
+      "title": "Warheads Australia: Buy Sour Warheads Candy Online",
+      "status": "published",
+      "link": "https://sweetsworld.com.au/candy-types/warheads-australia/",
+      "post_id": 72074,
+      "message": ""
+    },
+    {
+      "timestamp": "2026-04-13T10:30:56",
+      "slug": "corporate-candy-gifts-australia",
+      "title": "Corporate Candy Gifts Australia: Branded Sweet Hampers for Clients",
+      "status": "published",
+      "link": "https://sweetsworld.com.au/candy-types/corporate-candy-gifts-australia/",
+      "post_id": 72089,
+      "message": ""
+    }
+  ],
+  "topics": {
+    "dutch-candy-australia": {
+      "slug": "dutch-candy-australia",
+      "title": "Dutch Candy Australia: Buy Holland Sweets and Licorice Online",
+      "status": "published",
+      "last_attempted_at": "2026-04-02T10:30:46",
+      "post_link": "https://sweetsworld.com.au/candy-categories/dutch-candy-australia/",
+      "post_id": 70997,
+      "last_error": "",
+      "last_success_at": "2026-04-02T10:30:46"
+    },
+    "german-candy-australia": {
+      "slug": "german-candy-australia",
+      "title": "German Candy Australia: Buy Haribo and German Sweets Online",
+      "status": "published",
+      "last_attempted_at": "2026-04-03T10:30:40",
+      "post_link": "https://sweetsworld.com.au/candy-categories/german-candy-australia/",
+      "post_id": 71009,
+      "last_error": "",
+      "last_success_at": "2026-04-03T10:30:40"
+    },
+    "turkish-candy-australia": {
+      "slug": "turkish-candy-australia",
+      "title": "Turkish Candy Australia: Turkish Delight and Sweet Treats Online",
+      "status": "published",
+      "last_attempted_at": "2026-04-04T10:30:40",
+      "post_link": "https://sweetsworld.com.au/candy-categories/turkish-candy-australia/",
+      "post_id": 71020,
+      "last_error": "",
+      "last_success_at": "2026-04-04T10:30:40"
+    },
+    "mexican-candy-australia": {
+      "slug": "mexican-candy-australia",
+      "title": "Mexican Candy Australia: Buy Takis Pulparindo and More Online",
+      "status": "published",
+      "last_attempted_at": "2026-04-05T10:30:36",
+      "post_link": "https://sweetsworld.com.au/candy-categories/mexican-candy-australia/",
+      "post_id": 71031,
+      "last_error": "",
+      "last_success_at": "2026-04-05T10:30:36"
+    },
+    "jolly-rancher-australia": {
+      "slug": "jolly-rancher-australia",
+      "title": "Jolly Rancher Australia: Buy Hard Candy and Gummies Online",
+      "status": "published",
+      "last_attempted_at": "2026-04-06T10:30:41",
+      "post_link": "https://sweetsworld.com.au/candy-types/jolly-rancher-australia/",
+      "post_id": 71043,
+      "last_error": "",
+      "last_success_at": "2026-04-06T10:30:41"
+    },
+    "twizzlers-australia": {
+      "slug": "twizzlers-australia",
+      "title": "Twizzlers Australia: Where to Buy Red Licorice Twists Online",
+      "status": "published",
+      "last_attempted_at": "2026-04-07T10:30:42",
+      "post_link": "https://sweetsworld.com.au/candy-types/twizzlers-australia/",
+      "post_id": 71489,
+      "last_error": "",
+      "last_success_at": "2026-04-07T10:30:42"
+    },
+    "nerds-candy-australia": {
+      "slug": "nerds-candy-australia",
+      "title": "Nerds Candy Australia: Buy Nerds Rope and Nerds Clusters Online",
+      "status": "published",
+      "last_attempted_at": "2026-04-08T10:30:57",
+      "post_link": "https://sweetsworld.com.au/candy-types/nerds-candy-australia/",
+      "post_id": 71761,
+      "last_error": "",
+      "last_success_at": "2026-04-08T10:30:57"
+    },
+    "hersheys-australia": {
+      "slug": "hersheys-australia",
+      "title": "Hershey's Australia: Buy Hershey's Chocolate and Kisses Online",
+      "status": "published",
+      "last_attempted_at": "2026-04-09T10:30:46",
+      "post_link": "https://sweetsworld.com.au/candy-types/hersheys-australia/",
+      "post_id": 71820,
+      "last_error": "",
+      "last_success_at": "2026-04-09T10:30:46"
+    },
+    "trolli-australia": {
+      "slug": "trolli-australia",
+      "title": "Trolli Australia: Buy Trolli Gummies and Sour Worms Online",
+      "status": "published",
+      "last_attempted_at": "2026-04-10T10:30:45",
+      "post_link": "https://sweetsworld.com.au/candy-types/trolli-australia/",
+      "post_id": 71841,
+      "last_error": "",
+      "last_success_at": "2026-04-10T10:30:45"
+    },
+    "darrell-lea-gift-ideas": {
+      "slug": "darrell-lea-gift-ideas",
+      "title": "Darrell Lea Gift Ideas: Best Australian Chocolate Gifts",
+      "status": "published",
+      "last_attempted_at": "2026-04-11T10:30:55",
+      "post_link": "https://sweetsworld.com.au/candy-types/darrell-lea-gift-ideas/",
+      "post_id": 72063,
+      "last_error": "",
+      "last_success_at": "2026-04-11T10:30:55"
+    },
+    "warheads-australia": {
+      "slug": "warheads-australia",
+      "title": "Warheads Australia: Buy Sour Warheads Candy Online",
+      "status": "published",
+      "last_attempted_at": "2026-04-12T10:31:07",
+      "post_link": "https://sweetsworld.com.au/candy-types/warheads-australia/",
+      "post_id": 72074,
+      "last_error": "",
+      "last_success_at": "2026-04-12T10:31:07"
+    },
+    "corporate-candy-gifts-australia": {
+      "slug": "corporate-candy-gifts-australia",
+      "title": "Corporate Candy Gifts Australia: Branded Sweet Hampers for Clients",
+      "status": "published",
+      "last_attempted_at": "2026-04-13T10:30:56",
+      "post_link": "https://sweetsworld.com.au/candy-types/corporate-candy-gifts-australia/",
+      "post_id": 72089,
+      "last_error": "",
+      "last_success_at": "2026-04-13T10:30:56"
+    }
+  }
+}

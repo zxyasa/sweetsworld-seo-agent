@@ -1,0 +1,146 @@
+{
+  "brief_id": "maltesers-australia-brief-v1",
+  "slug": "maltesers-australia",
+  "keyword": "maltesers australia",
+  "search_intent": "Transactional with commercial intent",
+  "page_type": "landing_page",
+  "title": "Maltesers Australia: Buy Maltesers Bags and Gift Boxes Online",
+  "meta_description": "Maltesers Australia: Buy Maltesers Bags and Gift Boxes Online. Compare stock options, buying factors, and the best next steps for maltesers in Australia.",
+  "intro": "Use this page to compare where to buy maltesers in Australia, what to check before ordering, and which british candy options are the best fit for your basket.",
+  "outline": [
+    "Where to buy maltesers with less guesswork",
+    "How to compare British Candy options before ordering"
+  ],
+  "sections": [
+    {
+      "heading": "Where to buy maltesers with less guesswork",
+      "paragraphs": [
+        "Landing pages for maltesers need to show real commercial value quickly, including price context, stock clarity, and relevant product paths.",
+        "The goal is to reduce purchase friction rather than publish a thin page that repeats the keyword."
+      ],
+      "bullets": [
+        "PVC Transparent Clear Macaron Square Cube Boxes for Wedding Favour Gift Candy (6X6X6CM) - (Duplicate Imported from WooCommerce)",
+        "Boxed Caramel Marshmallows 230g",
+        "Strawberry and Cream Boxed Marshmallows 230g",
+        "BUTTER MENTHOL BAGS 25G X 60"
+      ]
+    },
+    {
+      "heading": "How to compare British Candy options before ordering",
+      "paragraphs": [
+        "A stronger landing page explains the trade-offs between pack size, flavour range, stock depth, and delivery timing.",
+        "That gives the page a conversion job as well as a ranking job."
+      ],
+      "bullets": [
+        "Compare unit price instead of headline price alone.",
+        "Check stock, bundle size, and delivery timing together.",
+        "Keep the call to action aligned with the buying task."
+      ]
+    }
+  ],
+  "faq_items": [
+    {
+      "question": "Where can I buy maltesers online in Australia?",
+      "answer": "Start with Australian stores that show live stock, delivery windows, and product range depth for maltesers before checkout."
+    },
+    {
+      "question": "How should I compare maltesers prices?",
+      "answer": "Compare unit price, pack size, shipping cost, and bundle options together instead of looking at the headline price only."
+    },
+    {
+      "question": "Are there other british candy options worth comparing?",
+      "answer": "Yes. Nearby collections or substitute products can be useful when maltesers is out of stock or only available in limited pack sizes."
+    }
+  ],
+  "faq_questions": [
+    "Where can I buy maltesers online in Australia?",
+    "How should I compare maltesers prices?",
+    "Are there other british candy options worth comparing?"
+  ],
+  "internal_links": [
+    {
+      "url": "https://sweetsworld.com.au/candy/",
+      "label": "Candy",
+      "anchor_text": "Shop Candy",
+      "link_kind": "category"
+    },
+    {
+      "url": "https://sweetsworld.com.au/packaging/pvctransparentclearmacaronsquarecubeboxesforweddingfavourgiftcandy6x6x6cm/",
+      "label": "Pvctransparentclearmacaronsquarecubeboxesforweddingfavourgiftcandy6x6x6cm",
+      "anchor_text": "Browse Pvctransparentclearmacaronsquarecubeboxesforweddingfavourgiftcandy6x6x6cm",
+      "link_kind": "collection"
+    },
+    {
+      "url": "https://sweetsworld.com.au/shop/candy/allensfantales1kg/",
+      "label": "Allensfantales1kg",
+      "anchor_text": "Compare Allensfantales1kg",
+      "link_kind": "product"
+    }
+  ],
+  "selected_products": [
+    {
+      "product_name": "PVC Transparent Clear Macaron Square Cube Boxes for Wedding Favour Gift Candy (6X6X6CM) - (Duplicate Imported from WooCommerce)",
+      "category": "Packaging",
+      "description": "PVC Transparent Clear Macaron Square Cube Boxes for Wedding Favour Gift Candy (6X6X6CM)",
+      "price": "1.5",
+      "url": "https://sweetsworld.com.au/packaging/pvctransparentclearmacaronsquarecubeboxesforweddingfavourgiftcandy6x6x6cm/",
+      "matched_tokens": [
+        "gift",
+        "box",
+        "boxe"
+      ],
+      "matched_phrases": [],
+      "selection_reason": "direct_match"
+    },
+    {
+      "product_name": "Boxed Caramel Marshmallows 230g",
+      "category": "Candy",
+      "description": "Boxed Caramel Marshmallows 230g Product Description: Does silky smooth caramel sound like your kind of treat? Our tantalising Caramel Swirl marshmallows are twisting for a taste-tester! Does a twirl of caramel...",
+      "price": "20",
+      "url": "https://sweetsworld.com.au/candy/boxedcaramelmarshmallows230g/",
+      "matched_tokens": [
+        "box",
+        "boxe"
+      ],
+      "matched_phrases": [],
+      "selection_reason": "direct_match"
+    },
+    {
+      "product_name": "Strawberry and Cream Boxed Marshmallows 230g",
+      "category": "Candy",
+      "description": "Strawberry and Cream Boxed Marshmallows 230g Product Description: Ever the iconic duo, strawberries and cream have united once more! We think they’ll stop for a tasty marshmallow snack, and then maybe they’ll head...",
+      "price": "20",
+      "url": "https://sweetsworld.com.au/candy/strawberryandcreamboxedmarshmallows230g/",
+      "matched_tokens": [
+        "box",
+        "boxe"
+      ],
+      "matched_phrases": [],
+      "selection_reason": "direct_match"
+    },
+    {
+      "product_name": "BUTTER MENTHOL BAGS 25G X 60",
+      "category": "Uncategorized",
+      "description": "BUTTER MENTHOL BAGS 25G X 60",
+      "price": "49.99",
+      "url": "https://sweetsworld.com.au/uncategorized/butter-menthol-bags-25g-x-60/",
+      "matched_tokens": [
+        "bags"
+      ],
+      "matched_phrases": [],
+      "selection_reason": "direct_match"
+    }
+  ],
+  "related_keywords": [
+    "sweetsworld",
+    "sweets world",
+    "white knight chocolate",
+    "fantales lollies",
+    "fantails lolly",
+    "darrell lea kotara"
+  ],
+  "cta": {
+    "heading": "Move from maltesers research into a purchase",
+    "body": "Compare the shortlist, then click through to the most relevant collection or product page to check live stock and delivery details."
+  }
+}

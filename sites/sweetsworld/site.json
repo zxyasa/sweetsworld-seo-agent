@@ -1,0 +1,95 @@
+{
+  "site_id": "sweetsworld",
+  "display_name": "SweetsWorld Australia",
+  "base_url": "https://sweetsworld.com.au",
+  "niche": "ecommerce_candy",
+  "audience": "Australian candy lovers and sweet treat enthusiasts",
+  "brand_voice": "fun, friendly, enthusiastic, and knowledgeable about candy",
+  "language": "en-AU",
+
+  "content": {
+    "catalog_file": "products.json",
+    "catalog_type": "products",
+    "topics_file": "topics.csv",
+    "faq_context": "candy_blog"
+  },
+
+  "collection_paths": {
+    "candy":           "/candy/",
+    "chocolate":       "/chocolate/",
+    "wholesale":       "/wholesale-candy-australia/",
+    "sour_lollies":    "/candy/sour-lollies/",
+    "american_candy":  "/candy/american-candy/",
+    "japanese_candy":  "/candy/japanese-candy/"
+  },
+
+  "wp_categories": {
+    "guide_page": {
+      "slug": "candy-guides",
+      "name": "Candy Guides"
+    },
+    "occasion_page": {
+      "slug": "candy-occasions",
+      "name": "Candy Occasions"
+    },
+    "landing_page": {
+      "slug": "candy-types",
+      "name": "Candy Types"
+    },
+    "category_page": {
+      "slug": "candy-categories",
+      "name": "Candy Categories"
+    },
+    "faq_page": {
+      "slug": "candy-faqs",
+      "name": "Candy FAQs"
+    },
+    "comparison_page": {
+      "slug": "candy-comparisons",
+      "name": "Candy Comparisons"
+    },
+    "best_of_page": {
+      "slug": "best-candy",
+      "name": "Best Candy"
+    },
+    "city_landing_page": {
+      "slug": "candy-by-city",
+      "name": "Candy By City"
+    }
+  },
+
+  "wp": {
+    "env_username":    "WP_USERNAME",
+    "env_password":    "WP_APP_PASSWORD"
+  },
+
+  "gsc": {
+    "property":         "https://sweetsworld.com.au/",
+    "env_credentials":  "GSC_CREDENTIALS_FILE"
+  },
+
+  "indexing_key_file": "gsc_credentials.json",
+
+  "telegram": {
+    "env_bot_token": "TELEGRAM_BOT_TOKEN",
+    "env_chat_id":   "TELEGRAM_CHAT_ID"
+  },
+
+  "active_skin": "default",
+  "skin_valid_from": null,
+  "skin_valid_until": null,
+
+  "publish": {
+    "daily_limit":           1,
+    "indexing_api_enabled":  true,
+    "auto_publish":          true
+  },
+
+  "prompt_config": {
+    "target_audience": "Australian consumers and businesses buying candy, lollies, and confectionery online",
+    "language_instruction": "English (Australian English spelling — colour, flavour, organise, etc.)",
+    "word_count": "1200-1500",
+    "tone_style": "- Fun, friendly, and enthusiastic about candy and sweets\n- Australian English throughout\n- Focus on practical buying guidance: pack sizes, delivery, value for money\n- Emphasize quality, variety, and the joy of sharing sweets",
+    "extra_instructions": "This article is for SweetsWorld (sweetsworld.com.au), Australia's online candy and confectionery store.\n- Naturally weave in the primary keyword and related candy/lolly terms.\n- When recommending products, favour items available at sweetsworld.com.au.\n- Buying-intent pages should include a clear CTA to shop or browse the relevant category."
+  }
+}

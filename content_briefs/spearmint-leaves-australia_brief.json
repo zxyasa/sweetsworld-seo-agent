@@ -1,0 +1,122 @@
+{
+  "brief_id": "spearmint-leaves-australia-brief-v1",
+  "slug": "spearmint-leaves-australia",
+  "keyword": "spearmint leaves australia",
+  "search_intent": "Transactional with commercial intent",
+  "page_type": "landing_page",
+  "title": "Spearmint Leaves Australia: Buy Spearmint Jelly Lollies Online",
+  "meta_description": "Spearmint Leaves Australia: Buy Spearmint Jelly Lollies Online. Compare stock options, buying factors, and the best next steps for spearmint leaves in...",
+  "intro": "Use this page to compare where to buy spearmint leaves in Australia, what to check before ordering, and which classic candy options are the best fit for your basket.",
+  "outline": [
+    "Where to buy spearmint leaves with less guesswork",
+    "How to compare Classic Candy options before ordering"
+  ],
+  "sections": [
+    {
+      "heading": "Where to buy spearmint leaves with less guesswork",
+      "paragraphs": [
+        "Landing pages for spearmint leaves need to show real commercial value quickly, including price context, stock clarity, and relevant product paths.",
+        "The goal is to reduce purchase friction rather than publish a thin page that repeats the keyword."
+      ],
+      "bullets": [
+        "MAYCEYS Giant Spearmint Leaves 90g",
+        "Spearmint Leaves 130g"
+      ]
+    },
+    {
+      "heading": "How to compare Classic Candy options before ordering",
+      "paragraphs": [
+        "A stronger landing page explains the trade-offs between pack size, flavour range, stock depth, and delivery timing.",
+        "That gives the page a conversion job as well as a ranking job."
+      ],
+      "bullets": [
+        "Compare unit price instead of headline price alone.",
+        "Check stock, bundle size, and delivery timing together.",
+        "Keep the call to action aligned with the buying task."
+      ]
+    }
+  ],
+  "faq_items": [
+    {
+      "question": "Where can I buy spearmint leaves online in Australia?",
+      "answer": "Start with Australian stores that show live stock, delivery windows, and product range depth for spearmint leaves before checkout."
+    },
+    {
+      "question": "How should I compare spearmint leaves prices?",
+      "answer": "Compare unit price, pack size, shipping cost, and bundle options together instead of looking at the headline price only."
+    },
+    {
+      "question": "Are there other classic candy options worth comparing?",
+      "answer": "Yes. Nearby collections or substitute products can be useful when spearmint leaves is out of stock or only available in limited pack sizes."
+    }
+  ],
+  "faq_questions": [
+    "Where can I buy spearmint leaves online in Australia?",
+    "How should I compare spearmint leaves prices?",
+    "Are there other classic candy options worth comparing?"
+  ],
+  "internal_links": [
+    {
+      "url": "https://sweetsworld.com.au/candy/",
+      "label": "Candy",
+      "anchor_text": "Shop Candy",
+      "link_kind": "category"
+    },
+    {
+      "url": "https://sweetsworld.com.au/candy/mayceys-giant-spearmint-leaves/",
+      "label": "Mayceys Giant Spearmint Leaves",
+      "anchor_text": "Browse Mayceys Giant Spearmint Leaves",
+      "link_kind": "collection"
+    },
+    {
+      "url": "https://sweetsworld.com.au/candy/old-fashion-lollies/spearmintleaves130g/",
+      "label": "Spearmintleaves130g",
+      "anchor_text": "View Spearmintleaves130g",
+      "link_kind": "product"
+    }
+  ],
+  "selected_products": [
+    {
+      "product_name": "MAYCEYS Giant Spearmint Leaves 90g",
+      "category": "Candy",
+      "description": "MAYCEYS Giant Spearmint Leaves offer a refreshing and chewy candy experience with a delightful spearmint flavor. Perfect for any occasion, they combine minty freshness with a satisfying chew. Enjoy and share with...",
+      "price": "4.99",
+      "url": "https://sweetsworld.com.au/candy/mayceys-giant-spearmint-leaves/",
+      "matched_tokens": [
+        "spearmint",
+        "leave"
+      ],
+      "matched_phrases": [
+        "spearmint leave"
+      ],
+      "selection_reason": "direct_match"
+    },
+    {
+      "product_name": "Spearmint Leaves 130g",
+      "category": "Candy",
+      "description": "",
+      "price": "4.99",
+      "url": "https://sweetsworld.com.au/candy/old-fashion-lollies/spearmintleaves130g/",
+      "matched_tokens": [
+        "spearmint",
+        "leave"
+      ],
+      "matched_phrases": [
+        "spearmint leave"
+      ],
+      "selection_reason": "direct_match"
+    }
+  ],
+  "related_keywords": [
+    "sweetsworld",
+    "sweets world",
+    "white knight chocolate",
+    "fantales lollies",
+    "fantails lolly",
+    "darrell lea kotara"
+  ],
+  "cta": {
+    "heading": "Move from spearmint leaves research into a purchase",
+    "body": "Compare the shortlist, then click through to the most relevant collection or product page to check live stock and delivery details."
+  }
+}

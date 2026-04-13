@@ -1,0 +1,124 @@
+{
+  "brief_id": "dairy-free-chocolate-australia-brief-v1",
+  "slug": "dairy-free-chocolate-australia",
+  "keyword": "dairy free chocolate australia",
+  "search_intent": "Transactional with commercial intent",
+  "page_type": "landing_page",
+  "title": "Dairy Free Chocolate Australia: Milk-Free Choc and Candy Online",
+  "meta_description": "Dairy Free Chocolate Australia: Milk-Free Choc and Candy Online. Compare stock options, buying factors, and the best next steps for dairy free chocolate...",
+  "intro": "Use this page to compare where to buy dairy free chocolate in Australia, what to check before ordering, and which dairy free options are the best fit for your basket.",
+  "outline": [
+    "Where to buy dairy free chocolate with less guesswork",
+    "How to compare Dairy Free options before ordering"
+  ],
+  "sections": [
+    {
+      "heading": "Where to buy dairy free chocolate with less guesswork",
+      "paragraphs": [
+        "Landing pages for dairy free chocolate need to show real commercial value quickly, including price context, stock clarity, and relevant product paths.",
+        "The goal is to reduce purchase friction rather than publish a thin page that repeats the keyword."
+      ],
+      "bullets": [
+        "Moofree Dairy Free White Choc & Strawberry Hammy Hamster (Moofree Easter Egg Choccy Chum Surprise (Organic The ethical choice No palm oil Dairy, gluten & soya free Vegan))",
+        "Sweet William Xmas Dairy Free Assortment 250g"
+      ]
+    },
+    {
+      "heading": "How to compare Dairy Free options before ordering",
+      "paragraphs": [
+        "A stronger landing page explains the trade-offs between pack size, flavour range, stock depth, and delivery timing.",
+        "That gives the page a conversion job as well as a ranking job."
+      ],
+      "bullets": [
+        "Compare unit price instead of headline price alone.",
+        "Check stock, bundle size, and delivery timing together.",
+        "Keep the call to action aligned with the buying task."
+      ]
+    }
+  ],
+  "faq_items": [
+    {
+      "question": "Where can I buy dairy free chocolate online in Australia?",
+      "answer": "Start with Australian stores that show live stock, delivery windows, and product range depth for dairy free chocolate before checkout."
+    },
+    {
+      "question": "How should I compare dairy free chocolate prices?",
+      "answer": "Compare unit price, pack size, shipping cost, and bundle options together instead of looking at the headline price only."
+    },
+    {
+      "question": "Are there other dairy free options worth comparing?",
+      "answer": "Yes. Nearby collections or substitute products can be useful when dairy free chocolate is out of stock or only available in limited pack sizes."
+    }
+  ],
+  "faq_questions": [
+    "Where can I buy dairy free chocolate online in Australia?",
+    "How should I compare dairy free chocolate prices?",
+    "Are there other dairy free options worth comparing?"
+  ],
+  "internal_links": [
+    {
+      "url": "https://sweetsworld.com.au/where-to-buy/gluten-free-lollies-australia/",
+      "label": "Gluten Free Lollies Australia",
+      "anchor_text": "Shop Gluten Free Lollies Australia",
+      "link_kind": "commercial"
+    },
+    {
+      "url": "https://sweetsworld.com.au/british-lollies/uk-chocolate/",
+      "label": "Uk Chocolate",
+      "anchor_text": "Compare Uk Chocolate",
+      "link_kind": "collection"
+    },
+    {
+      "url": "https://sweetsworld.com.au/british-lollies/",
+      "label": "British Lollies",
+      "anchor_text": "Shop British Lollies",
+      "link_kind": "category"
+    }
+  ],
+  "selected_products": [
+    {
+      "product_name": "Moofree Dairy Free White Choc & Strawberry Hammy Hamster (Moofree Easter Egg Choccy Chum Surprise (Organic The ethical choice No palm oil Dairy, gluten & soya free Vegan))",
+      "category": "British Lollies",
+      "description": "Moofree Dairy Free White Choc & Strawberry Hammy Hamster (Moofree Easter Egg Choccy Chum Surprise (Organic The ethical choice No palm oil Dairy, gluten & soya free Vegan)) Product description: Mikey Bunny was...",
+      "price": "11.99",
+      "url": "https://sweetsworld.com.au/british-lollies/uk-chocolate/moofreedairyfreewhitechocstrawberryhammyhamster85g/",
+      "matched_tokens": [
+        "chocolate",
+        "dairy",
+        "free",
+        "choc"
+      ],
+      "matched_phrases": [
+        "dairy free"
+      ],
+      "selection_reason": "direct_match"
+    },
+    {
+      "product_name": "Sweet William Xmas Dairy Free Assortment 250g",
+      "category": "Candy",
+      "description": "",
+      "price": "19.99",
+      "url": "https://sweetsworld.com.au/candy/sweet-william-xmas-dairy-free-assortment-250g/",
+      "matched_tokens": [
+        "dairy",
+        "free"
+      ],
+      "matched_phrases": [
+        "dairy free"
+      ],
+      "selection_reason": "direct_match"
+    }
+  ],
+  "related_keywords": [
+    "sweetsworld",
+    "sweets world",
+    "white knight chocolate",
+    "fantales lollies",
+    "clinkers chocolate",
+    "fantails lolly"
+  ],
+  "cta": {
+    "heading": "Move from dairy free chocolate research into a purchase",
+    "body": "Compare the shortlist, then click through to the most relevant collection or product page to check live stock and delivery details."
+  }
+}

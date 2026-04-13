@@ -1,0 +1,146 @@
+{
+  "brief_id": "cheap-candy-online-australia-brief-v1",
+  "slug": "cheap-candy-online-australia",
+  "keyword": "cheap candy online australia",
+  "search_intent": "Transactional with commercial intent",
+  "page_type": "landing_page",
+  "title": "Cheap Candy Online Australia: Best Value Lolly Deals",
+  "meta_description": "Cheap Candy Online Australia: Best Value Lolly Deals. Compare stock options, buying factors, and the best next steps for candy in Australia.",
+  "intro": "Use this page to compare where to buy candy in Australia, what to check before ordering, and which candy options are the best fit for your basket.",
+  "outline": [
+    "Where to buy candy with less guesswork",
+    "How to compare Candy options before ordering"
+  ],
+  "sections": [
+    {
+      "heading": "Where to buy candy with less guesswork",
+      "paragraphs": [
+        "Landing pages for candy need to show real commercial value quickly, including price context, stock clarity, and relevant product paths.",
+        "The goal is to reduce purchase friction rather than publish a thin page that repeats the keyword."
+      ],
+      "bullets": [
+        "BIG LOLLY BUDS CARAMEL 850G",
+        "BIG LOLLY CHOC BUDS 850G",
+        "BIG LOLLY LICORICE ALLSORTS 850G",
+        "BIG LOLLY MIXED BUDS 850G"
+      ]
+    },
+    {
+      "heading": "How to compare Candy options before ordering",
+      "paragraphs": [
+        "A stronger landing page explains the trade-offs between pack size, flavour range, stock depth, and delivery timing.",
+        "That gives the page a conversion job as well as a ranking job."
+      ],
+      "bullets": [
+        "Compare unit price instead of headline price alone.",
+        "Check stock, bundle size, and delivery timing together.",
+        "Keep the call to action aligned with the buying task."
+      ]
+    }
+  ],
+  "faq_items": [
+    {
+      "question": "Where can I buy candy online in Australia?",
+      "answer": "Start with Australian stores that show live stock, delivery windows, and product range depth for candy before checkout."
+    },
+    {
+      "question": "How should I compare candy prices?",
+      "answer": "Compare unit price, pack size, shipping cost, and bundle options together instead of looking at the headline price only."
+    },
+    {
+      "question": "Are there other candy options worth comparing?",
+      "answer": "Yes. Nearby collections or substitute products can be useful when candy is out of stock or only available in limited pack sizes."
+    }
+  ],
+  "faq_questions": [
+    "Where can I buy candy online in Australia?",
+    "How should I compare candy prices?",
+    "Are there other candy options worth comparing?"
+  ],
+  "internal_links": [
+    {
+      "url": "https://sweetsworld.com.au/candy/",
+      "label": "Candy",
+      "anchor_text": "Shop Candy",
+      "link_kind": "category"
+    },
+    {
+      "url": "https://sweetsworld.com.au/candy/big-lolly-buds-caramel-850g/",
+      "label": "Big Lolly Buds Caramel 850g",
+      "anchor_text": "Browse Big Lolly Buds Caramel 850g",
+      "link_kind": "collection"
+    },
+    {
+      "url": "https://sweetsworld.com.au/shop/candy/allensfantales1kg/",
+      "label": "Allensfantales1kg",
+      "anchor_text": "View Allensfantales1kg",
+      "link_kind": "product"
+    }
+  ],
+  "selected_products": [
+    {
+      "product_name": "BIG LOLLY BUDS CARAMEL 850G",
+      "category": "Uncategorized",
+      "description": "Big Lolly Buds Caramel offer a rich, creamy caramel experience perfect for any caramel lover. Made with high-quality ingredients, these delightful treats are ideal for sharing, snacking, or adding to gift baskets...",
+      "price": "29.99",
+      "url": "https://sweetsworld.com.au/candy/big-lolly-buds-caramel-850g/",
+      "matched_tokens": [
+        "lolly",
+        "deal"
+      ],
+      "matched_phrases": [],
+      "selection_reason": "direct_match"
+    },
+    {
+      "product_name": "BIG LOLLY CHOC BUDS 850G",
+      "category": "Uncategorized",
+      "description": "Big Lolly Choc Buds offer a rich, creamy chocolate experience perfect for any chocolate lover. Made with high-quality ingredients, these delightful treats are ideal for sharing, snacking, or adding to gift baskets...",
+      "price": "29.99",
+      "url": "https://sweetsworld.com.au/candy/big-lolly-choc-buds-850g/",
+      "matched_tokens": [
+        "lolly",
+        "deal"
+      ],
+      "matched_phrases": [],
+      "selection_reason": "direct_match"
+    },
+    {
+      "product_name": "BIG LOLLY LICORICE ALLSORTS 850G",
+      "category": "Uncategorized",
+      "description": "Big Lolly Licorice Allsorts 850g offers a vibrant and delicious mix of licorice treats, perfect for any licorice lover. This large pack is ideal for sharing, snacking, or gifting, and features a variety of flavors...",
+      "price": "29.99",
+      "url": "https://sweetsworld.com.au/candy/big-lolly-licorice-allsorts-850g/",
+      "matched_tokens": [
+        "lolly",
+        "deal"
+      ],
+      "matched_phrases": [],
+      "selection_reason": "direct_match"
+    },
+    {
+      "product_name": "BIG LOLLY MIXED BUDS 850G",
+      "category": "Uncategorized",
+      "description": "Big Lolly Mixed Buds offer a delightful assortment of flavors and textures, perfect for any candy lover. Made with high-quality ingredients, these mixed buds are ideal for sharing, snacking, or adding to party...",
+      "price": "29.99",
+      "url": "https://sweetsworld.com.au/candy/big-lolly-mixed-buds-850g/",
+      "matched_tokens": [
+        "lolly",
+        "deal"
+      ],
+      "matched_phrases": [],
+      "selection_reason": "direct_match"
+    }
+  ],
+  "related_keywords": [
+    "sweetsworld",
+    "sweets world",
+    "white knight chocolate",
+    "fantales lollies",
+    "fantails lolly",
+    "darrell lea kotara"
+  ],
+  "cta": {
+    "heading": "Move from candy research into a purchase",
+    "body": "Compare the shortlist, then click through to the most relevant collection or product page to check live stock and delivery details."
+  }
+}

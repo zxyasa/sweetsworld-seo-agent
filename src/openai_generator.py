@@ -1,28 +1,65 @@
 """OpenAI-powered content generation for SEO articles."""
 from typing import Dict, Optional, List
 from openai import OpenAI
+from pathlib import Path
 import re
 import html
+
+
+def _load_design_prompt() -> str:
+    """Read Agent Prompt Guide from DESIGN.md section 11."""
+    design_md = Path(__file__).parent.parent / "design-system" / "DESIGN.md"
+    if not design_md.exists():
+        return ""
+    try:
+        content = design_md.read_text()
+        m = re.search(
+            r'## 11\. Agent Prompt Guide.*?(\*\*SYSTEM:.*?purchase\.)',
+            content,
+            re.DOTALL,
+        )
+        if m:
+            return m.group(1).strip()
+    except Exception:
+        pass
+    return ""
+
+
+_DESIGN_PROMPT: str = _load_design_prompt()
 
 
 class OpenAIGenerator:
     """Generate SEO-optimized content using OpenAI API."""
 
-    def __init__(self, api_key: str, model: str = "gpt-4o"):
+    def __init__(
+        self,
+        api_key: str,
+        model: str = "gpt-4o",
+        site_description: str = "sweetsworld.com.au, an Australian candy and confectionery e-commerce store",
+        base_url: str = "",
+        collection_urls: Optional[Dict] = None,
+        prompt_config: Optional[Dict] = None,
+    ):
         self.client = OpenAI(api_key=api_key)
         self.model = model
+        self.site_description = site_description
+        self.base_url = base_url.rstrip("/") if base_url else ""
+        self.collection_urls = collection_urls or {}
+        self.prompt_config = prompt_config or {}
 
     def generate_article_html(
         self,
         topic_dict: Dict[str, str],
-        gsc_data: Optional[Dict] = None
+        gsc_data: Optional[Dict] = None,
+        content_brief: Optional[Dict] = None,
     ) -> str:
         title = topic_dict.get("title", "")
         keyword = topic_dict.get("primary_keyword", "")
         category = topic_dict.get("category_hint", "")
 
         internal_links = self._extract_internal_links(gsc_data)
-        prompt = self._build_prompt(title, keyword, category, gsc_data, internal_links)
+        selected_products = (content_brief or {}).get("selected_products", []) or []
+        prompt = self._build_prompt(title, keyword, category, gsc_data, internal_links, selected_products)
 
         try:
             response = self.client.chat.completions.create(
@@ -31,8 +68,8 @@ class OpenAIGenerator:
                     {
                         "role": "system",
                         "content": (
-                            "You are an expert SEO content writer for sweetsworld.com.au, "
-                            "an Australian candy and confectionery e-commerce store. "
+                            ((_DESIGN_PROMPT + "\n\n") if _DESIGN_PROMPT else "")
+                            + f"You are an expert SEO content writer for {self.site_description}. "
                             "Write engaging, informative, and SEO-optimized articles in HTML format. "
                             "IMPORTANT: ALL content MUST be written in English language using Australian English spelling and style. "
                             "NEVER write in Chinese or any other language - only English."
@@ -48,7 +85,8 @@ class OpenAIGenerator:
             )
 
             raw_content = response.choices[0].message.content or ""
-            html_content = self._sanitize_model_output(raw_content)
+            _faq_items = (content_brief or {}).get("faq_items", []) or []
+            html_content = self._sanitize_model_output(raw_content, faq_items=_faq_items)
             html_content = self._ensure_basic_seo_blocks(html_content, title, keyword)
 
             if not html_content.lstrip().lower().startswith("<article"):
@@ -67,8 +105,28 @@ class OpenAIGenerator:
         category: str,
         gsc_data: Optional[Dict] = None,
         internal_links: Optional[List[str]] = None,
+        selected_products: Optional[List[Dict]] = None,
     ) -> str:
-        prompt = f"""Write a comprehensive SEO-optimized article for sweetsworld.com.au with the following specifications:
+        pc = self.prompt_config  # shorthand
+
+        target_audience = pc.get(
+            "target_audience",
+            "Australian consumers and businesses buying candy/confectionery",
+        )
+        language_instruction = pc.get(
+            "language_instruction",
+            "English (Australian English spelling and style)",
+        )
+        word_count = pc.get("word_count", "1200-1500")
+        tone_style = pc.get(
+            "tone_style",
+            "- Professional but friendly and approachable\n"
+            "- Australian English (colour, flavour, etc.)\n"
+            "- Focus on practical advice and buying guidance\n"
+            "- Emphasize quality, value, and local Australian context",
+        )
+
+        prompt = f"""Write a comprehensive SEO-optimized article for {self.site_description} with the following specifications:
 
 **CRITICAL REQUIREMENT: Write ONLY in English language. NO Chinese or other languages allowed.**
 
@@ -76,14 +134,14 @@ class OpenAIGenerator:
 - Title: {title}
 - Primary Keyword: {keyword}
 - Category: {category}
-- Target Audience: Australian consumers and businesses buying candy/confectionery
-- Language: English (Australian English spelling and style)
+- Target Audience: {target_audience}
+- Language: {language_instruction}
 
 **Content Requirements:**
-1. Use <h1> for the main title
+1. Do NOT use <h1> — WordPress renders H1 from the post title automatically. Start headings at <h2>.
 2. Include 4-6 <h2> section headings
 3. Add 2-3 <h3> subsections where appropriate
-4. Write 1200-1500 words total
+4. Write {word_count} words total
 5. Naturally incorporate the primary keyword throughout (aim for 1-2% density)
 6. Include bullet points (<ul>/<li>) for key features or tips
 7. Add a CTA (Call-to-Action) section with internal links
@@ -91,10 +149,7 @@ class OpenAIGenerator:
 9. Add "Last updated: 2026" at the end
 
 **Tone & Style:**
-- Professional but friendly and approachable
-- Australian English (colour, flavour, etc.)
-- Focus on practical advice and buying guidance
-- Emphasize quality, value, and local Australian context
+{tone_style}
 
 **SEO Best Practices:**
 - Use semantic HTML5 tags
@@ -118,6 +173,32 @@ class OpenAIGenerator:
             keywords_list = ", ".join(gsc_data["related_keywords"][:10])
             prompt += f"\n\n**Related Keywords to Include (from Search Console):**\n{keywords_list}"
 
+        if selected_products:
+            product_lines = []
+            for p in selected_products[:8]:
+                name = p.get("product_name", p.get("name", ""))
+                url = p.get("url", "")
+                if name and url:
+                    product_lines.append(f'- <a href="{url}">{name}</a>')
+                elif name:
+                    product_lines.append(f"- {name} (mention by name only, do NOT add a link)")
+            if product_lines:
+                prompt += (
+                    "\n\n**Available Products to Mention (MANDATORY rules):**\n"
+                    + "\n".join(product_lines)
+                    + "\n\nRules:\n"
+                    "1. You MAY mention these products naturally in the article body.\n"
+                    "2. Products with a URL: use EXACTLY that URL as the href — do not modify it.\n"
+                    "3. Products marked 'mention by name only': include the name as plain text, NO hyperlink.\n"
+                    "4. Do NOT invent or guess any other product URLs. If a product is not listed above, mention it as plain text only."
+                )
+        else:
+            prompt += (
+                "\n\n**Product Link Rule (MANDATORY):**\n"
+                "Do NOT include hyperlinks to any specific products. "
+                "You may mention product types or brand names as plain text, but never add a <a href> to a product page unless the URL is explicitly provided above."
+            )
+
         if internal_links:
             links_block = "\n".join(f"- {u}" for u in internal_links[:6])
             prompt += (
@@ -126,10 +207,13 @@ class OpenAIGenerator:
                 "Use at least 3 of these links in the body/CTA with meaningful anchor text."
             )
 
+        if pc.get("extra_instructions"):
+            prompt += f"\n\n**Site-Specific Instructions (MANDATORY):**\n{pc['extra_instructions']}"
+
         prompt += "\n\n**Output Format:**\nReturn ONLY the HTML content (starting with <h1> or <article>), no markdown, no explanations."
         return prompt
 
-    def _sanitize_model_output(self, text: str) -> str:
+    def _sanitize_model_output(self, text: str, faq_items: list | None = None) -> str:
         """Strip markdown code fences and normalize model output to raw HTML."""
         out = str(text or "").strip()
         out = re.sub(r"^```(?:html)?\s*", "", out, flags=re.IGNORECASE)
@@ -146,25 +230,34 @@ class OpenAIGenerator:
         """Add minimal SEO blocks when model output misses key sections."""
         out = html_content
 
-        if "<h1" not in out.lower() and title:
-            out = f"<h1>{html.escape(title)}</h1>\n" + out
+        # Do NOT inject <h1> — WordPress renders H1 from the post title.
+        # If the AI incorrectly added an <h1>, strip it to avoid double H1.
+        out = re.sub(r"<h1[^>]*>.*?</h1>", "", out, flags=re.IGNORECASE | re.DOTALL).strip()
 
         if 'class="intro"' not in out and keyword:
+            # Use a brief site name (first segment before comma or parenthesis)
+            _short_site = re.split(r"[,(]", self.site_description)[0].strip()
             intro = (
-                f'<p class="intro">This guide helps you understand {html.escape(keyword)} '
-                'with practical buying tips for Australian shoppers.</p>\n'
+                f'<p class="intro">This guide covers {html.escape(keyword)} '
+                f'— practical insights from {html.escape(_short_site)}.</p>\n'
             )
             out = intro + out
 
         if "<h2" not in out.lower():
-            out += "\n<h2>Key Buying Considerations</h2>\n<p>Compare quality, pricing, delivery, and supplier trust signals before purchasing.</p>\n"
+            _short_site = re.split(r"[,(]", self.site_description)[0].strip()
+            out += f"\n<h2>Key Considerations</h2>\n<p>Explore more resources on {html.escape(keyword)} at {html.escape(_short_site)}.</p>\n"
 
-        if "faq" not in out.lower():
-            out += (
-                "\n<h2>FAQ</h2>\n"
-                "<h3>How do I choose the best option?</h3>\n"
-                "<p>Match product type, budget, and delivery timeline to your use case.</p>\n"
-            )
+        # Check for FAQ in visible HTML only (exclude JSON-LD <script> blocks)
+        _visible_html = re.sub(r"<script[^>]*>.*?</script>", "", out, flags=re.IGNORECASE | re.DOTALL)
+        _has_faq = "faq" in _visible_html.lower() or "frequently asked" in _visible_html.lower()
+        if not _has_faq and faq_items:
+            faq_html = "\n<h2>FAQ</h2>\n"
+            for item in faq_items[:3]:
+                q = item.get("question", "")
+                a = item.get("answer", "")
+                if q and a:
+                    faq_html += f"<h3>{html.escape(q)}</h3>\n<p>{html.escape(a)}</p>\n"
+            out += faq_html
 
         if "last updated" not in out.lower():
             out += "\n<p class=\"last-updated\"><em>Last updated: 2026</em></p>\n"
@@ -185,11 +278,20 @@ class OpenAIGenerator:
                     links.append(url.strip())
 
         if not links:
-            links = [
-                "https://sweetsworld.com.au/candy/",
-                "https://sweetsworld.com.au/wholesale-candy-australia/",
-                "https://sweetsworld.com.au/candy/sour-lollies/",
-            ]
+            if self.collection_urls:
+                # Use site-specific collection URLs (e.g. /services/ for newcastlehub)
+                links = list(self.collection_urls.values())[:3]
+            else:
+                try:
+                    from config import get_settings, get_site_collection_urls
+                    _settings_url = get_settings().wp_base_url.rstrip("/")
+                    # Only inject sweetsworld fallback links when the generator is for sweetsworld
+                    _generator_url = self.base_url or _settings_url
+                    if _generator_url == _settings_url:
+                        _u = get_site_collection_urls(_settings_url)
+                        links = [_u["candy"], _u["wholesale"], _u["sour_lollies"]]
+                except Exception:
+                    links = []
 
         deduped: List[str] = []
         seen = set()
@@ -200,10 +302,16 @@ class OpenAIGenerator:
         return deduped[:8]
 
     def _count_internal_links(self, html_text: str) -> int:
+        try:
+            from urllib.parse import urlparse
+            from config import get_settings
+            _host = urlparse(get_settings().wp_base_url).netloc
+        except Exception:
+            _host = ""
         hrefs = re.findall(r'href=["\']([^"\']+)["\']', html_text, flags=re.IGNORECASE)
         count = 0
         for href in hrefs:
-            if href.startswith("/") or "sweetsworld.com.au" in href:
+            if href.startswith("/") or (_host and _host in href):
                 count += 1
         return count
 

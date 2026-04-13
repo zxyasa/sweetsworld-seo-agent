@@ -1,0 +1,146 @@
+{
+  "brief_id": "halal-candy-australia-brief-v1",
+  "slug": "halal-candy-australia",
+  "keyword": "halal candy australia",
+  "search_intent": "Transactional with commercial intent",
+  "page_type": "landing_page",
+  "title": "Halal Candy Australia: Gelatine-Free Lollies and Sweets",
+  "meta_description": "Halal Candy Australia: Gelatine-Free Lollies and Sweets. Compare stock options, buying factors, and the best next steps for halal candy in Australia.",
+  "intro": "Use this page to compare where to buy halal candy in Australia, what to check before ordering, and which halal candy options are the best fit for your basket.",
+  "outline": [
+    "Where to buy halal candy with less guesswork",
+    "How to compare Halal Candy options before ordering"
+  ],
+  "sections": [
+    {
+      "heading": "Where to buy halal candy with less guesswork",
+      "paragraphs": [
+        "Landing pages for halal candy need to show real commercial value quickly, including price context, stock clarity, and relevant product paths.",
+        "The goal is to reduce purchase friction rather than publish a thin page that repeats the keyword."
+      ],
+      "bullets": [
+        "HOLLOW CHOCOLATE BUNNY SWEET WILLIAM 120g Vegan, Gluten Free, Nut Free",
+        "Sweet William Santas Multipack - Nut/Dairy/Gluten Free 155g",
+        "Sweet William Xmas Dairy Free Assortment 250g",
+        "Beech's Milk Chocolate Turkish Delight 150g - Gluten Free"
+      ]
+    },
+    {
+      "heading": "How to compare Halal Candy options before ordering",
+      "paragraphs": [
+        "A stronger landing page explains the trade-offs between pack size, flavour range, stock depth, and delivery timing.",
+        "That gives the page a conversion job as well as a ranking job."
+      ],
+      "bullets": [
+        "Compare unit price instead of headline price alone.",
+        "Check stock, bundle size, and delivery timing together.",
+        "Keep the call to action aligned with the buying task."
+      ]
+    }
+  ],
+  "faq_items": [
+    {
+      "question": "Where can I buy halal candy online in Australia?",
+      "answer": "Start with Australian stores that show live stock, delivery windows, and product range depth for halal candy before checkout."
+    },
+    {
+      "question": "How should I compare halal candy prices?",
+      "answer": "Compare unit price, pack size, shipping cost, and bundle options together instead of looking at the headline price only."
+    },
+    {
+      "question": "Are there other halal candy options worth comparing?",
+      "answer": "Yes. Nearby collections or substitute products can be useful when halal candy is out of stock or only available in limited pack sizes."
+    }
+  ],
+  "faq_questions": [
+    "Where can I buy halal candy online in Australia?",
+    "How should I compare halal candy prices?",
+    "Are there other halal candy options worth comparing?"
+  ],
+  "internal_links": [
+    {
+      "url": "https://sweetsworld.com.au/candy-guides/are-jolly-ranchers-halal/",
+      "label": "Are Jolly Ranchers Halal",
+      "anchor_text": "Shop Are Jolly Ranchers Halal",
+      "link_kind": "collection"
+    },
+    {
+      "url": "https://sweetsworld.com.au/candy/",
+      "label": "Candy",
+      "anchor_text": "Compare Candy",
+      "link_kind": "category"
+    },
+    {
+      "url": "https://sweetsworld.com.au/chocolate/australian-chocolate/hollowchocolatebunnysweetwilliam120g/",
+      "label": "Hollowchocolatebunnysweetwilliam120g",
+      "anchor_text": "See Hollowchocolatebunnysweetwilliam120g",
+      "link_kind": "product"
+    }
+  ],
+  "selected_products": [
+    {
+      "product_name": "HOLLOW CHOCOLATE BUNNY SWEET WILLIAM 120g Vegan, Gluten Free, Nut Free",
+      "category": "Australian Chocolate",
+      "description": "Hollow Chocolate Easter Bunny Blended from extracts of cocoa and soy. Non – GMO Ingredients No artificial colours or flavours ALL Sweet William products are NUT FREE, DAIRY FREE, GLUTEN FREE, EGG FREE and are made in...",
+      "price": "24.99",
+      "url": "https://sweetsworld.com.au/chocolate/australian-chocolate/hollowchocolatebunnysweetwilliam120g/",
+      "matched_tokens": [
+        "free",
+        "sweet"
+      ],
+      "matched_phrases": [],
+      "selection_reason": "direct_match"
+    },
+    {
+      "product_name": "Sweet William Santas Multipack - Nut/Dairy/Gluten Free 155g",
+      "category": "Candy",
+      "description": "155g Santa Multi Pack – contains 12 individually wrapped Mini Santas made from delicious original Sweet William chocolate. Free from Dairy, Gluten Nuts. This product is ideal for Christmas stockings, sharing gifts!",
+      "price": "14.99",
+      "url": "https://sweetsworld.com.au/candy/sweetwilliamsantasmultipack-nutdairyglutenfree155g/",
+      "matched_tokens": [
+        "free",
+        "sweet"
+      ],
+      "matched_phrases": [],
+      "selection_reason": "direct_match"
+    },
+    {
+      "product_name": "Sweet William Xmas Dairy Free Assortment 250g",
+      "category": "Candy",
+      "description": "",
+      "price": "19.99",
+      "url": "https://sweetsworld.com.au/candy/sweet-william-xmas-dairy-free-assortment-250g/",
+      "matched_tokens": [
+        "free",
+        "sweet"
+      ],
+      "matched_phrases": [],
+      "selection_reason": "direct_match"
+    },
+    {
+      "product_name": "Beech's Milk Chocolate Turkish Delight 150g - Gluten Free",
+      "category": "British Lollies",
+      "description": "",
+      "price": "29.99",
+      "url": "https://sweetsworld.com.au/british-lollies/uk-chocolate/beechsmilkchocolateturkishdelight150g/",
+      "matched_tokens": [
+        "free",
+        "sweet"
+      ],
+      "matched_phrases": [],
+      "selection_reason": "direct_match"
+    }
+  ],
+  "related_keywords": [
+    "sweetsworld",
+    "sweets world",
+    "white knight chocolate",
+    "fantales lollies",
+    "fantails lolly",
+    "clinkers chocolate"
+  ],
+  "cta": {
+    "heading": "Move from halal candy research into a purchase",
+    "body": "Compare the shortlist, then click through to the most relevant collection or product page to check live stock and delivery details."
+  }
+}

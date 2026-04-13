@@ -1,0 +1,120 @@
+{
+  "brief_id": "kool-aid-australia-brief-v1",
+  "slug": "kool-aid-australia",
+  "keyword": "kool aid australia",
+  "search_intent": "Transactional with commercial intent",
+  "page_type": "landing_page",
+  "title": "Kool-Aid Australia: Buy Kool-Aid Drinks and Jammers Online",
+  "meta_description": "Kool-Aid Australia: Buy Kool-Aid Drinks and Jammers Online. Compare stock options, buying factors, and the best next steps for kool aid in Australia.",
+  "intro": "Use this page to compare where to buy kool aid in Australia, what to check before ordering, and which american drinks options are the best fit for your basket.",
+  "outline": [
+    "Where to buy kool aid with less guesswork",
+    "How to compare American Drinks options before ordering"
+  ],
+  "sections": [
+    {
+      "heading": "Where to buy kool aid with less guesswork",
+      "paragraphs": [
+        "Landing pages for kool aid need to show real commercial value quickly, including price context, stock clarity, and relevant product paths.",
+        "The goal is to reduce purchase friction rather than publish a thin page that repeats the keyword."
+      ],
+      "bullets": [
+        "Kool-Aid Jammers Sour 1.77L",
+        "Kool-Aid Jammers Watermelon 1.77L"
+      ]
+    },
+    {
+      "heading": "How to compare American Drinks options before ordering",
+      "paragraphs": [
+        "A stronger landing page explains the trade-offs between pack size, flavour range, stock depth, and delivery timing.",
+        "That gives the page a conversion job as well as a ranking job."
+      ],
+      "bullets": [
+        "Compare unit price instead of headline price alone.",
+        "Check stock, bundle size, and delivery timing together.",
+        "Keep the call to action aligned with the buying task."
+      ]
+    }
+  ],
+  "faq_items": [
+    {
+      "question": "Where can I buy kool aid online in Australia?",
+      "answer": "Start with Australian stores that show live stock, delivery windows, and product range depth for kool aid before checkout."
+    },
+    {
+      "question": "How should I compare kool aid prices?",
+      "answer": "Compare unit price, pack size, shipping cost, and bundle options together instead of looking at the headline price only."
+    },
+    {
+      "question": "Are there other american drinks options worth comparing?",
+      "answer": "Yes. Nearby collections or substitute products can be useful when kool aid is out of stock or only available in limited pack sizes."
+    }
+  ],
+  "faq_questions": [
+    "Where can I buy kool aid online in Australia?",
+    "How should I compare kool aid prices?",
+    "Are there other american drinks options worth comparing?"
+  ],
+  "internal_links": [
+    {
+      "url": "https://sweetsworld.com.au/drinks/kool-aidjammerssour177l/",
+      "label": "Kool Aidjammerssour177l",
+      "anchor_text": "Shop Kool Aidjammerssour177l",
+      "link_kind": "collection"
+    },
+    {
+      "url": "https://sweetsworld.com.au/drinks/",
+      "label": "Drinks",
+      "anchor_text": "Browse Drinks",
+      "link_kind": "category"
+    },
+    {
+      "url": "https://sweetsworld.com.au/shop/candy/allensfantales1kg/",
+      "label": "Allensfantales1kg",
+      "anchor_text": "See Allensfantales1kg",
+      "link_kind": "product"
+    }
+  ],
+  "selected_products": [
+    {
+      "product_name": "Kool-Aid Jammers Sour 1.77L",
+      "category": "Drinks",
+      "description": "Kool-Aid Jammers Sour 1.77L Product Description: Kool-Aid Sour Jammers Flavored Drink Electric Lemon Lime. Artificially flavored drink. 30 Calories per pouch. 10 - 6 fl oz (177 ml) pouches. Net 60 fl oz (1.87 qt)...",
+      "price": "14.99",
+      "url": "https://sweetsworld.com.au/drinks/kool-aidjammerssour177l/",
+      "matched_tokens": [
+        "kool",
+        "drink",
+        "jammer"
+      ],
+      "matched_phrases": [],
+      "selection_reason": "direct_match"
+    },
+    {
+      "product_name": "Kool-Aid Jammers Watermelon 1.77L",
+      "category": "Drinks",
+      "description": "Kool-Aid Jammers Watermelon 1.77L Product Description: Kool-Aid Jammers Watermelon. 55% Less sugar than leading regular sodas. 100% Daily value of vitamin C. Artificially flavored drink. 30 Calories per pouch. 10 - 6...",
+      "price": "14.99",
+      "url": "https://sweetsworld.com.au/drinks/kool-aidjammerswatermelon177l/",
+      "matched_tokens": [
+        "kool",
+        "drink",
+        "jammer"
+      ],
+      "matched_phrases": [],
+      "selection_reason": "direct_match"
+    }
+  ],
+  "related_keywords": [
+    "sweetsworld",
+    "sweets world",
+    "white knight chocolate",
+    "fantales lollies",
+    "fantails lolly",
+    "darrell lea kotara"
+  ],
+  "cta": {
+    "heading": "Move from kool aid research into a purchase",
+    "body": "Compare the shortlist, then click through to the most relevant collection or product page to check live stock and delivery details."
+  }
+}

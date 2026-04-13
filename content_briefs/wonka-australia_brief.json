@@ -1,0 +1,120 @@
+{
+  "brief_id": "wonka-australia-brief-v1",
+  "slug": "wonka-australia",
+  "keyword": "wonka candy australia",
+  "search_intent": "Transactional with commercial intent",
+  "page_type": "landing_page",
+  "title": "Wonka Australia: Buy Nerds Gobstoppers and Wonka Candy Online",
+  "meta_description": "Wonka Australia: Buy Nerds Gobstoppers and Wonka Candy Online. Compare stock options, buying factors, and the best next steps for wonka candy in Australia.",
+  "intro": "Use this page to compare where to buy wonka candy in Australia, what to check before ordering, and which american candy options are the best fit for your basket.",
+  "outline": [
+    "Where to buy wonka candy with less guesswork",
+    "How to compare American Candy options before ordering"
+  ],
+  "sections": [
+    {
+      "heading": "Where to buy wonka candy with less guesswork",
+      "paragraphs": [
+        "Landing pages for wonka candy need to show real commercial value quickly, including price context, stock clarity, and relevant product paths.",
+        "The goal is to reduce purchase friction rather than publish a thin page that repeats the keyword."
+      ],
+      "bullets": [
+        "WONKA BIG CHEWY NERDS 120G",
+        "Wonka Nerds Grape Strawberry 46g"
+      ]
+    },
+    {
+      "heading": "How to compare American Candy options before ordering",
+      "paragraphs": [
+        "A stronger landing page explains the trade-offs between pack size, flavour range, stock depth, and delivery timing.",
+        "That gives the page a conversion job as well as a ranking job."
+      ],
+      "bullets": [
+        "Compare unit price instead of headline price alone.",
+        "Check stock, bundle size, and delivery timing together.",
+        "Keep the call to action aligned with the buying task."
+      ]
+    }
+  ],
+  "faq_items": [
+    {
+      "question": "Where can I buy wonka candy online in Australia?",
+      "answer": "Start with Australian stores that show live stock, delivery windows, and product range depth for wonka candy before checkout."
+    },
+    {
+      "question": "How should I compare wonka candy prices?",
+      "answer": "Compare unit price, pack size, shipping cost, and bundle options together instead of looking at the headline price only."
+    },
+    {
+      "question": "Are there other american candy options worth comparing?",
+      "answer": "Yes. Nearby collections or substitute products can be useful when wonka candy is out of stock or only available in limited pack sizes."
+    }
+  ],
+  "faq_questions": [
+    "Where can I buy wonka candy online in Australia?",
+    "How should I compare wonka candy prices?",
+    "Are there other american candy options worth comparing?"
+  ],
+  "internal_links": [
+    {
+      "url": "https://sweetsworld.com.au/candy/american-candy/",
+      "label": "American Candy",
+      "anchor_text": "Shop American Candy",
+      "link_kind": "collection"
+    },
+    {
+      "url": "https://sweetsworld.com.au/candy/",
+      "label": "Candy",
+      "anchor_text": "Browse Candy",
+      "link_kind": "category"
+    },
+    {
+      "url": "https://sweetsworld.com.au/candy/american-candy/wonkabigchewynerds/",
+      "label": "Wonkabigchewynerds",
+      "anchor_text": "See Wonkabigchewynerds",
+      "link_kind": "product"
+    }
+  ],
+  "selected_products": [
+    {
+      "product_name": "WONKA BIG CHEWY NERDS 120G",
+      "category": "American Candy Box",
+      "description": "WONKA BIG CHEWY NERDS 120G Product Description: BIG CHEWY SOUR NERDS: With a crunchy Nerds shell & a sour chewy center of fabulous fruity flavor, Big Chewy SOUR Nerds are a modern twist on a candy classic! Every...",
+      "price": "4.99",
+      "url": "https://sweetsworld.com.au/candy/american-candy/wonkabigchewynerds/",
+      "matched_tokens": [
+        "american",
+        "wonka",
+        "nerd"
+      ],
+      "matched_phrases": [],
+      "selection_reason": "direct_match"
+    },
+    {
+      "product_name": "Wonka Nerds Grape Strawberry 46g",
+      "category": "American Candy Box",
+      "description": "",
+      "price": "4.99",
+      "url": "https://sweetsworld.com.au/candy/american-candy/wonka-nerds-grape-strawberry/",
+      "matched_tokens": [
+        "american",
+        "wonka",
+        "nerd"
+      ],
+      "matched_phrases": [],
+      "selection_reason": "direct_match"
+    }
+  ],
+  "related_keywords": [
+    "sweetsworld",
+    "sweets world",
+    "white knight chocolate",
+    "fantales lollies",
+    "fantails lolly",
+    "darrell lea kotara"
+  ],
+  "cta": {
+    "heading": "Move from wonka candy research into a purchase",
+    "body": "Compare the shortlist, then click through to the most relevant collection or product page to check live stock and delivery details."
+  }
+}

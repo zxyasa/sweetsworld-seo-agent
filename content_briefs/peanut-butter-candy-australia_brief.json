@@ -1,0 +1,161 @@
+{
+  "brief_id": "peanut-butter-candy-australia-brief-v1",
+  "slug": "peanut-butter-candy-australia",
+  "keyword": "peanut butter candy australia",
+  "search_intent": "Commercial category intent",
+  "page_type": "category_page",
+  "title": "Peanut Butter Candy Australia: Buy Peanut Butter Cups and Sweets Online",
+  "meta_description": "Peanut Butter Candy Australia: Buy Peanut Butter Cups and Sweets Online. Compare stock options, buying factors, and the best next steps for peanut butter...",
+  "intro": "This page explains the peanut butter candy range, the main product formats to compare, and the next collection or product pages worth opening before you buy.",
+  "outline": [
+    "What defines the peanut butter candy range",
+    "How to shop American Candy more confidently"
+  ],
+  "sections": [
+    {
+      "heading": "What defines the peanut butter candy range",
+      "paragraphs": [
+        "A category page for peanut butter candy should explain flavour profile, product format, and the most recognisable options in the range.",
+        "That helps search engines and shoppers understand the scope of the page before they move deeper into the catalogue."
+      ],
+      "bullets": [
+        "Reese's Peanut Butter Cups Miniatures 150g",
+        "Reese's Thins Peanut Butter Cups DARK Chocolate 208g",
+        "Reese's Thins Peanut Butter Cups Milk Chocolate 208g",
+        "Reese's 2 Peanut Butter Cups 42g"
+      ]
+    },
+    {
+      "heading": "How to shop American Candy more confidently",
+      "paragraphs": [
+        "Category pages should guide users through format, suitability, and value instead of listing products without context.",
+        "This is the section that turns a collection page into a useful SEO landing surface."
+      ],
+      "bullets": [
+        "Show best sellers before long-tail variants.",
+        "Explain when bundles make more sense than single items.",
+        "Link into adjacent collections and product pages."
+      ]
+    }
+  ],
+  "faq_items": [
+    {
+      "question": "What should I look for when choosing peanut butter candy?",
+      "answer": "Focus on suitability for the use case, flavour profile, pack size, and delivery timing rather than assuming every popular candy is the right fit."
+    },
+    {
+      "question": "What is the best next step after reading this page?",
+      "answer": "Use the linked category or product pages to compare live stock, range depth, and practical buying options."
+    },
+    {
+      "question": "Can this page help me compare american candy options?",
+      "answer": "Yes. It should clarify which products or collections are the best fit instead of leaving the reader with generic advice."
+    }
+  ],
+  "faq_questions": [
+    "What should I look for when choosing peanut butter candy?",
+    "What is the best next step after reading this page?",
+    "Can this page help me compare american candy options?"
+  ],
+  "internal_links": [
+    {
+      "url": "https://sweetsworld.com.au/products/mint-chocolate-australia/",
+      "label": "Mint Chocolate Australia",
+      "anchor_text": "Explore Mint Chocolate Australia",
+      "link_kind": "collection"
+    },
+    {
+      "url": "https://sweetsworld.com.au/candy/",
+      "label": "Candy",
+      "anchor_text": "Explore Candy",
+      "link_kind": "category"
+    },
+    {
+      "url": "https://sweetsworld.com.au/candy/american-candy/american-chocolate/reeses-peanut-butter-cups-miniatures-150g/",
+      "label": "Reeses Peanut Butter Cups Miniatures 150g",
+      "anchor_text": "Compare Reeses Peanut Butter Cups Miniatures 150g",
+      "link_kind": "product"
+    }
+  ],
+  "selected_products": [
+    {
+      "product_name": "Reese's Peanut Butter Cups Miniatures 150g",
+      "category": "American Chocolate",
+      "description": "",
+      "price": "9.99",
+      "url": "https://sweetsworld.com.au/candy/american-candy/american-chocolate/reeses-peanut-butter-cups-miniatures-150g/",
+      "matched_tokens": [
+        "american",
+        "peanut",
+        "butter",
+        "cups"
+      ],
+      "matched_phrases": [
+        "peanut butter"
+      ],
+      "selection_reason": "direct_match"
+    },
+    {
+      "product_name": "Reese's Thins Peanut Butter Cups DARK Chocolate 208g",
+      "category": "American Candy Box",
+      "description": "Reese's Thins Peanut Butter Cups DARK Chocolate 208g Product Description: Behold a THiN-gineering marvel. We packed all this delicious dark chocolate and peanut butter into a thinner cup. Don’t ask us how. #NotSorry...",
+      "price": "14.99",
+      "url": "https://sweetsworld.com.au/candy/american-candy/american-chocolate/reeses-thins-peanut-butter-cups-dark-chocolate-208g/",
+      "matched_tokens": [
+        "american",
+        "peanut",
+        "butter",
+        "cups"
+      ],
+      "matched_phrases": [
+        "peanut butter"
+      ],
+      "selection_reason": "direct_match"
+    },
+    {
+      "product_name": "Reese's Thins Peanut Butter Cups Milk Chocolate 208g",
+      "category": "American Candy Box",
+      "description": "Reese's Thins Peanut Butter Cups Milk Chocolate 208g Product Description: Reese's Thins are 40% thinner than regular peanut butter cups and 100% as delicious. Individually wrapped peanut butter cups Deliciously...",
+      "price": "14.99",
+      "url": "https://sweetsworld.com.au/candy/american-candy/american-chocolate/reesesthinspeanutbuttercupsmilkchocolate208g/",
+      "matched_tokens": [
+        "american",
+        "peanut",
+        "butter",
+        "cups"
+      ],
+      "matched_phrases": [
+        "peanut butter"
+      ],
+      "selection_reason": "direct_match"
+    },
+    {
+      "product_name": "Reese's 2 Peanut Butter Cups 42g",
+      "category": "Uncategorized",
+      "description": "",
+      "price": "3.99",
+      "url": "https://sweetsworld.com.au/uncategorized/reeses-2-peanut-butter-cups-42g/",
+      "matched_tokens": [
+        "peanut",
+        "butter",
+        "cups"
+      ],
+      "matched_phrases": [
+        "peanut butter"
+      ],
+      "selection_reason": "direct_match"
+    }
+  ],
+  "related_keywords": [
+    "sweetsworld",
+    "sweets world",
+    "white knight chocolate",
+    "fantales lollies",
+    "clinkers chocolate",
+    "fantails lolly"
+  ],
+  "cta": {
+    "heading": "Use this page as a shortlist for peanut butter candy",
+    "body": "Review the key options, then move into the linked collection or product pages when you are ready to compare live stock and pricing."
+  }
+}

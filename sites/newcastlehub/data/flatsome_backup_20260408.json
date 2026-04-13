@@ -1,0 +1,148 @@
+{
+    "ok": true,
+    "action": "read",
+    "option_name": "theme_mods_flatsome-child",
+    "count": 90,
+    "options": {
+        "0": false,
+        "flatsome_fallback": 0,
+        "topbar_elements_left": [
+            "html"
+        ],
+        "topbar_elements_right": [
+            "nav-top",
+            "newsletter",
+            "social"
+        ],
+        "header_elements_left": [],
+        "header_elements_right": [
+            "nav"
+        ],
+        "header_elements_bottom_left": [],
+        "header_elements_bottom_center": [],
+        "header_elements_bottom_right": [],
+        "header_mobile_elements_left": [
+            "menu-icon"
+        ],
+        "header_mobile_elements_right": [
+            "cart"
+        ],
+        "header_mobile_elements_top": [
+            "html"
+        ],
+        "mobile_sidebar": [
+            "nav",
+            "social",
+            "html-2",
+            "html-3"
+        ],
+        "product_layout": "right-sidebar-small",
+        "payment_icons_placement": "footer",
+        "follow_twitter": "http:\/\/url",
+        "follow_facebook": "http:\/\/url",
+        "follow_instagram": "http:\/\/url",
+        "follow_email": "your@email",
+        "flatsome_version": 3,
+        "portfolio_archive_filter": "left",
+        "type_headings": {
+            "font-family": "Lato",
+            "variant": "700"
+        },
+        "type_texts": {
+            "font-family": "Lato",
+            "variant": "regular"
+        },
+        "type_nav": {
+            "font-family": "Lato",
+            "variant": "700"
+        },
+        "type_alt": {
+            "font-family": "Dancing Script",
+            "variant": "regular"
+        },
+        "pages_template": "default",
+        "site_loader": "",
+        "flatsome_db_version": "3.20.5",
+        "nav_menu_locations": {
+            "primary": 14
+        },
+        "backups": null,
+        "smof_init": "Sat, 06 May 2023 20:41:18 +0000",
+        "mwai_did_it": "true",
+        "mwai_remind_me": "true",
+        "mwai_never_remind_me": "true",
+        "html_scripts_header": "",
+        "html_scripts_footer": "",
+        "html_scripts_after_body": "",
+        "html_scripts_before_body": "",
+        "html_custom_css": "",
+        "html_custom_css_tablet": "",
+        "html_custom_css_mobile": "",
+        "perf_instant_page": "0",
+        "lazy_load_images": "0",
+        "flatsome_disable_style_css": "0",
+        "disable_emoji": "0",
+        "disable_blockcss": "0",
+        "jquery_migrate": "0",
+        "site_loader_color": "light",
+        "site_loader_bg": "",
+        "live_search": "1",
+        "search_placeholder": "",
+        "search_result_latency": "0",
+        "instagram_lazy_load": "0",
+        "facebook_accounts": [
+            "0"
+        ],
+        "google_map_api": "",
+        "maintenance_mode": "0",
+        "maintenance_mode_admin_notice": "1",
+        "maintenance_mode_page": "0",
+        "maintenance_mode_text": "We are working on the site. Please check back soon..",
+        "404_block": "0",
+        "fl_portfolio": "1",
+        "parallax_mobile": "0",
+        "flatsome_studio": "1",
+        "release_channel": "stable",
+        "custom_css_post_id": 166,
+        "color_primary": "#5a49f8",
+        "topbar_show": false,
+        "header_button_1": "Get a free quote",
+        "header_button_1_radius": "0",
+        "header_button_1_color": "plain",
+        "header_button_1_style": "outline",
+        "header_button_1_depth": "0",
+        "header_button_1_size": "large",
+        "header_height": "90",
+        "header_color": "light",
+        "box_shadow_header": false,
+        "nav_style": "",
+        "nav_height": "16",
+        "nav_push": "0",
+        "header_height_transparent": "90",
+        "header_nav_vertical_width": "250",
+        "nav_spacing": "large",
+        "nav_size": "medium",
+        "header_button_1_depth_hover": "0",
+        "footer_block": "footer",
+        "site_logo": 397,
+        "site_logo_dark": 385,
+        "logo_padding": "0",
+        "color_secondary": "#ffdd40",
+        "sidebars_widgets": {
+            "time": 1721179888,
+            "data": {
+                "wp_inactive_widgets": [
+                    "block-5",
+                    "block-6"
+                ],
+                "sidebar-main": [
+                    "block-2",
+                    "block-3",
+                    "block-4"
+                ],
+                "sidebar-footer-1": [],
+                "sidebar-footer-2": []
+            }
+        }
+    }
+}

@@ -1,0 +1,106 @@
+{
+  "brief_id": "hersheys-australia-brief-v1",
+  "slug": "hersheys-australia",
+  "keyword": "hersheys australia",
+  "search_intent": "Transactional with commercial intent",
+  "page_type": "landing_page",
+  "title": "Hershey's Australia: Buy Hershey's Chocolate and Kisses Online",
+  "meta_description": "Hershey's Australia: Buy Hershey's Chocolate and Kisses Online. Compare stock options, buying factors, and the best next steps for hersheys in Australia.",
+  "intro": "Use this page to compare where to buy hersheys in Australia, what to check before ordering, and which american chocolate options are the best fit for your basket.",
+  "outline": [
+    "Where to buy hersheys with less guesswork",
+    "How to compare American Chocolate options before ordering"
+  ],
+  "sections": [
+    {
+      "heading": "Where to buy hersheys with less guesswork",
+      "paragraphs": [
+        "Landing pages for hersheys need to show real commercial value quickly, including price context, stock clarity, and relevant product paths.",
+        "The goal is to reduce purchase friction rather than publish a thin page that repeats the keyword."
+      ],
+      "bullets": [
+        "HERSHEY' KISSES Strawberry Ice Cream Cone 255g"
+      ]
+    },
+    {
+      "heading": "How to compare American Chocolate options before ordering",
+      "paragraphs": [
+        "A stronger landing page explains the trade-offs between pack size, flavour range, stock depth, and delivery timing.",
+        "That gives the page a conversion job as well as a ranking job."
+      ],
+      "bullets": [
+        "Compare unit price instead of headline price alone.",
+        "Check stock, bundle size, and delivery timing together.",
+        "Keep the call to action aligned with the buying task."
+      ]
+    }
+  ],
+  "faq_items": [
+    {
+      "question": "Where can I buy hersheys online in Australia?",
+      "answer": "Start with Australian stores that show live stock, delivery windows, and product range depth for hersheys before checkout."
+    },
+    {
+      "question": "How should I compare hersheys prices?",
+      "answer": "Compare unit price, pack size, shipping cost, and bundle options together instead of looking at the headline price only."
+    },
+    {
+      "question": "Are there other american chocolate options worth comparing?",
+      "answer": "Yes. Nearby collections or substitute products can be useful when hersheys is out of stock or only available in limited pack sizes."
+    }
+  ],
+  "faq_questions": [
+    "Where can I buy hersheys online in Australia?",
+    "How should I compare hersheys prices?",
+    "Are there other american chocolate options worth comparing?"
+  ],
+  "internal_links": [
+    {
+      "url": "https://sweetsworld.com.au/chocolate/",
+      "label": "Chocolate",
+      "anchor_text": "Shop Chocolate",
+      "link_kind": "category"
+    },
+    {
+      "url": "https://sweetsworld.com.au/candy/american-candy/",
+      "label": "American Candy",
+      "anchor_text": "Browse American Candy",
+      "link_kind": "collection"
+    },
+    {
+      "url": "https://sweetsworld.com.au/candy/american-candy/american-chocolate/hersheykissesstrawberryicecreamcone255g/",
+      "label": "Hersheykissesstrawberryicecreamcone255g",
+      "anchor_text": "View Hersheykissesstrawberryicecreamcone255g",
+      "link_kind": "product"
+    }
+  ],
+  "selected_products": [
+    {
+      "product_name": "HERSHEY' KISSES Strawberry Ice Cream Cone 255g",
+      "category": "American Chocolate",
+      "description": "",
+      "price": "25",
+      "url": "https://sweetsworld.com.au/candy/american-candy/american-chocolate/hersheykissesstrawberryicecreamcone255g/",
+      "matched_tokens": [
+        "american",
+        "chocolate",
+        "hershey",
+        "kisse"
+      ],
+      "matched_phrases": [],
+      "selection_reason": "direct_match"
+    }
+  ],
+  "related_keywords": [
+    "sweetsworld",
+    "sweets world",
+    "white knight chocolate",
+    "fantales lollies",
+    "fantails lolly",
+    "darrell lea kotara"
+  ],
+  "cta": {
+    "heading": "Move from hersheys research into a purchase",
+    "body": "Compare the shortlist, then click through to the most relevant collection or product page to check live stock and delivery details."
+  }
+}

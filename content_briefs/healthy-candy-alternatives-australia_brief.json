@@ -1,0 +1,132 @@
+{
+  "brief_id": "healthy-candy-alternatives-australia-brief-v1",
+  "slug": "healthy-candy-alternatives-australia",
+  "keyword": "healthy candy alternatives australia",
+  "search_intent": "Transactional with commercial intent",
+  "page_type": "landing_page",
+  "title": "Healthy Candy Alternatives Australia: Low Sugar and Natural Sweets",
+  "meta_description": "Healthy Candy Alternatives Australia: Low Sugar and Natural Sweets. Compare stock options, buying factors, and the best next steps for healthy candy...",
+  "intro": "Use this page to compare where to buy healthy candy alternatives in Australia, what to check before ordering, and which health & alternatives options are the best fit for your basket.",
+  "outline": [
+    "Where to buy healthy candy alternatives with less guesswork",
+    "How to compare Health & Alternatives options before ordering"
+  ],
+  "sections": [
+    {
+      "heading": "Where to buy healthy candy alternatives with less guesswork",
+      "paragraphs": [
+        "Landing pages for healthy candy alternatives need to show real commercial value quickly, including price context, stock clarity, and relevant product paths.",
+        "The goal is to reduce purchase friction rather than publish a thin page that repeats the keyword."
+      ],
+      "bullets": [
+        "Davies Hard Centres Gift Pack – Classic Sweet Treats",
+        "Freckleberry Sweet",
+        "Jelly Joy Stick 20g- Sweetsworld - Chocolate Shop"
+      ]
+    },
+    {
+      "heading": "How to compare Health & Alternatives options before ordering",
+      "paragraphs": [
+        "A stronger landing page explains the trade-offs between pack size, flavour range, stock depth, and delivery timing.",
+        "That gives the page a conversion job as well as a ranking job."
+      ],
+      "bullets": [
+        "Compare unit price instead of headline price alone.",
+        "Check stock, bundle size, and delivery timing together.",
+        "Keep the call to action aligned with the buying task."
+      ]
+    }
+  ],
+  "faq_items": [
+    {
+      "question": "Where can I buy healthy candy alternatives online in Australia?",
+      "answer": "Start with Australian stores that show live stock, delivery windows, and product range depth for healthy candy alternatives before checkout."
+    },
+    {
+      "question": "How should I compare healthy candy alternatives prices?",
+      "answer": "Compare unit price, pack size, shipping cost, and bundle options together instead of looking at the headline price only."
+    },
+    {
+      "question": "Are there other health & alternatives options worth comparing?",
+      "answer": "Yes. Nearby collections or substitute products can be useful when healthy candy alternatives is out of stock or only available in limited pack sizes."
+    }
+  ],
+  "faq_questions": [
+    "Where can I buy healthy candy alternatives online in Australia?",
+    "How should I compare healthy candy alternatives prices?",
+    "Are there other health & alternatives options worth comparing?"
+  ],
+  "internal_links": [
+    {
+      "url": "https://sweetsworld.com.au/gift/corporate-gift/",
+      "label": "Corporate Gift",
+      "anchor_text": "Shop Corporate Gift",
+      "link_kind": "collection"
+    },
+    {
+      "url": "https://sweetsworld.com.au/gift/",
+      "label": "Gift",
+      "anchor_text": "Browse Gift",
+      "link_kind": "category"
+    },
+    {
+      "url": "https://sweetsworld.com.au/gift/corporate-gift/davies-hard-centres-gift-pack/",
+      "label": "Davies Hard Centres Gift Pack",
+      "anchor_text": "See Davies Hard Centres Gift Pack",
+      "link_kind": "product"
+    }
+  ],
+  "selected_products": [
+    {
+      "product_name": "Davies Hard Centres Gift Pack – Classic Sweet Treats",
+      "category": "Corporate Gift",
+      "description": "The Davies Hard Centres Gift Pack is a delightful assortment of classic hard-centre sweets, perfect for sharing or gifting. Each candy offers a firm yet chewy texture, combining fruity and creamy flavours for a...",
+      "price": "21.99",
+      "url": "https://sweetsworld.com.au/gift/corporate-gift/davies-hard-centres-gift-pack/",
+      "matched_tokens": [
+        "sugar",
+        "sweet"
+      ],
+      "matched_phrases": [],
+      "selection_reason": "direct_match"
+    },
+    {
+      "product_name": "Freckleberry Sweet",
+      "category": "Australian Chocolate",
+      "description": "Freckleberry Sweet Product Description: How sweet it is to tell someone how sweet they are! Ingredients: Milk Chocolate (Sugar, cocoa butter, milk powder, cocoa mass, soy lecithin, vanillin), sugar, tapioca starch...",
+      "price": "9.99",
+      "url": "https://sweetsworld.com.au/chocolate/australian-chocolate/freckleberrysweet/",
+      "matched_tokens": [
+        "sugar",
+        "sweet"
+      ],
+      "matched_phrases": [],
+      "selection_reason": "direct_match"
+    },
+    {
+      "product_name": "Jelly Joy Stick 20g- Sweetsworld - Chocolate Shop",
+      "category": "Candy",
+      "description": "Jelly Joy Stick 20g Product Description: It has strawberry, orange, grape, mango, peach and pineapple flavours Adds lots of joy and happiness to the young and old Great snack for all occasions, parties and gatherings...",
+      "price": "0.5",
+      "url": "https://sweetsworld.com.au/party-lollies/kidsparty/jelly-joy-stick-20g/",
+      "matched_tokens": [
+        "sugar",
+        "sweet"
+      ],
+      "matched_phrases": [],
+      "selection_reason": "direct_match"
+    }
+  ],
+  "related_keywords": [
+    "sweetsworld",
+    "sweets world",
+    "white knight chocolate",
+    "fantales lollies",
+    "fantails lolly",
+    "darrell lea kotara"
+  ],
+  "cta": {
+    "heading": "Move from healthy candy alternatives research into a purchase",
+    "body": "Compare the shortlist, then click through to the most relevant collection or product page to check live stock and delivery details."
+  }
+}

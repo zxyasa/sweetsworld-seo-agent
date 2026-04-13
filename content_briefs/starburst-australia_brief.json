@@ -1,0 +1,133 @@
+{
+  "brief_id": "starburst-australia-brief-v1",
+  "slug": "starburst-australia",
+  "keyword": "starburst australia",
+  "search_intent": "Transactional with commercial intent",
+  "page_type": "landing_page",
+  "title": "Starburst Australia: Buy Starburst Chews and FaveReds Online",
+  "meta_description": "Starburst Australia: Buy Starburst Chews and FaveReds Online. Compare stock options, buying factors, and the best next steps for starburst in Australia.",
+  "intro": "Use this page to compare where to buy starburst in Australia, what to check before ordering, and which american candy options are the best fit for your basket.",
+  "outline": [
+    "Where to buy starburst with less guesswork",
+    "How to compare American Candy options before ordering"
+  ],
+  "sections": [
+    {
+      "heading": "Where to buy starburst with less guesswork",
+      "paragraphs": [
+        "Landing pages for starburst need to show real commercial value quickly, including price context, stock clarity, and relevant product paths.",
+        "The goal is to reduce purchase friction rather than publish a thin page that repeats the keyword."
+      ],
+      "bullets": [
+        "Starburst Favereds 58.7g",
+        "STARBURST Chews Fruit- 235g",
+        "STARBURST Chews Sours 235g"
+      ]
+    },
+    {
+      "heading": "How to compare American Candy options before ordering",
+      "paragraphs": [
+        "A stronger landing page explains the trade-offs between pack size, flavour range, stock depth, and delivery timing.",
+        "That gives the page a conversion job as well as a ranking job."
+      ],
+      "bullets": [
+        "Compare unit price instead of headline price alone.",
+        "Check stock, bundle size, and delivery timing together.",
+        "Keep the call to action aligned with the buying task."
+      ]
+    }
+  ],
+  "faq_items": [
+    {
+      "question": "Where can I buy starburst online in Australia?",
+      "answer": "Start with Australian stores that show live stock, delivery windows, and product range depth for starburst before checkout."
+    },
+    {
+      "question": "How should I compare starburst prices?",
+      "answer": "Compare unit price, pack size, shipping cost, and bundle options together instead of looking at the headline price only."
+    },
+    {
+      "question": "Are there other american candy options worth comparing?",
+      "answer": "Yes. Nearby collections or substitute products can be useful when starburst is out of stock or only available in limited pack sizes."
+    }
+  ],
+  "faq_questions": [
+    "Where can I buy starburst online in Australia?",
+    "How should I compare starburst prices?",
+    "Are there other american candy options worth comparing?"
+  ],
+  "internal_links": [
+    {
+      "url": "https://sweetsworld.com.au/candy/american-candy/",
+      "label": "American Candy",
+      "anchor_text": "Shop American Candy",
+      "link_kind": "collection"
+    },
+    {
+      "url": "https://sweetsworld.com.au/candy/",
+      "label": "Candy",
+      "anchor_text": "Browse Candy",
+      "link_kind": "category"
+    },
+    {
+      "url": "https://sweetsworld.com.au/shop/candy/allensfantales1kg/",
+      "label": "Allensfantales1kg",
+      "anchor_text": "See Allensfantales1kg",
+      "link_kind": "product"
+    }
+  ],
+  "selected_products": [
+    {
+      "product_name": "Starburst Favereds 58.7g",
+      "category": "Uncategorized",
+      "description": "Your favourite Starburst Fruit Chews featuring only your favourite red flavours. Pack includes 4 flavours – Watermelon, Cherry, Strawberry, Fruit Punch",
+      "price": "5.99",
+      "url": "https://sweetsworld.com.au/uncategorized/starburst-favereds-587g/",
+      "matched_tokens": [
+        "starburst",
+        "chew",
+        "favered"
+      ],
+      "matched_phrases": [],
+      "selection_reason": "direct_match"
+    },
+    {
+      "product_name": "STARBURST Chews Fruit- 235g",
+      "category": "Candy",
+      "description": "STARBURST Chews Fruit Flavour – Bursting with Juicy Goodness! Product description: Get ready for a fruity explosion with STARBURST Chews Fruit Flavour – the classic chewy candy that everyone loves! At Sweets World ...",
+      "price": "5.99",
+      "url": "https://sweetsworld.com.au/candy/starburst-chews-fruit-235g/",
+      "matched_tokens": [
+        "starburst",
+        "chew"
+      ],
+      "matched_phrases": [],
+      "selection_reason": "direct_match"
+    },
+    {
+      "product_name": "STARBURST Chews Sours 235g",
+      "category": "Candy",
+      "description": "STARBURST Chews Sours 235g Available at Sweets World Get ready for a burst of bold, fruity flavour with a tangy twist! STARBURST Chews Sours are packed with all the juicy goodness you love from Starburst, now with an...",
+      "price": "5.99",
+      "url": "https://sweetsworld.com.au/candy/starburst-chews-sours-235g/",
+      "matched_tokens": [
+        "starburst",
+        "chew"
+      ],
+      "matched_phrases": [],
+      "selection_reason": "direct_match"
+    }
+  ],
+  "related_keywords": [
+    "sweetsworld",
+    "sweets world",
+    "white knight chocolate",
+    "fantales lollies",
+    "fantails lolly",
+    "darrell lea kotara"
+  ],
+  "cta": {
+    "heading": "Move from starburst research into a purchase",
+    "body": "Compare the shortlist, then click through to the most relevant collection or product page to check live stock and delivery details."
+  }
+}

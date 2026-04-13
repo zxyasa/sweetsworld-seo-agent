@@ -1,0 +1,45 @@
+{
+  "_comment": "Background image slot definitions for newcastlehub.info skin system.",
+  "_comment2": "wp_media_id = WP attachment ID. System resolves to URL automatically for URL-based replacements.",
+
+  "site_description": "Newcastle Hub is a B2B digital services agency in Newcastle NSW, Australia. We build websites, set up POS systems, run SEO and digital marketing for local small businesses — restaurants, mechanics, hair salons, retailers, tradies.",
+
+  "slots": [
+    {
+      "slot_id": "hero",
+      "wp_media_id": "405",
+      "width": 1280,
+      "height": 853,
+      "aspect": "landscape_standard",
+      "usage": "Home page (page_on_front=403 'Home 2') hero section — full-width background. Stored as direct <img src='URL'> in raw HTML block, NOT as bg='ID' shortcode.",
+      "default_prompt": "Professional Newcastle Australia business team in a modern local office, wide landscape, natural light, welcoming atmosphere, warm neutral tones"
+    },
+    {
+      "slot_id": "section_bg",
+      "wp_media_id": "496",
+      "width": 1280,
+      "height": 853,
+      "aspect": "landscape_standard",
+      "usage": "Service page section hero (Marketing/Website/Hosting pages) — stored as bg='496' in [section] shortcode. White overlay 0.68 opacity applied. Image should work under light overlay.",
+      "default_prompt": "Newcastle Australia small business owner at work, professional services, local business environment, natural light, warm tones"
+    },
+    {
+      "slot_id": "about_illustration",
+      "wp_media_id": "152",
+      "width": 1024,
+      "height": 1024,
+      "aspect": "square",
+      "usage": "About page main illustration — flat vector-style image of two people interacting with a desktop computer/search interface. Stored as direct <img src='URL'> in About page (ID 29). Should feel professional and human.",
+      "default_prompt": "Flat vector illustration of two professional people working together at a desktop computer, clean modern design, blue and purple accent colors, Newcastle digital services agency"
+    },
+    {
+      "slot_id": "section_dark",
+      "wp_media_id": "435",
+      "width": 1280,
+      "height": 848,
+      "aspect": "landscape_standard",
+      "usage": "Section background used behind portfolio/gallery content (blury-bg) — stored as direct URL in some pages. Used behind project thumbnails. Background must be subtle and low-contrast so foreground content (images, thumbnails) remains clearly visible. Prefer soft gradients or very light abstract textures.",
+      "default_prompt": "Soft abstract background, very subtle light gradient, low contrast, neutral light tones, clean professional backdrop"
+    }
+  ]
+}

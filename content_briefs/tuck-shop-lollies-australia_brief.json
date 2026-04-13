@@ -1,0 +1,133 @@
+{
+  "brief_id": "tuck-shop-lollies-australia-brief-v1",
+  "slug": "tuck-shop-lollies-australia",
+  "keyword": "tuck shop lollies australia",
+  "search_intent": "Transactional with commercial intent",
+  "page_type": "landing_page",
+  "title": "Tuck Shop Lollies Australia: Best Value Bulk Lollies for Schools",
+  "meta_description": "Tuck Shop Lollies Australia: Best Value Bulk Lollies for Schools. Compare stock options, buying factors, and the best next steps for tuck shop lollies in...",
+  "intro": "Use this page to compare where to buy tuck shop lollies in Australia, what to check before ordering, and which kids candy options are the best fit for your basket.",
+  "outline": [
+    "Where to buy tuck shop lollies with less guesswork",
+    "How to compare Kids Candy options before ordering"
+  ],
+  "sections": [
+    {
+      "heading": "Where to buy tuck shop lollies with less guesswork",
+      "paragraphs": [
+        "Landing pages for tuck shop lollies need to show real commercial value quickly, including price context, stock clarity, and relevant product paths.",
+        "The goal is to reduce purchase friction rather than publish a thin page that repeats the keyword."
+      ],
+      "bullets": [
+        "Jelly Joy Stick 20g- Sweetsworld - Chocolate Shop",
+        "Nut Shop Party Mix 150g",
+        "Pez Shopkins 17g"
+      ]
+    },
+    {
+      "heading": "How to compare Kids Candy options before ordering",
+      "paragraphs": [
+        "A stronger landing page explains the trade-offs between pack size, flavour range, stock depth, and delivery timing.",
+        "That gives the page a conversion job as well as a ranking job."
+      ],
+      "bullets": [
+        "Compare unit price instead of headline price alone.",
+        "Check stock, bundle size, and delivery timing together.",
+        "Keep the call to action aligned with the buying task."
+      ]
+    }
+  ],
+  "faq_items": [
+    {
+      "question": "Where can I buy tuck shop lollies online in Australia?",
+      "answer": "Start with Australian stores that show live stock, delivery windows, and product range depth for tuck shop lollies before checkout."
+    },
+    {
+      "question": "How should I compare tuck shop lollies prices?",
+      "answer": "Compare unit price, pack size, shipping cost, and bundle options together instead of looking at the headline price only."
+    },
+    {
+      "question": "Are there other kids candy options worth comparing?",
+      "answer": "Yes. Nearby collections or substitute products can be useful when tuck shop lollies is out of stock or only available in limited pack sizes."
+    }
+  ],
+  "faq_questions": [
+    "Where can I buy tuck shop lollies online in Australia?",
+    "How should I compare tuck shop lollies prices?",
+    "Are there other kids candy options worth comparing?"
+  ],
+  "internal_links": [
+    {
+      "url": "https://sweetsworld.com.au/candy-guides/best-candy-for-kids-australia/",
+      "label": "Best Candy For Kids Australia",
+      "anchor_text": "Shop Best Candy For Kids Australia",
+      "link_kind": "collection"
+    },
+    {
+      "url": "https://sweetsworld.com.au/candy/",
+      "label": "Candy",
+      "anchor_text": "Compare Candy",
+      "link_kind": "category"
+    },
+    {
+      "url": "https://sweetsworld.com.au/party-lollies/kidsparty/jelly-joy-stick-20g/",
+      "label": "Jelly Joy Stick 20g",
+      "anchor_text": "See Jelly Joy Stick 20g",
+      "link_kind": "product"
+    }
+  ],
+  "selected_products": [
+    {
+      "product_name": "Jelly Joy Stick 20g- Sweetsworld - Chocolate Shop",
+      "category": "Candy",
+      "description": "Jelly Joy Stick 20g Product Description: It has strawberry, orange, grape, mango, peach and pineapple flavours Adds lots of joy and happiness to the young and old Great snack for all occasions, parties and gatherings...",
+      "price": "0.5",
+      "url": "https://sweetsworld.com.au/party-lollies/kidsparty/jelly-joy-stick-20g/",
+      "matched_tokens": [
+        "kids",
+        "chocolate",
+        "shop"
+      ],
+      "matched_phrases": [],
+      "selection_reason": "direct_match"
+    },
+    {
+      "product_name": "Nut Shop Party Mix 150g",
+      "category": "Australian Chocolate",
+      "description": "",
+      "price": "6.99",
+      "url": "https://sweetsworld.com.au/chocolate/australian-chocolate/nutshoppartymix150g/",
+      "matched_tokens": [
+        "chocolate",
+        "shop"
+      ],
+      "matched_phrases": [],
+      "selection_reason": "direct_match"
+    },
+    {
+      "product_name": "Pez Shopkins 17g",
+      "category": "Candy",
+      "description": "Pez Shopkins 17g Product Description: Shopkins Pez dispenser with 2 packs of fruit flavoured pez candies Ingredients: sugar, glucose syrup, citric acid, tri-sodium-citrate, hydrogenated vegetable fat, mono- and di...",
+      "price": "4.99",
+      "url": "https://sweetsworld.com.au/party-lollies/kidsparty/pezshopkins17g/",
+      "matched_tokens": [
+        "kids",
+        "shop"
+      ],
+      "matched_phrases": [],
+      "selection_reason": "direct_match"
+    }
+  ],
+  "related_keywords": [
+    "sweetsworld",
+    "sweets world",
+    "white knight chocolate",
+    "fantales lollies",
+    "fantails lolly",
+    "darrell lea kotara"
+  ],
+  "cta": {
+    "heading": "Move from tuck shop lollies research into a purchase",
+    "body": "Compare the shortlist, then click through to the most relevant collection or product page to check live stock and delivery details."
+  }
+}

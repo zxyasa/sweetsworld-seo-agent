@@ -1,0 +1,133 @@
+{
+  "brief_id": "fudge-australia-brief-v1",
+  "slug": "fudge-australia",
+  "keyword": "fudge australia",
+  "search_intent": "Commercial category intent",
+  "page_type": "category_page",
+  "title": "Fudge Australia: Buy Handmade Fudge and Chocolate Fudge Online",
+  "meta_description": "Fudge Australia: Buy Handmade Fudge and Chocolate Fudge Online. Compare stock options, buying factors, and the best next steps for fudge in Australia.",
+  "intro": "This page explains the fudge range, the main product formats to compare, and the next collection or product pages worth opening before you buy.",
+  "outline": [
+    "What defines the fudge range",
+    "How to shop Classic Candy more confidently"
+  ],
+  "sections": [
+    {
+      "heading": "What defines the fudge range",
+      "paragraphs": [
+        "A category page for fudge should explain flavour profile, product format, and the most recognisable options in the range.",
+        "That helps search engines and shoppers understand the scope of the page before they move deeper into the catalogue."
+      ],
+      "bullets": [
+        "Kelly's Smooth Dark Chocolate Mint Fudge 180g",
+        "Byron Bay Chocolate Fudge 40g",
+        "Charlotte Piper Chocolate Fudge 92g"
+      ]
+    },
+    {
+      "heading": "How to shop Classic Candy more confidently",
+      "paragraphs": [
+        "Category pages should guide users through format, suitability, and value instead of listing products without context.",
+        "This is the section that turns a collection page into a useful SEO landing surface."
+      ],
+      "bullets": [
+        "Show best sellers before long-tail variants.",
+        "Explain when bundles make more sense than single items.",
+        "Link into adjacent collections and product pages."
+      ]
+    }
+  ],
+  "faq_items": [
+    {
+      "question": "What should I look for when choosing fudge?",
+      "answer": "Focus on suitability for the use case, flavour profile, pack size, and delivery timing rather than assuming every popular candy is the right fit."
+    },
+    {
+      "question": "What is the best next step after reading this page?",
+      "answer": "Use the linked category or product pages to compare live stock, range depth, and practical buying options."
+    },
+    {
+      "question": "Can this page help me compare classic candy options?",
+      "answer": "Yes. It should clarify which products or collections are the best fit instead of leaving the reader with generic advice."
+    }
+  ],
+  "faq_questions": [
+    "What should I look for when choosing fudge?",
+    "What is the best next step after reading this page?",
+    "Can this page help me compare classic candy options?"
+  ],
+  "internal_links": [
+    {
+      "url": "https://sweetsworld.com.au/candy/",
+      "label": "Candy",
+      "anchor_text": "Explore Candy",
+      "link_kind": "category"
+    },
+    {
+      "url": "https://sweetsworld.com.au/uncategorized/kellys-smooth-dark-chocolate-mint-fudge-200g/",
+      "label": "Kellys Smooth Dark Chocolate Mint Fudge",
+      "anchor_text": "Browse Kellys Smooth Dark Chocolate Mint Fudge",
+      "link_kind": "collection"
+    },
+    {
+      "url": "https://sweetsworld.com.au/shop/candy/allensfantales1kg/",
+      "label": "Allensfantales1kg",
+      "anchor_text": "Compare Allensfantales1kg",
+      "link_kind": "product"
+    }
+  ],
+  "selected_products": [
+    {
+      "product_name": "Kelly's Smooth Dark Chocolate Mint Fudge 180g",
+      "category": "Uncategorized",
+      "description": "A new twist on the classic chocolate fudge, our Choc Mint Fudge will become a favourite for you. First, we boil and stir quality Australian ingredients including cocoa, sugar and milk in a big copper pot. We add in a...",
+      "price": "11.99",
+      "url": "https://sweetsworld.com.au/uncategorized/kellys-smooth-dark-chocolate-mint-fudge-200g/",
+      "matched_tokens": [
+        "chocolate",
+        "fudge",
+        "classic"
+      ],
+      "matched_phrases": [],
+      "selection_reason": "direct_match"
+    },
+    {
+      "product_name": "Byron Bay Chocolate Fudge 40g",
+      "category": "Uncategorized",
+      "description": "Byron Bay Chocolate Fudge 40g Product Description: Byron Bay Caramel Fudge, Byron Bay Confectionery pride themselves with the finest sweet treats using the highest quality ingredients, all of Byron Bay confectionery...",
+      "price": "3",
+      "url": "https://sweetsworld.com.au/uncategorized/byron-bay-chocolate-fudge-40g/",
+      "matched_tokens": [
+        "chocolate",
+        "fudge"
+      ],
+      "matched_phrases": [],
+      "selection_reason": "direct_match"
+    },
+    {
+      "product_name": "Charlotte Piper Chocolate Fudge 92g",
+      "category": "Candy",
+      "description": "Charlotte Piper Chocolate Fudge is a rich, creamy treat made with premium ingredients. Perfect for sharing or enjoying alone, this fudge offers a luxurious, chocolatey experience. Indulge in the smooth, velvety...",
+      "price": "14.99",
+      "url": "https://sweetsworld.com.au/candy/charlotte-piper-chocolate-fudge-130g/",
+      "matched_tokens": [
+        "chocolate",
+        "fudge"
+      ],
+      "matched_phrases": [],
+      "selection_reason": "direct_match"
+    }
+  ],
+  "related_keywords": [
+    "sweetsworld",
+    "sweets world",
+    "white knight chocolate",
+    "fantales lollies",
+    "fantails lolly",
+    "darrell lea kotara"
+  ],
+  "cta": {
+    "heading": "Use this page as a shortlist for fudge",
+    "body": "Review the key options, then move into the linked collection or product pages when you are ready to compare live stock and pricing."
+  }
+}

@@ -1,0 +1,152 @@
+{
+  "brief_id": "chocolate-bars-australia-brief-v1",
+  "slug": "chocolate-bars-australia",
+  "keyword": "chocolate bars australia",
+  "search_intent": "Commercial category intent",
+  "page_type": "category_page",
+  "title": "Chocolate Bars Australia: Best Chocolate Bars to Buy Online",
+  "meta_description": "Chocolate Bars Australia: Best Chocolate Bars to Buy Online. Compare stock options, buying factors, and the best next steps for chocolate bars in...",
+  "intro": "This page explains the chocolate bars range, the main product formats to compare, and the next collection or product pages worth opening before you buy.",
+  "outline": [
+    "What defines the chocolate bars range",
+    "How to shop Chocolate Bars more confidently"
+  ],
+  "sections": [
+    {
+      "heading": "What defines the chocolate bars range",
+      "paragraphs": [
+        "A category page for chocolate bars should explain flavour profile, product format, and the most recognisable options in the range.",
+        "That helps search engines and shoppers understand the scope of the page before they move deeper into the catalogue."
+      ],
+      "bullets": [
+        "Buzz Bars Wrapped 20g",
+        "Chocolatier Pure Milk Chocolates 250g",
+        "2026 Darrell Lea Ginger Dark Chocolate Egg Easter Pack",
+        "2026 Davies Dark Chocolate Strawberry Creams Easter Egg Pack"
+      ]
+    },
+    {
+      "heading": "How to shop Chocolate Bars more confidently",
+      "paragraphs": [
+        "Category pages should guide users through format, suitability, and value instead of listing products without context.",
+        "This is the section that turns a collection page into a useful SEO landing surface."
+      ],
+      "bullets": [
+        "Show best sellers before long-tail variants.",
+        "Explain when bundles make more sense than single items.",
+        "Link into adjacent collections and product pages."
+      ]
+    }
+  ],
+  "faq_items": [
+    {
+      "question": "What should I look for when choosing chocolate bars?",
+      "answer": "Focus on suitability for the use case, flavour profile, pack size, and delivery timing rather than assuming every popular candy is the right fit."
+    },
+    {
+      "question": "What is the best next step after reading this page?",
+      "answer": "Use the linked category or product pages to compare live stock, range depth, and practical buying options."
+    },
+    {
+      "question": "Can this page help me compare chocolate bars options?",
+      "answer": "Yes. It should clarify which products or collections are the best fit instead of leaving the reader with generic advice."
+    }
+  ],
+  "faq_questions": [
+    "What should I look for when choosing chocolate bars?",
+    "What is the best next step after reading this page?",
+    "Can this page help me compare chocolate bars options?"
+  ],
+  "internal_links": [
+    {
+      "url": "https://sweetsworld.com.au/products/lollipops-australia/",
+      "label": "Lollipops Australia",
+      "anchor_text": "Explore Lollipops Australia",
+      "link_kind": "collection"
+    },
+    {
+      "url": "https://sweetsworld.com.au/where-to-buy/gummy-bears-australia/",
+      "label": "Gummy Bears Australia",
+      "anchor_text": "Browse Gummy Bears Australia",
+      "link_kind": "commercial"
+    },
+    {
+      "url": "https://sweetsworld.com.au/chocolate/",
+      "label": "Chocolate",
+      "anchor_text": "See Chocolate",
+      "link_kind": "category"
+    }
+  ],
+  "selected_products": [
+    {
+      "product_name": "Buzz Bars Wrapped 20g",
+      "category": "Chocolate Gift Box",
+      "description": "Buzz Bars Wrapped 20g Product Description: An original New Zealand favourite. Soft marshmallow topped with caramel and covered in Cadbury Dairy Milk Chocolate. Pure choc marshmallow heaven Ingredients: Sugar, Full...",
+      "price": "1.99",
+      "url": "https://sweetsworld.com.au/chocolate/new-zealand-chocolate/buzzbarswrapped20g/",
+      "matched_tokens": [
+        "chocolate",
+        "bars"
+      ],
+      "matched_phrases": [],
+      "selection_reason": "direct_match"
+    },
+    {
+      "product_name": "Chocolatier Pure Milk Chocolates 250g",
+      "category": "Australian Chocolate",
+      "description": "Chocolatier Pure Milk Chocolates 250g Product Description: 46 solid pure milk chocolate mini bars, inside a beautiful white gift tin. Chocolate individually wrapped in gold foil for ultimate freshness. Ingredients...",
+      "price": "25",
+      "url": "https://sweetsworld.com.au/chocolate/australian-chocolate/chocolatierpuremilkchocolates250g/",
+      "matched_tokens": [
+        "chocolate",
+        "bars"
+      ],
+      "matched_phrases": [],
+      "selection_reason": "direct_match"
+    },
+    {
+      "product_name": "2026 Darrell Lea Ginger Dark Chocolate Egg Easter Pack",
+      "category": "Easter",
+      "description": "In summary, the Darrell Lea Dark Ginger Egg Easter Pack is a must-have for those seeking an extraordinary Easter treat. Its unique blend of dark chocolate and ginger offers a refreshing twist on traditional Easter...",
+      "price": "24.99",
+      "url": "https://sweetsworld.com.au/easterchocolate/darrell-lea-ginger-dark-chocolate-egg-easter-pack/",
+      "matched_tokens": [
+        "chocolate"
+      ],
+      "matched_phrases": [],
+      "selection_reason": "direct_match"
+    },
+    {
+      "product_name": "2026 Davies Dark Chocolate Strawberry Creams Easter Egg Pack",
+      "category": "Easter",
+      "description": "The Strawberry Creams Easter Egg Pack from Sweetsworld is more than just an Easter candy. It’s a delightful blend of fresh strawberry cream and smooth chocolate, a symbol of Easter’s joy and a testament to quality...",
+      "price": "27.99",
+      "url": "https://sweetsworld.com.au/easterchocolate/strawberry-creams-easter-egg-pack/",
+      "matched_tokens": [
+        "chocolate"
+      ],
+      "matched_phrases": [],
+      "selection_reason": "direct_match"
+    }
+  ],
+  "related_keywords": [
+    "sweetsworld",
+    "sweets world",
+    "white knight chocolate",
+    "fantales lollies",
+    "clinkers chocolate",
+    "fantails lolly"
+  ],
+  "cta": {
+    "heading": "Use this page as a shortlist for chocolate bars",
+    "body": "Review the key options, then move into the linked collection or product pages when you are ready to compare live stock and pricing.",
+    "button_text": "Browse Collection"
+  },
+  "distribution_channels": [
+    "pinterest",
+    "facebook"
+  ],
+  "schema_types": [
+    "BreadcrumbList"
+  ]
+}

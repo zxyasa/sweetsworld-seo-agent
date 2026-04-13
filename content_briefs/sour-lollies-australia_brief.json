@@ -1,0 +1,142 @@
+{
+  "brief_id": "sour-lollies-australia-brief-v1",
+  "slug": "sour-lollies-australia",
+  "keyword": "sour lollies australia",
+  "search_intent": "Commercial category intent",
+  "page_type": "category_page",
+  "title": "Sour Lollies Australia: Best Sour Candy to Buy Online",
+  "meta_description": "Sour Lollies Australia: Best Sour Candy to Buy Online. Compare stock options, buying factors, and the best next steps for sour lollies in Australia.",
+  "intro": "This page explains the sour lollies range, the main product formats to compare, and the next collection or product pages worth opening before you buy.",
+  "outline": [
+    "What defines the sour lollies range",
+    "How to shop Sour Candy more confidently"
+  ],
+  "sections": [
+    {
+      "heading": "What defines the sour lollies range",
+      "paragraphs": [
+        "A category page for sour lollies should explain flavour profile, product format, and the most recognisable options in the range.",
+        "That helps search engines and shoppers understand the scope of the page before they move deeper into the catalogue."
+      ],
+      "bullets": [
+        "4D Gummy Dinosours 100g",
+        "C&H SOUR CHERRY DROPS 200G",
+        "Candy Sours 15g",
+        "FINI RAINB SOUR PENCIL 100G"
+      ]
+    },
+    {
+      "heading": "How to shop Sour Candy more confidently",
+      "paragraphs": [
+        "Category pages should guide users through format, suitability, and value instead of listing products without context.",
+        "This is the section that turns a collection page into a useful SEO landing surface."
+      ],
+      "bullets": [
+        "Show best sellers before long-tail variants.",
+        "Explain when bundles make more sense than single items.",
+        "Link into adjacent collections and product pages."
+      ]
+    }
+  ],
+  "faq_items": [
+    {
+      "question": "What should I look for when choosing sour lollies?",
+      "answer": "Focus on suitability for the use case, flavour profile, pack size, and delivery timing rather than assuming every popular candy is the right fit."
+    },
+    {
+      "question": "What is the best next step after reading this page?",
+      "answer": "Use the linked category or product pages to compare live stock, range depth, and practical buying options."
+    },
+    {
+      "question": "Can this page help me compare sour candy options?",
+      "answer": "Yes. It should clarify which products or collections are the best fit instead of leaving the reader with generic advice."
+    }
+  ],
+  "faq_questions": [
+    "What should I look for when choosing sour lollies?",
+    "What is the best next step after reading this page?",
+    "Can this page help me compare sour candy options?"
+  ],
+  "internal_links": [
+    {
+      "url": "https://sweetsworld.com.au/candy/",
+      "label": "Candy",
+      "anchor_text": "Explore Candy",
+      "link_kind": "category"
+    },
+    {
+      "url": "https://sweetsworld.com.au/candy/sour-lollies/",
+      "label": "Sour Lollies",
+      "anchor_text": "Browse Sour Lollies",
+      "link_kind": "collection"
+    },
+    {
+      "url": "https://sweetsworld.com.au/candy/sour-lollies/4d-gummy-dinosours-100g/",
+      "label": "4d Gummy Dinosours 100g",
+      "anchor_text": "See 4d Gummy Dinosours 100g",
+      "link_kind": "product"
+    }
+  ],
+  "selected_products": [
+    {
+      "product_name": "4D Gummy Dinosours 100g",
+      "category": "Sour Lollies",
+      "description": "",
+      "price": "8.99",
+      "url": "https://sweetsworld.com.au/candy/sour-lollies/4d-gummy-dinosours-100g/",
+      "matched_tokens": [
+        "sour"
+      ],
+      "matched_phrases": [],
+      "selection_reason": "direct_match"
+    },
+    {
+      "product_name": "C&H SOUR CHERRY DROPS 200G",
+      "category": "Sour Lollies",
+      "description": "",
+      "price": "5.99",
+      "url": "https://sweetsworld.com.au/candy/sour-lollies/6019419/",
+      "matched_tokens": [
+        "sour"
+      ],
+      "matched_phrases": [],
+      "selection_reason": "direct_match"
+    },
+    {
+      "product_name": "Candy Sours 15g",
+      "category": "Kids Party",
+      "description": "",
+      "price": "1.00",
+      "url": "https://sweetsworld.com.au/party-lollies/kidsparty/candysours/",
+      "matched_tokens": [
+        "sour"
+      ],
+      "matched_phrases": [],
+      "selection_reason": "direct_match"
+    },
+    {
+      "product_name": "FINI RAINB SOUR PENCIL 100G",
+      "category": "Uncategorized",
+      "description": "FINI RAINB SOUR PENCIL 100G Product Description: Fini Sour Rainbow Fruit Shock Flavour Pencils Packet 100g Deliciously Fruity and Sour to tantalise your tastebuds! Ingredients: Sugar, Glucose & Fructose syrup, Wheat...",
+      "price": "3.00",
+      "url": "https://sweetsworld.com.au/candy/sour-lollies/fini-rainb-sour-pencil-100g/",
+      "matched_tokens": [
+        "sour"
+      ],
+      "matched_phrases": [],
+      "selection_reason": "direct_match"
+    }
+  ],
+  "related_keywords": [
+    "sweetsworld",
+    "sweets world",
+    "white knight chocolate",
+    "fantales lollies",
+    "fantails lolly",
+    "darrell lea kotara"
+  ],
+  "cta": {
+    "heading": "Use this page as a shortlist for sour lollies",
+    "body": "Review the key options, then move into the linked collection or product pages when you are ready to compare live stock and pricing."
+  }
+}

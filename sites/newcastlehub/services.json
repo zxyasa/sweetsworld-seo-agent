@@ -1,0 +1,140 @@
+{
+  "source": "newcastlehub.info",
+  "base_url": "https://newcastlehub.info",
+  "generated_at": "2026-03-30",
+  "count": 12,
+  "services": [
+    {
+      "service_name": "Free Newcastle Business Audit",
+      "category": "Consulting",
+      "categories": ["Consulting", "SEO", "Digital Marketing"],
+      "tags": ["free audit", "business review", "newcastle", "digital presence"],
+      "url": "https://newcastlehub.info/free-newcastle-business-audit/",
+      "slug": "free-newcastle-business-audit",
+      "image_url": null,
+      "is_active": true,
+      "description": "A free digital presence audit for Newcastle businesses. We review your website, Google ranking, social media, and local citations to identify quick wins."
+    },
+    {
+      "service_name": "Local SEO Newcastle",
+      "category": "SEO",
+      "categories": ["SEO", "Digital Marketing"],
+      "tags": ["local seo", "google ranking", "newcastle seo", "maps listing"],
+      "url": "https://newcastlehub.info/services/",
+      "slug": "local-seo-newcastle",
+      "image_url": null,
+      "is_active": true,
+      "description": "Rank higher on Google Maps and local search results for Newcastle NSW. We optimise your Google Business Profile, build local citations, and improve on-page SEO."
+    },
+    {
+      "service_name": "Website Design Newcastle",
+      "category": "Web Design",
+      "categories": ["Web Design", "Digital Marketing"],
+      "tags": ["website design", "web development", "newcastle website", "small business website"],
+      "url": "https://newcastlehub.info/services/",
+      "slug": "website-design-newcastle",
+      "image_url": null,
+      "is_active": true,
+      "description": "Professional website design for Newcastle small businesses. Fast, mobile-friendly, SEO-ready websites built to convert visitors into customers."
+    },
+    {
+      "service_name": "Google Business Profile Management",
+      "category": "SEO",
+      "categories": ["SEO", "Local Marketing"],
+      "tags": ["google business profile", "google my business", "local listing", "maps"],
+      "url": "https://newcastlehub.info/services/",
+      "slug": "google-business-profile-newcastle",
+      "image_url": null,
+      "is_active": true,
+      "description": "Set up and manage your Google Business Profile to appear in local searches and Google Maps for Newcastle customers."
+    },
+    {
+      "service_name": "Content Marketing Newcastle",
+      "category": "Content",
+      "categories": ["Content", "Digital Marketing", "SEO"],
+      "tags": ["content marketing", "blog writing", "seo content", "newcastle"],
+      "url": "https://newcastlehub.info/services/",
+      "slug": "content-marketing-newcastle",
+      "image_url": null,
+      "is_active": true,
+      "description": "SEO-driven content creation for Newcastle businesses. Blog posts, service pages, and landing pages that rank and convert."
+    },
+    {
+      "service_name": "Social Media Management",
+      "category": "Social Media",
+      "categories": ["Social Media", "Digital Marketing"],
+      "tags": ["social media", "facebook", "instagram", "newcastle business"],
+      "url": "https://newcastlehub.info/services/",
+      "slug": "social-media-management-newcastle",
+      "image_url": null,
+      "is_active": true,
+      "description": "Consistent social media presence for Newcastle businesses. We manage your Facebook, Instagram, and Google posts to keep your brand active and engaging."
+    },
+    {
+      "service_name": "Online Review Management",
+      "category": "Reputation",
+      "categories": ["Reputation", "Local Marketing"],
+      "tags": ["reviews", "google reviews", "reputation management", "newcastle"],
+      "url": "https://newcastlehub.info/services/",
+      "slug": "review-management-newcastle",
+      "image_url": null,
+      "is_active": true,
+      "description": "Build and manage your online reputation in Newcastle. We help you get more 5-star Google reviews and handle negative feedback professionally."
+    },
+    {
+      "service_name": "Pay Per Click Advertising Newcastle",
+      "category": "Advertising",
+      "categories": ["Advertising", "Digital Marketing"],
+      "tags": ["ppc", "google ads", "facebook ads", "newcastle advertising"],
+      "url": "https://newcastlehub.info/services/",
+      "slug": "ppc-advertising-newcastle",
+      "image_url": null,
+      "is_active": false,
+      "description": "Targeted Google Ads and Facebook Ads campaigns for Newcastle businesses. Only pay when customers click — we manage your budget to maximise ROI."
+    },
+    {
+      "service_name": "Email Marketing",
+      "category": "Email",
+      "categories": ["Email", "Digital Marketing"],
+      "tags": ["email marketing", "newsletter", "customer retention", "newcastle"],
+      "url": "https://newcastlehub.info/services/",
+      "slug": "email-marketing-newcastle",
+      "image_url": null,
+      "is_active": false,
+      "description": "Build customer loyalty with targeted email campaigns. We design, write, and send newsletters that keep your Newcastle customers coming back."
+    },
+    {
+      "service_name": "Business Directory Listing",
+      "category": "Local Marketing",
+      "categories": ["Local Marketing", "SEO"],
+      "tags": ["directory listing", "citation building", "local seo", "newcastle directory"],
+      "url": "https://newcastlehub.info/services/",
+      "slug": "business-directory-listing-newcastle",
+      "image_url": null,
+      "is_active": true,
+      "description": "Get your Newcastle business listed across 50+ Australian directories to boost local SEO authority and make it easy for customers to find you."
+    },
+    {
+      "service_name": "Website Speed Optimisation",
+      "category": "Web Design",
+      "categories": ["Web Design", "SEO"],
+      "tags": ["website speed", "core web vitals", "page speed", "newcastle"],
+      "url": "https://newcastlehub.info/services/",
+      "slug": "website-speed-optimisation-newcastle",
+      "image_url": null,
+      "is_active": true,
+      "description": "Fast websites rank higher and convert better. We audit and fix Core Web Vitals issues for Newcastle business websites."
+    },
+    {
+      "service_name": "Technical SEO Audit",
+      "category": "SEO",
+      "categories": ["SEO", "Consulting"],
+      "tags": ["technical seo", "seo audit", "website audit", "newcastle seo"],
+      "url": "https://newcastlehub.info/services/",
+      "slug": "technical-seo-audit-newcastle",
+      "image_url": null,
+      "is_active": true,
+      "description": "A deep-dive technical SEO audit for Newcastle business websites. We identify crawl errors, broken links, duplicate content, and missed ranking opportunities."
+    }
+  ]
+}

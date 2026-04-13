@@ -1,0 +1,105 @@
+{
+  "brief_id": "nougat-australia-brief-v1",
+  "slug": "nougat-australia",
+  "keyword": "nougat australia",
+  "search_intent": "Transactional with commercial intent",
+  "page_type": "landing_page",
+  "title": "Nougat Australia: Buy Soft Nougat and Almond Nougat Online",
+  "meta_description": "Nougat Australia: Buy Soft Nougat and Almond Nougat Online. Compare stock options, buying factors, and the best next steps for nougat in Australia.",
+  "intro": "Use this page to compare where to buy nougat in Australia, what to check before ordering, and which classic candy options are the best fit for your basket.",
+  "outline": [
+    "Where to buy nougat with less guesswork",
+    "How to compare Classic Candy options before ordering"
+  ],
+  "sections": [
+    {
+      "heading": "Where to buy nougat with less guesswork",
+      "paragraphs": [
+        "Landing pages for nougat need to show real commercial value quickly, including price context, stock clarity, and relevant product paths.",
+        "The goal is to reduce purchase friction rather than publish a thin page that repeats the keyword."
+      ],
+      "bullets": [
+        "Nougat Limar Chocolate Hazelnut Almond 150g"
+      ]
+    },
+    {
+      "heading": "How to compare Classic Candy options before ordering",
+      "paragraphs": [
+        "A stronger landing page explains the trade-offs between pack size, flavour range, stock depth, and delivery timing.",
+        "That gives the page a conversion job as well as a ranking job."
+      ],
+      "bullets": [
+        "Compare unit price instead of headline price alone.",
+        "Check stock, bundle size, and delivery timing together.",
+        "Keep the call to action aligned with the buying task."
+      ]
+    }
+  ],
+  "faq_items": [
+    {
+      "question": "Where can I buy nougat online in Australia?",
+      "answer": "Start with Australian stores that show live stock, delivery windows, and product range depth for nougat before checkout."
+    },
+    {
+      "question": "How should I compare nougat prices?",
+      "answer": "Compare unit price, pack size, shipping cost, and bundle options together instead of looking at the headline price only."
+    },
+    {
+      "question": "Are there other classic candy options worth comparing?",
+      "answer": "Yes. Nearby collections or substitute products can be useful when nougat is out of stock or only available in limited pack sizes."
+    }
+  ],
+  "faq_questions": [
+    "Where can I buy nougat online in Australia?",
+    "How should I compare nougat prices?",
+    "Are there other classic candy options worth comparing?"
+  ],
+  "internal_links": [
+    {
+      "url": "https://sweetsworld.com.au/candy/",
+      "label": "Candy",
+      "anchor_text": "Shop Candy",
+      "link_kind": "category"
+    },
+    {
+      "url": "https://sweetsworld.com.au/candy/old-fashion-lollies/",
+      "label": "Old Fashion Lollies",
+      "anchor_text": "Browse Old Fashion Lollies",
+      "link_kind": "collection"
+    },
+    {
+      "url": "https://sweetsworld.com.au/candy/old-fashion-lollies/nougatlimarchocolatehazelnutalmond150g/",
+      "label": "Nougatlimarchocolatehazelnutalmond150g",
+      "anchor_text": "See Nougatlimarchocolatehazelnutalmond150g",
+      "link_kind": "product"
+    }
+  ],
+  "selected_products": [
+    {
+      "product_name": "Nougat Limar Chocolate Hazelnut Almond 150g",
+      "category": "Candy",
+      "description": "Nougat Limar Chocolate Hazelnut Almond 150g Product Description: Creamy soft Chocolate Nougat with freshly roasted Almonds & Hazelnuts. – Gluten Free – No artificial colours or flavours. – Suitable for vegetarians. –...",
+      "price": "8.99",
+      "url": "https://sweetsworld.com.au/candy/old-fashion-lollies/nougatlimarchocolatehazelnutalmond150g/",
+      "matched_tokens": [
+        "nougat",
+        "soft",
+        "almond"
+      ],
+      "matched_phrases": [],
+      "selection_reason": "direct_match"
+    }
+  ],
+  "related_keywords": [
+    "sweetsworld",
+    "sweets world",
+    "white knight chocolate",
+    "fantales lollies",
+    "fantails lolly",
+    "darrell lea kotara"
+  ],
+  "cta": {
+    "heading": "Move from nougat research into a purchase",
+    "body": "Compare the shortlist, then click through to the most relevant collection or product page to check live stock and delivery details."
+  }
+}

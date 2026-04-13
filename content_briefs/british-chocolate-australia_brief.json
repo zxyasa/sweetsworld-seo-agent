@@ -1,0 +1,159 @@
+{
+  "brief_id": "british-chocolate-australia-brief-v1",
+  "slug": "british-chocolate-australia",
+  "keyword": "british chocolate australia",
+  "search_intent": "Transactional with commercial intent",
+  "page_type": "landing_page",
+  "title": "British Chocolate Australia: Buy Cadbury UK and More Online",
+  "meta_description": "British Chocolate Australia: Buy Cadbury UK and More Online. Compare stock options, buying factors, and the best next steps for british chocolate in...",
+  "intro": "Use this page to compare where to buy british chocolate in Australia, what to check before ordering, and which british candy options are the best fit for your basket.",
+  "outline": [
+    "Where to buy british chocolate with less guesswork",
+    "How to compare British Candy options before ordering"
+  ],
+  "sections": [
+    {
+      "heading": "Where to buy british chocolate with less guesswork",
+      "paragraphs": [
+        "Landing pages for british chocolate need to show real commercial value quickly, including price context, stock clarity, and relevant product paths.",
+        "The goal is to reduce purchase friction rather than publish a thin page that repeats the keyword."
+      ],
+      "bullets": [
+        "Cadbury Wispa Bar 36g",
+        "Cadbury Cherry Ripe Dark Chocolate Gift Box 186g",
+        "CADBURY GIANT BUTTONS- 119G",
+        "Cadbury Choco Fish Wrapped 20g"
+      ]
+    },
+    {
+      "heading": "How to compare British Candy options before ordering",
+      "paragraphs": [
+        "A stronger landing page explains the trade-offs between pack size, flavour range, stock depth, and delivery timing.",
+        "That gives the page a conversion job as well as a ranking job."
+      ],
+      "bullets": [
+        "Compare unit price instead of headline price alone.",
+        "Check stock, bundle size, and delivery timing together.",
+        "Keep the call to action aligned with the buying task."
+      ]
+    }
+  ],
+  "faq_items": [
+    {
+      "question": "Where can I buy british chocolate online in Australia?",
+      "answer": "Start with Australian stores that show live stock, delivery windows, and product range depth for british chocolate before checkout."
+    },
+    {
+      "question": "How should I compare british chocolate prices?",
+      "answer": "Compare unit price, pack size, shipping cost, and bundle options together instead of looking at the headline price only."
+    },
+    {
+      "question": "Are there other british candy options worth comparing?",
+      "answer": "Yes. Nearby collections or substitute products can be useful when british chocolate is out of stock or only available in limited pack sizes."
+    }
+  ],
+  "faq_questions": [
+    "Where can I buy british chocolate online in Australia?",
+    "How should I compare british chocolate prices?",
+    "Are there other british candy options worth comparing?"
+  ],
+  "internal_links": [
+    {
+      "url": "https://sweetsworld.com.au/products/uk-sweets-australia/",
+      "label": "Uk Sweets Australia",
+      "anchor_text": "Shop Uk Sweets Australia",
+      "link_kind": "collection"
+    },
+    {
+      "url": "https://sweetsworld.com.au/where-to-buy/belgian-chocolate-australia/",
+      "label": "Belgian Chocolate Australia",
+      "anchor_text": "Browse Belgian Chocolate Australia",
+      "link_kind": "commercial"
+    },
+    {
+      "url": "https://sweetsworld.com.au/candy/",
+      "label": "Candy",
+      "anchor_text": "Compare Candy",
+      "link_kind": "category"
+    }
+  ],
+  "selected_products": [
+    {
+      "product_name": "Cadbury Wispa Bar 36g",
+      "category": "British Lollies",
+      "description": "Cadbury Wispa Bar 36g Product Description: The Cadbury Wispa bar first appeared on UK shelves in 1981 and was then discontinued in 2003. Four years after being discontinued and following a massive consumer campaign...",
+      "price": "2.99",
+      "url": "https://sweetsworld.com.au/british-lollies/uk-chocolate/cadburywispabar36g/",
+      "matched_tokens": [
+        "chocolate",
+        "british",
+        "cadbury"
+      ],
+      "matched_phrases": [],
+      "selection_reason": "direct_match"
+    },
+    {
+      "product_name": "Cadbury Cherry Ripe Dark Chocolate Gift Box 186g",
+      "category": "Easter",
+      "description": "Cadbury Cherry Ripe Dark Chocolate Gift Box 186g Product Description: Cadbury Cherry Ripe Gift Box - Dark Chocolate hollow egg with cherry, coconut jelly pieces and dark chocolate solid eggs. Ingredients Cherry Ripe...",
+      "price": "7.99",
+      "url": "https://sweetsworld.com.au/easterchocolate/cadbury-cherry-ripe/",
+      "matched_tokens": [
+        "chocolate",
+        "cadbury"
+      ],
+      "matched_phrases": [],
+      "selection_reason": "direct_match"
+    },
+    {
+      "product_name": "CADBURY GIANT BUTTONS- 119G",
+      "category": "Chocolate Gift Box",
+      "description": "CADBURY GIANT BUTTONS – A Classic Treat, Bigger and Better! Product Description: The creamy, classic milk chocolate from Cadbury comes in big button-shaped bites! Made with fresh milk from British farms. At Sweets...",
+      "price": "7.99",
+      "url": "https://sweetsworld.com.au/british-lollies/uk-chocolate/cadbury-giant-buttons/",
+      "matched_tokens": [
+        "chocolate",
+        "british",
+        "cadbury"
+      ],
+      "matched_phrases": [],
+      "selection_reason": "direct_match"
+    },
+    {
+      "product_name": "Cadbury Choco Fish Wrapped 20g",
+      "category": "Chocolate Gift Box",
+      "description": "Cadbury Choco Fish Wrapped 20g – A Fun Bite-Sized Chocolate Treat! Looking for a fun and tasty chocolate snack? The Cadbury Choco Fish Wrapped 20g is the perfect little treat to brighten your day! Shaped like a fish...",
+      "price": "1.99",
+      "url": "https://sweetsworld.com.au/chocolate/new-zealand-chocolate/cadbury-choco-fish-wrapped-20g/",
+      "matched_tokens": [
+        "chocolate",
+        "cadbury"
+      ],
+      "matched_phrases": [],
+      "selection_reason": "direct_match"
+    }
+  ],
+  "related_keywords": [
+    "sweetsworld",
+    "sweets world",
+    "white knight chocolate",
+    "fantales lollies",
+    "clinkers chocolate",
+    "fantails lolly"
+  ],
+  "cta": {
+    "heading": "Move from british chocolate research into a purchase",
+    "body": "Compare the shortlist, then click through to the most relevant collection or product page to check live stock and delivery details.",
+    "button_text": "Browse Related Collection"
+  },
+  "distribution_channels": [
+    "facebook",
+    "instagram",
+    "gbp",
+    "pinterest"
+  ],
+  "schema_types": [
+    "BreadcrumbList",
+    "ItemList"
+  ]
+}

@@ -31,6 +31,8 @@ logs/
 # Sensitive local files
 .env.accounts
 .env.accounts.local
+gsc_credentials.json
 data/token.json
 data/square_token.json
 data/reports/
+data/seo_daily_state.json

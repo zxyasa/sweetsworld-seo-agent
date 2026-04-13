@@ -1,0 +1,146 @@
+{
+  "brief_id": "kellys-candy-australia-brief-v1",
+  "slug": "kellys-candy-australia",
+  "keyword": "kellys candy australia",
+  "search_intent": "Transactional with commercial intent",
+  "page_type": "landing_page",
+  "title": "Kelly's Candy Australia: Buy Kelly's Lollies and Sweets Online",
+  "meta_description": "Kelly's Candy Australia: Buy Kelly's Lollies and Sweets Online. Compare stock options, buying factors, and the best next steps for kellys candy in...",
+  "intro": "Use this page to compare where to buy kellys candy in Australia, what to check before ordering, and which candy & lollies options are the best fit for your basket.",
+  "outline": [
+    "Where to buy kellys candy with less guesswork",
+    "How to compare Candy & Lollies options before ordering"
+  ],
+  "sections": [
+    {
+      "heading": "Where to buy kellys candy with less guesswork",
+      "paragraphs": [
+        "Landing pages for kellys candy need to show real commercial value quickly, including price context, stock clarity, and relevant product paths.",
+        "The goal is to reduce purchase friction rather than publish a thin page that repeats the keyword."
+      ],
+      "bullets": [
+        "Kelly's Caramel Fudge 180g",
+        "Kelly's Choc Fudge 180g",
+        "Kelly's Milk Choc Rocky Road 175g",
+        "Kelly's Rainbow Jellies 220g"
+      ]
+    },
+    {
+      "heading": "How to compare Candy & Lollies options before ordering",
+      "paragraphs": [
+        "A stronger landing page explains the trade-offs between pack size, flavour range, stock depth, and delivery timing.",
+        "That gives the page a conversion job as well as a ranking job."
+      ],
+      "bullets": [
+        "Compare unit price instead of headline price alone.",
+        "Check stock, bundle size, and delivery timing together.",
+        "Keep the call to action aligned with the buying task."
+      ]
+    }
+  ],
+  "faq_items": [
+    {
+      "question": "Where can I buy kellys candy online in Australia?",
+      "answer": "Start with Australian stores that show live stock, delivery windows, and product range depth for kellys candy before checkout."
+    },
+    {
+      "question": "How should I compare kellys candy prices?",
+      "answer": "Compare unit price, pack size, shipping cost, and bundle options together instead of looking at the headline price only."
+    },
+    {
+      "question": "Are there other candy & lollies options worth comparing?",
+      "answer": "Yes. Nearby collections or substitute products can be useful when kellys candy is out of stock or only available in limited pack sizes."
+    }
+  ],
+  "faq_questions": [
+    "Where can I buy kellys candy online in Australia?",
+    "How should I compare kellys candy prices?",
+    "Are there other candy & lollies options worth comparing?"
+  ],
+  "internal_links": [
+    {
+      "url": "https://sweetsworld.com.au/candy/",
+      "label": "Candy",
+      "anchor_text": "Shop Candy",
+      "link_kind": "category"
+    },
+    {
+      "url": "https://sweetsworld.com.au/chocolate/australian-chocolate/",
+      "label": "Australian Chocolate",
+      "anchor_text": "Browse Australian Chocolate",
+      "link_kind": "collection"
+    },
+    {
+      "url": "https://sweetsworld.com.au/chocolate/australian-chocolate/kellys-caramel-fudge/",
+      "label": "Kellys Caramel Fudge",
+      "anchor_text": "View Kellys Caramel Fudge",
+      "link_kind": "product"
+    }
+  ],
+  "selected_products": [
+    {
+      "product_name": "Kelly's Caramel Fudge 180g",
+      "category": "Candy",
+      "description": "Kelly’s Caramel Fudge is a luxurious treat from Sweetsworld, featuring a rich and creamy texture with authentic caramel flavor. Perfect for various occasions and as a gift, this fudge is made with quality ingredients...",
+      "price": "11.99",
+      "url": "https://sweetsworld.com.au/chocolate/australian-chocolate/kellys-caramel-fudge/",
+      "matched_tokens": [
+        "kelly",
+        "sweet"
+      ],
+      "matched_phrases": [],
+      "selection_reason": "direct_match"
+    },
+    {
+      "product_name": "Kelly's Choc Fudge 180g",
+      "category": "Candy",
+      "description": "Kelly’s Choc Fudge offers a rich, creamy chocolate experience perfect for desserts, gatherings, or gifts. Loved by chocolate enthusiasts, it’s a melt-in-your-mouth treat. Order now from Sweetsworld for fast...",
+      "price": "11.99",
+      "url": "https://sweetsworld.com.au/candy/kellys-choc-fudge-200g/",
+      "matched_tokens": [
+        "kelly",
+        "sweet"
+      ],
+      "matched_phrases": [],
+      "selection_reason": "direct_match"
+    },
+    {
+      "product_name": "Kelly's Milk Choc Rocky Road 175g",
+      "category": "Uncategorized",
+      "description": "Enter chocolate heaven with our sweet, chunky, delicious Milk Rocky Road. We make this by pouring made-in-house marshmallow onto our signature recipe jellies. Cut up the jellymallow slab into chunky pieces and mix...",
+      "price": "11.99",
+      "url": "https://sweetsworld.com.au/uncategorized/kellys-milk-choc-rocky-road-175g/",
+      "matched_tokens": [
+        "kelly",
+        "sweet"
+      ],
+      "matched_phrases": [],
+      "selection_reason": "direct_match"
+    },
+    {
+      "product_name": "Kelly's Rainbow Jellies 220g",
+      "category": "Uncategorized",
+      "description": "You'll love our scrumptious, sweet, soft Rainbow Jellies! Taste a rainbow of flavours with lemon, lime, orange, strawberry and pineapple (all natural flavourings of course!). We make these by boiling quality...",
+      "price": "11.99",
+      "url": "https://sweetsworld.com.au/uncategorized/kellys-rainbow-jellies-250g/",
+      "matched_tokens": [
+        "kelly",
+        "sweet"
+      ],
+      "matched_phrases": [],
+      "selection_reason": "direct_match"
+    }
+  ],
+  "related_keywords": [
+    "sweetsworld",
+    "sweets world",
+    "white knight chocolate",
+    "fantales lollies",
+    "fantails lolly",
+    "darrell lea kotara"
+  ],
+  "cta": {
+    "heading": "Move from kellys candy research into a purchase",
+    "body": "Compare the shortlist, then click through to the most relevant collection or product page to check live stock and delivery details."
+  }
+}

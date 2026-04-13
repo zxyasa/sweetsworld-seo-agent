@@ -1,0 +1,55 @@
+{
+  "slug": "fantales-lollies-buying-guide",
+  "title": "Fantales Lollies Buying Guide: Where to Buy, 1kg Options, and Best Alternatives",
+  "primary_keyword": "fantales lollies",
+  "category_hint": "Candy & Lollies",
+  "_source_line": "3",
+  "page_type": "guide_page",
+  "selected_products": [
+    {
+      "product_name": "Milk Chocolate Chewy Caramel 1.8kg ( Like Cobbers)",
+      "category": "Wholesale",
+      "description": "Milk Chocolate Chewy Caramel is a luxurious treat that combines creamy chocolate with soft, rich caramel, providing an indulgent experience with every piece. Available from Lolly’s online shop for delivery throughout...",
+      "price": "69.99",
+      "url": "https://sweetsworld.com.au/chocolate/australian-chocolate/milk-chocolate-chewy-caramel-18kg-like-cobbers/",
+      "matched_tokens": [
+        "substitute_hint"
+      ],
+      "matched_phrases": [
+        "milk chocolate chewy caramel",
+        "chewy caramel"
+      ],
+      "selection_reason": "fallback_large_pack"
+    },
+    {
+      "product_name": "Milk Chocolate Chewy Caramel 6kg",
+      "category": "Wholesale",
+      "description": "",
+      "price": "199.99",
+      "url": "https://sweetsworld.com.au/chocolate/australian-chocolate/milk-chocolate-chewy-caramel-6kg/",
+      "matched_tokens": [
+        "substitute_hint"
+      ],
+      "matched_phrases": [
+        "milk chocolate chewy caramel",
+        "chewy caramel"
+      ],
+      "selection_reason": "fallback_large_pack"
+    },
+    {
+      "product_name": "Milk Chocolate Chewy Caramel 150g",
+      "category": "Old Fashion Lollies",
+      "description": "Treat yourself to the smooth and creamy goodness of Milk Chocolate Chewy Caramel 150g , available now at Sweets World ! This delightful treat is a perfect mix of rich milk chocolate and soft, chewy caramel that melts...",
+      "price": "5.99",
+      "url": "https://sweetsworld.com.au/chocolate/australian-chocolate/milk-chocolate-chewy-caramel-150g/",
+      "matched_tokens": [
+        "substitute_hint"
+      ],
+      "matched_phrases": [
+        "milk chocolate chewy caramel",
+        "chewy caramel"
+      ],
+      "selection_reason": "fallback_large_pack"
+    }
+  ]
+}

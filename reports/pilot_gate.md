@@ -1,0 +1,404 @@
+# Pilot Gate
+
+- Generated at: `2026-04-13T00:01:42+00:00`
+- Decision: **`expand`**
+- Next action: Gate is clear. Publish next approved page: 'allergy-friendly-lollies-australia'. Command: .venv/bin/python src/run_mvp.py --slug allergy-friendly-lollies-australia --only-approved --publish-created 49 page(s) are content upgrade candidates (low CTR or stuck at positions 5-10) — consider regenerating content.
+- Dashboard source: `live`
+
+- Published pilot pages: `89`
+- Approved but unpublished pages: `120`
+- QA pass rate: `1.0`
+- GSC impressions: `5362` | clicks: `37` | avg CTR: `0.69%` | avg position: `10.09`
+- Pages with impressions: `79`
+- Pages stuck at positions 5-10: `29`
+- Content upgrade candidates: `49`
+- GA4 sessions: `0` | avg bounce: `0%` | avg duration: `0.0s`
+- GA4 pages with data: `0` | high bounce: `0` | low duration: `0`
+- Technical blockers: `0`
+- Dashboard issue pages: `13`
+- Non-blocking technical warnings: `13`
+
+## Checks
+
+- `published_batch_within_expected_range`: `True`
+- `manual_qa_complete`: `True`
+- `no_technical_blockers`: `True`
+- `no_orphaned_records`: `True`
+- `search_console_review_available`: `True`
+- `indexation_signal_present`: `True`
+- `query_intent_fit_present`: `True`
+- `ctr_meets_threshold`: `False`
+- `engagement_acceptable`: `True`
+- `approved_queue_available`: `True`
+- `no_duplicate_publishes`: `True`
+
+## Blocking Reasons
+
+- None
+
+## Technical Warnings
+
+- `h1_count_2`: `13` page(s)
+
+## GSC Performance Analysis
+
+- Average CTR: `0.69%` (threshold: `1.0%`; check active)
+- Average position: `10.09`
+
+### Pages Stuck at Positions 5-10 (content upgrade priority)
+
+- `no-artificial-colours-lollies` | pos `5.07` | CTR `3.57%` | impressions `28` | clicks `1`
+- `lolly-bag-ideas-kids` | pos `5.24` | CTR `0.0%` | impressions `33` | clicks `0`
+- `candy-australia-guide-2026` | pos `5.3` | CTR `0.0%` | impressions `10` | clicks `0`
+- `allens-red-frogs-australia` | pos `5.5` | CTR `0.0%` | impressions `12` | clicks `0`
+- `halal-candy-australia` | pos `5.58` | CTR `0.0%` | impressions `110` | clicks `0`
+- `most-popular-candy-australia` | pos `5.58` | CTR `0.96%` | impressions `732` | clicks `7`
+- `fathers-day-candy-australia` | pos `5.82` | CTR `0.0%` | impressions `11` | clicks `0`
+- `caramel-chocolate-australia` | pos `6.33` | CTR `0.0%` | impressions `6` | clicks `0`
+- `allens-snakes-alive-australia` | pos `6.44` | CTR `0.0%` | impressions `48` | clicks `0`
+- `engagement-party-lollies` | pos `6.75` | CTR `25.0%` | impressions `4` | clicks `1`
+- `american-soda-australia` | pos `7.12` | CTR `1.18%` | impressions `85` | clicks `1`
+- `korean-snacks-australia` | pos `7.17` | CTR `2.08%` | impressions `48` | clicks `1`
+- `sour-lollies-australia` | pos `7.5` | CTR `0.0%` | impressions `2` | clicks `0`
+- `sour-straps-australia` | pos `7.5` | CTR `0.0%` | impressions `2` | clicks `0`
+- `candy-advent-calendar-australia` | pos `7.56` | CTR `0.0%` | impressions `9` | clicks `0`
+- `mint-chocolate-australia` | pos `8.1` | CTR `0.0%` | impressions `10` | clicks `0`
+- `bulk-lollies-australia` | pos `8.46` | CTR `0.0%` | impressions `13` | clicks `0`
+- `valentines-day-candy-australia` | pos `8.67` | CTR `0.0%` | impressions `3` | clicks `0`
+- `ferrero-rocher-australia` | pos `8.73` | CTR `2.13%` | impressions `94` | clicks `2`
+- `best-lollies-for-party-bags` | pos `9.24` | CTR `0.74%` | impressions `135` | clicks `1`
+- `white-knight-chocolate-where-to-buy-australia` | pos `9.27` | CTR `0.8%` | impressions `125` | clicks `1`
+- `healthy-candy-alternatives-australia` | pos `9.33` | CTR `0.0%` | impressions `6` | clicks `0`
+- `fantales-lollies-buying-guide` | pos `9.64` | CTR `0.0%` | impressions `11` | clicks `0`
+- `vegan-lollies-australia` | pos `9.76` | CTR `0.0%` | impressions `408` | clicks `0`
+- `are-jolly-ranchers-halal` | pos `10.0` | CTR `0.0%` | impressions `1` | clicks `0`
+- `haribo-australia` | pos `10.0` | CTR `0.0%` | impressions `1` | clicks `0`
+- `gluten-free-lollies-australia` | pos `10.33` | CTR `0.0%` | impressions `175` | clicks `0`
+- `how-to-set-up-candy-bar` | pos `10.5` | CTR `0.0%` | impressions `22` | clicks `0`
+- `british-chocolate-australia` | pos `10.71` | CTR `0.67%` | impressions `150` | clicks `1`
+
+### Low CTR Pages (≥20 impressions, CTR below threshold)
+
+- `halloween-candy-australia` | CTR `0.0%` | pos `18.02` | impressions `83`
+- `easter-candy-australia` | CTR `0.0%` | pos `2.11` | impressions `27`
+- `dairy-free-chocolate-australia` | CTR `0.0%` | pos `30.09` | impressions `34`
+- `belgian-chocolate-australia` | CTR `0.0%` | pos `12.03` | impressions `40`
+- `skittles-australia` | CTR `0.0%` | pos `3.69` | impressions `35`
+- `jelly-belly-australia` | CTR `0.0%` | pos `47.58` | impressions `31`
+- `kit-kat-australia` | CTR `0.0%` | pos `27.69` | impressions `86`
+- `allens-lollies-australia` | CTR `0.0%` | pos `3.76` | impressions `50`
+- `pop-tarts-australia` | CTR `0.0%` | pos `3.52` | impressions `23`
+- `lollipops-australia` | CTR `0.0%` | pos `11.87` | impressions `30`
+- `chocolate-bars-australia` | CTR `0.0%` | pos `39.14` | impressions `66`
+- `buy-lollies-online-australia` | CTR `0.0%` | pos `48.79` | impressions `71`
+- `australian-candy-brands` | CTR `0.0%` | pos `25.37` | impressions `65`
+- `rocky-road-australia` | CTR `0.0%` | pos `16.18` | impressions `22`
+- `jelly-beans-australia` | CTR `0.0%` | pos `38.58` | impressions `36`
+- `no-gelatine-candy-australia` | CTR `0.0%` | pos `14.91` | impressions `34`
+- `mothers-day-chocolate-australia` | CTR `0.0%` | pos `11.65` | impressions `74`
+- `european-chocolate-australia` | CTR `0.0%` | pos `16.31` | impressions `42`
+- `sugar-free-lollies-australia` | CTR `0.0%` | pos `11.3` | impressions `142`
+- `are-nerds-vegan` | CTR `0.56%` | pos `3.68` | impressions `1435`
+
+### All Content Upgrade Candidates
+
+- `allens-lollies-australia`
+- `allens-red-frogs-australia`
+- `allens-snakes-alive-australia`
+- `american-soda-australia`
+- `are-jolly-ranchers-halal`
+- `are-nerds-vegan`
+- `australian-candy-brands`
+- `belgian-chocolate-australia`
+- `best-lollies-for-party-bags`
+- `british-chocolate-australia`
+- `bulk-lollies-australia`
+- `buy-lollies-online-australia`
+- `candy-advent-calendar-australia`
+- `candy-australia-guide-2026`
+- `caramel-chocolate-australia`
+- `chocolate-bars-australia`
+- `dairy-free-chocolate-australia`
+- `easter-candy-australia`
+- `engagement-party-lollies`
+- `european-chocolate-australia`
+- `fantales-lollies-buying-guide`
+- `fathers-day-candy-australia`
+- `ferrero-rocher-australia`
+- `gluten-free-lollies-australia`
+- `halal-candy-australia`
+- `halloween-candy-australia`
+- `haribo-australia`
+- `healthy-candy-alternatives-australia`
+- `how-to-set-up-candy-bar`
+- `jelly-beans-australia`
+- `jelly-belly-australia`
+- `kit-kat-australia`
+- `korean-snacks-australia`
+- `lollipops-australia`
+- `lolly-bag-ideas-kids`
+- `mint-chocolate-australia`
+- `most-popular-candy-australia`
+- `mothers-day-chocolate-australia`
+- `no-artificial-colours-lollies`
+- `no-gelatine-candy-australia`
+- `pop-tarts-australia`
+- `rocky-road-australia`
+- `skittles-australia`
+- `sour-lollies-australia`
+- `sour-straps-australia`
+- `sugar-free-lollies-australia`
+- `valentines-day-candy-australia`
+- `vegan-lollies-australia`
+- `white-knight-chocolate-where-to-buy-australia`
+
+## GA4 Behavior Analysis
+
+- No GA4 data available. Set `GA4_PROPERTY_ID` and `GA4_CREDENTIALS_FILE` in `.env` to enable.
+
+## Missing Backlinks
+
+- None — all published pages link to each other
+
+## Approved Queue
+
+- `allergy-friendly-lollies-australia` | `guide_page` | approved at `None`
+  - note: H1 count must be 1, found 0 [reset from quality_blocked 2026-03-24]
+- `dutch-candy-australia` | `category_page` | approved at `None`
+  - note: H1 count must be 1, found 0 [reset from quality_blocked 2026-03-24]
+- `german-candy-australia` | `category_page` | approved at `None`
+  - note: H1 count must be 1, found 0 [reset from quality_blocked 2026-03-24]
+- `turkish-candy-australia` | `category_page` | approved at `None`
+  - note: H1 count must be 1, found 0 [reset from quality_blocked 2026-03-24]
+- `mexican-candy-australia` | `category_page` | approved at `None`
+  - note: H1 count must be 1, found 0 [reset from quality_blocked 2026-03-24]
+- `jolly-rancher-australia` | `landing_page` | approved at `None`
+  - note: word count too low: 442 words (minimum 600 for landing_page); H1 count must be 1, found 0 [reset from quality_blocked 2026-03-24]
+- `twizzlers-australia` | `landing_page` | approved at `None`
+  - note: word count too low: 458 words (minimum 600 for landing_page); H1 count must be 1, found 0 [reset from quality_blocked 2026-03-24]
+- `nerds-candy-australia` | `landing_page` | approved at `None`
+  - note: word count too low: 480 words (minimum 600 for landing_page); H1 count must be 1, found 0 [reset from quality_blocked 2026-03-24]
+- `hersheys-australia` | `landing_page` | approved at `None`
+  - note: word count too low: 416 words (minimum 600 for landing_page); H1 count must be 1, found 0 [reset from quality_blocked 2026-03-24]
+- `trolli-australia` | `landing_page` | approved at `None`
+  - note: word count too low: 474 words (minimum 600 for landing_page); H1 count must be 1, found 0 [reset from quality_blocked 2026-03-24]
+- `darrell-lea-gift-ideas` | `landing_page` | approved at `None`
+  - note: word count too low: 473 words (minimum 600 for landing_page); H1 count must be 1, found 0 [reset from quality_blocked 2026-03-24]
+- `warheads-australia` | `landing_page` | approved at `None`
+  - note: word count too low: 554 words (minimum 600 for landing_page); H1 count must be 1, found 0 [reset from quality_blocked 2026-03-24]
+- `corporate-candy-gifts-australia` | `landing_page` | approved at `None`
+  - note: word count too low: 552 words (minimum 600 for landing_page); H1 count must be 1, found 0 [reset from quality_blocked 2026-03-24]
+- `personalised-candy-gifts-australia` | `landing_page` | approved at `None`
+  - note: word count too low: 530 words (minimum 600 for landing_page); H1 count must be 1, found 0 [reset from quality_blocked 2026-03-24]
+- `candy-gift-ideas-for-him` | `occasion_page` | approved at `None`
+  - note: H1 count must be 1, found 0 [reset from quality_blocked 2026-03-24]
+- `candy-gift-ideas-for-her` | `occasion_page` | approved at `None`
+  - note: H1 count must be 1, found 0 [reset from quality_blocked 2026-03-24]
+- `twirl-chocolate-australia` | `landing_page` | approved at `None`
+  - note: word count too low: 481 words (minimum 600 for landing_page); H1 count must be 1, found 0 [reset from quality_blocked 2026-03-24]
+- `maltesers-australia` | `landing_page` | approved at `None`
+  - note: word count too low: 533 words (minimum 600 for landing_page); H1 count must be 1, found 0 [reset from quality_blocked 2026-03-24]
+- `after-eight-australia` | `landing_page` | approved at `None`
+  - note: word count too low: 396 words (minimum 600 for landing_page); H1 count must be 1, found 0 [reset from quality_blocked 2026-03-24]
+- `twirl-australia` | `landing_page` | approved at `None`
+  - note: word count too low: 488 words (minimum 600 for landing_page); H1 count must be 1, found 0 [reset from quality_blocked 2026-03-24]
+- `airheads-australia` | `landing_page` | approved at `None`
+  - note: word count too low: 481 words (minimum 600 for landing_page); H1 count must be 1, found 0 [reset from quality_blocked 2026-03-24]
+- `starburst-australia` | `landing_page` | approved at `None`
+  - note: word count too low: 491 words (minimum 600 for landing_page); H1 count must be 1, found 0 [reset from quality_blocked 2026-03-24]
+- `swedish-fish-australia` | `landing_page` | approved at `None`
+  - note: word count too low: 532 words (minimum 600 for landing_page); H1 count must be 1, found 0 [reset from quality_blocked 2026-03-24]
+- `anthon-berg-australia` | `landing_page` | approved at `None`
+  - note: word count too low: 395 words (minimum 600 for landing_page); H1 count must be 1, found 0 [reset from quality_blocked 2026-03-24]
+- `lotus-biscoff-australia` | `landing_page` | approved at `None`
+  - note: word count too low: 483 words (minimum 600 for landing_page); H1 count must be 1, found 0 [reset from quality_blocked 2026-03-24]
+- `hostess-twinkies-australia` | `landing_page` | approved at `None`
+  - note: word count too low: 469 words (minimum 600 for landing_page); H1 count must be 1, found 0 [reset from quality_blocked 2026-03-24]
+- `freckleberry-australia` | `landing_page` | approved at `None`
+  - note: word count too low: 471 words (minimum 600 for landing_page); H1 count must be 1, found 0 [reset from quality_blocked 2026-03-24]
+- `lolliland-australia` | `landing_page` | approved at `None`
+  - note: word count too low: 499 words (minimum 600 for landing_page); H1 count must be 1, found 0 [reset from quality_blocked 2026-03-24]
+- `faygo-australia` | `landing_page` | approved at `None`
+  - note: word count too low: 388 words (minimum 600 for landing_page); H1 count must be 1, found 0 [reset from quality_blocked 2026-03-24]
+- `wonka-australia` | `landing_page` | approved at `None`
+  - note: word count too low: 461 words (minimum 600 for landing_page); H1 count must be 1, found 0 [reset from quality_blocked 2026-03-24]
+- `charlotte-piper-australia` | `landing_page` | approved at `None`
+  - note: word count too low: 443 words (minimum 600 for landing_page); H1 count must be 1, found 0 [reset from quality_blocked 2026-03-24]
+- `jack-daniels-bbq-australia` | `landing_page` | approved at `None`
+  - note: word count too low: 415 words (minimum 600 for landing_page); H1 count must be 1, found 0 [reset from quality_blocked 2026-03-24]
+- `mtn-dew-australia` | `landing_page` | approved at `None`
+  - note: word count too low: 484 words (minimum 600 for landing_page); H1 count must be 1, found 0 [reset from quality_blocked 2026-03-24]
+- `milka-chocolate-australia` | `landing_page` | approved at `None`
+  - note: word count too low: 399 words (minimum 600 for landing_page); H1 count must be 1, found 0 [reset from quality_blocked 2026-03-24]
+- `zappo-lollies-australia` | `landing_page` | approved at `None`
+  - note: word count too low: 518 words (minimum 600 for landing_page); H1 count must be 1, found 0 [reset from quality_blocked 2026-03-24]
+- `butlers-chocolate-ireland` | `landing_page` | approved at `None`
+  - note: word count too low: 434 words (minimum 600 for landing_page); H1 count must be 1, found 0 [reset from quality_blocked 2026-03-24]
+- `wicked-fizz-australia` | `landing_page` | approved at `None`
+  - note: word count too low: 399 words (minimum 600 for landing_page); H1 count must be 1, found 0 [reset from quality_blocked 2026-03-24]
+- `kool-aid-australia` | `landing_page` | approved at `None`
+  - note: word count too low: 481 words (minimum 600 for landing_page); H1 count must be 1, found 0 [reset from quality_blocked 2026-03-24]
+- `jaffas-lollies-australia` | `landing_page` | approved at `None`
+  - note: word count too low: 542 words (minimum 600 for landing_page); H1 count must be 1, found 0 [reset from quality_blocked 2026-03-24]
+- `minties-australia` | `landing_page` | approved at `None`
+  - note: word count too low: 517 words (minimum 600 for landing_page); H1 count must be 1, found 0 [reset from quality_blocked 2026-03-24]
+- `musk-sticks-australia` | `landing_page` | approved at `None`
+  - note: word count too low: 481 words (minimum 600 for landing_page); H1 count must be 1, found 0 [reset from quality_blocked 2026-03-24]
+- `clinkers-lollies-australia` | `landing_page` | approved at `None`
+  - note: word count too low: 544 words (minimum 600 for landing_page); H1 count must be 1, found 0 [reset from quality_blocked 2026-03-24]
+- `pineapple-chunks-australia` | `landing_page` | approved at `None`
+  - note: word count too low: 426 words (minimum 600 for landing_page); H1 count must be 1, found 0 [reset from quality_blocked 2026-03-24]
+- `licorice-allsorts-australia` | `landing_page` | approved at `None`
+  - note: word count too low: 446 words (minimum 600 for landing_page); H1 count must be 1, found 0 [reset from quality_blocked 2026-03-24]
+- `werthers-original-australia` | `landing_page` | approved at `None`
+  - note: word count too low: 507 words (minimum 600 for landing_page); H1 count must be 1, found 0 [reset from quality_blocked 2026-03-24]
+- `mentos-australia` | `landing_page` | approved at `None`
+  - note: word count too low: 494 words (minimum 600 for landing_page); H1 count must be 1, found 0 [reset from quality_blocked 2026-03-24]
+- `jawbreakers-australia` | `landing_page` | approved at `None`
+  - note: word count too low: 517 words (minimum 600 for landing_page); H1 count must be 1, found 0 [reset from quality_blocked 2026-03-24]
+- `candy-canes-australia` | `landing_page` | approved at `None`
+  - note: word count too low: 398 words (minimum 600 for landing_page); H1 count must be 1, found 0 [reset from quality_blocked 2026-03-24]
+- `redskins-lollies-australia` | `landing_page` | approved at `None`
+  - note: word count too low: 454 words (minimum 600 for landing_page); H1 count must be 1, found 0 [reset from quality_blocked 2026-03-24]
+- `retro-lolly-bags-australia` | `occasion_page` | approved at `None`
+  - note: word count too low: 559 words (minimum 600 for occasion_page); H1 count must be 1, found 0 [reset from quality_blocked 2026-03-24]
+- `strawberry-candy-australia` | `category_page` | approved at `None`
+  - note: H1 count must be 1, found 0 [reset from quality_blocked 2026-03-24]
+- `watermelon-candy-australia` | `category_page` | approved at `None`
+  - note: H1 count must be 1, found 0 [reset from quality_blocked 2026-03-24]
+- `cola-candy-australia` | `category_page` | approved at `None`
+  - note: H1 count must be 1, found 0 [reset from quality_blocked 2026-03-24]
+- `raspberry-candy-australia` | `category_page` | approved at `None`
+  - note: H1 count must be 1, found 0 [reset from quality_blocked 2026-03-24]
+- `mango-candy-australia` | `category_page` | approved at `None`
+  - note: H1 count must be 1, found 0 [reset from quality_blocked 2026-03-24]
+- `lemon-candy-australia` | `category_page` | approved at `None`
+  - note: H1 count must be 1, found 0 [reset from quality_blocked 2026-03-24]
+- `bubblegum-candy-australia` | `category_page` | approved at `None`
+  - note: H1 count must be 1, found 0 [reset from quality_blocked 2026-03-24]
+- `coconut-chocolate-australia` | `category_page` | approved at `None`
+  - note: H1 count must be 1, found 0 [reset from quality_blocked 2026-03-24]
+- `marshmallows-australia` | `landing_page` | approved at `None`
+  - note: word count too low: 411 words (minimum 600 for landing_page); H1 count must be 1, found 0 [reset from quality_blocked 2026-03-24]
+- `chewing-gum-australia` | `category_page` | approved at `None`
+  - note: H1 count must be 1, found 0 [reset from quality_blocked 2026-03-24]
+- `hard-candy-australia` | `category_page` | approved at `None`
+  - note: H1 count must be 1, found 0 [reset from quality_blocked 2026-03-24]
+- `candy-mystery-box-australia` | `landing_page` | approved at `None`
+  - note: word count too low: 465 words (minimum 600 for landing_page); H1 count must be 1, found 0 [reset from quality_blocked 2026-03-24]
+- `school-canteen-lollies-australia` | `guide_page` | approved at `None`
+  - note: H1 count must be 1, found 0 [reset from quality_blocked 2026-03-24]
+- `tuck-shop-lollies-australia` | `landing_page` | approved at `None`
+  - note: word count too low: 511 words (minimum 600 for landing_page); H1 count must be 1, found 0 [reset from quality_blocked 2026-03-24]
+- `hot-candy-australia` | `category_page` | approved at `None`
+  - note: H1 count must be 1, found 0 [reset from quality_blocked 2026-03-24]
+- `spicy-chocolate-australia` | `landing_page` | approved at `None`
+  - note: word count too low: 473 words (minimum 600 for landing_page); H1 count must be 1, found 0 [reset from quality_blocked 2026-03-24]
+- `craft-soda-australia` | `landing_page` | approved at `None`
+  - note: word count too low: 397 words (minimum 600 for landing_page); H1 count must be 1, found 0 [reset from quality_blocked 2026-03-24]
+- `lolly-advent-calendar-australia` | `landing_page` | approved at `None`
+  - note: word count too low: 465 words (minimum 600 for landing_page); H1 count must be 1, found 0 [reset from quality_blocked 2026-03-24]
+- `fairy-floss-australia` | `landing_page` | approved at `None`
+  - note: word count too low: 539 words (minimum 600 for landing_page); H1 count must be 1, found 0 [reset from quality_blocked 2026-03-24]
+- `fudge-australia` | `category_page` | approved at `None`
+  - note: H1 count must be 1, found 0 [reset from quality_blocked 2026-03-24]
+- `nougat-australia` | `landing_page` | approved at `None`
+  - note: word count too low: 431 words (minimum 600 for landing_page); H1 count must be 1, found 0 [reset from quality_blocked 2026-03-24]
+- `toffee-australia` | `landing_page` | approved at `None`
+  - note: word count too low: 553 words (minimum 600 for landing_page); H1 count must be 1, found 0 [reset from quality_blocked 2026-03-24]
+- `chocolate-truffles-australia` | `landing_page` | approved at `None`
+  - note: word count too low: 493 words (minimum 600 for landing_page); H1 count must be 1, found 0 [reset from quality_blocked 2026-03-24]
+- `caramel-popcorn-australia` | `landing_page` | approved at `None`
+  - note: word count too low: 517 words (minimum 600 for landing_page); H1 count must be 1, found 0 [reset from quality_blocked 2026-03-24]
+- `chocolate-coated-nuts-australia` | `landing_page` | approved at `None`
+  - note: word count too low: 435 words (minimum 600 for landing_page); H1 count must be 1, found 0 [reset from quality_blocked 2026-03-24]
+- `candy-for-teenagers-australia` | `occasion_page` | approved at `None`
+  - note: word count too low: 574 words (minimum 600 for occasion_page); H1 count must be 1, found 0 [reset from quality_blocked 2026-03-24]
+- `candy-for-adults-australia` | `occasion_page` | approved at `None`
+  - note: word count too low: 558 words (minimum 600 for occasion_page); H1 count must be 1, found 0 [reset from quality_blocked 2026-03-24]
+- `90s-candy-australia` | `category_page` | approved at `None`
+  - note: H1 count must be 1, found 0 [reset from quality_blocked 2026-03-24]
+- `teacher-gifts-candy-australia` | `occasion_page` | approved at `None`
+  - note: word count too low: 594 words (minimum 600 for occasion_page); H1 count must be 1, found 0 [reset from quality_blocked 2026-03-24]
+- `new-years-eve-candy-australia` | `occasion_page` | approved at `None`
+  - note: H1 count must be 1, found 0 [reset from quality_blocked 2026-03-24]
+- `candy-catering-australia` | `landing_page` | approved at `None`
+  - note: word count too low: 448 words (minimum 600 for landing_page); H1 count must be 1, found 0 [reset from quality_blocked 2026-03-24]
+- `keto-candy-australia` | `landing_page` | approved at `None`
+  - note: word count too low: 511 words (minimum 600 for landing_page); H1 count must be 1, found 0 [reset from quality_blocked 2026-03-24]
+- `diabetic-candy-australia` | `landing_page` | approved at `None`
+  - note: word count too low: 489 words (minimum 600 for landing_page); H1 count must be 1, found 0 [reset from quality_blocked 2026-03-24]
+- `best-australian-candy-to-send-overseas` | `guide_page` | approved at `None`
+  - note: word count too low: 553 words (minimum 600 for guide_page); H1 count must be 1, found 0 [reset from quality_blocked 2026-03-24]
+- `candy-bouquet-ideas-australia` | `guide_page` | approved at `None`
+  - note: H1 count must be 1, found 0 [reset from quality_blocked 2026-03-24]
+- `pink-lady-chocolates-australia` | `landing_page` | approved at `None`
+  - note: word count too low: 407 words (minimum 600 for landing_page); H1 count must be 1, found 0 [reset from quality_blocked 2026-03-24]
+- `italian-candy-australia` | `category_page` | approved at `None`
+  - note: H1 count must be 1, found 0 [reset from quality_blocked 2026-03-24]
+- `swedish-candy-australia` | `category_page` | approved at `None`
+  - note: H1 count must be 1, found 0 [reset from quality_blocked 2026-03-24]
+- `canadian-candy-australia` | `category_page` | approved at `None`
+  - note: H1 count must be 1, found 0 [reset from quality_blocked 2026-03-24]
+- `pop-rocks-australia` | `landing_page` | approved at `None`
+  - note: word count too low: 539 words (minimum 600 for landing_page); H1 count must be 1, found 0 [reset from quality_blocked 2026-03-24]
+- `pez-australia` | `landing_page` | approved at `None`
+  - note: word count too low: 454 words (minimum 600 for landing_page); H1 count must be 1, found 0 [reset from quality_blocked 2026-03-24]
+- `twix-buy-australia` | `landing_page` | approved at `None`
+  - note: word count too low: 391 words (minimum 600 for landing_page); H1 count must be 1, found 0 [reset from quality_blocked 2026-03-24]
+- `get-well-soon-candy-australia` | `occasion_page` | approved at `None`
+  - note: H1 count must be 1, found 0 [reset from quality_blocked 2026-03-24]
+- `thank-you-candy-gifts-australia` | `occasion_page` | approved at `None`
+  - note: word count too low: 598 words (minimum 600 for occasion_page); H1 count must be 1, found 0 [reset from quality_blocked 2026-03-24]
+- `bounty-bar-australia` | `landing_page` | approved at `None`
+  - note: word count too low: 472 words (minimum 600 for landing_page); H1 count must be 1, found 0 [reset from quality_blocked 2026-03-24]
+- `mike-and-ike-australia` | `landing_page` | approved at `None`
+  - note: word count too low: 446 words (minimum 600 for landing_page); H1 count must be 1, found 0 [reset from quality_blocked 2026-03-24]
+- `laffy-taffy-australia` | `landing_page` | approved at `None`
+  - note: word count too low: 455 words (minimum 600 for landing_page); H1 count must be 1, found 0 [reset from quality_blocked 2026-03-24]
+- `black-forest-gummies-australia` | `landing_page` | approved at `None`
+  - note: word count too low: 558 words (minimum 600 for landing_page); H1 count must be 1, found 0 [reset from quality_blocked 2026-03-24]
+- `dots-candy-australia` | `landing_page` | approved at `None`
+  - note: word count too low: 440 words (minimum 600 for landing_page); H1 count must be 1, found 0 [reset from quality_blocked 2026-03-24]
+- `starbursts-gummies-australia` | `landing_page` | approved at `None`
+  - note: word count too low: 435 words (minimum 600 for landing_page); H1 count must be 1, found 0 [reset from quality_blocked 2026-03-24]
+- `peeps-australia` | `landing_page` | approved at `None`
+  - note: word count too low: 408 words (minimum 600 for landing_page); H1 count must be 1, found 0 [reset from quality_blocked 2026-03-24]
+- `kellys-candy-australia` | `landing_page` | approved at `None`
+  - note: word count too low: 568 words (minimum 600 for landing_page); H1 count must be 1, found 0 [reset from quality_blocked 2026-03-24]
+- `fini-sweets-australia` | `landing_page` | approved at `None`
+  - note: word count too low: 503 words (minimum 600 for landing_page); H1 count must be 1, found 0 [reset from quality_blocked 2026-03-24]
+- `blairs-hot-sauce-australia` | `landing_page` | approved at `None`
+  - note: word count too low: 543 words (minimum 600 for landing_page); H1 count must be 1, found 0 [reset from quality_blocked 2026-03-24]
+- `lacroix-sparkling-water-australia` | `landing_page` | approved at `None`
+  - note: word count too low: 388 words (minimum 600 for landing_page); H1 count must be 1, found 0 [reset from quality_blocked 2026-03-24]
+- `humbugs-candy-australia` | `landing_page` | approved at `None`
+  - note: word count too low: 522 words (minimum 600 for landing_page); H1 count must be 1, found 0 [reset from quality_blocked 2026-03-24]
+- `spearmint-leaves-australia` | `landing_page` | approved at `None`
+  - note: word count too low: 451 words (minimum 600 for landing_page); H1 count must be 1, found 0 [reset from quality_blocked 2026-03-24]
+- `boiled-sweets-australia` | `category_page` | approved at `None`
+  - note: H1 count must be 1, found 0 [reset from quality_blocked 2026-03-24]
+- `grape-candy-australia` | `category_page` | approved at `None`
+  - note: H1 count must be 1, found 0 [reset from quality_blocked 2026-03-24]
+- `cherry-candy-australia` | `category_page` | approved at `None`
+  - note: H1 count must be 1, found 0 [reset from quality_blocked 2026-03-24]
+- `peach-candy-australia` | `category_page` | approved at `None`
+  - note: H1 count must be 1, found 0 [reset from quality_blocked 2026-03-24]
+- `orange-candy-australia` | `category_page` | approved at `None`
+  - note: H1 count must be 1, found 0 [reset from quality_blocked 2026-03-24]
+- `cinnamon-candy-australia` | `category_page` | approved at `None`
+  - note: H1 count must be 1, found 0 [reset from quality_blocked 2026-03-24]
+- `butterscotch-candy-australia` | `category_page` | approved at `None`
+  - note: H1 count must be 1, found 0 [reset from quality_blocked 2026-03-24]
+- `blueberry-candy-australia` | `category_page` | approved at `None`
+  - note: H1 count must be 1, found 0 [reset from quality_blocked 2026-03-24]
+- `passionfruit-candy-australia` | `category_page` | approved at `None`
+  - note: H1 count must be 1, found 0 [reset from quality_blocked 2026-03-24]
+- `candy-necklace-australia` | `landing_page` | approved at `None`
+  - note: word count too low: 515 words (minimum 600 for landing_page); H1 count must be 1, found 0 [reset from quality_blocked 2026-03-24]
+- `candy-for-office-australia` | `occasion_page` | approved at `None`
+  - note: H1 count must be 1, found 0 [reset from quality_blocked 2026-03-24]
+- `graduation-candy-australia` | `occasion_page` | approved at `None`
+  - note: word count too low: 587 words (minimum 600 for occasion_page); H1 count must be 1, found 0 [reset from quality_blocked 2026-03-24]
+- `farewell-party-lollies-australia` | `occasion_page` | approved at `None`
+  - note: word count too low: 547 words (minimum 600 for occasion_page); H1 count must be 1, found 0 [reset from quality_blocked 2026-03-24]

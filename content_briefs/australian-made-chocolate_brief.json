@@ -1,0 +1,126 @@
+{
+  "brief_id": "australian-made-chocolate-brief-v1",
+  "slug": "australian-made-chocolate",
+  "keyword": "australian made chocolate",
+  "search_intent": "Commercial category intent",
+  "page_type": "category_page",
+  "title": "Australian Made Chocolate: Best Locally Made Chocolate Brands",
+  "meta_description": "Australian Made Chocolate: Best Locally Made Chocolate Brands. Compare stock options, buying factors, and the best next steps for australian made...",
+  "intro": "This page explains the australian made chocolate range, the main product formats to compare, and the next collection or product pages worth opening before you buy.",
+  "outline": [
+    "What defines the australian made chocolate range",
+    "How to shop Australian Chocolate more confidently"
+  ],
+  "sections": [
+    {
+      "heading": "What defines the australian made chocolate range",
+      "paragraphs": [
+        "A category page for australian made chocolate should explain flavour profile, product format, and the most recognisable options in the range.",
+        "That helps search engines and shoppers understand the scope of the page before they move deeper into the catalogue."
+      ],
+      "bullets": [
+        "LAROSHELL BRANDY CHERRY CHOCOLATE 150g",
+        "MADAME POMPADOUR BRANDY CHERRY CHOC 150g"
+      ]
+    },
+    {
+      "heading": "How to shop Australian Chocolate more confidently",
+      "paragraphs": [
+        "Category pages should guide users through format, suitability, and value instead of listing products without context.",
+        "This is the section that turns a collection page into a useful SEO landing surface."
+      ],
+      "bullets": [
+        "Show best sellers before long-tail variants.",
+        "Explain when bundles make more sense than single items.",
+        "Link into adjacent collections and product pages."
+      ]
+    }
+  ],
+  "faq_items": [
+    {
+      "question": "What should I look for when choosing australian made chocolate?",
+      "answer": "Focus on suitability for the use case, flavour profile, pack size, and delivery timing rather than assuming every popular candy is the right fit."
+    },
+    {
+      "question": "What is the best next step after reading this page?",
+      "answer": "Use the linked category or product pages to compare live stock, range depth, and practical buying options."
+    },
+    {
+      "question": "Can this page help me compare australian chocolate options?",
+      "answer": "Yes. It should clarify which products or collections are the best fit instead of leaving the reader with generic advice."
+    }
+  ],
+  "faq_questions": [
+    "What should I look for when choosing australian made chocolate?",
+    "What is the best next step after reading this page?",
+    "Can this page help me compare australian chocolate options?"
+  ],
+  "internal_links": [
+    {
+      "url": "https://sweetsworld.com.au/candy-guides/best-candy-australia-2026/",
+      "label": "Best Candy Australia 2026",
+      "anchor_text": "Explore Best Candy Australia 2026",
+      "link_kind": "collection"
+    },
+    {
+      "url": "https://sweetsworld.com.au/chocolate/",
+      "label": "Chocolate",
+      "anchor_text": "See Chocolate",
+      "link_kind": "category"
+    },
+    {
+      "url": "https://sweetsworld.com.au/shop/candy/allensfantales1kg/",
+      "label": "Allensfantales1kg",
+      "anchor_text": "View Allensfantales1kg",
+      "link_kind": "product"
+    }
+  ],
+  "selected_products": [
+    {
+      "product_name": "LAROSHELL BRANDY CHERRY CHOCOLATE 150g",
+      "category": "British Lollies",
+      "description": "Laroshell Brandy Cherry Chocolate offers a luxurious blend of brandy-soaked cherries and smooth chocolate. Each 150g pack is an invitation to indulge in a gourmet experience that tantalizes the senses, perfect for...",
+      "price": "19.99",
+      "url": "https://sweetsworld.com.au/british-lollies/laroshell-brandy-cherry-choc-150g/",
+      "matched_tokens": [
+        "chocolate",
+        "brand"
+      ],
+      "matched_phrases": [],
+      "selection_reason": "direct_match"
+    },
+    {
+      "product_name": "MADAME POMPADOUR BRANDY CHERRY CHOC 150g",
+      "category": "German Chocolates",
+      "description": "Madame Pompadour Brandy Cherry Chocolate is a luxurious combination of brandy-soaked cherries and smooth chocolate, offering a unique taste experience. Each 150g pack is a celebration of flavor and elegance, perfect...",
+      "price": "19.99",
+      "url": "https://sweetsworld.com.au/german-chocolates/madame-poppador-brandy-cherry-choc-150g/",
+      "matched_tokens": [
+        "chocolate",
+        "brand"
+      ],
+      "matched_phrases": [],
+      "selection_reason": "direct_match"
+    }
+  ],
+  "related_keywords": [
+    "sweetsworld",
+    "sweets world",
+    "white knight chocolate",
+    "fantales lollies",
+    "clinkers chocolate",
+    "fantails lolly"
+  ],
+  "cta": {
+    "heading": "Use this page as a shortlist for australian made chocolate",
+    "body": "Review the key options, then move into the linked collection or product pages when you are ready to compare live stock and pricing.",
+    "button_text": "Browse Collection"
+  },
+  "distribution_channels": [
+    "pinterest",
+    "facebook"
+  ],
+  "schema_types": [
+    "BreadcrumbList"
+  ]
+}

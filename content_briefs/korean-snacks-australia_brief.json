@@ -1,0 +1,150 @@
+{
+  "brief_id": "korean-snacks-australia-brief-v1",
+  "slug": "korean-snacks-australia",
+  "keyword": "korean snacks australia",
+  "search_intent": "Commercial category intent",
+  "page_type": "category_page",
+  "title": "Korean Snacks Australia: Buy K-Snacks and Pepero Online",
+  "meta_description": "Korean Snacks Australia: Buy K-Snacks and Pepero Online. Compare stock options, buying factors, and the best next steps for korean snacks in Australia.",
+  "intro": "This page explains the korean snacks range, the main product formats to compare, and the next collection or product pages worth opening before you buy.",
+  "outline": [
+    "What defines the korean snacks range",
+    "How to shop Korean Snacks more confidently"
+  ],
+  "sections": [
+    {
+      "heading": "What defines the korean snacks range",
+      "paragraphs": [
+        "A category page for korean snacks should explain flavour profile, product format, and the most recognisable options in the range.",
+        "That helps search engines and shoppers understand the scope of the page before they move deeper into the catalogue."
+      ],
+      "bullets": [
+        "HERSHEY'S SNACK MIX 56G",
+        "Rap Snack Jerk BBQ",
+        "Rap Snack Sour Cream Ranch 71g",
+        "Reese's Popped Snack Mix 113g"
+      ]
+    },
+    {
+      "heading": "How to shop Korean Snacks more confidently",
+      "paragraphs": [
+        "Category pages should guide users through format, suitability, and value instead of listing products without context.",
+        "This is the section that turns a collection page into a useful SEO landing surface."
+      ],
+      "bullets": [
+        "Show best sellers before long-tail variants.",
+        "Explain when bundles make more sense than single items.",
+        "Link into adjacent collections and product pages."
+      ]
+    }
+  ],
+  "faq_items": [
+    {
+      "question": "What should I look for when choosing korean snacks?",
+      "answer": "Focus on suitability for the use case, flavour profile, pack size, and delivery timing rather than assuming every popular candy is the right fit."
+    },
+    {
+      "question": "What is the best next step after reading this page?",
+      "answer": "Use the linked category or product pages to compare live stock, range depth, and practical buying options."
+    },
+    {
+      "question": "Can this page help me compare korean snacks options?",
+      "answer": "Yes. It should clarify which products or collections are the best fit instead of leaving the reader with generic advice."
+    }
+  ],
+  "faq_questions": [
+    "What should I look for when choosing korean snacks?",
+    "What is the best next step after reading this page?",
+    "Can this page help me compare korean snacks options?"
+  ],
+  "internal_links": [
+    {
+      "url": "https://sweetsworld.com.au/products/uk-sweets-australia/",
+      "label": "Uk Sweets Australia",
+      "anchor_text": "Explore Uk Sweets Australia",
+      "link_kind": "collection"
+    },
+    {
+      "url": "https://sweetsworld.com.au/where-to-buy/belgian-chocolate-australia/",
+      "label": "Belgian Chocolate Australia",
+      "anchor_text": "Browse Belgian Chocolate Australia",
+      "link_kind": "commercial"
+    },
+    {
+      "url": "https://sweetsworld.com.au/grocery/",
+      "label": "Grocery",
+      "anchor_text": "Explore Grocery",
+      "link_kind": "category"
+    }
+  ],
+  "selected_products": [
+    {
+      "product_name": "HERSHEY'S SNACK MIX 56G",
+      "category": "Grocery",
+      "description": "HERSHEY'S SNACK MIX 56G Product Description: Looking for the perfect mix of sweet and salty? HERSHEY'S Snack Mix has you covered! This tasty combo brings together your favourite Hershey’s chocolate pieces, crunchy...",
+      "price": "5.99",
+      "url": "https://sweetsworld.com.au/grocery/hersheys-snack-mix-56g/",
+      "matched_tokens": [
+        "snack"
+      ],
+      "matched_phrases": [],
+      "selection_reason": "direct_match"
+    },
+    {
+      "product_name": "Rap Snack Jerk BBQ",
+      "category": "Chips",
+      "description": "Rap Snack Jerk BBQ Product Description: Spice up your snack game with these Cardi B Jerk BBQ flavour chips from Rap Snacks! Each ripple in these wavy chips offers a light crunch with a whole lot of flavour. Zesty...",
+      "price": "4.99",
+      "url": "https://sweetsworld.com.au/grocery/chips/rap-snack-jerk-bbq/",
+      "matched_tokens": [
+        "snack"
+      ],
+      "matched_phrases": [],
+      "selection_reason": "direct_match"
+    },
+    {
+      "product_name": "Rap Snack Sour Cream Ranch 71g",
+      "category": "Uncategorized",
+      "description": "",
+      "price": "7.99",
+      "url": "https://sweetsworld.com.au/uncategorized/rap-snack-sour-cream-ranch/",
+      "matched_tokens": [
+        "snack"
+      ],
+      "matched_phrases": [],
+      "selection_reason": "direct_match"
+    },
+    {
+      "product_name": "Reese's Popped Snack Mix 113g",
+      "category": "Uncategorized",
+      "description": "Reese's Popped Snack Mix 113g Product Description: Reese's are renowned across the world for their sweet peanut butter candy creations and for good reason - they're delicious. Now you can have your favourite snacks...",
+      "price": "9.99",
+      "url": "https://sweetsworld.com.au/uncategorized/reeses-popped-snack-mix-113g/",
+      "matched_tokens": [
+        "snack"
+      ],
+      "matched_phrases": [],
+      "selection_reason": "direct_match"
+    }
+  ],
+  "related_keywords": [
+    "sweetsworld",
+    "sweets world",
+    "white knight chocolate",
+    "fantales lollies",
+    "clinkers chocolate",
+    "fantails lolly"
+  ],
+  "cta": {
+    "heading": "Use this page as a shortlist for korean snacks",
+    "body": "Review the key options, then move into the linked collection or product pages when you are ready to compare live stock and pricing.",
+    "button_text": "Browse Collection"
+  },
+  "distribution_channels": [
+    "pinterest",
+    "facebook"
+  ],
+  "schema_types": [
+    "BreadcrumbList"
+  ]
+}

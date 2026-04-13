@@ -1,0 +1,123 @@
+{
+  "brief_id": "chocolate-truffles-australia-brief-v1",
+  "slug": "chocolate-truffles-australia",
+  "keyword": "chocolate truffles australia",
+  "search_intent": "Transactional with commercial intent",
+  "page_type": "landing_page",
+  "title": "Chocolate Truffles Australia: Buy Luxury Chocolate Truffles Online",
+  "meta_description": "Chocolate Truffles Australia: Buy Luxury Chocolate Truffles Online. Compare stock options, buying factors, and the best next steps for chocolate truffles...",
+  "intro": "Use this page to compare where to buy chocolate truffles in Australia, what to check before ordering, and which european chocolate options are the best fit for your basket.",
+  "outline": [
+    "Where to buy chocolate truffles with less guesswork",
+    "How to compare European Chocolate options before ordering"
+  ],
+  "sections": [
+    {
+      "heading": "Where to buy chocolate truffles with less guesswork",
+      "paragraphs": [
+        "Landing pages for chocolate truffles need to show real commercial value quickly, including price context, stock clarity, and relevant product paths.",
+        "The goal is to reduce purchase friction rather than publish a thin page that repeats the keyword."
+      ],
+      "bullets": [
+        "Butlers Twist Wrap Mint Chocolate Truffles & Fondant 170g",
+        "Butlers Twist Wrap Dark Chocolate Truffles 170g"
+      ]
+    },
+    {
+      "heading": "How to compare European Chocolate options before ordering",
+      "paragraphs": [
+        "A stronger landing page explains the trade-offs between pack size, flavour range, stock depth, and delivery timing.",
+        "That gives the page a conversion job as well as a ranking job."
+      ],
+      "bullets": [
+        "Compare unit price instead of headline price alone.",
+        "Check stock, bundle size, and delivery timing together.",
+        "Keep the call to action aligned with the buying task."
+      ]
+    }
+  ],
+  "faq_items": [
+    {
+      "question": "Where can I buy chocolate truffles online in Australia?",
+      "answer": "Start with Australian stores that show live stock, delivery windows, and product range depth for chocolate truffles before checkout."
+    },
+    {
+      "question": "How should I compare chocolate truffles prices?",
+      "answer": "Compare unit price, pack size, shipping cost, and bundle options together instead of looking at the headline price only."
+    },
+    {
+      "question": "Are there other european chocolate options worth comparing?",
+      "answer": "Yes. Nearby collections or substitute products can be useful when chocolate truffles is out of stock or only available in limited pack sizes."
+    }
+  ],
+  "faq_questions": [
+    "Where can I buy chocolate truffles online in Australia?",
+    "How should I compare chocolate truffles prices?",
+    "Are there other european chocolate options worth comparing?"
+  ],
+  "internal_links": [
+    {
+      "url": "https://sweetsworld.com.au/chocolate/",
+      "label": "Chocolate",
+      "anchor_text": "Shop Chocolate",
+      "link_kind": "category"
+    },
+    {
+      "url": "https://sweetsworld.com.au/gift/chocolate-box/",
+      "label": "Chocolate Box",
+      "anchor_text": "Browse Chocolate Box",
+      "link_kind": "collection"
+    },
+    {
+      "url": "https://sweetsworld.com.au/gift/chocolate-box/butlers-twist-wrap-mint-chocolate/",
+      "label": "Butlers Twist Wrap Mint Chocolate",
+      "anchor_text": "View Butlers Twist Wrap Mint Chocolate",
+      "link_kind": "product"
+    }
+  ],
+  "selected_products": [
+    {
+      "product_name": "Butlers Twist Wrap Mint Chocolate Truffles & Fondant 170g",
+      "category": "British Lollies",
+      "description": "Butlers Twist Wrap Mint Chocolate Truffles & Fondant 170g Treat yourself to a touch of luxury with Butlers Twist Wrap Mint Chocolate Truffles & Fondant . These delicious bite-sized chocolates are perfect for anyone...",
+      "price": "19.99",
+      "url": "https://sweetsworld.com.au/gift/chocolate-box/butlers-twist-wrap-mint-chocolate/",
+      "matched_tokens": [
+        "chocolate",
+        "truffle",
+        "luxury"
+      ],
+      "matched_phrases": [
+        "chocolate truffle"
+      ],
+      "selection_reason": "direct_match"
+    },
+    {
+      "product_name": "Butlers Twist Wrap Dark Chocolate Truffles 170g",
+      "category": "British Lollies",
+      "description": "Butlers Twist Wrap Dark Chocolate Truffles 170g Product Description: Dark, brooding and irresistible individually wrapped chocolates with a sublime 70% dark chocolate truffle centre. Ingredients: Cocoa mass...",
+      "price": "19.99",
+      "url": "https://sweetsworld.com.au/gift/chocolate-box/butlerstwistwrapdarkchocolatetruffles170g/",
+      "matched_tokens": [
+        "chocolate",
+        "truffle"
+      ],
+      "matched_phrases": [
+        "chocolate truffle"
+      ],
+      "selection_reason": "direct_match"
+    }
+  ],
+  "related_keywords": [
+    "sweetsworld",
+    "sweets world",
+    "white knight chocolate",
+    "fantales lollies",
+    "fantails lolly",
+    "darrell lea kotara"
+  ],
+  "cta": {
+    "heading": "Move from chocolate truffles research into a purchase",
+    "body": "Compare the shortlist, then click through to the most relevant collection or product page to check live stock and delivery details."
+  }
+}

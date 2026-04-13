@@ -60,7 +60,12 @@ def _is_english_suggestion(suggestion: Dict[str, str]) -> bool:
     return not any(_contains_cjk(str(v)) for v in fields)
 
 
-def plan_seo_article(topic: str, openai_api_key: str, model: str = "gpt-4o") -> List[Dict[str, str]]:
+def plan_seo_article(
+    topic: str,
+    openai_api_key: str,
+    model: str = "gpt-4o",
+    site_description: str = "sweetsworld.com.au, an Australian candy and confectionery ecommerce site",
+) -> List[Dict[str, str]]:
     """
     Generate 3 SEO article suggestions from a topic description.
 
@@ -77,7 +82,7 @@ def plan_seo_article(topic: str, openai_api_key: str, model: str = "gpt-4o") -> 
 
         client = OpenAI(api_key=openai_api_key)
 
-        prompt = f"""You are the SEO content strategist for sweetsworld.com.au, an Australian candy and confectionery ecommerce site.
+        prompt = f"""You are the SEO content strategist for {site_description}.
 
 The user wants SEO article ideas for this topic:
 "{topic}"

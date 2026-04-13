@@ -1,0 +1,118 @@
+{
+  "brief_id": "cinnamon-candy-australia-brief-v1",
+  "slug": "cinnamon-candy-australia",
+  "keyword": "cinnamon candy australia",
+  "search_intent": "Commercial category intent",
+  "page_type": "category_page",
+  "title": "Cinnamon Candy Australia: Buy Hot Cinnamon Lollies and Sweets Online",
+  "meta_description": "Cinnamon Candy Australia: Buy Hot Cinnamon Lollies and Sweets Online. Compare stock options, buying factors, and the best next steps for cinnamon candy...",
+  "intro": "This page explains the cinnamon candy range, the main product formats to compare, and the next collection or product pages worth opening before you buy.",
+  "outline": [
+    "What defines the cinnamon candy range",
+    "How to shop Candy & Lollies more confidently"
+  ],
+  "sections": [
+    {
+      "heading": "What defines the cinnamon candy range",
+      "paragraphs": [
+        "A category page for cinnamon candy should explain flavour profile, product format, and the most recognisable options in the range.",
+        "That helps search engines and shoppers understand the scope of the page before they move deeper into the catalogue."
+      ],
+      "bullets": [
+        "Holland Foodz Cinnamon Sticks Candy (Kaneelstokjes) 135g",
+        "Kindly's - Cinnamon Sticks (Kaneel Stokjes) 200g"
+      ]
+    },
+    {
+      "heading": "How to shop Candy & Lollies more confidently",
+      "paragraphs": [
+        "Category pages should guide users through format, suitability, and value instead of listing products without context.",
+        "This is the section that turns a collection page into a useful SEO landing surface."
+      ],
+      "bullets": [
+        "Show best sellers before long-tail variants.",
+        "Explain when bundles make more sense than single items.",
+        "Link into adjacent collections and product pages."
+      ]
+    }
+  ],
+  "faq_items": [
+    {
+      "question": "What should I look for when choosing cinnamon candy?",
+      "answer": "Focus on suitability for the use case, flavour profile, pack size, and delivery timing rather than assuming every popular candy is the right fit."
+    },
+    {
+      "question": "What is the best next step after reading this page?",
+      "answer": "Use the linked category or product pages to compare live stock, range depth, and practical buying options."
+    },
+    {
+      "question": "Can this page help me compare candy & lollies options?",
+      "answer": "Yes. It should clarify which products or collections are the best fit instead of leaving the reader with generic advice."
+    }
+  ],
+  "faq_questions": [
+    "What should I look for when choosing cinnamon candy?",
+    "What is the best next step after reading this page?",
+    "Can this page help me compare candy & lollies options?"
+  ],
+  "internal_links": [
+    {
+      "url": "https://sweetsworld.com.au/candy/",
+      "label": "Candy",
+      "anchor_text": "Explore Candy",
+      "link_kind": "category"
+    },
+    {
+      "url": "https://sweetsworld.com.au/candy/dutch-sweets/",
+      "label": "Dutch Sweets",
+      "anchor_text": "Browse Dutch Sweets",
+      "link_kind": "collection"
+    },
+    {
+      "url": "https://sweetsworld.com.au/candy/dutch-sweets/holland-foodz-cinnamon-sticks-candy/",
+      "label": "Holland Foodz Cinnamon Sticks Candy",
+      "anchor_text": "See Holland Foodz Cinnamon Sticks Candy",
+      "link_kind": "product"
+    }
+  ],
+  "selected_products": [
+    {
+      "product_name": "Holland Foodz Cinnamon Sticks Candy (Kaneelstokjes) 135g",
+      "category": "Candy",
+      "description": "Holland Foodz Cinnamon Sticks Candy (Kaneelstokjes) 135g – A Sweet Touch of Spice Product description: The only authentic Oosterhout cinnamon sticks from the Holland Foodz brand. These sweets have been made in...",
+      "price": "4.99",
+      "url": "https://sweetsworld.com.au/candy/dutch-sweets/holland-foodz-cinnamon-sticks-candy/",
+      "matched_tokens": [
+        "cinnamon",
+        "sweet"
+      ],
+      "matched_phrases": [],
+      "selection_reason": "direct_match"
+    },
+    {
+      "product_name": "Kindly's - Cinnamon Sticks (Kaneel Stokjes) 200g",
+      "category": "Candy",
+      "description": "Kindly's - Cinnamon Sticks (Kaneel Stokjes) 200g Product Description: Sweet cinnamon sticks. Old Dutch specialty from the Netherlands. Sweet memories! Gluten and gelatine free",
+      "price": "8.99",
+      "url": "https://sweetsworld.com.au/candy/dutch-sweets/kindlyscinnamonstickskaneelstokjes200g/",
+      "matched_tokens": [
+        "cinnamon",
+        "sweet"
+      ],
+      "matched_phrases": [],
+      "selection_reason": "direct_match"
+    }
+  ],
+  "related_keywords": [
+    "sweetsworld",
+    "sweets world",
+    "white knight chocolate",
+    "fantales lollies",
+    "fantails lolly",
+    "darrell lea kotara"
+  ],
+  "cta": {
+    "heading": "Use this page as a shortlist for cinnamon candy",
+    "body": "Review the key options, then move into the linked collection or product pages when you are ready to compare live stock and pricing."
+  }
+}

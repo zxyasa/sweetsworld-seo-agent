@@ -1,0 +1,118 @@
+{
+  "brief_id": "redskins-lollies-australia-brief-v1",
+  "slug": "redskins-lollies-australia",
+  "keyword": "redskins lollies australia",
+  "search_intent": "Transactional with commercial intent",
+  "page_type": "landing_page",
+  "title": "Red Rippers Australia: Buy Redskins Raspberry Chew Lollies Online",
+  "meta_description": "Red Rippers Australia: Buy Redskins Raspberry Chew Lollies Online. Compare stock options, buying factors, and the best next steps for redskins lollies in...",
+  "intro": "Use this page to compare where to buy redskins lollies in Australia, what to check before ordering, and which classic candy options are the best fit for your basket.",
+  "outline": [
+    "Where to buy redskins lollies with less guesswork",
+    "How to compare Classic Candy options before ordering"
+  ],
+  "sections": [
+    {
+      "heading": "Where to buy redskins lollies with less guesswork",
+      "paragraphs": [
+        "Landing pages for redskins lollies need to show real commercial value quickly, including price context, stock clarity, and relevant product paths.",
+        "The goal is to reduce purchase friction rather than publish a thin page that repeats the keyword."
+      ],
+      "bullets": [
+        "Allens Red Ripperz (Redskins) 800g",
+        "Raspberry Chews Sugarless 70 g"
+      ]
+    },
+    {
+      "heading": "How to compare Classic Candy options before ordering",
+      "paragraphs": [
+        "A stronger landing page explains the trade-offs between pack size, flavour range, stock depth, and delivery timing.",
+        "That gives the page a conversion job as well as a ranking job."
+      ],
+      "bullets": [
+        "Compare unit price instead of headline price alone.",
+        "Check stock, bundle size, and delivery timing together.",
+        "Keep the call to action aligned with the buying task."
+      ]
+    }
+  ],
+  "faq_items": [
+    {
+      "question": "Where can I buy redskins lollies online in Australia?",
+      "answer": "Start with Australian stores that show live stock, delivery windows, and product range depth for redskins lollies before checkout."
+    },
+    {
+      "question": "How should I compare redskins lollies prices?",
+      "answer": "Compare unit price, pack size, shipping cost, and bundle options together instead of looking at the headline price only."
+    },
+    {
+      "question": "Are there other classic candy options worth comparing?",
+      "answer": "Yes. Nearby collections or substitute products can be useful when redskins lollies is out of stock or only available in limited pack sizes."
+    }
+  ],
+  "faq_questions": [
+    "Where can I buy redskins lollies online in Australia?",
+    "How should I compare redskins lollies prices?",
+    "Are there other classic candy options worth comparing?"
+  ],
+  "internal_links": [
+    {
+      "url": "https://sweetsworld.com.au/candy/",
+      "label": "Candy",
+      "anchor_text": "Shop Candy",
+      "link_kind": "category"
+    },
+    {
+      "url": "https://sweetsworld.com.au/candy/allensredskins800gbag/",
+      "label": "Allensredskins800gbag",
+      "anchor_text": "Browse Allensredskins800gbag",
+      "link_kind": "collection"
+    },
+    {
+      "url": "https://sweetsworld.com.au/shop/candy/allensfantales1kg/",
+      "label": "Allensfantales1kg",
+      "anchor_text": "See Allensfantales1kg",
+      "link_kind": "product"
+    }
+  ],
+  "selected_products": [
+    {
+      "product_name": "Allens Red Ripperz (Redskins) 800g",
+      "category": "Candy",
+      "description": "",
+      "price": "29.99",
+      "url": "https://sweetsworld.com.au/candy/allensredskins800gbag/",
+      "matched_tokens": [
+        "redskin",
+        "ripper"
+      ],
+      "matched_phrases": [],
+      "selection_reason": "direct_match"
+    },
+    {
+      "product_name": "Raspberry Chews Sugarless 70 g",
+      "category": "Candy",
+      "description": "Raspberry Chews Sugarless 70 g Product Description: Raspberry Chews are 99.5% Sugar Free. They are also Gluten Free, Low Carb and are low in Fat. Ingredients: Sweeteners: maltitol syrup, mannitol, sucralose (955)...",
+      "price": "6.99",
+      "url": "https://sweetsworld.com.au/candy/raspberrychews70gsugarless/",
+      "matched_tokens": [
+        "raspberry",
+        "chew"
+      ],
+      "matched_phrases": [],
+      "selection_reason": "direct_match"
+    }
+  ],
+  "related_keywords": [
+    "sweetsworld",
+    "sweets world",
+    "white knight chocolate",
+    "fantales lollies",
+    "fantails lolly",
+    "darrell lea kotara"
+  ],
+  "cta": {
+    "heading": "Move from redskins lollies research into a purchase",
+    "body": "Compare the shortlist, then click through to the most relevant collection or product page to check live stock and delivery details."
+  }
+}

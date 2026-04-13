@@ -1,0 +1,136 @@
+{
+  "brief_id": "turkish-candy-australia-brief-v1",
+  "slug": "turkish-candy-australia",
+  "keyword": "turkish candy australia",
+  "search_intent": "Commercial category intent",
+  "page_type": "category_page",
+  "title": "Turkish Candy Australia: Turkish Delight and Sweet Treats Online",
+  "meta_description": "Turkish Candy Australia: Turkish Delight and Sweet Treats Online. Compare stock options, buying factors, and the best next steps for turkish candy in...",
+  "intro": "This page explains the turkish candy range, the main product formats to compare, and the next collection or product pages worth opening before you buy.",
+  "outline": [
+    "What defines the turkish candy range",
+    "How to shop Turkish Candy more confidently"
+  ],
+  "sections": [
+    {
+      "heading": "What defines the turkish candy range",
+      "paragraphs": [
+        "A category page for turkish candy should explain flavour profile, product format, and the most recognisable options in the range.",
+        "That helps search engines and shoppers understand the scope of the page before they move deeper into the catalogue."
+      ],
+      "bullets": [
+        "Beech's Milk Chocolate Turkish Delight 150g - Gluten Free",
+        "RT Authentic Turkish Delight Rose 250g",
+        "Darrell Lea Rocklea Road Turkish Delight Easter Egg Pack"
+      ]
+    },
+    {
+      "heading": "How to shop Turkish Candy more confidently",
+      "paragraphs": [
+        "Category pages should guide users through format, suitability, and value instead of listing products without context.",
+        "This is the section that turns a collection page into a useful SEO landing surface."
+      ],
+      "bullets": [
+        "Show best sellers before long-tail variants.",
+        "Explain when bundles make more sense than single items.",
+        "Link into adjacent collections and product pages."
+      ]
+    }
+  ],
+  "faq_items": [
+    {
+      "question": "What should I look for when choosing turkish candy?",
+      "answer": "Focus on suitability for the use case, flavour profile, pack size, and delivery timing rather than assuming every popular candy is the right fit."
+    },
+    {
+      "question": "What is the best next step after reading this page?",
+      "answer": "Use the linked category or product pages to compare live stock, range depth, and practical buying options."
+    },
+    {
+      "question": "Can this page help me compare turkish candy options?",
+      "answer": "Yes. It should clarify which products or collections are the best fit instead of leaving the reader with generic advice."
+    }
+  ],
+  "faq_questions": [
+    "What should I look for when choosing turkish candy?",
+    "What is the best next step after reading this page?",
+    "Can this page help me compare turkish candy options?"
+  ],
+  "internal_links": [
+    {
+      "url": "https://sweetsworld.com.au/candy/",
+      "label": "Candy",
+      "anchor_text": "Explore Candy",
+      "link_kind": "category"
+    },
+    {
+      "url": "https://sweetsworld.com.au/british-lollies/uk-chocolate/",
+      "label": "Uk Chocolate",
+      "anchor_text": "Browse Uk Chocolate",
+      "link_kind": "collection"
+    },
+    {
+      "url": "https://sweetsworld.com.au/british-lollies/uk-chocolate/beechsmilkchocolateturkishdelight150g/",
+      "label": "Beechsmilkchocolateturkishdelight150g",
+      "anchor_text": "View Beechsmilkchocolateturkishdelight150g",
+      "link_kind": "product"
+    }
+  ],
+  "selected_products": [
+    {
+      "product_name": "Beech's Milk Chocolate Turkish Delight 150g - Gluten Free",
+      "category": "British Lollies",
+      "description": "",
+      "price": "29.99",
+      "url": "https://sweetsworld.com.au/british-lollies/uk-chocolate/beechsmilkchocolateturkishdelight150g/",
+      "matched_tokens": [
+        "turkish",
+        "delight",
+        "sweet"
+      ],
+      "matched_phrases": [],
+      "selection_reason": "direct_match"
+    },
+    {
+      "product_name": "RT Authentic Turkish Delight Rose 250g",
+      "category": "Candy",
+      "description": "RT Authentic Turkish Delight Rose 250g Product Description: Traditional Rose flavour Turkish Delight coated in icing sugar. Real Turkish Delight was established back in 1974 by Bahattin Pektuzun. When he immigrated...",
+      "price": "14.99",
+      "url": "https://sweetsworld.com.au/candy/turkish-lollies/rt-authentic-turkish-delight-rose-250g/",
+      "matched_tokens": [
+        "turkish",
+        "delight",
+        "sweet"
+      ],
+      "matched_phrases": [],
+      "selection_reason": "direct_match"
+    },
+    {
+      "product_name": "Darrell Lea Rocklea Road Turkish Delight Easter Egg Pack",
+      "category": "Easter",
+      "description": "The Darrell Lea Rocky Road Turkish Delight Easter Egg Pack from Sweetsworld is an extraordinary treat, blending the exotic with the familiar. Perfect for those seeking something different this Easter, this pack...",
+      "price": "29.99",
+      "url": "https://sweetsworld.com.au/easterchocolate/rocklea-road-turkish-delight-easter-egg-pack/",
+      "matched_tokens": [
+        "turkish",
+        "delight",
+        "sweet",
+        "treat"
+      ],
+      "matched_phrases": [],
+      "selection_reason": "direct_match"
+    }
+  ],
+  "related_keywords": [
+    "sweetsworld",
+    "sweets world",
+    "white knight chocolate",
+    "fantales lollies",
+    "fantails lolly",
+    "darrell lea kotara"
+  ],
+  "cta": {
+    "heading": "Use this page as a shortlist for turkish candy",
+    "body": "Review the key options, then move into the linked collection or product pages when you are ready to compare live stock and pricing."
+  }
+}

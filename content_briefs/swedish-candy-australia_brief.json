@@ -1,0 +1,116 @@
+{
+  "brief_id": "swedish-candy-australia-brief-v1",
+  "slug": "swedish-candy-australia",
+  "keyword": "swedish candy australia",
+  "search_intent": "Commercial category intent",
+  "page_type": "category_page",
+  "title": "Swedish Candy Australia: Pick and Mix Scandinavian Lollies Online",
+  "meta_description": "Swedish Candy Australia: Pick and Mix Scandinavian Lollies Online. Compare stock options, buying factors, and the best next steps for swedish candy in...",
+  "intro": "This page explains the swedish candy range, the main product formats to compare, and the next collection or product pages worth opening before you buy.",
+  "outline": [
+    "What defines the swedish candy range",
+    "How to shop Swedish Candy more confidently"
+  ],
+  "sections": [
+    {
+      "heading": "What defines the swedish candy range",
+      "paragraphs": [
+        "A category page for swedish candy should explain flavour profile, product format, and the most recognisable options in the range.",
+        "That helps search engines and shoppers understand the scope of the page before they move deeper into the catalogue."
+      ],
+      "bullets": [
+        "BLAZING FIRE DILL PICKLE",
+        "Parga Blue Fire Dill Pickle"
+      ]
+    },
+    {
+      "heading": "How to shop Swedish Candy more confidently",
+      "paragraphs": [
+        "Category pages should guide users through format, suitability, and value instead of listing products without context.",
+        "This is the section that turns a collection page into a useful SEO landing surface."
+      ],
+      "bullets": [
+        "Show best sellers before long-tail variants.",
+        "Explain when bundles make more sense than single items.",
+        "Link into adjacent collections and product pages."
+      ]
+    }
+  ],
+  "faq_items": [
+    {
+      "question": "What should I look for when choosing swedish candy?",
+      "answer": "Focus on suitability for the use case, flavour profile, pack size, and delivery timing rather than assuming every popular candy is the right fit."
+    },
+    {
+      "question": "What is the best next step after reading this page?",
+      "answer": "Use the linked category or product pages to compare live stock, range depth, and practical buying options."
+    },
+    {
+      "question": "Can this page help me compare swedish candy options?",
+      "answer": "Yes. It should clarify which products or collections are the best fit instead of leaving the reader with generic advice."
+    }
+  ],
+  "faq_questions": [
+    "What should I look for when choosing swedish candy?",
+    "What is the best next step after reading this page?",
+    "Can this page help me compare swedish candy options?"
+  ],
+  "internal_links": [
+    {
+      "url": "https://sweetsworld.com.au/candy/",
+      "label": "Candy",
+      "anchor_text": "Explore Candy",
+      "link_kind": "category"
+    },
+    {
+      "url": "https://sweetsworld.com.au/candy/blazing-fire-dill-pickle/",
+      "label": "Blazing Fire Dill Pickle",
+      "anchor_text": "Browse Blazing Fire Dill Pickle",
+      "link_kind": "collection"
+    },
+    {
+      "url": "https://sweetsworld.com.au/shop/candy/allensfantales1kg/",
+      "label": "Allensfantales1kg",
+      "anchor_text": "See Allensfantales1kg",
+      "link_kind": "product"
+    }
+  ],
+  "selected_products": [
+    {
+      "product_name": "BLAZING FIRE DILL PICKLE",
+      "category": "Candy",
+      "description": "Blazing Fire Dill Pickle brings intense heat to the classic dill pickle. This crunchy, spicy treat is perfect for adventurous snackers and is available at Sweetsworld with Australia-wide delivery.",
+      "price": "9.99",
+      "url": "https://sweetsworld.com.au/candy/blazing-fire-dill-pickle/",
+      "matched_tokens": [
+        "pick"
+      ],
+      "matched_phrases": [],
+      "selection_reason": "direct_match"
+    },
+    {
+      "product_name": "Parga Blue Fire Dill Pickle",
+      "category": "Candy",
+      "description": "Bold Heat Meets Tangy Crunch: Parga Blue Fire Dill Pickle Parga Blue Fire Dill Pickle combines classic dill flavour with a fiery chilli kick. Each pickle packs bold vinegar tang and slow-building spicy heat. The...",
+      "price": "11.99",
+      "url": "https://sweetsworld.com.au/candy/parga-blue-fire-dill-pickle/",
+      "matched_tokens": [
+        "pick"
+      ],
+      "matched_phrases": [],
+      "selection_reason": "direct_match"
+    }
+  ],
+  "related_keywords": [
+    "sweetsworld",
+    "sweets world",
+    "white knight chocolate",
+    "fantales lollies",
+    "fantails lolly",
+    "darrell lea kotara"
+  ],
+  "cta": {
+    "heading": "Use this page as a shortlist for swedish candy",
+    "body": "Review the key options, then move into the linked collection or product pages when you are ready to compare live stock and pricing."
+  }
+}

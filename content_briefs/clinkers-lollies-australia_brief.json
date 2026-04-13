@@ -1,0 +1,146 @@
+{
+  "brief_id": "clinkers-lollies-australia-brief-v1",
+  "slug": "clinkers-lollies-australia",
+  "keyword": "clinkers australia",
+  "search_intent": "Transactional with commercial intent",
+  "page_type": "landing_page",
+  "title": "Clinkers Australia: Buy Clinkers Chocolate Lollies Online",
+  "meta_description": "Clinkers Australia: Buy Clinkers Chocolate Lollies Online. Compare stock options, buying factors, and the best next steps for clinkers in Australia.",
+  "intro": "Use this page to compare where to buy clinkers in Australia, what to check before ordering, and which classic candy options are the best fit for your basket.",
+  "outline": [
+    "Where to buy clinkers with less guesswork",
+    "How to compare Classic Candy options before ordering"
+  ],
+  "sections": [
+    {
+      "heading": "Where to buy clinkers with less guesswork",
+      "paragraphs": [
+        "Landing pages for clinkers need to show real commercial value quickly, including price context, stock clarity, and relevant product paths.",
+        "The goal is to reduce purchase friction rather than publish a thin page that repeats the keyword."
+      ],
+      "bullets": [
+        "THORNTONS CLASSIC Chocolates Box- 150g",
+        "BEECH'S CLASSIC MINT CREAMS 90g",
+        "THORNTONS CLASSIC COLLECT. MILK 262g",
+        "THORNTONS CLASSIC DARK COLLECTION 260g"
+      ]
+    },
+    {
+      "heading": "How to compare Classic Candy options before ordering",
+      "paragraphs": [
+        "A stronger landing page explains the trade-offs between pack size, flavour range, stock depth, and delivery timing.",
+        "That gives the page a conversion job as well as a ranking job."
+      ],
+      "bullets": [
+        "Compare unit price instead of headline price alone.",
+        "Check stock, bundle size, and delivery timing together.",
+        "Keep the call to action aligned with the buying task."
+      ]
+    }
+  ],
+  "faq_items": [
+    {
+      "question": "Where can I buy clinkers online in Australia?",
+      "answer": "Start with Australian stores that show live stock, delivery windows, and product range depth for clinkers before checkout."
+    },
+    {
+      "question": "How should I compare clinkers prices?",
+      "answer": "Compare unit price, pack size, shipping cost, and bundle options together instead of looking at the headline price only."
+    },
+    {
+      "question": "Are there other classic candy options worth comparing?",
+      "answer": "Yes. Nearby collections or substitute products can be useful when clinkers is out of stock or only available in limited pack sizes."
+    }
+  ],
+  "faq_questions": [
+    "Where can I buy clinkers online in Australia?",
+    "How should I compare clinkers prices?",
+    "Are there other classic candy options worth comparing?"
+  ],
+  "internal_links": [
+    {
+      "url": "https://sweetsworld.com.au/candy/",
+      "label": "Candy",
+      "anchor_text": "Shop Candy",
+      "link_kind": "category"
+    },
+    {
+      "url": "https://sweetsworld.com.au/gift/chocolate-box/",
+      "label": "Chocolate Box",
+      "anchor_text": "Browse Chocolate Box",
+      "link_kind": "collection"
+    },
+    {
+      "url": "https://sweetsworld.com.au/gift/chocolate-box/thorntons-classic-chocolates-box/",
+      "label": "Thorntons Classic Chocolates Box",
+      "anchor_text": "View Thorntons Classic Chocolates Box",
+      "link_kind": "product"
+    }
+  ],
+  "selected_products": [
+    {
+      "product_name": "THORNTONS CLASSIC Chocolates Box- 150g",
+      "category": "Chocolate Box",
+      "description": "THORNTONS CLASSIC Chocolates Box 150g – A Timeless Treat for Every Occasion! Product Description: With this rich chocolate heritage, we bring you a celebration of British tastes. Recipes created with selected...",
+      "price": "16",
+      "url": "https://sweetsworld.com.au/gift/chocolate-box/thorntons-classic-chocolates-box/",
+      "matched_tokens": [
+        "chocolate",
+        "classic"
+      ],
+      "matched_phrases": [],
+      "selection_reason": "direct_match"
+    },
+    {
+      "product_name": "BEECH'S CLASSIC MINT CREAMS 90g",
+      "category": "Chocolate Gift Box",
+      "description": "Beech’s Classic Mint Creams offer a delightful combination of smooth mint fondant and rich dark chocolate. Perfect for any occasion, these elegant treats provide a refreshing and sophisticated flavor. Enjoy premium...",
+      "price": "14.99",
+      "url": "https://sweetsworld.com.au/british-lollies/uk-chocolate/0a4735cc-4950-11e7-fc9e-c50c3d8aed66/",
+      "matched_tokens": [
+        "chocolate",
+        "classic"
+      ],
+      "matched_phrases": [],
+      "selection_reason": "direct_match"
+    },
+    {
+      "product_name": "THORNTONS CLASSIC COLLECT. MILK 262g",
+      "category": "Chocolate Box",
+      "description": "THORNTONS CLASSIC COLLECT. MILK 262g Product Description: An Assortment of Milk, White and Dark Chocolates Since 1911, our chocolate makers have been lovingly crafting recipes for generations of chocolate lovers to...",
+      "price": "25",
+      "url": "https://sweetsworld.com.au/gift/chocolate-box/thorntonsclassiccollectmilk262g/",
+      "matched_tokens": [
+        "chocolate",
+        "classic"
+      ],
+      "matched_phrases": [],
+      "selection_reason": "direct_match"
+    },
+    {
+      "product_name": "THORNTONS CLASSIC DARK COLLECTION 260g",
+      "category": "Chocolate Box",
+      "description": "THORNTONS CLASSIC DARK COLLECTION 260g Product description: In this classic selection of dark chocolates, you'll find delicious creamy fudge, honeycomb, nutty caramel and toffee chocolates, to name a few. Drizzled...",
+      "price": "25",
+      "url": "https://sweetsworld.com.au/gift/chocolate-box/thorntons-classic-dark-collection/",
+      "matched_tokens": [
+        "chocolate",
+        "classic"
+      ],
+      "matched_phrases": [],
+      "selection_reason": "direct_match"
+    }
+  ],
+  "related_keywords": [
+    "sweetsworld",
+    "sweets world",
+    "white knight chocolate",
+    "fantales lollies",
+    "fantails lolly",
+    "darrell lea kotara"
+  ],
+  "cta": {
+    "heading": "Move from clinkers research into a purchase",
+    "body": "Compare the shortlist, then click through to the most relevant collection or product page to check live stock and delivery details."
+  }
+}

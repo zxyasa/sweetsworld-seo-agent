@@ -1,0 +1,103 @@
+{
+  "brief_id": "blueberry-candy-australia-brief-v1",
+  "slug": "blueberry-candy-australia",
+  "keyword": "blueberry candy australia",
+  "search_intent": "Commercial category intent",
+  "page_type": "category_page",
+  "title": "Blueberry Candy Australia: Buy Blueberry Lollies and Gummies Online",
+  "meta_description": "Blueberry Candy Australia: Buy Blueberry Lollies and Gummies Online. Compare stock options, buying factors, and the best next steps for blueberry candy...",
+  "intro": "This page explains the blueberry candy range, the main product formats to compare, and the next collection or product pages worth opening before you buy.",
+  "outline": [
+    "What defines the blueberry candy range",
+    "How to shop Candy & Lollies more confidently"
+  ],
+  "sections": [
+    {
+      "heading": "What defines the blueberry candy range",
+      "paragraphs": [
+        "A category page for blueberry candy should explain flavour profile, product format, and the most recognisable options in the range.",
+        "That helps search engines and shoppers understand the scope of the page before they move deeper into the catalogue."
+      ],
+      "bullets": [
+        "Alpen Swiss Style Muesli- Blueberry Cherry & Almond (No Added Sugar)"
+      ]
+    },
+    {
+      "heading": "How to shop Candy & Lollies more confidently",
+      "paragraphs": [
+        "Category pages should guide users through format, suitability, and value instead of listing products without context.",
+        "This is the section that turns a collection page into a useful SEO landing surface."
+      ],
+      "bullets": [
+        "Show best sellers before long-tail variants.",
+        "Explain when bundles make more sense than single items.",
+        "Link into adjacent collections and product pages."
+      ]
+    }
+  ],
+  "faq_items": [
+    {
+      "question": "What should I look for when choosing blueberry candy?",
+      "answer": "Focus on suitability for the use case, flavour profile, pack size, and delivery timing rather than assuming every popular candy is the right fit."
+    },
+    {
+      "question": "What is the best next step after reading this page?",
+      "answer": "Use the linked category or product pages to compare live stock, range depth, and practical buying options."
+    },
+    {
+      "question": "Can this page help me compare candy & lollies options?",
+      "answer": "Yes. It should clarify which products or collections are the best fit instead of leaving the reader with generic advice."
+    }
+  ],
+  "faq_questions": [
+    "What should I look for when choosing blueberry candy?",
+    "What is the best next step after reading this page?",
+    "Can this page help me compare candy & lollies options?"
+  ],
+  "internal_links": [
+    {
+      "url": "https://sweetsworld.com.au/candy/",
+      "label": "Candy",
+      "anchor_text": "Explore Candy",
+      "link_kind": "category"
+    },
+    {
+      "url": "https://sweetsworld.com.au/grocery/alpen-swiss-style-muesli-blueberry-cherry-and-almond/",
+      "label": "Alpen Swiss Style Muesli Blueberry Cherry",
+      "anchor_text": "Browse Alpen Swiss Style Muesli Blueberry Cherry",
+      "link_kind": "collection"
+    },
+    {
+      "url": "https://sweetsworld.com.au/shop/candy/allensfantales1kg/",
+      "label": "Allensfantales1kg",
+      "anchor_text": "See Allensfantales1kg",
+      "link_kind": "product"
+    }
+  ],
+  "selected_products": [
+    {
+      "product_name": "Alpen Swiss Style Muesli- Blueberry Cherry & Almond (No Added Sugar)",
+      "category": "Grocery",
+      "description": "Alpen Swiss Style Muesli Blueberry Cherry and Almond (No Added Sugar) Product Description: Start your day the tasty and wholesome way with Alpen Swiss Style Muesli Blueberry Cherry and Almond . This delicious blend...",
+      "price": "14.99",
+      "url": "https://sweetsworld.com.au/grocery/alpen-swiss-style-muesli-blueberry-cherry-and-almond/",
+      "matched_tokens": [
+        "blueberry"
+      ],
+      "matched_phrases": [],
+      "selection_reason": "direct_match"
+    }
+  ],
+  "related_keywords": [
+    "sweetsworld",
+    "sweets world",
+    "white knight chocolate",
+    "fantales lollies",
+    "fantails lolly",
+    "darrell lea kotara"
+  ],
+  "cta": {
+    "heading": "Use this page as a shortlist for blueberry candy",
+    "body": "Review the key options, then move into the linked collection or product pages when you are ready to compare live stock and pricing."
+  }
+}

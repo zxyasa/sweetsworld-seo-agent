@@ -1,0 +1,161 @@
+{
+  "brief_id": "warheads-australia-brief-v1",
+  "slug": "warheads-australia",
+  "keyword": "warheads australia",
+  "search_intent": "Transactional with commercial intent",
+  "page_type": "landing_page",
+  "title": "Warheads Australia: Buy Sour Warheads Candy Online",
+  "meta_description": "Warheads Australia: Buy Sour Warheads Candy Online. Compare stock options, buying factors, and the best next steps for warheads in Australia.",
+  "intro": "Use this page to compare where to buy warheads in Australia, what to check before ordering, and which sour candy options are the best fit for your basket.",
+  "outline": [
+    "Where to buy warheads with less guesswork",
+    "How to compare Sour Candy options before ordering"
+  ],
+  "sections": [
+    {
+      "heading": "Where to buy warheads with less guesswork",
+      "paragraphs": [
+        "Landing pages for warheads need to show real commercial value quickly, including price context, stock clarity, and relevant product paths.",
+        "The goal is to reduce purchase friction rather than publish a thin page that repeats the keyword."
+      ],
+      "bullets": [
+        "WARHEAD SOUR BODY PARTS 85G",
+        "WARHEAD SOUR SQUEEZE CANDY 120G",
+        "Warheads Extreme Sour 240 pieces 744g",
+        "Warheads Extreme Sour Hard Candy 28g"
+      ]
+    },
+    {
+      "heading": "How to compare Sour Candy options before ordering",
+      "paragraphs": [
+        "A stronger landing page explains the trade-offs between pack size, flavour range, stock depth, and delivery timing.",
+        "That gives the page a conversion job as well as a ranking job."
+      ],
+      "bullets": [
+        "Compare unit price instead of headline price alone.",
+        "Check stock, bundle size, and delivery timing together.",
+        "Keep the call to action aligned with the buying task."
+      ]
+    }
+  ],
+  "faq_items": [
+    {
+      "question": "Where can I buy warheads online in Australia?",
+      "answer": "Start with Australian stores that show live stock, delivery windows, and product range depth for warheads before checkout."
+    },
+    {
+      "question": "How should I compare warheads prices?",
+      "answer": "Compare unit price, pack size, shipping cost, and bundle options together instead of looking at the headline price only."
+    },
+    {
+      "question": "Are there other sour candy options worth comparing?",
+      "answer": "Yes. Nearby collections or substitute products can be useful when warheads is out of stock or only available in limited pack sizes."
+    }
+  ],
+  "faq_questions": [
+    "Where can I buy warheads online in Australia?",
+    "How should I compare warheads prices?",
+    "Are there other sour candy options worth comparing?"
+  ],
+  "internal_links": [
+    {
+      "url": "https://sweetsworld.com.au/where-to-buy/haribo-australia/",
+      "label": "Haribo Australia",
+      "anchor_text": "Shop Haribo Australia",
+      "link_kind": "commercial"
+    },
+    {
+      "url": "https://sweetsworld.com.au/candy-types/darrell-lea-gift-ideas/",
+      "label": "Darrell Lea Gift Ideas",
+      "anchor_text": "Compare Darrell Lea Gift Ideas",
+      "link_kind": "collection"
+    },
+    {
+      "url": "https://sweetsworld.com.au/candy/",
+      "label": "Candy",
+      "anchor_text": "Compare Candy",
+      "link_kind": "category"
+    }
+  ],
+  "selected_products": [
+    {
+      "product_name": "WARHEAD SOUR BODY PARTS 85G",
+      "category": "Uncategorized",
+      "description": "TRICK OR TREAT have the coolest candies on the block this Halloween when you pass out these delicious and spooky Warhead Gummy Parts! SOUR Calling all sour candy lovers! Gummy parts are so sour they will make you...",
+      "price": "6.99",
+      "url": "https://sweetsworld.com.au/uncategorized/warhead-sour-body-parts-85g/",
+      "image_url": "https://sweetsworld.com.au/wp-content/uploads/2023/10/WARHEAD-SOUR-BODY-PARTS-85G.jpeg",
+      "matched_tokens": [
+        "sour",
+        "warhead"
+      ],
+      "matched_phrases": [],
+      "selection_reason": "direct_match"
+    },
+    {
+      "product_name": "WARHEAD SOUR SQUEEZE CANDY 120G",
+      "category": "Candy",
+      "description": "WARHEAD SOUR SQUEEZE CANDY delivers an intense sour punch in a convenient squeeze tube. Perfect for on-the-go enjoyment, it’s a must-have for sour candy lovers. Order now from Sweetsworld for fast Australia-wide...",
+      "price": "3.99",
+      "url": "https://sweetsworld.com.au/candy/sour-lollies/warhead-sour-squeeze-candy-120g/",
+      "image_url": "https://sweetsworld.com.au/wp-content/uploads/2024/05/IMG_1786.jpg",
+      "matched_tokens": [
+        "sour",
+        "warhead"
+      ],
+      "matched_phrases": [],
+      "selection_reason": "direct_match"
+    },
+    {
+      "product_name": "Warheads Extreme Sour 240 pieces 744g",
+      "category": "Candy",
+      "description": "Warheads Extreme Sour – The Ultimate Sour Candy Challenge Warheads Extreme Sour brings next-level sourness to your lolly stash. Each lolly starts with intense sour and finishes with sweet flavour. Flavours include...",
+      "price": "45",
+      "url": "https://sweetsworld.com.au/candy/warheads-extreme-sour/",
+      "image_url": "https://sweetsworld.com.au/wp-content/uploads/2025/10/Warheads-Extreme-Sour.webp",
+      "matched_tokens": [
+        "sour",
+        "warhead"
+      ],
+      "matched_phrases": [],
+      "selection_reason": "direct_match"
+    },
+    {
+      "product_name": "Warheads Extreme Sour Hard Candy 28g",
+      "category": "Candy",
+      "description": "Warheads Extreme Sour Hard Candy offers an intense sour experience in various fun flavors. Perfect for sharing and gifting, buy them from Sweetsworld for fresh, high-quality candy with fast Australia-wide delivery...",
+      "price": "2.99",
+      "url": "https://sweetsworld.com.au/candy/sour-lollies/warheads-extreme-sour-hard-candy-28g/",
+      "image_url": "https://sweetsworld.com.au/wp-content/uploads/2024/05/1c0bd712e3fab7ae9e2900f3fb8934ba80436c8f.jpg",
+      "matched_tokens": [
+        "sour",
+        "warhead"
+      ],
+      "matched_phrases": [],
+      "selection_reason": "direct_match"
+    }
+  ],
+  "related_keywords": [
+    "sweetsworld",
+    "sweets world",
+    "white knight chocolate",
+    "fantales lollies",
+    "clinkers chocolate",
+    "darrell lea kotara"
+  ],
+  "cta": {
+    "heading": "Move from warheads research into a purchase",
+    "body": "Compare the shortlist, then click through to the most relevant collection or product page to check live stock and delivery details.",
+    "button_text": "Browse Related Collection"
+  },
+  "distribution_channels": [
+    "facebook",
+    "instagram",
+    "gbp",
+    "pinterest"
+  ],
+  "schema_types": [
+    "BreadcrumbList",
+    "ItemList"
+  ]
+}

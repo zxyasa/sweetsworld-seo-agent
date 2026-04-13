@@ -1,0 +1,160 @@
+{
+  "brief_id": "jelly-belly-australia-brief-v1",
+  "slug": "jelly-belly-australia",
+  "keyword": "jelly belly australia",
+  "search_intent": "Transactional with commercial intent",
+  "page_type": "landing_page",
+  "title": "Jelly Belly Australia: Buy Jelly Beans and Gift Boxes Online",
+  "meta_description": "Jelly Belly Australia: Buy Jelly Beans and Gift Boxes Online. Compare stock options, buying factors, and the best next steps for jelly belly in Australia.",
+  "intro": "Use this page to compare where to buy jelly belly in Australia, what to check before ordering, and which jelly beans options are the best fit for your basket.",
+  "outline": [
+    "Where to buy jelly belly with less guesswork",
+    "How to compare Jelly Beans options before ordering"
+  ],
+  "sections": [
+    {
+      "heading": "Where to buy jelly belly with less guesswork",
+      "paragraphs": [
+        "Landing pages for jelly belly need to show real commercial value quickly, including price context, stock clarity, and relevant product paths.",
+        "The goal is to reduce purchase friction rather than publish a thin page that repeats the keyword."
+      ],
+      "bullets": [
+        "Jelly Belly Assorted Flavours Gift Box 10 Flavours 125g",
+        "Jelly Belly Bean Boozled 6th edition 100g",
+        "Jelly Belly Bean Boozled 45g 7th Edition",
+        "JELLY BELLY BEAN BOOZLED 6th 99g"
+      ]
+    },
+    {
+      "heading": "How to compare Jelly Beans options before ordering",
+      "paragraphs": [
+        "A stronger landing page explains the trade-offs between pack size, flavour range, stock depth, and delivery timing.",
+        "That gives the page a conversion job as well as a ranking job."
+      ],
+      "bullets": [
+        "Compare unit price instead of headline price alone.",
+        "Check stock, bundle size, and delivery timing together.",
+        "Keep the call to action aligned with the buying task."
+      ]
+    }
+  ],
+  "faq_items": [
+    {
+      "question": "Where can I buy jelly belly online in Australia?",
+      "answer": "Start with Australian stores that show live stock, delivery windows, and product range depth for jelly belly before checkout."
+    },
+    {
+      "question": "How should I compare jelly belly prices?",
+      "answer": "Compare unit price, pack size, shipping cost, and bundle options together instead of looking at the headline price only."
+    },
+    {
+      "question": "Are there other jelly beans options worth comparing?",
+      "answer": "Yes. Nearby collections or substitute products can be useful when jelly belly is out of stock or only available in limited pack sizes."
+    }
+  ],
+  "faq_questions": [
+    "Where can I buy jelly belly online in Australia?",
+    "How should I compare jelly belly prices?",
+    "Are there other jelly beans options worth comparing?"
+  ],
+  "internal_links": [
+    {
+      "url": "https://sweetsworld.com.au/where-to-buy/haribo-australia/",
+      "label": "Haribo Australia",
+      "anchor_text": "Shop Haribo Australia",
+      "link_kind": "commercial"
+    },
+    {
+      "url": "https://sweetsworld.com.au/candy/american-candy/",
+      "label": "American Candy",
+      "anchor_text": "Compare American Candy",
+      "link_kind": "collection"
+    },
+    {
+      "url": "https://sweetsworld.com.au/candy/",
+      "label": "Candy",
+      "anchor_text": "Shop Candy",
+      "link_kind": "category"
+    }
+  ],
+  "selected_products": [
+    {
+      "product_name": "Jelly Belly Assorted Flavours Gift Box 10 Flavours 125g",
+      "category": "American Candy Box",
+      "description": "",
+      "price": "14.99",
+      "url": "https://sweetsworld.com.au/candy/american-candy/jelly-belly-assorted-flavours-gift-box-10-flavours-125g/",
+      "matched_tokens": [
+        "gift",
+        "box",
+        "jelly",
+        "belly"
+      ],
+      "matched_phrases": [
+        "jelly belly"
+      ],
+      "selection_reason": "direct_match"
+    },
+    {
+      "product_name": "Jelly Belly Bean Boozled 6th edition 100g",
+      "category": "American Candy Box",
+      "description": "Jelly Belly Bean Boozled 6th Edition 100g – Sweet... or Shocking? You Decide! At Sweets World , we love sweets with a twist—and the Jelly Belly Bean Boozled 6th Edition is one of the most exciting and hilarious candy...",
+      "price": "19.99",
+      "url": "https://sweetsworld.com.au/candy/american-candy/jelly-belly-bean-boozled/",
+      "matched_tokens": [
+        "box",
+        "jelly",
+        "belly",
+        "bean"
+      ],
+      "matched_phrases": [
+        "jelly belly"
+      ],
+      "selection_reason": "direct_match"
+    },
+    {
+      "product_name": "Jelly Belly Bean Boozled 45g 7th Edition",
+      "category": "Candy",
+      "description": "",
+      "price": "5.99",
+      "url": "https://sweetsworld.com.au/candy/jelly-belly-bean-boozled-45g-7th-edition/",
+      "matched_tokens": [
+        "jelly",
+        "belly",
+        "bean"
+      ],
+      "matched_phrases": [
+        "jelly belly"
+      ],
+      "selection_reason": "direct_match"
+    },
+    {
+      "product_name": "JELLY BELLY BEAN BOOZLED 6th 99g",
+      "category": "Candy",
+      "description": "Jelly Belly BeanBoozled Jelly Beans are only for the truly daring! This wild collection combines some of the tastiest, most popular flavours with some of the craziest ones, packaged in a unique Spinner Tin for extra...",
+      "price": "34.99",
+      "url": "https://sweetsworld.com.au/candy/jelly-belly-bean-boozled-6th-99g/",
+      "matched_tokens": [
+        "jelly",
+        "belly",
+        "bean"
+      ],
+      "matched_phrases": [
+        "jelly belly"
+      ],
+      "selection_reason": "direct_match"
+    }
+  ],
+  "related_keywords": [
+    "sweetsworld",
+    "sweets world",
+    "white knight chocolate",
+    "fantales lollies",
+    "clinkers chocolate",
+    "fantails lolly"
+  ],
+  "cta": {
+    "heading": "Move from jelly belly research into a purchase",
+    "body": "Compare the shortlist, then click through to the most relevant collection or product page to check live stock and delivery details."
+  }
+}

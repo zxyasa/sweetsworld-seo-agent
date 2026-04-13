@@ -1,0 +1,118 @@
+{
+  "brief_id": "mango-candy-australia-brief-v1",
+  "slug": "mango-candy-australia",
+  "keyword": "mango candy australia",
+  "search_intent": "Commercial category intent",
+  "page_type": "category_page",
+  "title": "Mango Candy Australia: Buy Mango Lollies and Mango Sweets Online",
+  "meta_description": "Mango Candy Australia: Buy Mango Lollies and Mango Sweets Online. Compare stock options, buying factors, and the best next steps for mango candy in...",
+  "intro": "This page explains the mango candy range, the main product formats to compare, and the next collection or product pages worth opening before you buy.",
+  "outline": [
+    "What defines the mango candy range",
+    "How to shop Candy & Lollies more confidently"
+  ],
+  "sections": [
+    {
+      "heading": "What defines the mango candy range",
+      "paragraphs": [
+        "A category page for mango candy should explain flavour profile, product format, and the most recognisable options in the range.",
+        "That helps search engines and shoppers understand the scope of the page before they move deeper into the catalogue."
+      ],
+      "bullets": [
+        "Jelly Joy Stick 20g- Sweetsworld - Chocolate Shop",
+        "LUCAS MUECAS MANGO 25g"
+      ]
+    },
+    {
+      "heading": "How to shop Candy & Lollies more confidently",
+      "paragraphs": [
+        "Category pages should guide users through format, suitability, and value instead of listing products without context.",
+        "This is the section that turns a collection page into a useful SEO landing surface."
+      ],
+      "bullets": [
+        "Show best sellers before long-tail variants.",
+        "Explain when bundles make more sense than single items.",
+        "Link into adjacent collections and product pages."
+      ]
+    }
+  ],
+  "faq_items": [
+    {
+      "question": "What should I look for when choosing mango candy?",
+      "answer": "Focus on suitability for the use case, flavour profile, pack size, and delivery timing rather than assuming every popular candy is the right fit."
+    },
+    {
+      "question": "What is the best next step after reading this page?",
+      "answer": "Use the linked category or product pages to compare live stock, range depth, and practical buying options."
+    },
+    {
+      "question": "Can this page help me compare candy & lollies options?",
+      "answer": "Yes. It should clarify which products or collections are the best fit instead of leaving the reader with generic advice."
+    }
+  ],
+  "faq_questions": [
+    "What should I look for when choosing mango candy?",
+    "What is the best next step after reading this page?",
+    "Can this page help me compare candy & lollies options?"
+  ],
+  "internal_links": [
+    {
+      "url": "https://sweetsworld.com.au/candy/",
+      "label": "Candy",
+      "anchor_text": "Explore Candy",
+      "link_kind": "category"
+    },
+    {
+      "url": "https://sweetsworld.com.au/party-lollies/kidsparty/",
+      "label": "Kidsparty",
+      "anchor_text": "Browse Kidsparty",
+      "link_kind": "collection"
+    },
+    {
+      "url": "https://sweetsworld.com.au/party-lollies/kidsparty/jelly-joy-stick-20g/",
+      "label": "Jelly Joy Stick 20g",
+      "anchor_text": "View Jelly Joy Stick 20g",
+      "link_kind": "product"
+    }
+  ],
+  "selected_products": [
+    {
+      "product_name": "Jelly Joy Stick 20g- Sweetsworld - Chocolate Shop",
+      "category": "Candy",
+      "description": "Jelly Joy Stick 20g Product Description: It has strawberry, orange, grape, mango, peach and pineapple flavours Adds lots of joy and happiness to the young and old Great snack for all occasions, parties and gatherings...",
+      "price": "0.5",
+      "url": "https://sweetsworld.com.au/party-lollies/kidsparty/jelly-joy-stick-20g/",
+      "matched_tokens": [
+        "mango",
+        "sweet"
+      ],
+      "matched_phrases": [],
+      "selection_reason": "direct_match"
+    },
+    {
+      "product_name": "LUCAS MUECAS MANGO 25g",
+      "category": "Candy",
+      "description": "LUCAS MUECAS Mango: A Fun Blend of Sweet, Tangy, and Spicy LUCAS MUECAS Mango combines mango sweetness with a kick of tangy chili. This unique Mexican treat offers a bold flavor experience that balances sweet, sour...",
+      "price": "7.99",
+      "url": "https://sweetsworld.com.au/candy/sour-lollies/lucas-muecas-mango/",
+      "matched_tokens": [
+        "mango",
+        "sweet"
+      ],
+      "matched_phrases": [],
+      "selection_reason": "direct_match"
+    }
+  ],
+  "related_keywords": [
+    "sweetsworld",
+    "sweets world",
+    "white knight chocolate",
+    "fantales lollies",
+    "fantails lolly",
+    "darrell lea kotara"
+  ],
+  "cta": {
+    "heading": "Use this page as a shortlist for mango candy",
+    "body": "Review the key options, then move into the linked collection or product pages when you are ready to compare live stock and pricing."
+  }
+}

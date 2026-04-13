@@ -1,0 +1,118 @@
+{
+  "brief_id": "chewing-gum-australia-brief-v1",
+  "slug": "chewing-gum-australia",
+  "keyword": "chewing gum australia",
+  "search_intent": "Commercial category intent",
+  "page_type": "category_page",
+  "title": "Chewing Gum Australia: Buy Bulk Chewing Gum and Sugar Free Gum Online",
+  "meta_description": "Chewing Gum Australia: Buy Bulk Chewing Gum and Sugar Free Gum Online. Compare stock options, buying factors, and the best next steps for chewing gum in...",
+  "intro": "This page explains the chewing gum range, the main product formats to compare, and the next collection or product pages worth opening before you buy.",
+  "outline": [
+    "What defines the chewing gum range",
+    "How to shop Classic Candy more confidently"
+  ],
+  "sections": [
+    {
+      "heading": "What defines the chewing gum range",
+      "paragraphs": [
+        "A category page for chewing gum should explain flavour profile, product format, and the most recognisable options in the range.",
+        "That helps search engines and shoppers understand the scope of the page before they move deeper into the catalogue."
+      ],
+      "bullets": [
+        "Air Heads Gum with micro-candies Sugarfree Watermelon",
+        "Aura Sugar Free Hard Boiled Gourmet Lemon- 70g"
+      ]
+    },
+    {
+      "heading": "How to shop Classic Candy more confidently",
+      "paragraphs": [
+        "Category pages should guide users through format, suitability, and value instead of listing products without context.",
+        "This is the section that turns a collection page into a useful SEO landing surface."
+      ],
+      "bullets": [
+        "Show best sellers before long-tail variants.",
+        "Explain when bundles make more sense than single items.",
+        "Link into adjacent collections and product pages."
+      ]
+    }
+  ],
+  "faq_items": [
+    {
+      "question": "What should I look for when choosing chewing gum?",
+      "answer": "Focus on suitability for the use case, flavour profile, pack size, and delivery timing rather than assuming every popular candy is the right fit."
+    },
+    {
+      "question": "What is the best next step after reading this page?",
+      "answer": "Use the linked category or product pages to compare live stock, range depth, and practical buying options."
+    },
+    {
+      "question": "Can this page help me compare classic candy options?",
+      "answer": "Yes. It should clarify which products or collections are the best fit instead of leaving the reader with generic advice."
+    }
+  ],
+  "faq_questions": [
+    "What should I look for when choosing chewing gum?",
+    "What is the best next step after reading this page?",
+    "Can this page help me compare classic candy options?"
+  ],
+  "internal_links": [
+    {
+      "url": "https://sweetsworld.com.au/candy/",
+      "label": "Candy",
+      "anchor_text": "Explore Candy",
+      "link_kind": "category"
+    },
+    {
+      "url": "https://sweetsworld.com.au/candy/american-candy/",
+      "label": "American Candy",
+      "anchor_text": "Browse American Candy",
+      "link_kind": "collection"
+    },
+    {
+      "url": "https://sweetsworld.com.au/candy/american-candy/airheadsgumwithmicro-candiessugarfreewatermelon/",
+      "label": "Airheadsgumwithmicro Candiessugarfreewatermelon",
+      "anchor_text": "See Airheadsgumwithmicro Candiessugarfreewatermelon",
+      "link_kind": "product"
+    }
+  ],
+  "selected_products": [
+    {
+      "product_name": "Air Heads Gum with micro-candies Sugarfree Watermelon",
+      "category": "American Candy Box",
+      "description": "",
+      "price": "5.99",
+      "url": "https://sweetsworld.com.au/candy/american-candy/airheadsgumwithmicro-candiessugarfreewatermelon/",
+      "matched_tokens": [
+        "sugar",
+        "free"
+      ],
+      "matched_phrases": [],
+      "selection_reason": "direct_match"
+    },
+    {
+      "product_name": "Aura Sugar Free Hard Boiled Gourmet Lemon- 70g",
+      "category": "Candy",
+      "description": "Aura Sugar Free Hard Boiled Gourmet Lemon- 70g Product Description: • A delicious hard-boiled gourmet lemon flavoured candy made with natural colours and flavours. • 100% real Lemon juice • Sugar free, gluten free...",
+      "price": "6.99",
+      "url": "https://sweetsworld.com.au/candy/aura-sugar-free-hard-boiled-gourmet-lemon/",
+      "matched_tokens": [
+        "sugar",
+        "free"
+      ],
+      "matched_phrases": [],
+      "selection_reason": "direct_match"
+    }
+  ],
+  "related_keywords": [
+    "sweetsworld",
+    "sweets world",
+    "white knight chocolate",
+    "fantales lollies",
+    "fantails lolly",
+    "darrell lea kotara"
+  ],
+  "cta": {
+    "heading": "Use this page as a shortlist for chewing gum",
+    "body": "Review the key options, then move into the linked collection or product pages when you are ready to compare live stock and pricing."
+  }
+}

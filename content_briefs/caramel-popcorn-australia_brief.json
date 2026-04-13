@@ -1,0 +1,138 @@
+{
+  "brief_id": "caramel-popcorn-australia-brief-v1",
+  "slug": "caramel-popcorn-australia",
+  "keyword": "caramel popcorn australia",
+  "search_intent": "Transactional with commercial intent",
+  "page_type": "landing_page",
+  "title": "Caramel Popcorn Australia: Buy Sweet Popcorn and Snack Packs Online",
+  "meta_description": "Caramel Popcorn Australia: Buy Sweet Popcorn and Snack Packs Online. Compare stock options, buying factors, and the best next steps for caramel popcorn...",
+  "intro": "Use this page to compare where to buy caramel popcorn in Australia, what to check before ordering, and which snacks options are the best fit for your basket.",
+  "outline": [
+    "Where to buy caramel popcorn with less guesswork",
+    "How to compare Snacks options before ordering"
+  ],
+  "sections": [
+    {
+      "heading": "Where to buy caramel popcorn with less guesswork",
+      "paragraphs": [
+        "Landing pages for caramel popcorn need to show real commercial value quickly, including price context, stock clarity, and relevant product paths.",
+        "The goal is to reduce purchase friction rather than publish a thin page that repeats the keyword."
+      ],
+      "bullets": [
+        "Pix Coconut Caramel Popcorn 110g",
+        "Pix Dark Chocolate Caramel Popcorn 110g",
+        "Pix Vegan Salted Caramel Popcorn 110g"
+      ]
+    },
+    {
+      "heading": "How to compare Snacks options before ordering",
+      "paragraphs": [
+        "A stronger landing page explains the trade-offs between pack size, flavour range, stock depth, and delivery timing.",
+        "That gives the page a conversion job as well as a ranking job."
+      ],
+      "bullets": [
+        "Compare unit price instead of headline price alone.",
+        "Check stock, bundle size, and delivery timing together.",
+        "Keep the call to action aligned with the buying task."
+      ]
+    }
+  ],
+  "faq_items": [
+    {
+      "question": "Where can I buy caramel popcorn online in Australia?",
+      "answer": "Start with Australian stores that show live stock, delivery windows, and product range depth for caramel popcorn before checkout."
+    },
+    {
+      "question": "How should I compare caramel popcorn prices?",
+      "answer": "Compare unit price, pack size, shipping cost, and bundle options together instead of looking at the headline price only."
+    },
+    {
+      "question": "Are there other snacks options worth comparing?",
+      "answer": "Yes. Nearby collections or substitute products can be useful when caramel popcorn is out of stock or only available in limited pack sizes."
+    }
+  ],
+  "faq_questions": [
+    "Where can I buy caramel popcorn online in Australia?",
+    "How should I compare caramel popcorn prices?",
+    "Are there other snacks options worth comparing?"
+  ],
+  "internal_links": [
+    {
+      "url": "https://sweetsworld.com.au/uncategorized/pix-coconut-caramel-popcorn-110g/",
+      "label": "Pix Coconut Caramel Popcorn 110g",
+      "anchor_text": "Shop Pix Coconut Caramel Popcorn 110g",
+      "link_kind": "collection"
+    },
+    {
+      "url": "https://sweetsworld.com.au/uncategorized/",
+      "label": "Uncategorized",
+      "anchor_text": "Browse Uncategorized",
+      "link_kind": "category"
+    },
+    {
+      "url": "https://sweetsworld.com.au/shop/candy/allensfantales1kg/",
+      "label": "Allensfantales1kg",
+      "anchor_text": "View Allensfantales1kg",
+      "link_kind": "product"
+    }
+  ],
+  "selected_products": [
+    {
+      "product_name": "Pix Coconut Caramel Popcorn 110g",
+      "category": "Uncategorized",
+      "description": "Ingredients: Air Popped Corn, Sugar, Butter (Milk) , Glucose Syrup, Shredded Coconut, Sea Salt, Bi-Carb (500), Soy Lecithin (322) Gluten Free. Non GMO.",
+      "price": "10.99",
+      "url": "https://sweetsworld.com.au/uncategorized/pix-coconut-caramel-popcorn-110g/",
+      "matched_tokens": [
+        "caramel",
+        "popcorn"
+      ],
+      "matched_phrases": [
+        "caramel popcorn"
+      ],
+      "selection_reason": "direct_match"
+    },
+    {
+      "product_name": "Pix Dark Chocolate Caramel Popcorn 110g",
+      "category": "Uncategorized",
+      "description": "Ingredients: Air Popped Corn, Brown Sugar, Butter (Milk) , Glucose Syrup, Sea Salt, Bi-Carb (500), Soy Lecithin (322), Dark Chocolate (Cocoa Mass, Sugar, Cocoa Butter, Natural Flavouring, Soy Lecithin 322)",
+      "price": "10.99",
+      "url": "https://sweetsworld.com.au/uncategorized/pix-dark-chocolate-caramel-popcorn-110g/",
+      "matched_tokens": [
+        "caramel",
+        "popcorn"
+      ],
+      "matched_phrases": [
+        "caramel popcorn"
+      ],
+      "selection_reason": "direct_match"
+    },
+    {
+      "product_name": "Pix Vegan Salted Caramel Popcorn 110g",
+      "category": "Uncategorized",
+      "description": "Pix Vegan Salted Caramel Popcorn 110g Product Description: AIR POPPED AND COATED IN OUR SMOOTH VEGAN CARAMEL WITH A SPRINKLE OF SEA SALT THEN OVEN BAKED TO PERFECTION! Nutritional Information Serving Size 20g Serves...",
+      "price": "10.99",
+      "url": "https://sweetsworld.com.au/uncategorized/pix-vegan-salted-caramel-popcorn-110g/",
+      "matched_tokens": [
+        "caramel",
+        "popcorn"
+      ],
+      "matched_phrases": [
+        "caramel popcorn"
+      ],
+      "selection_reason": "direct_match"
+    }
+  ],
+  "related_keywords": [
+    "sweetsworld",
+    "sweets world",
+    "white knight chocolate",
+    "fantales lollies",
+    "fantails lolly",
+    "darrell lea kotara"
+  ],
+  "cta": {
+    "heading": "Move from caramel popcorn research into a purchase",
+    "body": "Compare the shortlist, then click through to the most relevant collection or product page to check live stock and delivery details."
+  }
+}

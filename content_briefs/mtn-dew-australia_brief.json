@@ -1,0 +1,118 @@
+{
+  "brief_id": "mtn-dew-australia-brief-v1",
+  "slug": "mtn-dew-australia",
+  "keyword": "mountain dew australia",
+  "search_intent": "Transactional with commercial intent",
+  "page_type": "landing_page",
+  "title": "Mountain Dew Australia: Buy Mtn Dew Drinks and Varieties Online",
+  "meta_description": "Mountain Dew Australia: Buy Mtn Dew Drinks and Varieties Online. Compare stock options, buying factors, and the best next steps for mountain dew in...",
+  "intro": "Use this page to compare where to buy mountain dew in Australia, what to check before ordering, and which american drinks options are the best fit for your basket.",
+  "outline": [
+    "Where to buy mountain dew with less guesswork",
+    "How to compare American Drinks options before ordering"
+  ],
+  "sections": [
+    {
+      "heading": "Where to buy mountain dew with less guesswork",
+      "paragraphs": [
+        "Landing pages for mountain dew need to show real commercial value quickly, including price context, stock clarity, and relevant product paths.",
+        "The goal is to reduce purchase friction rather than publish a thin page that repeats the keyword."
+      ],
+      "bullets": [
+        "Drinking Game Beer Pong",
+        "STARBURST LEMON DRINK MIX 13.5G"
+      ]
+    },
+    {
+      "heading": "How to compare American Drinks options before ordering",
+      "paragraphs": [
+        "A stronger landing page explains the trade-offs between pack size, flavour range, stock depth, and delivery timing.",
+        "That gives the page a conversion job as well as a ranking job."
+      ],
+      "bullets": [
+        "Compare unit price instead of headline price alone.",
+        "Check stock, bundle size, and delivery timing together.",
+        "Keep the call to action aligned with the buying task."
+      ]
+    }
+  ],
+  "faq_items": [
+    {
+      "question": "Where can I buy mountain dew online in Australia?",
+      "answer": "Start with Australian stores that show live stock, delivery windows, and product range depth for mountain dew before checkout."
+    },
+    {
+      "question": "How should I compare mountain dew prices?",
+      "answer": "Compare unit price, pack size, shipping cost, and bundle options together instead of looking at the headline price only."
+    },
+    {
+      "question": "Are there other american drinks options worth comparing?",
+      "answer": "Yes. Nearby collections or substitute products can be useful when mountain dew is out of stock or only available in limited pack sizes."
+    }
+  ],
+  "faq_questions": [
+    "Where can I buy mountain dew online in Australia?",
+    "How should I compare mountain dew prices?",
+    "Are there other american drinks options worth comparing?"
+  ],
+  "internal_links": [
+    {
+      "url": "https://sweetsworld.com.au/uncategorized/drinking-game-beer-pong/",
+      "label": "Drinking Game Beer Pong",
+      "anchor_text": "Shop Drinking Game Beer Pong",
+      "link_kind": "collection"
+    },
+    {
+      "url": "https://sweetsworld.com.au/uncategorized/",
+      "label": "Uncategorized",
+      "anchor_text": "Browse Uncategorized",
+      "link_kind": "category"
+    },
+    {
+      "url": "https://sweetsworld.com.au/shop/candy/allensfantales1kg/",
+      "label": "Allensfantales1kg",
+      "anchor_text": "View Allensfantales1kg",
+      "link_kind": "product"
+    }
+  ],
+  "selected_products": [
+    {
+      "product_name": "Drinking Game Beer Pong",
+      "category": "Uncategorized",
+      "description": "Drinking Game Beer Pong Product Description: Beer pong, also known as Beirut, is a drinking game in which players throw a ping pong ball across a table with the intent of landing the ball in a cup of beer on the...",
+      "price": "30",
+      "url": "https://sweetsworld.com.au/uncategorized/drinking-game-beer-pong/",
+      "matched_tokens": [
+        "drink",
+        "landing"
+      ],
+      "matched_phrases": [],
+      "selection_reason": "direct_match"
+    },
+    {
+      "product_name": "STARBURST LEMON DRINK MIX 13.5G",
+      "category": "Candy",
+      "description": "STARBURST LEMON DRINK MIX 13.5G Product Description: Sometimes you just need to add water to make up a batch of your favourite American drinks! We've got all your favourite powdered and liquid drink mixes from the...",
+      "price": "4.99",
+      "url": "https://sweetsworld.com.au/candy/starburstlemondrinkmix135g/",
+      "matched_tokens": [
+        "american",
+        "drink"
+      ],
+      "matched_phrases": [],
+      "selection_reason": "direct_match"
+    }
+  ],
+  "related_keywords": [
+    "sweetsworld",
+    "sweets world",
+    "white knight chocolate",
+    "fantales lollies",
+    "fantails lolly",
+    "darrell lea kotara"
+  ],
+  "cta": {
+    "heading": "Move from mountain dew research into a purchase",
+    "body": "Compare the shortlist, then click through to the most relevant collection or product page to check live stock and delivery details."
+  }
+}

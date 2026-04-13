@@ -1,0 +1,135 @@
+{
+  "brief_id": "nerds-candy-australia-brief-v1",
+  "slug": "nerds-candy-australia",
+  "keyword": "nerds candy australia",
+  "search_intent": "Transactional with commercial intent",
+  "page_type": "landing_page",
+  "title": "Nerds Candy Australia: Buy Nerds Rope and Nerds Clusters Online",
+  "meta_description": "Nerds Candy Australia: Buy Nerds Rope and Nerds Clusters Online. Compare stock options, buying factors, and the best next steps for nerds candy in...",
+  "intro": "Use this page to compare where to buy nerds candy in Australia, what to check before ordering, and which american candy options are the best fit for your basket.",
+  "outline": [
+    "Where to buy nerds candy with less guesswork",
+    "How to compare American Candy options before ordering"
+  ],
+  "sections": [
+    {
+      "heading": "Where to buy nerds candy with less guesswork",
+      "paragraphs": [
+        "Landing pages for nerds candy need to show real commercial value quickly, including price context, stock clarity, and relevant product paths.",
+        "The goal is to reduce purchase friction rather than publish a thin page that repeats the keyword."
+      ],
+      "bullets": [
+        "NERDS CLUSTER VERY BERRY141g",
+        "Nerds Gummy Clusters 141g",
+        "Nerds Gummy Clusters 85g"
+      ]
+    },
+    {
+      "heading": "How to compare American Candy options before ordering",
+      "paragraphs": [
+        "A stronger landing page explains the trade-offs between pack size, flavour range, stock depth, and delivery timing.",
+        "That gives the page a conversion job as well as a ranking job."
+      ],
+      "bullets": [
+        "Compare unit price instead of headline price alone.",
+        "Check stock, bundle size, and delivery timing together.",
+        "Keep the call to action aligned with the buying task."
+      ]
+    }
+  ],
+  "faq_items": [
+    {
+      "question": "Where can I buy nerds candy online in Australia?",
+      "answer": "Start with Australian stores that show live stock, delivery windows, and product range depth for nerds candy before checkout."
+    },
+    {
+      "question": "How should I compare nerds candy prices?",
+      "answer": "Compare unit price, pack size, shipping cost, and bundle options together instead of looking at the headline price only."
+    },
+    {
+      "question": "Are there other american candy options worth comparing?",
+      "answer": "Yes. Nearby collections or substitute products can be useful when nerds candy is out of stock or only available in limited pack sizes."
+    }
+  ],
+  "faq_questions": [
+    "Where can I buy nerds candy online in Australia?",
+    "How should I compare nerds candy prices?",
+    "Are there other american candy options worth comparing?"
+  ],
+  "internal_links": [
+    {
+      "url": "https://sweetsworld.com.au/candy/american-candy/",
+      "label": "American Candy",
+      "anchor_text": "Shop American Candy",
+      "link_kind": "collection"
+    },
+    {
+      "url": "https://sweetsworld.com.au/candy/",
+      "label": "Candy",
+      "anchor_text": "Browse Candy",
+      "link_kind": "category"
+    },
+    {
+      "url": "https://sweetsworld.com.au/candy/american-candy/nerds-cluster-very-berry141g/",
+      "label": "Nerds Cluster Very Berry141g",
+      "anchor_text": "See Nerds Cluster Very Berry141g",
+      "link_kind": "product"
+    }
+  ],
+  "selected_products": [
+    {
+      "product_name": "NERDS CLUSTER VERY BERRY141g",
+      "category": "American Candy Box",
+      "description": "Nerds Cluster Very Berry combines tangy and sweet berry-flavored Nerds with a chewy center for a unique candy experience. Ideal for any occasion, they are perfect for sharing or enjoying solo.",
+      "price": "11.99",
+      "url": "https://sweetsworld.com.au/candy/american-candy/nerds-cluster-very-berry141g/",
+      "matched_tokens": [
+        "american",
+        "nerd",
+        "cluster"
+      ],
+      "matched_phrases": [],
+      "selection_reason": "direct_match"
+    },
+    {
+      "product_name": "Nerds Gummy Clusters 141g",
+      "category": "American Candy Box",
+      "description": "",
+      "price": "11.99",
+      "url": "https://sweetsworld.com.au/candy/american-candy/nerd-gummy-clusters-141g/",
+      "matched_tokens": [
+        "american",
+        "nerd",
+        "cluster"
+      ],
+      "matched_phrases": [],
+      "selection_reason": "direct_match"
+    },
+    {
+      "product_name": "Nerds Gummy Clusters 85g",
+      "category": "American Candy Box",
+      "description": "",
+      "price": "7.99",
+      "url": "https://sweetsworld.com.au/candy/american-candy/nerds-gummy-clusters-85g/",
+      "matched_tokens": [
+        "american",
+        "nerd",
+        "cluster"
+      ],
+      "matched_phrases": [],
+      "selection_reason": "direct_match"
+    }
+  ],
+  "related_keywords": [
+    "sweetsworld",
+    "sweets world",
+    "white knight chocolate",
+    "fantales lollies",
+    "fantails lolly",
+    "darrell lea kotara"
+  ],
+  "cta": {
+    "heading": "Move from nerds candy research into a purchase",
+    "body": "Compare the shortlist, then click through to the most relevant collection or product page to check live stock and delivery details."
+  }
+}

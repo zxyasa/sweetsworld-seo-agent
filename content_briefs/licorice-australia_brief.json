@@ -1,0 +1,149 @@
+{
+  "brief_id": "licorice-australia-brief-v1",
+  "slug": "licorice-australia",
+  "keyword": "licorice australia",
+  "search_intent": "Commercial category intent",
+  "page_type": "category_page",
+  "title": "Licorice Australia: Buy Black and Red Licorice Twists Online",
+  "meta_description": "Licorice Australia: Buy Black and Red Licorice Twists Online. Compare stock options, buying factors, and the best next steps for licorice in Australia.",
+  "intro": "This page explains the licorice range, the main product formats to compare, and the next collection or product pages worth opening before you buy.",
+  "outline": [
+    "What defines the licorice range",
+    "How to shop Classic Candy more confidently"
+  ],
+  "sections": [
+    {
+      "heading": "What defines the licorice range",
+      "paragraphs": [
+        "A category page for licorice should explain flavour profile, product format, and the most recognisable options in the range.",
+        "That helps search engines and shoppers understand the scope of the page before they move deeper into the catalogue."
+      ],
+      "bullets": [
+        "Red Vines Twists Black Licorice 453g",
+        "Licorice Lovers Traditional Twists 280g",
+        "Aussie Black Cats 1kg",
+        "Dutch Single Salt Licorice 100g"
+      ]
+    },
+    {
+      "heading": "How to shop Classic Candy more confidently",
+      "paragraphs": [
+        "Category pages should guide users through format, suitability, and value instead of listing products without context.",
+        "This is the section that turns a collection page into a useful SEO landing surface."
+      ],
+      "bullets": [
+        "Show best sellers before long-tail variants.",
+        "Explain when bundles make more sense than single items.",
+        "Link into adjacent collections and product pages."
+      ]
+    }
+  ],
+  "faq_items": [
+    {
+      "question": "What should I look for when choosing licorice?",
+      "answer": "Focus on suitability for the use case, flavour profile, pack size, and delivery timing rather than assuming every popular candy is the right fit."
+    },
+    {
+      "question": "What is the best next step after reading this page?",
+      "answer": "Use the linked category or product pages to compare live stock, range depth, and practical buying options."
+    },
+    {
+      "question": "Can this page help me compare classic candy options?",
+      "answer": "Yes. It should clarify which products or collections are the best fit instead of leaving the reader with generic advice."
+    }
+  ],
+  "faq_questions": [
+    "What should I look for when choosing licorice?",
+    "What is the best next step after reading this page?",
+    "Can this page help me compare classic candy options?"
+  ],
+  "internal_links": [
+    {
+      "url": "https://sweetsworld.com.au/products/lollipops-australia/",
+      "label": "Lollipops Australia",
+      "anchor_text": "Explore Lollipops Australia",
+      "link_kind": "collection"
+    },
+    {
+      "url": "https://sweetsworld.com.au/where-to-buy/gummy-bears-australia/",
+      "label": "Gummy Bears Australia",
+      "anchor_text": "Browse Gummy Bears Australia",
+      "link_kind": "commercial"
+    },
+    {
+      "url": "https://sweetsworld.com.au/candy/",
+      "label": "Candy",
+      "anchor_text": "See Candy",
+      "link_kind": "category"
+    }
+  ],
+  "selected_products": [
+    {
+      "product_name": "Red Vines Twists Black Licorice 453g",
+      "category": "American Candy Box",
+      "description": "Red Vines Twists Black Licorice 453g Product Description: Pair this deliciously rewarding black licorice with other pantry snacks like salty popcorn or trail mix Celebrate sweet moments with a Red Vines black...",
+      "price": "11.99",
+      "url": "https://sweetsworld.com.au/candy/american-candy/red-vines-twists-black-licorice-453g/",
+      "matched_tokens": [
+        "licorice",
+        "black",
+        "twist"
+      ],
+      "matched_phrases": [],
+      "selection_reason": "direct_match"
+    },
+    {
+      "product_name": "Licorice Lovers Traditional Twists 280g",
+      "category": "Candy",
+      "description": "Licorice Lovers Traditional Twists 280g If you’re a true licorice fan, then Licorice Lovers Traditional Twists are just the treat for you! These chewy, flavourful twists bring back the classic taste of old-school...",
+      "price": "4.99",
+      "url": "https://sweetsworld.com.au/candy/old-fashion-lollies/licorice-lovers-traditional-twists/",
+      "matched_tokens": [
+        "licorice",
+        "twist",
+        "classic"
+      ],
+      "matched_phrases": [],
+      "selection_reason": "direct_match"
+    },
+    {
+      "product_name": "Aussie Black Cats 1kg",
+      "category": "Uncategorized",
+      "description": "INGREDIENTS: Glucose syrup, (Wheat), sugar, starch (wheat), water, glycerine, natural flavour, and colours (122, 102, 133). CONTAINS GLUTEN. Made in Australia from local and imported ingredients. Manufactured in a...",
+      "price": "25",
+      "url": "https://sweetsworld.com.au/uncategorized/aussieblackcats1kg/",
+      "matched_tokens": [
+        "licorice",
+        "black"
+      ],
+      "matched_phrases": [],
+      "selection_reason": "direct_match"
+    },
+    {
+      "product_name": "Dutch Single Salt Licorice 100g",
+      "category": "Candy",
+      "description": "Discover a bold and traditional taste with our Dutch Single Salt Licorice 100g . This classic treat is a favourite among true licorice lovers, especially those who enjoy a salty twist. Made in the Netherlands, this...",
+      "price": "5",
+      "url": "https://sweetsworld.com.au/candy/dutch-single-salt-licorice-100g/",
+      "matched_tokens": [
+        "licorice",
+        "twist",
+        "classic"
+      ],
+      "matched_phrases": [],
+      "selection_reason": "direct_match"
+    }
+  ],
+  "related_keywords": [
+    "sweetsworld",
+    "sweets world",
+    "white knight chocolate",
+    "fantales lollies",
+    "clinkers chocolate",
+    "fantails lolly"
+  ],
+  "cta": {
+    "heading": "Use this page as a shortlist for licorice",
+    "body": "Review the key options, then move into the linked collection or product pages when you are ready to compare live stock and pricing."
+  }
+}

@@ -1,0 +1,27 @@
+{
+  "slug": "white-knight-chocolate-where-to-buy-australia",
+  "title": "White Knight Chocolate: Where to Buy in Australia",
+  "primary_keyword": "white knight chocolate where to buy",
+  "category_hint": "Chocolate Bars",
+  "_source_line": "2",
+  "page_type": "landing_page",
+  "selected_products": [
+    {
+      "product_name": "White Knights Chocolate Mint Chews- 120g",
+      "category": "Chocolate Gift Box",
+      "description": "We know you miss White Knight chocolate. We do too. However – just because these sweets have been discontinued doesn’t mean we can’t still experience the flavour we love! These choc mint chews taste just like the...",
+      "price": "6.99",
+      "url": "https://sweetsworld.com.au/chocolate/australian-chocolate/white-knights-chocolate-mint-chews/",
+      "matched_tokens": [
+        "chocolate",
+        "white",
+        "knight"
+      ],
+      "matched_phrases": [
+        "white knight",
+        "knight chocolate"
+      ],
+      "selection_reason": "direct_match"
+    }
+  ]
+}

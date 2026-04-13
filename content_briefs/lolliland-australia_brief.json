@@ -1,0 +1,131 @@
+{
+  "brief_id": "lolliland-australia-brief-v1",
+  "slug": "lolliland-australia",
+  "keyword": "lolliland australia",
+  "search_intent": "Transactional with commercial intent",
+  "page_type": "landing_page",
+  "title": "Lolliland Australia: Buy Lolliland Bulk Lollies and Gummies Online",
+  "meta_description": "Lolliland Australia: Buy Lolliland Bulk Lollies and Gummies Online. Compare stock options, buying factors, and the best next steps for lolliland in...",
+  "intro": "Use this page to compare where to buy lolliland in Australia, what to check before ordering, and which candy & lollies options are the best fit for your basket.",
+  "outline": [
+    "Where to buy lolliland with less guesswork",
+    "How to compare Candy & Lollies options before ordering"
+  ],
+  "sections": [
+    {
+      "heading": "Where to buy lolliland with less guesswork",
+      "paragraphs": [
+        "Landing pages for lolliland need to show real commercial value quickly, including price context, stock clarity, and relevant product paths.",
+        "The goal is to reduce purchase friction rather than publish a thin page that repeats the keyword."
+      ],
+      "bullets": [
+        "Lolliland GUMMY FRIED EGGS 1KG - Gluten Free",
+        "Lolliland Cola Bottle Gluten Free 1kg",
+        "Lolliland Cherry Bombs 150g"
+      ]
+    },
+    {
+      "heading": "How to compare Candy & Lollies options before ordering",
+      "paragraphs": [
+        "A stronger landing page explains the trade-offs between pack size, flavour range, stock depth, and delivery timing.",
+        "That gives the page a conversion job as well as a ranking job."
+      ],
+      "bullets": [
+        "Compare unit price instead of headline price alone.",
+        "Check stock, bundle size, and delivery timing together.",
+        "Keep the call to action aligned with the buying task."
+      ]
+    }
+  ],
+  "faq_items": [
+    {
+      "question": "Where can I buy lolliland online in Australia?",
+      "answer": "Start with Australian stores that show live stock, delivery windows, and product range depth for lolliland before checkout."
+    },
+    {
+      "question": "How should I compare lolliland prices?",
+      "answer": "Compare unit price, pack size, shipping cost, and bundle options together instead of looking at the headline price only."
+    },
+    {
+      "question": "Are there other candy & lollies options worth comparing?",
+      "answer": "Yes. Nearby collections or substitute products can be useful when lolliland is out of stock or only available in limited pack sizes."
+    }
+  ],
+  "faq_questions": [
+    "Where can I buy lolliland online in Australia?",
+    "How should I compare lolliland prices?",
+    "Are there other candy & lollies options worth comparing?"
+  ],
+  "internal_links": [
+    {
+      "url": "https://sweetsworld.com.au/candy/",
+      "label": "Candy",
+      "anchor_text": "Shop Candy",
+      "link_kind": "category"
+    },
+    {
+      "url": "https://sweetsworld.com.au/candy/lolliland-gummy-fried-eggs-1kg-gluten-free/",
+      "label": "Lolliland Gummy Fried Eggs 1kg Gluten",
+      "anchor_text": "Browse Lolliland Gummy Fried Eggs 1kg Gluten",
+      "link_kind": "collection"
+    },
+    {
+      "url": "https://sweetsworld.com.au/candy/sour-lollies/lolliland-cherry-bombs/",
+      "label": "Lolliland Cherry Bombs",
+      "anchor_text": "Compare Lolliland Cherry Bombs",
+      "link_kind": "product"
+    }
+  ],
+  "selected_products": [
+    {
+      "product_name": "Lolliland GUMMY FRIED EGGS 1KG - Gluten Free",
+      "category": "Candy",
+      "description": "",
+      "price": "25",
+      "url": "https://sweetsworld.com.au/candy/lolliland-gummy-fried-eggs-1kg-gluten-free/",
+      "matched_tokens": [
+        "lolliland",
+        "gummy"
+      ],
+      "matched_phrases": [],
+      "selection_reason": "direct_match"
+    },
+    {
+      "product_name": "Lolliland Cola Bottle Gluten Free 1kg",
+      "category": "Candy",
+      "description": "Enjoy the Fizzy Fun of Cola Bottle Lollies Cola Bottle lollies bring the taste of classic cola in chewy gummy form. These bottle-shaped sweets are loved for their bold cola flavour. Each piece has a soft, bouncy...",
+      "price": "25",
+      "url": "https://sweetsworld.com.au/candy/lollilandcolabottleglutenfree1kg/",
+      "matched_tokens": [
+        "lolliland",
+        "gummy"
+      ],
+      "matched_phrases": [],
+      "selection_reason": "direct_match"
+    },
+    {
+      "product_name": "Lolliland Cherry Bombs 150g",
+      "category": "Candy",
+      "description": "Lolliland Cherry Bombs – Juicy Cherry Flavour with a Tangy Twist Lolliland Cherry Bombs explode with bold cherry flavour in every chew. These bite-sized lollies offer a juicy centre and soft texture. Each piece has a...",
+      "price": "4.99",
+      "url": "https://sweetsworld.com.au/candy/sour-lollies/lolliland-cherry-bombs/",
+      "matched_tokens": [
+        "lolliland"
+      ],
+      "matched_phrases": [],
+      "selection_reason": "direct_match"
+    }
+  ],
+  "related_keywords": [
+    "sweetsworld",
+    "sweets world",
+    "white knight chocolate",
+    "fantales lollies",
+    "fantails lolly",
+    "darrell lea kotara"
+  ],
+  "cta": {
+    "heading": "Move from lolliland research into a purchase",
+    "body": "Compare the shortlist, then click through to the most relevant collection or product page to check live stock and delivery details."
+  }
+}

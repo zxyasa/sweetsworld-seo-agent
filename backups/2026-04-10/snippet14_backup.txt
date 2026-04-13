@@ -1,0 +1,97 @@
+
+/**
+ * reCAPTCHA Enterprise v3 — WooCommerce registration + login protection
+ */
+define( 'RECAPTCHA_ENTERPRISE_API_KEY',    'AIzaSyBDQN5AWfDruX6AxC-IgqHQPLFePEJz8uI' );
+define( 'RECAPTCHA_ENTERPRISE_SITE_KEY',   '6LfHjq8sAAAAAHgJ684Ni6pVqRoHesgUfv3WubYx' );
+define( 'RECAPTCHA_ENTERPRISE_PROJECT_ID', '453435739670' );
+define( 'RECAPTCHA_SCORE_THRESHOLD', 0.5 );
+
+// ── 1. Enqueue script ───────────────────────────────────────────────────────
+add_action( 'wp_enqueue_scripts', function() {
+    wp_enqueue_script(
+        'recaptcha-enterprise',
+        'https://www.google.com/recaptcha/enterprise.js?render=' . RECAPTCHA_ENTERPRISE_SITE_KEY,
+        [], null, false
+    );
+} );
+
+// ── 2. Inject hidden token fields ────────────────────────────────────────────
+add_action( 'woocommerce_register_form', function() {
+    echo '<input type="hidden" name="recaptcha_token" id="recaptcha_register_token" value="">';
+} );
+add_action( 'woocommerce_login_form', function() {
+    echo '<input type="hidden" name="recaptcha_token" id="recaptcha_login_token" value="">';
+} );
+
+// ── 3. Inline JS: execute reCAPTCHA before form submit ───────────────────────
+add_action( 'wp_footer', function() {
+    if ( ! is_account_page() && ! is_checkout() ) return;
+    $site_key = RECAPTCHA_ENTERPRISE_SITE_KEY;
+    ?>
+    <script>
+    (function() {
+      function attachRecaptcha(formSelector, tokenInputId, action) {
+        var form = document.querySelector(formSelector);
+        if (!form) return;
+        form.addEventListener('submit', function(e) {
+          var tokenInput = document.getElementById(tokenInputId);
+          if (tokenInput && tokenInput.value) return; // already has token, allow submit
+          e.preventDefault();
+          var frm = this;
+          grecaptcha.enterprise.ready(function() {
+            grecaptcha.enterprise.execute('<?php echo esc_js($site_key); ?>', {action: action}).then(function(token) {
+              document.getElementById(tokenInputId).value = token;
+              frm.submit();
+            });
+          });
+        });
+      }
+      attachRecaptcha('.woocommerce-form-register', 'recaptcha_register_token', 'register');
+      attachRecaptcha('.woocommerce-form-login',    'recaptcha_login_token',    'login');
+    })();
+    </script>
+    <?php
+} );
+
+// ── 4. Server-side validation helper ────────────────────────────────────────
+function sw_verify_recaptcha_token( $token, $action ) {
+    if ( empty( $token ) ) return false;
+
+    $url     = sprintf(
+        'https://recaptchaenterprise.googleapis.com/v1/projects/%s/assessments?key=%s',
+        RECAPTCHA_ENTERPRISE_PROJECT_ID,
+        RECAPTCHA_ENTERPRISE_API_KEY
+    );
+    $payload = wp_json_encode( [
+        'event' => [
+            'token'          => $token,
+            'siteKey'        => RECAPTCHA_ENTERPRISE_SITE_KEY,
+            'expectedAction' => $action,
+        ],
+    ] );
+
+    $response = wp_remote_post( $url, [
+        'headers' => [ 'Content-Type' => 'application/json' ],
+        'body'    => $payload,
+        'timeout' => 5,
+    ] );
+
+    if ( is_wp_error( $response ) ) {
+        return true; // fail open — don't block real users on network errors
+    }
+
+    $body  = json_decode( wp_remote_retrieve_body( $response ), true );
+    $valid = $body['tokenProperties']['valid'] ?? false;
+    $score = $body['riskAnalysis']['score'] ?? 0.0;
+
+    return $valid && ( $score >= RECAPTCHA_SCORE_THRESHOLD );
+}
+
+// ── 5. Validate on WooCommerce registration ──────────────────────────────────
+add_action( 'woocommerce_register_post', function( $username, $email, $errors ) {
+    $token = sanitize_text_field( $_POST['recaptcha_token'] ?? '' );
+    if ( ! sw_verify_recaptcha_token( $token, 'register' ) ) {
+        $errors->add( 'recaptcha_failed', __( 'Security verification failed. Please try again.', 'woocommerce' ) );
+    }
+}, 10, 3 );

@@ -1,0 +1,118 @@
+{
+  "brief_id": "peach-candy-australia-brief-v1",
+  "slug": "peach-candy-australia",
+  "keyword": "peach candy australia",
+  "search_intent": "Commercial category intent",
+  "page_type": "category_page",
+  "title": "Peach Candy Australia: Buy Peach Rings and Peach Flavoured Sweets",
+  "meta_description": "Peach Candy Australia: Buy Peach Rings and Peach Flavoured Sweets. Compare stock options, buying factors, and the best next steps for peach candy in...",
+  "intro": "This page explains the peach candy range, the main product formats to compare, and the next collection or product pages worth opening before you buy.",
+  "outline": [
+    "What defines the peach candy range",
+    "How to shop Candy & Lollies more confidently"
+  ],
+  "sections": [
+    {
+      "heading": "What defines the peach candy range",
+      "paragraphs": [
+        "A category page for peach candy should explain flavour profile, product format, and the most recognisable options in the range.",
+        "That helps search engines and shoppers understand the scope of the page before they move deeper into the catalogue."
+      ],
+      "bullets": [
+        "Peach Rings 130g",
+        "Lolliland Peach Rings (Gluten Free)- 1kg"
+      ]
+    },
+    {
+      "heading": "How to shop Candy & Lollies more confidently",
+      "paragraphs": [
+        "Category pages should guide users through format, suitability, and value instead of listing products without context.",
+        "This is the section that turns a collection page into a useful SEO landing surface."
+      ],
+      "bullets": [
+        "Show best sellers before long-tail variants.",
+        "Explain when bundles make more sense than single items.",
+        "Link into adjacent collections and product pages."
+      ]
+    }
+  ],
+  "faq_items": [
+    {
+      "question": "What should I look for when choosing peach candy?",
+      "answer": "Focus on suitability for the use case, flavour profile, pack size, and delivery timing rather than assuming every popular candy is the right fit."
+    },
+    {
+      "question": "What is the best next step after reading this page?",
+      "answer": "Use the linked category or product pages to compare live stock, range depth, and practical buying options."
+    },
+    {
+      "question": "Can this page help me compare candy & lollies options?",
+      "answer": "Yes. It should clarify which products or collections are the best fit instead of leaving the reader with generic advice."
+    }
+  ],
+  "faq_questions": [
+    "What should I look for when choosing peach candy?",
+    "What is the best next step after reading this page?",
+    "Can this page help me compare candy & lollies options?"
+  ],
+  "internal_links": [
+    {
+      "url": "https://sweetsworld.com.au/candy/",
+      "label": "Candy",
+      "anchor_text": "Explore Candy",
+      "link_kind": "category"
+    },
+    {
+      "url": "https://sweetsworld.com.au/uncategorized/peachrings130g/",
+      "label": "Peachrings130g",
+      "anchor_text": "Browse Peachrings130g",
+      "link_kind": "collection"
+    },
+    {
+      "url": "https://sweetsworld.com.au/party-lollies/kidsparty/lolliland-peach-rings/",
+      "label": "Lolliland Peach Rings",
+      "anchor_text": "See Lolliland Peach Rings",
+      "link_kind": "product"
+    }
+  ],
+  "selected_products": [
+    {
+      "product_name": "Peach Rings 130g",
+      "category": "Uncategorized",
+      "description": "",
+      "price": "4.99",
+      "url": "https://sweetsworld.com.au/uncategorized/peachrings130g/",
+      "matched_tokens": [
+        "peach",
+        "ring"
+      ],
+      "matched_phrases": [],
+      "selection_reason": "direct_match"
+    },
+    {
+      "product_name": "Lolliland Peach Rings (Gluten Free)- 1kg",
+      "category": "Candy",
+      "description": "Lolliland Peach Rings are a delicious, sugar-dusted, peach-flavored treat perfect for kids’ parties, BBQs, and family snack nights. Available in bulk from Lolly’s online shop, they’re ready to brighten up any...",
+      "price": "25",
+      "url": "https://sweetsworld.com.au/party-lollies/kidsparty/lolliland-peach-rings/",
+      "matched_tokens": [
+        "peach",
+        "ring"
+      ],
+      "matched_phrases": [],
+      "selection_reason": "direct_match"
+    }
+  ],
+  "related_keywords": [
+    "sweetsworld",
+    "sweets world",
+    "white knight chocolate",
+    "fantales lollies",
+    "fantails lolly",
+    "darrell lea kotara"
+  ],
+  "cta": {
+    "heading": "Use this page as a shortlist for peach candy",
+    "body": "Review the key options, then move into the linked collection or product pages when you are ready to compare live stock and pricing."
+  }
+}

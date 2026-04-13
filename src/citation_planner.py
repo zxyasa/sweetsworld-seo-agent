@@ -284,8 +284,13 @@ class CitationPlanner:
 
     def _build_hashtags(self, page_type: str, keyword: str) -> List[str]:
         brand_tag = "#" + self._brand_name
-        keyword_tag = "#" + "".join(w.capitalize() for w in keyword.split()[:3])
-        base = [brand_tag, keyword_tag]
+        safe_keyword = keyword or ""
+        keyword_tag = "#" + "".join(w.capitalize() for w in safe_keyword.split()[:3])
+        base = ["#SweetsWorld", "#AustralianCandy", "#CandyAustralia"]
+        if brand_tag not in base:
+            base.append(brand_tag)
+        if keyword_tag != "#" and keyword_tag not in base:
+            base.append(keyword_tag)
         if page_type == "occasion_page":
             return base + ["#PartyPlanning", "#EventMarketing"]
         if page_type == "guide_page":
@@ -341,7 +346,7 @@ class CitationPlanner:
             platform_name = channel.display_name if channel else channel_id
             platform_entity_id = f"platform:{channel_id}"
             graph.upsert_entity(
-                platform_entity_id, "social_asset", platform_name,
+                platform_entity_id, "social_platform", platform_name,
                 properties={"channel_type": channel.channel_type if channel else "unknown"},
             )
 

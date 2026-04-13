@@ -1,0 +1,143 @@
+{
+  "brief_id": "lotus-biscoff-australia-brief-v1",
+  "slug": "lotus-biscoff-australia",
+  "keyword": "lotus biscoff australia",
+  "search_intent": "Transactional with commercial intent",
+  "page_type": "landing_page",
+  "title": "Lotus Biscoff Australia: Buy Biscoff Spread and Biscuits Online",
+  "meta_description": "Lotus Biscoff Australia: Buy Biscoff Spread and Biscuits Online. Compare stock options, buying factors, and the best next steps for lotus biscoff in...",
+  "intro": "Use this page to compare where to buy lotus biscoff in Australia, what to check before ordering, and which european snacks options are the best fit for your basket.",
+  "outline": [
+    "Where to buy lotus biscoff with less guesswork",
+    "How to compare European Snacks options before ordering"
+  ],
+  "sections": [
+    {
+      "heading": "Where to buy lotus biscoff with less guesswork",
+      "paragraphs": [
+        "Landing pages for lotus biscoff need to show real commercial value quickly, including price context, stock clarity, and relevant product paths.",
+        "The goal is to reduce purchase friction rather than publish a thin page that repeats the keyword."
+      ],
+      "bullets": [
+        "Lotus Biscoff Spread 400g",
+        "Lotus Biscoff Spread Smooth 400g",
+        "LOTUS BISCOFF SPREAD 1.6KG"
+      ]
+    },
+    {
+      "heading": "How to compare European Snacks options before ordering",
+      "paragraphs": [
+        "A stronger landing page explains the trade-offs between pack size, flavour range, stock depth, and delivery timing.",
+        "That gives the page a conversion job as well as a ranking job."
+      ],
+      "bullets": [
+        "Compare unit price instead of headline price alone.",
+        "Check stock, bundle size, and delivery timing together.",
+        "Keep the call to action aligned with the buying task."
+      ]
+    }
+  ],
+  "faq_items": [
+    {
+      "question": "Where can I buy lotus biscoff online in Australia?",
+      "answer": "Start with Australian stores that show live stock, delivery windows, and product range depth for lotus biscoff before checkout."
+    },
+    {
+      "question": "How should I compare lotus biscoff prices?",
+      "answer": "Compare unit price, pack size, shipping cost, and bundle options together instead of looking at the headline price only."
+    },
+    {
+      "question": "Are there other european snacks options worth comparing?",
+      "answer": "Yes. Nearby collections or substitute products can be useful when lotus biscoff is out of stock or only available in limited pack sizes."
+    }
+  ],
+  "faq_questions": [
+    "Where can I buy lotus biscoff online in Australia?",
+    "How should I compare lotus biscoff prices?",
+    "Are there other european snacks options worth comparing?"
+  ],
+  "internal_links": [
+    {
+      "url": "https://sweetsworld.com.au/grocery/lotusbiscoffspread400g/",
+      "label": "Lotusbiscoffspread400g",
+      "anchor_text": "Shop Lotusbiscoffspread400g",
+      "link_kind": "collection"
+    },
+    {
+      "url": "https://sweetsworld.com.au/grocery/",
+      "label": "Grocery",
+      "anchor_text": "Browse Grocery",
+      "link_kind": "category"
+    },
+    {
+      "url": "https://sweetsworld.com.au/shop/candy/allensfantales1kg/",
+      "label": "Allensfantales1kg",
+      "anchor_text": "Compare Allensfantales1kg",
+      "link_kind": "product"
+    }
+  ],
+  "selected_products": [
+    {
+      "product_name": "Lotus Biscoff Spread 400g",
+      "category": "Grocery",
+      "description": "Lotus Biscoff Spread 400g Product Description: Biscuit Spread Irresistibly Tasty Enjoy the great taste of the famous Lotus Biscoff biscuits in a jar. To turn them into this irresistibly smooth spread, we crush them...",
+      "price": "13.99",
+      "url": "https://sweetsworld.com.au/grocery/lotusbiscoffspread400g/",
+      "matched_tokens": [
+        "lotu",
+        "biscoff",
+        "spread",
+        "biscuit"
+      ],
+      "matched_phrases": [
+        "lotu biscoff"
+      ],
+      "selection_reason": "direct_match"
+    },
+    {
+      "product_name": "Lotus Biscoff Spread Smooth 400g",
+      "category": "Candy",
+      "description": "Irresistible Creaminess with Lotus Biscoff Spread Smooth Lotus Biscoff Spread Smooth is the ultimate indulgence for caramel biscuit lovers. Made from crushed Biscoff cookies, it delivers a rich, spiced caramel...",
+      "price": "13.99",
+      "url": "https://sweetsworld.com.au/candy/lotus-biscoff-spread-smooth-400g/",
+      "matched_tokens": [
+        "lotu",
+        "biscoff",
+        "spread",
+        "biscuit"
+      ],
+      "matched_phrases": [
+        "lotu biscoff"
+      ],
+      "selection_reason": "direct_match"
+    },
+    {
+      "product_name": "LOTUS BISCOFF SPREAD 1.6KG",
+      "category": "Candy",
+      "description": "",
+      "price": "59.99",
+      "url": "https://sweetsworld.com.au/candy/lotus-biscoff-spread-16kg/",
+      "matched_tokens": [
+        "lotu",
+        "biscoff",
+        "spread"
+      ],
+      "matched_phrases": [
+        "lotu biscoff"
+      ],
+      "selection_reason": "direct_match"
+    }
+  ],
+  "related_keywords": [
+    "sweetsworld",
+    "sweets world",
+    "white knight chocolate",
+    "fantales lollies",
+    "fantails lolly",
+    "darrell lea kotara"
+  ],
+  "cta": {
+    "heading": "Move from lotus biscoff research into a purchase",
+    "body": "Compare the shortlist, then click through to the most relevant collection or product page to check live stock and delivery details."
+  }
+}

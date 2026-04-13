@@ -1,0 +1,148 @@
+{
+  "brief_id": "old-fashioned-lollies-australia-brief-v1",
+  "slug": "old-fashioned-lollies-australia",
+  "keyword": "old fashioned lollies australia",
+  "search_intent": "Commercial category intent",
+  "page_type": "category_page",
+  "title": "Old Fashioned Lollies Australia: Classic Retro Sweets You Grew Up With",
+  "meta_description": "Old Fashioned Lollies Australia: Classic Retro Sweets You Grew Up With. Compare stock options, buying factors, and the best next steps for old fashioned...",
+  "intro": "This page explains the old fashioned lollies range, the main product formats to compare, and the next collection or product pages worth opening before you buy.",
+  "outline": [
+    "What defines the old fashioned lollies range",
+    "How to shop Classic Candy more confidently"
+  ],
+  "sections": [
+    {
+      "heading": "What defines the old fashioned lollies range",
+      "paragraphs": [
+        "A category page for old fashioned lollies should explain flavour profile, product format, and the most recognisable options in the range.",
+        "That helps search engines and shoppers understand the scope of the page before they move deeper into the catalogue."
+      ],
+      "bullets": [
+        "Davies Hard Centres Gift Pack – Classic Sweet Treats",
+        "STEENLAND Chocolate Happy Birthday Day Medallion 125mm with Ribbon",
+        "Sweetworld Lollipop- SINGLE ONE",
+        "Tajin Classic Chilli Seasoning- 400g"
+      ]
+    },
+    {
+      "heading": "How to shop Classic Candy more confidently",
+      "paragraphs": [
+        "Category pages should guide users through format, suitability, and value instead of listing products without context.",
+        "This is the section that turns a collection page into a useful SEO landing surface."
+      ],
+      "bullets": [
+        "Show best sellers before long-tail variants.",
+        "Explain when bundles make more sense than single items.",
+        "Link into adjacent collections and product pages."
+      ]
+    }
+  ],
+  "faq_items": [
+    {
+      "question": "What should I look for when choosing old fashioned lollies?",
+      "answer": "Focus on suitability for the use case, flavour profile, pack size, and delivery timing rather than assuming every popular candy is the right fit."
+    },
+    {
+      "question": "What is the best next step after reading this page?",
+      "answer": "Use the linked category or product pages to compare live stock, range depth, and practical buying options."
+    },
+    {
+      "question": "Can this page help me compare classic candy options?",
+      "answer": "Yes. It should clarify which products or collections are the best fit instead of leaving the reader with generic advice."
+    }
+  ],
+  "faq_questions": [
+    "What should I look for when choosing old fashioned lollies?",
+    "What is the best next step after reading this page?",
+    "Can this page help me compare classic candy options?"
+  ],
+  "internal_links": [
+    {
+      "url": "https://sweetsworld.com.au/candy/",
+      "label": "Candy",
+      "anchor_text": "Explore Candy",
+      "link_kind": "category"
+    },
+    {
+      "url": "https://sweetsworld.com.au/gift/corporate-gift/",
+      "label": "Corporate Gift",
+      "anchor_text": "Browse Corporate Gift",
+      "link_kind": "collection"
+    },
+    {
+      "url": "https://sweetsworld.com.au/gift/corporate-gift/davies-hard-centres-gift-pack/",
+      "label": "Davies Hard Centres Gift Pack",
+      "anchor_text": "View Davies Hard Centres Gift Pack",
+      "link_kind": "product"
+    }
+  ],
+  "selected_products": [
+    {
+      "product_name": "Davies Hard Centres Gift Pack – Classic Sweet Treats",
+      "category": "Corporate Gift",
+      "description": "The Davies Hard Centres Gift Pack is a delightful assortment of classic hard-centre sweets, perfect for sharing or gifting. Each candy offers a firm yet chewy texture, combining fruity and creamy flavours for a...",
+      "price": "21.99",
+      "url": "https://sweetsworld.com.au/gift/corporate-gift/davies-hard-centres-gift-pack/",
+      "matched_tokens": [
+        "classic",
+        "sweet"
+      ],
+      "matched_phrases": [],
+      "selection_reason": "direct_match"
+    },
+    {
+      "product_name": "STEENLAND Chocolate Happy Birthday Day Medallion 125mm with Ribbon",
+      "category": "Dutch Sweets",
+      "description": "STEENLAND Chocolate Happy Birthday Day Medallion 125mm with Ribbon Product Description: Our Milk Chocolate Gold Medals feature a large, delicious 3\" diameter Milk Chocolate Medal with \"1\" imprinted on it, and the...",
+      "price": "9.99",
+      "url": "https://sweetsworld.com.au/candy/dutch-sweets/steenland-chocolate-happy-birthday-day-medallion-125mm-with-ribbon/",
+      "matched_tokens": [
+        "sweet",
+        "with"
+      ],
+      "matched_phrases": [],
+      "selection_reason": "direct_match"
+    },
+    {
+      "product_name": "Sweetworld Lollipop- SINGLE ONE",
+      "category": "Candy",
+      "description": "Sweetworld Lollipop – A Classic Treat for All Ages! Add a pop of colour and sweetness to your day with the Sweetworld Lollipop ! Bursting with fruity flavour and bright colours, this classic lolly is perfect for kids...",
+      "price": "0.50001",
+      "url": "https://sweetsworld.com.au/party-lollies/kidsparty/sweetworld-lollipop/",
+      "matched_tokens": [
+        "classic",
+        "sweet",
+        "with"
+      ],
+      "matched_phrases": [],
+      "selection_reason": "direct_match"
+    },
+    {
+      "product_name": "Tajin Classic Chilli Seasoning- 400g",
+      "category": "Uncategorized",
+      "description": "Tajin Classic Chilli Seasoning 400g – Add a Tangy Kick to Your Favourite Foods! At Sweets World , we love bringing bold and exciting flavours from around the world to your table. If you enjoy a bit of spice with a...",
+      "price": "19.99",
+      "url": "https://sweetsworld.com.au/uncategorized/tajin-classic-chilli-seasoning/",
+      "matched_tokens": [
+        "classic",
+        "sweet",
+        "with"
+      ],
+      "matched_phrases": [],
+      "selection_reason": "direct_match"
+    }
+  ],
+  "related_keywords": [
+    "sweetsworld",
+    "sweets world",
+    "white knight chocolate",
+    "fantales lollies",
+    "clinkers chocolate",
+    "fantails lolly"
+  ],
+  "cta": {
+    "heading": "Use this page as a shortlist for old fashioned lollies",
+    "body": "Review the key options, then move into the linked collection or product pages when you are ready to compare live stock and pricing."
+  }
+}

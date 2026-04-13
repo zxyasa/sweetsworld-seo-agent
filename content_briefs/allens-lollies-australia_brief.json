@@ -1,0 +1,145 @@
+{
+  "brief_id": "allens-lollies-australia-brief-v1",
+  "slug": "allens-lollies-australia",
+  "keyword": "allens lollies australia",
+  "search_intent": "Transactional with commercial intent",
+  "page_type": "landing_page",
+  "title": "Allen's Lollies Australia: Buy Allen's Red Frogs Snakes and More",
+  "meta_description": "Allen's Lollies Australia: Buy Allen's Red Frogs Snakes and More. Compare stock options, buying factors, and the best next steps for allens lollies in...",
+  "intro": "Use this page to compare where to buy allens lollies in Australia, what to check before ordering, and which candy & lollies options are the best fit for your basket.",
+  "outline": [
+    "Where to buy allens lollies with less guesswork",
+    "How to compare Candy & Lollies options before ordering"
+  ],
+  "sections": [
+    {
+      "heading": "Where to buy allens lollies with less guesswork",
+      "paragraphs": [
+        "Landing pages for allens lollies need to show real commercial value quickly, including price context, stock clarity, and relevant product paths.",
+        "The goal is to reduce purchase friction rather than publish a thin page that repeats the keyword."
+      ],
+      "bullets": [
+        "Allen's Snake Alive 1.3 kg",
+        "Allen's Snakes Alive 1.3kg.",
+        "Allens Red Frogs Alive 1.3kg",
+        "Allen's Chew Mix 150g"
+      ]
+    },
+    {
+      "heading": "How to compare Candy & Lollies options before ordering",
+      "paragraphs": [
+        "A stronger landing page explains the trade-offs between pack size, flavour range, stock depth, and delivery timing.",
+        "That gives the page a conversion job as well as a ranking job."
+      ],
+      "bullets": [
+        "Compare unit price instead of headline price alone.",
+        "Check stock, bundle size, and delivery timing together.",
+        "Keep the call to action aligned with the buying task."
+      ]
+    }
+  ],
+  "faq_items": [
+    {
+      "question": "Where can I buy allens lollies online in Australia?",
+      "answer": "Start with Australian stores that show live stock, delivery windows, and product range depth for allens lollies before checkout."
+    },
+    {
+      "question": "How should I compare allens lollies prices?",
+      "answer": "Compare unit price, pack size, shipping cost, and bundle options together instead of looking at the headline price only."
+    },
+    {
+      "question": "Are there other candy & lollies options worth comparing?",
+      "answer": "Yes. Nearby collections or substitute products can be useful when allens lollies is out of stock or only available in limited pack sizes."
+    }
+  ],
+  "faq_questions": [
+    "Where can I buy allens lollies online in Australia?",
+    "How should I compare allens lollies prices?",
+    "Are there other candy & lollies options worth comparing?"
+  ],
+  "internal_links": [
+    {
+      "url": "https://sweetsworld.com.au/where-to-buy/haribo-australia/",
+      "label": "Haribo Australia",
+      "anchor_text": "Shop Haribo Australia",
+      "link_kind": "commercial"
+    },
+    {
+      "url": "https://sweetsworld.com.au/candy/",
+      "label": "Candy",
+      "anchor_text": "Compare Candy",
+      "link_kind": "category"
+    },
+    {
+      "url": "https://sweetsworld.com.au/candy/allenssnakealive13kg/",
+      "label": "Allenssnakealive13kg",
+      "anchor_text": "Shop Allenssnakealive13kg",
+      "link_kind": "collection"
+    }
+  ],
+  "selected_products": [
+    {
+      "product_name": "Allen's Snake Alive 1.3 kg",
+      "category": "Candy",
+      "description": "",
+      "price": "29.99",
+      "url": "https://sweetsworld.com.au/candy/allenssnakealive13kg/",
+      "matched_tokens": [
+        "allen",
+        "snake"
+      ],
+      "matched_phrases": [],
+      "selection_reason": "direct_match"
+    },
+    {
+      "product_name": "Allen's Snakes Alive 1.3kg.",
+      "category": "Candy",
+      "description": "Enjoy the Classic Flavour of Allen's Snakes Alive Allen's Snakes Alive are a fruity Aussie favourite loved by all ages. Each snake offers a long, chewy texture packed with bold fruit flavour. You’ll enjoy a mix of...",
+      "price": "39.99",
+      "url": "https://sweetsworld.com.au/candy/allenssnakesalive/",
+      "matched_tokens": [
+        "allen",
+        "snake"
+      ],
+      "matched_phrases": [],
+      "selection_reason": "direct_match"
+    },
+    {
+      "product_name": "Allens Red Frogs Alive 1.3kg",
+      "category": "Candy",
+      "description": "",
+      "price": "39.99",
+      "url": "https://sweetsworld.com.au/candy/allensredfrogsalive13kg/",
+      "matched_tokens": [
+        "allen",
+        "frog"
+      ],
+      "matched_phrases": [],
+      "selection_reason": "direct_match"
+    },
+    {
+      "product_name": "Allen's Chew Mix 150g",
+      "category": "Candy",
+      "description": "",
+      "price": "5.99",
+      "url": "https://sweetsworld.com.au/candy/allens-chew-mix-150g/",
+      "matched_tokens": [
+        "allen"
+      ],
+      "matched_phrases": [],
+      "selection_reason": "direct_match"
+    }
+  ],
+  "related_keywords": [
+    "sweetsworld",
+    "sweets world",
+    "white knight chocolate",
+    "fantales lollies",
+    "clinkers chocolate",
+    "fantails lolly"
+  ],
+  "cta": {
+    "heading": "Move from allens lollies research into a purchase",
+    "body": "Compare the shortlist, then click through to the most relevant collection or product page to check live stock and delivery details."
+  }
+}

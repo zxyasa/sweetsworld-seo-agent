@@ -1,0 +1,134 @@
+{
+  "brief_id": "caramel-chocolate-australia-brief-v1",
+  "slug": "caramel-chocolate-australia",
+  "keyword": "caramel chocolate australia",
+  "search_intent": "Commercial category intent",
+  "page_type": "category_page",
+  "title": "Caramel Chocolate Australia: Buy Caramel Chews and Caramel Chocolate",
+  "meta_description": "Caramel Chocolate Australia: Buy Caramel Chews and Caramel Chocolate. Compare stock options, buying factors, and the best next steps for caramel...",
+  "intro": "This page explains the caramel chocolate range, the main product formats to compare, and the next collection or product pages worth opening before you buy.",
+  "outline": [
+    "What defines the caramel chocolate range",
+    "How to shop Chocolate Bars more confidently"
+  ],
+  "sections": [
+    {
+      "heading": "What defines the caramel chocolate range",
+      "paragraphs": [
+        "A category page for caramel chocolate should explain flavour profile, product format, and the most recognisable options in the range.",
+        "That helps search engines and shoppers understand the scope of the page before they move deeper into the catalogue."
+      ],
+      "bullets": [
+        "Milk Chocolate Chewy Caramel 150g",
+        "Milk Chocolate Chewy Caramel 1.8kg ( Like Cobbers)",
+        "Astir Xmas Milk Chocolate Balls Caramel Cream 220g"
+      ]
+    },
+    {
+      "heading": "How to shop Chocolate Bars more confidently",
+      "paragraphs": [
+        "Category pages should guide users through format, suitability, and value instead of listing products without context.",
+        "This is the section that turns a collection page into a useful SEO landing surface."
+      ],
+      "bullets": [
+        "Show best sellers before long-tail variants.",
+        "Explain when bundles make more sense than single items.",
+        "Link into adjacent collections and product pages."
+      ]
+    }
+  ],
+  "faq_items": [
+    {
+      "question": "What should I look for when choosing caramel chocolate?",
+      "answer": "Focus on suitability for the use case, flavour profile, pack size, and delivery timing rather than assuming every popular candy is the right fit."
+    },
+    {
+      "question": "What is the best next step after reading this page?",
+      "answer": "Use the linked category or product pages to compare live stock, range depth, and practical buying options."
+    },
+    {
+      "question": "Can this page help me compare chocolate bars options?",
+      "answer": "Yes. It should clarify which products or collections are the best fit instead of leaving the reader with generic advice."
+    }
+  ],
+  "faq_questions": [
+    "What should I look for when choosing caramel chocolate?",
+    "What is the best next step after reading this page?",
+    "Can this page help me compare chocolate bars options?"
+  ],
+  "internal_links": [
+    {
+      "url": "https://sweetsworld.com.au/products/mint-chocolate-australia/",
+      "label": "Mint Chocolate Australia",
+      "anchor_text": "Explore Mint Chocolate Australia",
+      "link_kind": "collection"
+    },
+    {
+      "url": "https://sweetsworld.com.au/chocolate/",
+      "label": "Chocolate",
+      "anchor_text": "Browse Chocolate",
+      "link_kind": "category"
+    },
+    {
+      "url": "https://sweetsworld.com.au/chocolate/australian-chocolate/milk-chocolate-chewy-caramel-150g/",
+      "label": "Milk Chocolate Chewy Caramel 150g",
+      "anchor_text": "View Milk Chocolate Chewy Caramel 150g",
+      "link_kind": "product"
+    }
+  ],
+  "selected_products": [
+    {
+      "product_name": "Milk Chocolate Chewy Caramel 150g",
+      "category": "Australian Chocolate",
+      "description": "Treat yourself to the smooth and creamy goodness of Milk Chocolate Chewy Caramel 150g , available now at Sweets World ! This delightful treat is a perfect mix of rich milk chocolate and soft, chewy caramel that melts...",
+      "price": "5.99",
+      "url": "https://sweetsworld.com.au/chocolate/australian-chocolate/milk-chocolate-chewy-caramel-150g/",
+      "matched_tokens": [
+        "chocolate",
+        "caramel",
+        "chew"
+      ],
+      "matched_phrases": [],
+      "selection_reason": "direct_match"
+    },
+    {
+      "product_name": "Milk Chocolate Chewy Caramel 1.8kg ( Like Cobbers)",
+      "category": "Australian Chocolate",
+      "description": "Milk Chocolate Chewy Caramel is a luxurious treat that combines creamy chocolate with soft, rich caramel, providing an indulgent experience with every piece. Available from Lolly’s online shop for delivery throughout...",
+      "price": "69.99",
+      "url": "https://sweetsworld.com.au/chocolate/australian-chocolate/milk-chocolate-chewy-caramel-18kg-like-cobbers/",
+      "matched_tokens": [
+        "chocolate",
+        "caramel",
+        "chew"
+      ],
+      "matched_phrases": [],
+      "selection_reason": "direct_match"
+    },
+    {
+      "product_name": "Astir Xmas Milk Chocolate Balls Caramel Cream 220g",
+      "category": "Candy",
+      "description": "Astir Xmas Milk Chocolate Balls with Caramel Cream: Festive and Irresistibly Creamy Astir Xmas Milk Chocolate Balls with Caramel Cream are luxurious, bite-sized treats perfect for the holiday season. Each festive...",
+      "price": "14.99",
+      "url": "https://sweetsworld.com.au/candy/astir-xmas-milk-chocolate-balls/",
+      "matched_tokens": [
+        "chocolate",
+        "caramel"
+      ],
+      "matched_phrases": [],
+      "selection_reason": "direct_match"
+    }
+  ],
+  "related_keywords": [
+    "sweetsworld",
+    "sweets world",
+    "white knight chocolate",
+    "fantales lollies",
+    "clinkers chocolate",
+    "fantails lolly"
+  ],
+  "cta": {
+    "heading": "Use this page as a shortlist for caramel chocolate",
+    "body": "Review the key options, then move into the linked collection or product pages when you are ready to compare live stock and pricing."
+  }
+}

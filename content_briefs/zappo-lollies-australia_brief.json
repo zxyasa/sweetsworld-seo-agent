@@ -1,0 +1,132 @@
+{
+  "brief_id": "zappo-lollies-australia-brief-v1",
+  "slug": "zappo-lollies-australia",
+  "keyword": "zappo lollies australia",
+  "search_intent": "Transactional with commercial intent",
+  "page_type": "landing_page",
+  "title": "Zappo Lollies Australia: Buy Zappo Chews Online",
+  "meta_description": "Zappo Lollies Australia: Buy Zappo Chews Online. Compare stock options, buying factors, and the best next steps for zappo lollies in Australia.",
+  "intro": "Use this page to compare where to buy zappo lollies in Australia, what to check before ordering, and which candy & lollies options are the best fit for your basket.",
+  "outline": [
+    "Where to buy zappo lollies with less guesswork",
+    "How to compare Candy & Lollies options before ordering"
+  ],
+  "sections": [
+    {
+      "heading": "Where to buy zappo lollies with less guesswork",
+      "paragraphs": [
+        "Landing pages for zappo lollies need to show real commercial value quickly, including price context, stock clarity, and relevant product paths.",
+        "The goal is to reduce purchase friction rather than publish a thin page that repeats the keyword."
+      ],
+      "bullets": [
+        "Zappo Blue Raspberry Chews 29g",
+        "Zappo Bubblegum Flavour Chews 29g",
+        "Zappo Cherry Chews 29g"
+      ]
+    },
+    {
+      "heading": "How to compare Candy & Lollies options before ordering",
+      "paragraphs": [
+        "A stronger landing page explains the trade-offs between pack size, flavour range, stock depth, and delivery timing.",
+        "That gives the page a conversion job as well as a ranking job."
+      ],
+      "bullets": [
+        "Compare unit price instead of headline price alone.",
+        "Check stock, bundle size, and delivery timing together.",
+        "Keep the call to action aligned with the buying task."
+      ]
+    }
+  ],
+  "faq_items": [
+    {
+      "question": "Where can I buy zappo lollies online in Australia?",
+      "answer": "Start with Australian stores that show live stock, delivery windows, and product range depth for zappo lollies before checkout."
+    },
+    {
+      "question": "How should I compare zappo lollies prices?",
+      "answer": "Compare unit price, pack size, shipping cost, and bundle options together instead of looking at the headline price only."
+    },
+    {
+      "question": "Are there other candy & lollies options worth comparing?",
+      "answer": "Yes. Nearby collections or substitute products can be useful when zappo lollies is out of stock or only available in limited pack sizes."
+    }
+  ],
+  "faq_questions": [
+    "Where can I buy zappo lollies online in Australia?",
+    "How should I compare zappo lollies prices?",
+    "Are there other candy & lollies options worth comparing?"
+  ],
+  "internal_links": [
+    {
+      "url": "https://sweetsworld.com.au/candy/",
+      "label": "Candy",
+      "anchor_text": "Shop Candy",
+      "link_kind": "category"
+    },
+    {
+      "url": "https://sweetsworld.com.au/candy/zappo-blue-raspberry-chews-29g/",
+      "label": "Zappo Blue Raspberry Chews 29g",
+      "anchor_text": "Browse Zappo Blue Raspberry Chews 29g",
+      "link_kind": "collection"
+    },
+    {
+      "url": "https://sweetsworld.com.au/shop/candy/allensfantales1kg/",
+      "label": "Allensfantales1kg",
+      "anchor_text": "View Allensfantales1kg",
+      "link_kind": "product"
+    }
+  ],
+  "selected_products": [
+    {
+      "product_name": "Zappo Blue Raspberry Chews 29g",
+      "category": "Candy",
+      "description": "Zappo Blue Raspberry Chews offer an exciting burst of tangy blue raspberry flavor in every chewy bite. Perfect for sharing, snacking, or adding to party favors, these chews are sure to satisfy your sweet cravings...",
+      "price": "1.5",
+      "url": "https://sweetsworld.com.au/candy/zappo-blue-raspberry-chews-29g/",
+      "matched_tokens": [
+        "zappo",
+        "chew"
+      ],
+      "matched_phrases": [],
+      "selection_reason": "direct_match"
+    },
+    {
+      "product_name": "Zappo Bubblegum Flavour Chews 29g",
+      "category": "Candy",
+      "description": "Zappo Bubblegum Flavour Chews offer a fun and nostalgic candy experience with classic bubblegum flavor and a chewy texture. Perfect for any occasion, they combine sweet taste with satisfying chewiness. Enjoy and...",
+      "price": "1.5",
+      "url": "https://sweetsworld.com.au/candy/zappobubblegumflavourchews29g/",
+      "matched_tokens": [
+        "zappo",
+        "chew"
+      ],
+      "matched_phrases": [],
+      "selection_reason": "direct_match"
+    },
+    {
+      "product_name": "Zappo Cherry Chews 29g",
+      "category": "Candy",
+      "description": "Zappo Cherry Chews offer an exciting burst of tangy cherry flavor in every chewy bite. Perfect for sharing, snacking, or adding to party favors, these chews are sure to satisfy your sweet cravings. Made with...",
+      "price": "1.5",
+      "url": "https://sweetsworld.com.au/candy/zappo-cherry-chews-29g/",
+      "matched_tokens": [
+        "zappo",
+        "chew"
+      ],
+      "matched_phrases": [],
+      "selection_reason": "direct_match"
+    }
+  ],
+  "related_keywords": [
+    "sweetsworld",
+    "sweets world",
+    "white knight chocolate",
+    "fantales lollies",
+    "fantails lolly",
+    "darrell lea kotara"
+  ],
+  "cta": {
+    "heading": "Move from zappo lollies research into a purchase",
+    "body": "Compare the shortlist, then click through to the most relevant collection or product page to check live stock and delivery details."
+  }
+}

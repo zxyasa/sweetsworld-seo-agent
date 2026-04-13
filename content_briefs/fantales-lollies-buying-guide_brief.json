@@ -1,0 +1,138 @@
+{
+  "brief_id": "fantales-lollies-buying-guide-brief-v1",
+  "slug": "fantales-lollies-buying-guide",
+  "keyword": "fantales lollies",
+  "search_intent": "Informational",
+  "page_type": "guide_page",
+  "title": "Fantales Lollies Buying Guide: Where to Buy, 1kg Options, and Best Alternatives",
+  "meta_description": "Fantales Lollies Buying Guide: Where to Buy, 1kg Options, and Best Alternatives. Compare live alternatives, retail versus bulk pack sizes, and the most...",
+  "intro": "Use this guide if you are trying to find fantales lollies, compare the closest in-stock alternatives, or work out whether a small retail bag or a larger bulk pack makes more sense.",
+  "outline": [
+    "If you are struggling to find fantales lollies, start with the closest alternatives",
+    "How to compare close alternatives and pack sizes"
+  ],
+  "sections": [
+    {
+      "heading": "If you are struggling to find fantales lollies, start with the closest alternatives",
+      "paragraphs": [
+        "Searches around fantales lollies are usually about three practical jobs: checking availability, finding the nearest substitute, and deciding which pack size is worth buying.",
+        "This guide should answer those questions directly instead of padding the page with generic candy-guide copy."
+      ],
+      "bullets": [
+        "Milk Chocolate Chewy Caramel 1.8kg ( Like Cobbers)",
+        "Milk Chocolate Chewy Caramel 6kg",
+        "Milk Chocolate Chewy Caramel 150g"
+      ]
+    },
+    {
+      "heading": "How to compare close alternatives and pack sizes",
+      "paragraphs": [
+        "Once the substitute path is clear, compare chewiness, chocolate profile, bag size, and whether a wholesale pack is actually justified for the use case.",
+        "That keeps the page useful for both casual buyers and larger orders without mixing it up with a generic category or landing page."
+      ],
+      "bullets": [
+        "Lead with the closest-match alternatives first.",
+        "Separate small retail bags from 1kg-plus or wholesale options.",
+        "Link to one relevant collection and one representative in-stock product."
+      ]
+    }
+  ],
+  "faq_items": [
+    {
+      "question": "Are fantales lollies still easy to find in Australia?",
+      "answer": "Availability can change quickly, so the practical approach is to check live stock first and then compare the closest alternatives if fantales lollies are missing."
+    },
+    {
+      "question": "What is the closest alternative to fantales lollies?",
+      "answer": "Start with products that match the same chewy, chocolate-coated caramel profile, then compare size, price, and stock depth."
+    },
+    {
+      "question": "Can I buy fantales lollies-style lollies in 1kg or bulk packs?",
+      "answer": "Usually yes through substitute or lookalike products, but larger packs only make sense if you actually need the volume or lower unit cost."
+    }
+  ],
+  "faq_questions": [
+    "Are fantales lollies still easy to find in Australia?",
+    "What is the closest alternative to fantales lollies?",
+    "Can I buy fantales lollies-style lollies in 1kg or bulk packs?"
+  ],
+  "internal_links": [
+    {
+      "url": "https://sweetsworld.com.au/candy/",
+      "label": "Candy",
+      "anchor_text": "See Candy",
+      "link_kind": "category"
+    },
+    {
+      "url": "https://sweetsworld.com.au/chocolate/australian-chocolate/",
+      "label": "Australian Chocolate",
+      "anchor_text": "Compare Australian Chocolate options",
+      "link_kind": "collection"
+    },
+    {
+      "url": "https://sweetsworld.com.au/chocolate/australian-chocolate/milk-chocolate-chewy-caramel-150g/",
+      "label": "Milk Chocolate Chewy Caramel 150g",
+      "anchor_text": "View Milk Chocolate Chewy Caramel 150g",
+      "link_kind": "product"
+    }
+  ],
+  "selected_products": [
+    {
+      "product_name": "Milk Chocolate Chewy Caramel 1.8kg ( Like Cobbers)",
+      "category": "Wholesale",
+      "description": "Milk Chocolate Chewy Caramel is a luxurious treat that combines creamy chocolate with soft, rich caramel, providing an indulgent experience with every piece. Available from Lolly’s online shop for delivery throughout...",
+      "price": "69.99",
+      "url": "https://sweetsworld.com.au/chocolate/australian-chocolate/milk-chocolate-chewy-caramel-18kg-like-cobbers/",
+      "matched_tokens": [
+        "substitute_hint"
+      ],
+      "matched_phrases": [
+        "milk chocolate chewy caramel",
+        "chewy caramel"
+      ],
+      "selection_reason": "fallback_large_pack"
+    },
+    {
+      "product_name": "Milk Chocolate Chewy Caramel 6kg",
+      "category": "Wholesale",
+      "description": "",
+      "price": "199.99",
+      "url": "https://sweetsworld.com.au/chocolate/australian-chocolate/milk-chocolate-chewy-caramel-6kg/",
+      "matched_tokens": [
+        "substitute_hint"
+      ],
+      "matched_phrases": [
+        "milk chocolate chewy caramel",
+        "chewy caramel"
+      ],
+      "selection_reason": "fallback_large_pack"
+    },
+    {
+      "product_name": "Milk Chocolate Chewy Caramel 150g",
+      "category": "Old Fashion Lollies",
+      "description": "Treat yourself to the smooth and creamy goodness of Milk Chocolate Chewy Caramel 150g , available now at Sweets World ! This delightful treat is a perfect mix of rich milk chocolate and soft, chewy caramel that melts...",
+      "price": "5.99",
+      "url": "https://sweetsworld.com.au/chocolate/australian-chocolate/milk-chocolate-chewy-caramel-150g/",
+      "matched_tokens": [
+        "substitute_hint"
+      ],
+      "matched_phrases": [
+        "milk chocolate chewy caramel",
+        "chewy caramel"
+      ],
+      "selection_reason": "fallback_large_pack"
+    }
+  ],
+  "related_keywords": [
+    "fantales lollies",
+    "sweetsworld",
+    "sweets world",
+    "white knight chocolate",
+    "fantails lolly",
+    "darrell lea kotara"
+  ],
+  "cta": {
+    "heading": "Compare close alternatives and pack sizes",
+    "body": "Start with the closest substitute, then decide whether a retail bag or larger pack is the better fit before you click through."
+  }
+}

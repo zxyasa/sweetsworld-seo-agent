@@ -1,0 +1,146 @@
+{
+  "brief_id": "toffee-australia-brief-v1",
+  "slug": "toffee-australia",
+  "keyword": "toffee australia",
+  "search_intent": "Transactional with commercial intent",
+  "page_type": "landing_page",
+  "title": "Toffee Australia: Buy Butterscotch Toffee and Toffee Lollies Online",
+  "meta_description": "Toffee Australia: Buy Butterscotch Toffee and Toffee Lollies Online. Compare stock options, buying factors, and the best next steps for toffee in...",
+  "intro": "Use this page to compare where to buy toffee in Australia, what to check before ordering, and which classic candy options are the best fit for your basket.",
+  "outline": [
+    "Where to buy toffee with less guesswork",
+    "How to compare Classic Candy options before ordering"
+  ],
+  "sections": [
+    {
+      "heading": "Where to buy toffee with less guesswork",
+      "paragraphs": [
+        "Landing pages for toffee need to show real commercial value quickly, including price context, stock clarity, and relevant product paths.",
+        "The goal is to reduce purchase friction rather than publish a thin page that repeats the keyword."
+      ],
+      "bullets": [
+        "THORNTONS CLASSIC DARK COLLECTION 260g",
+        "Van Melle - Licorice Lollies (Drop Toffees) 250g",
+        "Walker's English Creamy Toffees 150g",
+        "Walker's Liquorice Toffees Jar 450g"
+      ]
+    },
+    {
+      "heading": "How to compare Classic Candy options before ordering",
+      "paragraphs": [
+        "A stronger landing page explains the trade-offs between pack size, flavour range, stock depth, and delivery timing.",
+        "That gives the page a conversion job as well as a ranking job."
+      ],
+      "bullets": [
+        "Compare unit price instead of headline price alone.",
+        "Check stock, bundle size, and delivery timing together.",
+        "Keep the call to action aligned with the buying task."
+      ]
+    }
+  ],
+  "faq_items": [
+    {
+      "question": "Where can I buy toffee online in Australia?",
+      "answer": "Start with Australian stores that show live stock, delivery windows, and product range depth for toffee before checkout."
+    },
+    {
+      "question": "How should I compare toffee prices?",
+      "answer": "Compare unit price, pack size, shipping cost, and bundle options together instead of looking at the headline price only."
+    },
+    {
+      "question": "Are there other classic candy options worth comparing?",
+      "answer": "Yes. Nearby collections or substitute products can be useful when toffee is out of stock or only available in limited pack sizes."
+    }
+  ],
+  "faq_questions": [
+    "Where can I buy toffee online in Australia?",
+    "How should I compare toffee prices?",
+    "Are there other classic candy options worth comparing?"
+  ],
+  "internal_links": [
+    {
+      "url": "https://sweetsworld.com.au/candy/",
+      "label": "Candy",
+      "anchor_text": "Shop Candy",
+      "link_kind": "category"
+    },
+    {
+      "url": "https://sweetsworld.com.au/gift/chocolate-box/",
+      "label": "Chocolate Box",
+      "anchor_text": "Browse Chocolate Box",
+      "link_kind": "collection"
+    },
+    {
+      "url": "https://sweetsworld.com.au/gift/chocolate-box/thorntons-classic-dark-collection/",
+      "label": "Thorntons Classic Dark Collection",
+      "anchor_text": "View Thorntons Classic Dark Collection",
+      "link_kind": "product"
+    }
+  ],
+  "selected_products": [
+    {
+      "product_name": "THORNTONS CLASSIC DARK COLLECTION 260g",
+      "category": "Chocolate Box",
+      "description": "THORNTONS CLASSIC DARK COLLECTION 260g Product description: In this classic selection of dark chocolates, you'll find delicious creamy fudge, honeycomb, nutty caramel and toffee chocolates, to name a few. Drizzled...",
+      "price": "25",
+      "url": "https://sweetsworld.com.au/gift/chocolate-box/thorntons-classic-dark-collection/",
+      "matched_tokens": [
+        "toffee",
+        "classic"
+      ],
+      "matched_phrases": [],
+      "selection_reason": "direct_match"
+    },
+    {
+      "product_name": "Van Melle - Licorice Lollies (Drop Toffees) 250g",
+      "category": "Candy",
+      "description": "Van Melle - Licorice Lollies (Drop Toffees) 250g Product Description: Drop Toffees are delicious Dutch liquorice toffees. These are a classic! 250g per bag Van Melle Drop toffees with the familiar taste of real...",
+      "price": "7.99",
+      "url": "https://sweetsworld.com.au/candy/dutch-sweets/van-melle-licorice-lollies-drop-toffees-250g/",
+      "matched_tokens": [
+        "toffee",
+        "classic"
+      ],
+      "matched_phrases": [],
+      "selection_reason": "direct_match"
+    },
+    {
+      "product_name": "Walker's English Creamy Toffees 150g",
+      "category": "Candy",
+      "description": "Walker's English Creamy Toffees – Traditional Toffee with Classic British Flavour Walker's English Creamy Toffees bring timeless British flavour to your lolly stash. Each piece is rich, buttery, and perfectly chewy...",
+      "price": "7.99",
+      "url": "https://sweetsworld.com.au/candy/walkersenglishcreamytoffees150g/",
+      "matched_tokens": [
+        "toffee",
+        "classic"
+      ],
+      "matched_phrases": [],
+      "selection_reason": "direct_match"
+    },
+    {
+      "product_name": "Walker's Liquorice Toffees Jar 450g",
+      "category": "Candy",
+      "description": "Walker’s Liquorice Toffees Jar 450g – A Classic Treat in a Charming Keepsake Jar Experience the timeless taste of Walker’s Liquorice Toffees in a beautifully presented 450g jar — now available at Sweetsworld, your...",
+      "price": "29.99",
+      "url": "https://sweetsworld.com.au/british-lollies/uk-sweets/walkers-liquorice-toffees-jar-450g/",
+      "matched_tokens": [
+        "toffee",
+        "classic"
+      ],
+      "matched_phrases": [],
+      "selection_reason": "direct_match"
+    }
+  ],
+  "related_keywords": [
+    "sweetsworld",
+    "sweets world",
+    "white knight chocolate",
+    "fantales lollies",
+    "fantails lolly",
+    "darrell lea kotara"
+  ],
+  "cta": {
+    "heading": "Move from toffee research into a purchase",
+    "body": "Compare the shortlist, then click through to the most relevant collection or product page to check live stock and delivery details."
+  }
+}

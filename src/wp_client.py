@@ -3,7 +3,9 @@ import base64
 import logging
 import os
 import time
+from pathlib import PurePosixPath
 from typing import Any, Dict, List, Optional
+from urllib.parse import unquote, urlparse
 
 import requests
 
@@ -12,9 +14,123 @@ logger = logging.getLogger(__name__)
 # Status codes worth retrying (transient server-side issues)
 _RETRYABLE_STATUS = {429, 500, 502, 503, 504}
 
+# ---------------------------------------------------------------------------
+# Optional BasePublisher integration
+# website-os may not be on PYTHONPATH — degrade gracefully if not available.
+# ---------------------------------------------------------------------------
+try:
+    from apps.website_os.shared.publisher import (  # type: ignore[import]
+        BasePublisher,
+        PublishPayload,
+        PublishResult,
+    )
+    _HAS_BASE_PUBLISHER = True
+except ImportError:
+    _HAS_BASE_PUBLISHER = False
+    BasePublisher = object  # type: ignore[assignment,misc]
+    PublishPayload = None   # type: ignore[assignment]
+    PublishResult = None    # type: ignore[assignment]
 
-class WPClient:
-    """Client for interacting with the WordPress REST API."""
+
+def _normalize_media_source_url(url: str) -> str:
+    if not url:
+        return ""
+    parsed = urlparse(str(url))
+    return unquote(parsed.path or "").rstrip("/").lower()
+
+
+class WPClient(BasePublisher):
+    """Client for interacting with the WordPress REST API.
+
+    Inherits BasePublisher when website-os is on the Python path (see import
+    guard above).  When BasePublisher is unavailable the fallback ``object``
+    base is used and the class operates identically — only the formal interface
+    contract is absent.
+    """
+
+    # ------------------------------------------------------------------
+    # BasePublisher interface
+    # ------------------------------------------------------------------
+
+    @property
+    def channel_name(self) -> str:
+        """Machine-readable channel identifier."""
+        return "wordpress"
+
+    def publish(self, payload: Any, *, dry_run: bool = False) -> Any:
+        """Implement BasePublisher.publish using create_post_draft + publish_post.
+
+        Accepts a ``PublishPayload`` instance when website-os is available, or
+        any object with the same attributes.  Returns a ``PublishResult`` when
+        website-os is available; otherwise returns a plain dict so that callers
+        that don't import BasePublisher can still use the return value.
+
+        This method never raises — all errors are caught and returned via the
+        result's ``error`` field (or ``success=False`` in the plain-dict path).
+        """
+        if payload is None:
+            if _HAS_BASE_PUBLISHER:
+                return PublishResult(
+                    success=False,
+                    channel=self.channel_name,
+                    error="payload is None",
+                    dry_run=dry_run,
+                )
+            return {"success": False, "channel": self.channel_name, "error": "payload is None"}
+
+        if dry_run:
+            if _HAS_BASE_PUBLISHER:
+                return PublishResult(
+                    success=True,
+                    channel=self.channel_name,
+                    dry_run=True,
+                    metadata={"slug": getattr(payload, "slug", ""), "dry_run": True},
+                )
+            return {"success": True, "channel": self.channel_name, "dry_run": True}
+
+        try:
+            post_data = self.create_post_draft(
+                title=getattr(payload, "title", ""),
+                slug=getattr(payload, "slug", ""),
+                html=getattr(payload, "content_html", ""),
+                excerpt=getattr(payload, "excerpt", ""),
+            )
+            post_id = post_data.get("id")
+            if not post_id:
+                raise ValueError(f"WordPress did not return a post ID: {post_data}")
+
+            published = self.publish_post(int(post_id))
+            url = published.get("link") or published.get("guid", {}).get("rendered")
+
+            if _HAS_BASE_PUBLISHER:
+                return PublishResult(
+                    success=True,
+                    channel=self.channel_name,
+                    published_url=url,
+                    platform_id=str(post_id),
+                    dry_run=False,
+                    metadata={"post_id": post_id},
+                )
+            return {
+                "success": True,
+                "channel": self.channel_name,
+                "published_url": url,
+                "platform_id": str(post_id),
+            }
+        except Exception as exc:  # noqa: BLE001
+            logger.error("WPClient.publish failed for slug '%s': %s", getattr(payload, "slug", "?"), exc)
+            if _HAS_BASE_PUBLISHER:
+                return PublishResult(
+                    success=False,
+                    channel=self.channel_name,
+                    error=str(exc),
+                    dry_run=dry_run,
+                )
+            return {"success": False, "channel": self.channel_name, "error": str(exc)}
+
+    # ------------------------------------------------------------------
+    # Original constructor (unchanged)
+    # ------------------------------------------------------------------
 
     def __init__(self, base_url: str, username: str, app_password: str):
         self.base_url = base_url.rstrip('/')
@@ -176,6 +292,46 @@ class WPClient:
             logger.warning("Failed to list WP pages with status '%s': %s", status, exc)
             return []
 
+    def find_media_by_source_url(self, image_url: str) -> Dict[str, Any] | None:
+        normalized_target = _normalize_media_source_url(image_url)
+        if not normalized_target:
+            return None
+
+        filename = PurePosixPath(urlparse(image_url).path).name
+        stem = PurePosixPath(filename).stem
+        search_terms = [term for term in [stem, filename] if term]
+        endpoint = f"{self.api_url}/media"
+
+        for term in search_terms:
+            try:
+                response = requests.get(
+                    endpoint,
+                    headers=self.headers,
+                    params={"search": term, "per_page": 25},
+                    timeout=20,
+                )
+                if response.status_code >= 400:
+                    continue
+                data = response.json()
+                if not isinstance(data, list):
+                    continue
+
+                for row in data:
+                    source_url = str(row.get("source_url") or "")
+                    normalized_source = _normalize_media_source_url(source_url)
+                    if normalized_source == normalized_target:
+                        return row if isinstance(row, dict) else None
+
+                for row in data:
+                    source_url = str(row.get("source_url") or "")
+                    if filename and PurePosixPath(urlparse(source_url).path).name == filename:
+                        return row if isinstance(row, dict) else None
+            except requests.exceptions.RequestException as exc:
+                logger.warning("Failed to search WP media for '%s': %s", image_url, exc)
+                continue
+
+        return None
+
     def find_similar_posts(self, query: str, max_results: int = 5) -> List[Dict[str, Any]]:
         endpoint = f"{self.api_url}/posts"
         results: List[Dict[str, Any]] = []
@@ -329,18 +485,33 @@ class WPClient:
         except requests.exceptions.RequestException as exc:
             raise requests.HTTPError(f"ERROR: Publish failed: {str(exc)}")
 
+    def set_featured_media(self, post_id: int, media_id: int) -> Dict[str, Any]:
+        endpoint = f"{self.api_url}/posts/{post_id}"
+        payload = {"featured_media": int(media_id)}
+        try:
+            response = self._request_with_retry("post", endpoint, json=payload, timeout=30)
+            response.raise_for_status()
+            return response.json()
+        except requests.exceptions.RequestException as exc:
+            raise requests.HTTPError(f"ERROR: Failed to set featured media: {str(exc)}")
+
     def write_seo_meta_via_db(
         self,
         post_id: int,
         keyword: str = "",
         seo_title: str = "",
         seo_description: str = "",
-        endpoint_token: str = os.environ.get('WP_SEO_BRIDGE_TOKEN', 'sw_seo_meta_k8x2'),
+        endpoint_token: Optional[str] = None,
     ) -> bool:
         """Write rank_math meta fields directly via server-side PHP script.
         Returns True on success, False on any error (non-fatal)."""
+        if endpoint_token is None:
+            endpoint_token = os.environ.get('WP_SEO_BRIDGE_TOKEN')
+        if not endpoint_token:
+            logger.warning("WP_SEO_BRIDGE_TOKEN not set, skipping SEO meta write for post %d", post_id)
+            return False
         url = f"{self.base_url}/wp-seo-meta.php"
-        params = {
+        payload = {
             "token": endpoint_token,
             "post_id": post_id,
             "keyword": keyword,
@@ -348,7 +519,7 @@ class WPClient:
             "description": seo_description,
         }
         try:
-            resp = requests.get(url, params=params, timeout=15)
+            resp = requests.post(url, data=payload, timeout=15)
             data = resp.json()
             if data.get("ok"):
                 logger.info(f"  SEO meta written for post {post_id}: {data.get('written')}")
@@ -411,7 +582,8 @@ class WPClient:
         try:
             self._update_item(item_type=item_type, item_id=item_id, payload={"content": html_content})
             return True
-        except requests.exceptions.RequestException:
+        except requests.exceptions.RequestException as exc:
+            logger.warning("Failed to update WP item content (%s/%s): %s", item_type, item_id, exc)
             return False
 
     def update_category_description(self, cat_id: int, description_html: str) -> bool:
@@ -425,7 +597,8 @@ class WPClient:
             )
             response.raise_for_status()
             return True
-        except requests.exceptions.RequestException:
+        except requests.exceptions.RequestException as exc:
+            logger.warning("Failed to update WP category description (cat_id=%s): %s", cat_id, exc)
             return False
 
     def auto_fix_basic_seo_by_url(

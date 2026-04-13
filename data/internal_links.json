@@ -1,0 +1,640 @@
+{
+  "schema_version": 1,
+  "description": "Internal links exported from pilot SEO content briefs.",
+  "record_count": 69,
+  "generated_from_statuses": [
+    "published"
+  ],
+  "slugs": [],
+  "summary": {
+    "anchors": {
+      "Shop Chocolate": 1,
+      "Browse Australian Chocolate": 1,
+      "See White Knights Chocolate Mint Chews": 1,
+      "See Candy": 1,
+      "Compare Australian Chocolate options": 1,
+      "View Milk Chocolate Chewy Caramel 150g": 1,
+      "See American Candy": 1,
+      "Compare Candy options": 1,
+      "See Jolly Rancher Hard Candy": 1
+    },
+    "link_kinds": {
+      "category": 3,
+      "collection": 3,
+      "product": 3
+    },
+    "missing_backlink_count": 0
+  },
+  "missing_backlinks": [],
+  "records": [
+    {
+      "slug": "white-knight-chocolate-where-to-buy-australia",
+      "keyword": "white knight chocolate where to buy",
+      "status": "published",
+      "page_type": "landing_page",
+      "post_link": "https://sweetsworld.com.au/where-to-buy/white-knight-chocolate-where-to-buy-australia/",
+      "internal_links": [
+        {
+          "url": "https://sweetsworld.com.au/chocolate/",
+          "label": "Chocolate",
+          "anchor_text": "Shop Chocolate",
+          "link_kind": "category"
+        },
+        {
+          "url": "https://sweetsworld.com.au/chocolate/australian-chocolate/",
+          "label": "Australian Chocolate",
+          "anchor_text": "Browse Australian Chocolate",
+          "link_kind": "collection"
+        },
+        {
+          "url": "https://sweetsworld.com.au/chocolate/australian-chocolate/white-knights-chocolate-mint-chews/",
+          "label": "White Knights Chocolate Mint Chews",
+          "anchor_text": "See White Knights Chocolate Mint Chews",
+          "link_kind": "product"
+        }
+      ]
+    },
+    {
+      "slug": "fantales-lollies-buying-guide",
+      "keyword": "fantales lollies",
+      "status": "published",
+      "page_type": "guide_page",
+      "post_link": "https://sweetsworld.com.au/candy-guides/fantales-lollies-buying-guide/",
+      "internal_links": [
+        {
+          "url": "https://sweetsworld.com.au/candy/",
+          "label": "Candy",
+          "anchor_text": "See Candy",
+          "link_kind": "category"
+        },
+        {
+          "url": "https://sweetsworld.com.au/chocolate/australian-chocolate/",
+          "label": "Australian Chocolate",
+          "anchor_text": "Compare Australian Chocolate options",
+          "link_kind": "collection"
+        },
+        {
+          "url": "https://sweetsworld.com.au/chocolate/australian-chocolate/milk-chocolate-chewy-caramel-150g/",
+          "label": "Milk Chocolate Chewy Caramel 150g",
+          "anchor_text": "View Milk Chocolate Chewy Caramel 150g",
+          "link_kind": "product"
+        }
+      ]
+    },
+    {
+      "slug": "are-jolly-ranchers-halal",
+      "keyword": "are jolly ranchers halal",
+      "status": "published",
+      "page_type": "guide_page",
+      "post_link": "https://sweetsworld.com.au/candy-guides/are-jolly-ranchers-halal/",
+      "internal_links": [
+        {
+          "url": "https://sweetsworld.com.au/candy/american-candy/",
+          "label": "American Candy",
+          "anchor_text": "See American Candy",
+          "link_kind": "collection"
+        },
+        {
+          "url": "https://sweetsworld.com.au/candy/",
+          "label": "Candy",
+          "anchor_text": "Compare Candy options",
+          "link_kind": "category"
+        },
+        {
+          "url": "https://sweetsworld.com.au/candy/american-candy/jolly-rancher-hard-candy/",
+          "label": "Jolly Rancher Hard Candy",
+          "anchor_text": "See Jolly Rancher Hard Candy",
+          "link_kind": "product"
+        }
+      ]
+    },
+    {
+      "slug": "buy-bulk-candy-online-australia",
+      "keyword": "buy bulk candy online australia",
+      "status": "published",
+      "page_type": "landing_page",
+      "post_link": "https://sweetsworld.com.au/where-to-buy/buy-bulk-candy-online-australia/",
+      "internal_links": []
+    },
+    {
+      "slug": "candy-gift-box-australia",
+      "keyword": "candy gift box australia",
+      "status": "published",
+      "page_type": "landing_page",
+      "post_link": "https://sweetsworld.com.au/where-to-buy/candy-gift-box-australia/",
+      "internal_links": []
+    },
+    {
+      "slug": "are-nerds-vegan",
+      "keyword": "are nerds vegan",
+      "status": "published",
+      "page_type": "guide_page",
+      "post_link": "https://sweetsworld.com.au/candy-guides/are-nerds-vegan/",
+      "internal_links": []
+    },
+    {
+      "slug": "nilla-wafers-australia-where-to-buy",
+      "keyword": "nilla wafers australia where to buy",
+      "status": "published",
+      "page_type": "landing_page",
+      "post_link": "https://sweetsworld.com.au/where-to-buy/nilla-wafers-australia-where-to-buy/",
+      "internal_links": []
+    },
+    {
+      "slug": "american-candy-guide",
+      "keyword": "popular american candy brands",
+      "status": "published",
+      "page_type": "category_page",
+      "post_link": "https://sweetsworld.com.au/products/american-candy-guide/",
+      "internal_links": []
+    },
+    {
+      "slug": "japanese-candy-australia",
+      "keyword": "japanese candy australia",
+      "status": "published",
+      "page_type": "category_page",
+      "post_link": "https://sweetsworld.com.au/products/japanese-candy-australia/",
+      "internal_links": []
+    },
+    {
+      "slug": "sour-lollies-australia",
+      "keyword": "sour lollies australia",
+      "status": "published",
+      "page_type": "category_page",
+      "post_link": "https://sweetsworld.com.au/products/sour-lollies-australia/",
+      "internal_links": []
+    },
+    {
+      "slug": "cheap-candy-online-australia",
+      "keyword": "cheap candy online australia",
+      "status": "published",
+      "page_type": "landing_page",
+      "post_link": "https://sweetsworld.com.au/where-to-buy/cheap-candy-online-australia/",
+      "internal_links": []
+    },
+    {
+      "slug": "best-candy-for-kids-australia",
+      "keyword": "best candy for kids australia",
+      "status": "published",
+      "page_type": "occasion_page",
+      "post_link": "https://sweetsworld.com.au/candy-guides/best-candy-for-kids-australia/",
+      "internal_links": []
+    },
+    {
+      "slug": "best-lollies-for-party-bags",
+      "keyword": "best lollies for party bags",
+      "status": "published",
+      "page_type": "occasion_page",
+      "post_link": "https://sweetsworld.com.au/candy-guides/best-lollies-for-party-bags/",
+      "internal_links": []
+    },
+    {
+      "slug": "best-candy-for-movie-night",
+      "keyword": "best candy for movie night australia",
+      "status": "published",
+      "page_type": "occasion_page",
+      "post_link": "https://sweetsworld.com.au/candy-guides/best-candy-for-movie-night/",
+      "internal_links": []
+    },
+    {
+      "slug": "american-candy-australia",
+      "keyword": "american candy australia",
+      "status": "published",
+      "page_type": "landing_page",
+      "post_link": "https://sweetsworld.com.au/where-to-buy/american-candy-australia/",
+      "internal_links": []
+    },
+    {
+      "slug": "christmas-candy-australia",
+      "keyword": "christmas candy australia",
+      "status": "published",
+      "page_type": "occasion_page",
+      "post_link": "https://sweetsworld.com.au/candy-guides/christmas-candy-australia/",
+      "internal_links": []
+    },
+    {
+      "slug": "halloween-candy-australia",
+      "keyword": "halloween candy australia",
+      "status": "published",
+      "page_type": "occasion_page",
+      "post_link": "https://sweetsworld.com.au/candy-guides/halloween-candy-australia/",
+      "internal_links": []
+    },
+    {
+      "slug": "easter-candy-australia",
+      "keyword": "easter candy australia",
+      "status": "published",
+      "page_type": "occasion_page",
+      "post_link": "https://sweetsworld.com.au/candy-guides/easter-candy-australia/",
+      "internal_links": []
+    },
+    {
+      "slug": "wedding-candy-australia",
+      "keyword": "wedding candy australia",
+      "status": "published",
+      "page_type": "occasion_page",
+      "post_link": "https://sweetsworld.com.au/candy-guides/wedding-candy-australia/",
+      "internal_links": []
+    },
+    {
+      "slug": "birthday-candy-australia",
+      "keyword": "birthday candy australia",
+      "status": "published",
+      "page_type": "occasion_page",
+      "post_link": "https://sweetsworld.com.au/candy-guides/birthday-candy-australia/",
+      "internal_links": []
+    },
+    {
+      "slug": "uk-sweets-australia",
+      "keyword": "uk sweets australia",
+      "status": "published",
+      "page_type": "category_page",
+      "post_link": "https://sweetsworld.com.au/products/uk-sweets-australia/",
+      "internal_links": []
+    },
+    {
+      "slug": "halal-candy-australia",
+      "keyword": "halal candy australia",
+      "status": "published",
+      "page_type": "landing_page",
+      "post_link": "https://sweetsworld.com.au/where-to-buy/halal-candy-australia/",
+      "internal_links": []
+    },
+    {
+      "slug": "vegan-lollies-australia",
+      "keyword": "vegan lollies australia",
+      "status": "published",
+      "page_type": "landing_page",
+      "post_link": "https://sweetsworld.com.au/where-to-buy/vegan-lollies-australia/",
+      "internal_links": []
+    },
+    {
+      "slug": "lolly-buffet-ideas-australia",
+      "keyword": "lolly buffet ideas",
+      "status": "published",
+      "page_type": "guide_page",
+      "post_link": "https://sweetsworld.com.au/candy-guides/lolly-buffet-ideas-australia/",
+      "internal_links": []
+    },
+    {
+      "slug": "bulk-lollies-australia",
+      "keyword": "bulk lollies australia",
+      "status": "published",
+      "page_type": "landing_page",
+      "post_link": "https://sweetsworld.com.au/where-to-buy/bulk-lollies-australia/",
+      "internal_links": []
+    },
+    {
+      "slug": "gluten-free-lollies-australia",
+      "keyword": "gluten free lollies australia",
+      "status": "published",
+      "page_type": "landing_page",
+      "post_link": "https://sweetsworld.com.au/where-to-buy/gluten-free-lollies-australia/",
+      "internal_links": []
+    },
+    {
+      "slug": "dairy-free-chocolate-australia",
+      "keyword": "dairy free chocolate australia",
+      "status": "published",
+      "page_type": "landing_page",
+      "post_link": "https://sweetsworld.com.au/where-to-buy/dairy-free-chocolate-australia/",
+      "internal_links": []
+    },
+    {
+      "slug": "belgian-chocolate-australia",
+      "keyword": "belgian chocolate australia",
+      "status": "published",
+      "page_type": "landing_page",
+      "post_link": "https://sweetsworld.com.au/where-to-buy/belgian-chocolate-australia/",
+      "internal_links": []
+    },
+    {
+      "slug": "haribo-australia",
+      "keyword": "haribo australia",
+      "status": "published",
+      "page_type": "landing_page",
+      "post_link": "https://sweetsworld.com.au/where-to-buy/haribo-australia/",
+      "internal_links": []
+    },
+    {
+      "slug": "reeses-australia",
+      "keyword": "reeses australia where to buy",
+      "status": "published",
+      "page_type": "landing_page",
+      "post_link": "https://sweetsworld.com.au/where-to-buy/reeses-australia/",
+      "internal_links": []
+    },
+    {
+      "slug": "skittles-australia",
+      "keyword": "skittles australia",
+      "status": "published",
+      "page_type": "landing_page",
+      "post_link": "https://sweetsworld.com.au/where-to-buy/skittles-australia/",
+      "internal_links": []
+    },
+    {
+      "slug": "jelly-belly-australia",
+      "keyword": "jelly belly australia",
+      "status": "published",
+      "page_type": "landing_page",
+      "post_link": "https://sweetsworld.com.au/where-to-buy/jelly-belly-australia/",
+      "internal_links": []
+    },
+    {
+      "slug": "candy-hamper-australia",
+      "keyword": "candy hamper australia",
+      "status": "published",
+      "page_type": "landing_page",
+      "post_link": "https://sweetsworld.com.au/where-to-buy/candy-hamper-australia/",
+      "internal_links": []
+    },
+    {
+      "slug": "lolly-bag-ideas-kids",
+      "keyword": "lolly bag ideas for kids",
+      "status": "published",
+      "page_type": "guide_page",
+      "post_link": "https://sweetsworld.com.au/candy-guides/lolly-bag-ideas-kids/",
+      "internal_links": []
+    },
+    {
+      "slug": "m-and-ms-australia",
+      "keyword": "m&ms australia",
+      "status": "published",
+      "page_type": "landing_page",
+      "post_link": "https://sweetsworld.com.au/where-to-buy/m-and-ms-australia/",
+      "internal_links": []
+    },
+    {
+      "slug": "kit-kat-australia",
+      "keyword": "kit kat australia",
+      "status": "published",
+      "page_type": "landing_page",
+      "post_link": "https://sweetsworld.com.au/where-to-buy/kit-kat-australia/",
+      "internal_links": []
+    },
+    {
+      "slug": "cadbury-favourites-australia",
+      "keyword": "cadbury favourites australia",
+      "status": "published",
+      "page_type": "landing_page",
+      "post_link": "https://sweetsworld.com.au/where-to-buy/cadbury-favourites-australia/",
+      "internal_links": []
+    },
+    {
+      "slug": "lindt-chocolate-australia",
+      "keyword": "lindt chocolate australia",
+      "status": "published",
+      "page_type": "landing_page",
+      "post_link": "https://sweetsworld.com.au/where-to-buy/lindt-chocolate-australia/",
+      "internal_links": []
+    },
+    {
+      "slug": "sour-patch-kids-australia",
+      "keyword": "sour patch kids australia",
+      "status": "published",
+      "page_type": "landing_page",
+      "post_link": "https://sweetsworld.com.au/where-to-buy/sour-patch-kids-australia/",
+      "internal_links": []
+    },
+    {
+      "slug": "kinder-chocolate-australia",
+      "keyword": "kinder chocolate australia",
+      "status": "published",
+      "page_type": "landing_page",
+      "post_link": "https://sweetsworld.com.au/where-to-buy/kinder-chocolate-australia/",
+      "internal_links": []
+    },
+    {
+      "slug": "ferrero-rocher-australia",
+      "keyword": "ferrero rocher australia",
+      "status": "published",
+      "page_type": "landing_page",
+      "post_link": "https://sweetsworld.com.au/where-to-buy/ferrero-rocher-australia/",
+      "internal_links": []
+    },
+    {
+      "slug": "takis-australia",
+      "keyword": "takis australia",
+      "status": "published",
+      "page_type": "landing_page",
+      "post_link": "https://sweetsworld.com.au/where-to-buy/takis-australia/",
+      "internal_links": []
+    },
+    {
+      "slug": "tnt-sour-candy-australia",
+      "keyword": "tnt sour candy australia",
+      "status": "published",
+      "page_type": "landing_page",
+      "post_link": "https://sweetsworld.com.au/where-to-buy/tnt-sour-candy-australia/",
+      "internal_links": []
+    },
+    {
+      "slug": "allens-lollies-australia",
+      "keyword": "allens lollies australia",
+      "status": "published",
+      "page_type": "landing_page",
+      "post_link": "https://sweetsworld.com.au/where-to-buy/allens-lollies-australia/",
+      "internal_links": []
+    },
+    {
+      "slug": "pop-tarts-australia",
+      "keyword": "pop tarts australia",
+      "status": "published",
+      "page_type": "landing_page",
+      "post_link": "https://sweetsworld.com.au/where-to-buy/pop-tarts-australia/",
+      "internal_links": []
+    },
+    {
+      "slug": "cheetos-australia",
+      "keyword": "cheetos australia",
+      "status": "published",
+      "page_type": "landing_page",
+      "post_link": "https://sweetsworld.com.au/where-to-buy/cheetos-australia/",
+      "internal_links": []
+    },
+    {
+      "slug": "old-fashioned-lollies-australia",
+      "keyword": "old fashioned lollies australia",
+      "status": "published",
+      "page_type": "category_page",
+      "post_link": "https://sweetsworld.com.au/products/old-fashioned-lollies-australia/",
+      "internal_links": []
+    },
+    {
+      "slug": "allens-red-frogs-australia",
+      "keyword": "allens red frogs australia",
+      "status": "published",
+      "page_type": "landing_page",
+      "post_link": "https://sweetsworld.com.au/where-to-buy/allens-red-frogs-australia/",
+      "internal_links": []
+    },
+    {
+      "slug": "allens-snakes-alive-australia",
+      "keyword": "allens snakes alive australia",
+      "status": "published",
+      "page_type": "landing_page",
+      "post_link": "https://sweetsworld.com.au/where-to-buy/allens-snakes-alive-australia/",
+      "internal_links": []
+    },
+    {
+      "slug": "chupa-chups-australia",
+      "keyword": "chupa chups australia",
+      "status": "published",
+      "page_type": "landing_page",
+      "post_link": "https://sweetsworld.com.au/where-to-buy/chupa-chups-australia/",
+      "internal_links": []
+    },
+    {
+      "slug": "mint-chocolate-australia",
+      "keyword": "mint chocolate australia",
+      "status": "published",
+      "page_type": "category_page",
+      "post_link": "https://sweetsworld.com.au/products/mint-chocolate-australia/",
+      "internal_links": []
+    },
+    {
+      "slug": "caramel-chocolate-australia",
+      "keyword": "caramel chocolate australia",
+      "status": "published",
+      "page_type": "category_page",
+      "post_link": "https://sweetsworld.com.au/products/caramel-chocolate-australia/",
+      "internal_links": []
+    },
+    {
+      "slug": "peanut-butter-candy-australia",
+      "keyword": "peanut butter candy australia",
+      "status": "published",
+      "page_type": "category_page",
+      "post_link": "https://sweetsworld.com.au/products/peanut-butter-candy-australia/",
+      "internal_links": []
+    },
+    {
+      "slug": "lollipops-australia",
+      "keyword": "lollipops australia",
+      "status": "published",
+      "page_type": "category_page",
+      "post_link": "https://sweetsworld.com.au/products/lollipops-australia/",
+      "internal_links": []
+    },
+    {
+      "slug": "gummy-bears-australia",
+      "keyword": "gummy bears australia",
+      "status": "published",
+      "page_type": "landing_page",
+      "post_link": "https://sweetsworld.com.au/where-to-buy/gummy-bears-australia/",
+      "internal_links": []
+    },
+    {
+      "slug": "licorice-australia",
+      "keyword": "licorice australia",
+      "status": "published",
+      "page_type": "category_page",
+      "post_link": "https://sweetsworld.com.au/products/licorice-australia/",
+      "internal_links": []
+    },
+    {
+      "slug": "chocolate-bars-australia",
+      "keyword": "chocolate bars australia",
+      "status": "published",
+      "page_type": "category_page",
+      "post_link": "https://sweetsworld.com.au/products/chocolate-bars-australia/",
+      "internal_links": []
+    },
+    {
+      "slug": "pick-and-mix-lollies-online",
+      "keyword": "pick and mix lollies online australia",
+      "status": "published",
+      "page_type": "landing_page",
+      "post_link": "https://sweetsworld.com.au/where-to-buy/pick-and-mix-lollies-online/",
+      "internal_links": []
+    },
+    {
+      "slug": "buy-lollies-online-australia",
+      "keyword": "buy lollies online australia",
+      "status": "published",
+      "page_type": "landing_page",
+      "post_link": "https://sweetsworld.com.au/where-to-buy/buy-lollies-online-australia/",
+      "internal_links": []
+    },
+    {
+      "slug": "candy-subscription-box-australia",
+      "keyword": "candy subscription box australia",
+      "status": "published",
+      "page_type": "landing_page",
+      "post_link": "https://sweetsworld.com.au/where-to-buy/candy-subscription-box-australia/",
+      "internal_links": []
+    },
+    {
+      "slug": "lolly-shop-online-australia",
+      "keyword": "lolly shop online australia",
+      "status": "published",
+      "page_type": "landing_page",
+      "post_link": "https://sweetsworld.com.au/where-to-buy/lolly-shop-online-australia/",
+      "internal_links": []
+    },
+    {
+      "slug": "australian-made-chocolate",
+      "keyword": "australian made chocolate",
+      "status": "published",
+      "page_type": "category_page",
+      "post_link": "https://sweetsworld.com.au/products/australian-made-chocolate/",
+      "internal_links": []
+    },
+    {
+      "slug": "australian-candy-brands",
+      "keyword": "australian candy brands",
+      "status": "published",
+      "page_type": "category_page",
+      "post_link": "https://sweetsworld.com.au/products/australian-candy-brands/",
+      "internal_links": []
+    },
+    {
+      "slug": "american-soda-australia",
+      "keyword": "american soda australia",
+      "status": "published",
+      "page_type": "category_page",
+      "post_link": "https://sweetsworld.com.au/products/american-soda-australia/",
+      "internal_links": []
+    },
+    {
+      "slug": "candy-advent-calendar-australia",
+      "keyword": "candy advent calendar australia",
+      "status": "published",
+      "page_type": "landing_page",
+      "post_link": "https://sweetsworld.com.au/where-to-buy/candy-advent-calendar-australia/",
+      "internal_links": []
+    },
+    {
+      "slug": "stocking-fillers-australia",
+      "keyword": "stocking fillers australia",
+      "status": "published",
+      "page_type": "occasion_page",
+      "post_link": "https://sweetsworld.com.au/candy-guides/stocking-fillers-australia/",
+      "internal_links": []
+    },
+    {
+      "slug": "best-candy-australia-2026",
+      "keyword": "best candy australia 2026",
+      "status": "published",
+      "page_type": "guide_page",
+      "post_link": "https://sweetsworld.com.au/candy-guides/best-candy-australia-2026/",
+      "internal_links": []
+    },
+    {
+      "slug": "healthy-candy-alternatives-australia",
+      "keyword": "healthy candy alternatives australia",
+      "status": "published",
+      "page_type": "landing_page",
+      "post_link": "https://sweetsworld.com.au/where-to-buy/healthy-candy-alternatives-australia/",
+      "internal_links": []
+    },
+    {
+      "slug": "candy-australia-guide-2026",
+      "keyword": "candy australia guide 2026",
+      "status": "published",
+      "page_type": "guide_page",
+      "post_link": "https://sweetsworld.com.au/candy-guides/candy-australia-guide-2026/",
+      "internal_links": []
+    }
+  ]
+}

@@ -1,0 +1,146 @@
+{
+  "brief_id": "butterscotch-candy-australia-brief-v1",
+  "slug": "butterscotch-candy-australia",
+  "keyword": "butterscotch candy australia",
+  "search_intent": "Commercial category intent",
+  "page_type": "category_page",
+  "title": "Butterscotch Candy Australia: Buy Butterscotch Lollies and Toffees Online",
+  "meta_description": "Butterscotch Candy Australia: Buy Butterscotch Lollies and Toffees Online. Compare stock options, buying factors, and the best next steps for...",
+  "intro": "This page explains the butterscotch candy range, the main product formats to compare, and the next collection or product pages worth opening before you buy.",
+  "outline": [
+    "What defines the butterscotch candy range",
+    "How to shop Classic Candy more confidently"
+  ],
+  "sections": [
+    {
+      "heading": "What defines the butterscotch candy range",
+      "paragraphs": [
+        "A category page for butterscotch candy should explain flavour profile, product format, and the most recognisable options in the range.",
+        "That helps search engines and shoppers understand the scope of the page before they move deeper into the catalogue."
+      ],
+      "bullets": [
+        "THORNTONS CLASSIC DARK COLLECTION 260g",
+        "Van Melle - Licorice Lollies (Drop Toffees) 250g",
+        "Walker's English Creamy Toffees 150g",
+        "Walker's Liquorice Toffees Jar 450g"
+      ]
+    },
+    {
+      "heading": "How to shop Classic Candy more confidently",
+      "paragraphs": [
+        "Category pages should guide users through format, suitability, and value instead of listing products without context.",
+        "This is the section that turns a collection page into a useful SEO landing surface."
+      ],
+      "bullets": [
+        "Show best sellers before long-tail variants.",
+        "Explain when bundles make more sense than single items.",
+        "Link into adjacent collections and product pages."
+      ]
+    }
+  ],
+  "faq_items": [
+    {
+      "question": "What should I look for when choosing butterscotch candy?",
+      "answer": "Focus on suitability for the use case, flavour profile, pack size, and delivery timing rather than assuming every popular candy is the right fit."
+    },
+    {
+      "question": "What is the best next step after reading this page?",
+      "answer": "Use the linked category or product pages to compare live stock, range depth, and practical buying options."
+    },
+    {
+      "question": "Can this page help me compare classic candy options?",
+      "answer": "Yes. It should clarify which products or collections are the best fit instead of leaving the reader with generic advice."
+    }
+  ],
+  "faq_questions": [
+    "What should I look for when choosing butterscotch candy?",
+    "What is the best next step after reading this page?",
+    "Can this page help me compare classic candy options?"
+  ],
+  "internal_links": [
+    {
+      "url": "https://sweetsworld.com.au/candy/",
+      "label": "Candy",
+      "anchor_text": "Explore Candy",
+      "link_kind": "category"
+    },
+    {
+      "url": "https://sweetsworld.com.au/gift/chocolate-box/",
+      "label": "Chocolate Box",
+      "anchor_text": "Browse Chocolate Box",
+      "link_kind": "collection"
+    },
+    {
+      "url": "https://sweetsworld.com.au/gift/chocolate-box/thorntons-classic-dark-collection/",
+      "label": "Thorntons Classic Dark Collection",
+      "anchor_text": "View Thorntons Classic Dark Collection",
+      "link_kind": "product"
+    }
+  ],
+  "selected_products": [
+    {
+      "product_name": "THORNTONS CLASSIC DARK COLLECTION 260g",
+      "category": "Chocolate Box",
+      "description": "THORNTONS CLASSIC DARK COLLECTION 260g Product description: In this classic selection of dark chocolates, you'll find delicious creamy fudge, honeycomb, nutty caramel and toffee chocolates, to name a few. Drizzled...",
+      "price": "25",
+      "url": "https://sweetsworld.com.au/gift/chocolate-box/thorntons-classic-dark-collection/",
+      "matched_tokens": [
+        "toffee",
+        "classic"
+      ],
+      "matched_phrases": [],
+      "selection_reason": "direct_match"
+    },
+    {
+      "product_name": "Van Melle - Licorice Lollies (Drop Toffees) 250g",
+      "category": "Candy",
+      "description": "Van Melle - Licorice Lollies (Drop Toffees) 250g Product Description: Drop Toffees are delicious Dutch liquorice toffees. These are a classic! 250g per bag Van Melle Drop toffees with the familiar taste of real...",
+      "price": "7.99",
+      "url": "https://sweetsworld.com.au/candy/dutch-sweets/van-melle-licorice-lollies-drop-toffees-250g/",
+      "matched_tokens": [
+        "toffee",
+        "classic"
+      ],
+      "matched_phrases": [],
+      "selection_reason": "direct_match"
+    },
+    {
+      "product_name": "Walker's English Creamy Toffees 150g",
+      "category": "Candy",
+      "description": "Walker's English Creamy Toffees – Traditional Toffee with Classic British Flavour Walker's English Creamy Toffees bring timeless British flavour to your lolly stash. Each piece is rich, buttery, and perfectly chewy...",
+      "price": "7.99",
+      "url": "https://sweetsworld.com.au/candy/walkersenglishcreamytoffees150g/",
+      "matched_tokens": [
+        "toffee",
+        "classic"
+      ],
+      "matched_phrases": [],
+      "selection_reason": "direct_match"
+    },
+    {
+      "product_name": "Walker's Liquorice Toffees Jar 450g",
+      "category": "Candy",
+      "description": "Walker’s Liquorice Toffees Jar 450g – A Classic Treat in a Charming Keepsake Jar Experience the timeless taste of Walker’s Liquorice Toffees in a beautifully presented 450g jar — now available at Sweetsworld, your...",
+      "price": "29.99",
+      "url": "https://sweetsworld.com.au/british-lollies/uk-sweets/walkers-liquorice-toffees-jar-450g/",
+      "matched_tokens": [
+        "toffee",
+        "classic"
+      ],
+      "matched_phrases": [],
+      "selection_reason": "direct_match"
+    }
+  ],
+  "related_keywords": [
+    "sweetsworld",
+    "sweets world",
+    "white knight chocolate",
+    "fantales lollies",
+    "fantails lolly",
+    "darrell lea kotara"
+  ],
+  "cta": {
+    "heading": "Use this page as a shortlist for butterscotch candy",
+    "body": "Review the key options, then move into the linked collection or product pages when you are ready to compare live stock and pricing."
+  }
+}

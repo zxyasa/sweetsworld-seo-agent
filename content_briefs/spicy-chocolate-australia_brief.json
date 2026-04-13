@@ -1,0 +1,120 @@
+{
+  "brief_id": "spicy-chocolate-australia-brief-v1",
+  "slug": "spicy-chocolate-australia",
+  "keyword": "spicy chocolate australia",
+  "search_intent": "Transactional with commercial intent",
+  "page_type": "landing_page",
+  "title": "Spicy Chocolate Australia: Buy Chilli Chocolate and Hot Choc Online",
+  "meta_description": "Spicy Chocolate Australia: Buy Chilli Chocolate and Hot Choc Online. Compare stock options, buying factors, and the best next steps for spicy chocolate...",
+  "intro": "Use this page to compare where to buy spicy chocolate in Australia, what to check before ordering, and which chocolate bars options are the best fit for your basket.",
+  "outline": [
+    "Where to buy spicy chocolate with less guesswork",
+    "How to compare Chocolate Bars options before ordering"
+  ],
+  "sections": [
+    {
+      "heading": "Where to buy spicy chocolate with less guesswork",
+      "paragraphs": [
+        "Landing pages for spicy chocolate need to show real commercial value quickly, including price context, stock clarity, and relevant product paths.",
+        "The goal is to reduce purchase friction rather than publish a thin page that repeats the keyword."
+      ],
+      "bullets": [
+        "Milk Chocolate Chilli 100g",
+        "Chocolatier Pure Milk Chocolates 250g"
+      ]
+    },
+    {
+      "heading": "How to compare Chocolate Bars options before ordering",
+      "paragraphs": [
+        "A stronger landing page explains the trade-offs between pack size, flavour range, stock depth, and delivery timing.",
+        "That gives the page a conversion job as well as a ranking job."
+      ],
+      "bullets": [
+        "Compare unit price instead of headline price alone.",
+        "Check stock, bundle size, and delivery timing together.",
+        "Keep the call to action aligned with the buying task."
+      ]
+    }
+  ],
+  "faq_items": [
+    {
+      "question": "Where can I buy spicy chocolate online in Australia?",
+      "answer": "Start with Australian stores that show live stock, delivery windows, and product range depth for spicy chocolate before checkout."
+    },
+    {
+      "question": "How should I compare spicy chocolate prices?",
+      "answer": "Compare unit price, pack size, shipping cost, and bundle options together instead of looking at the headline price only."
+    },
+    {
+      "question": "Are there other chocolate bars options worth comparing?",
+      "answer": "Yes. Nearby collections or substitute products can be useful when spicy chocolate is out of stock or only available in limited pack sizes."
+    }
+  ],
+  "faq_questions": [
+    "Where can I buy spicy chocolate online in Australia?",
+    "How should I compare spicy chocolate prices?",
+    "Are there other chocolate bars options worth comparing?"
+  ],
+  "internal_links": [
+    {
+      "url": "https://sweetsworld.com.au/chocolate/",
+      "label": "Chocolate",
+      "anchor_text": "Shop Chocolate",
+      "link_kind": "category"
+    },
+    {
+      "url": "https://sweetsworld.com.au/british-lollies/uk-sweets/",
+      "label": "Uk Sweets",
+      "anchor_text": "Browse Uk Sweets",
+      "link_kind": "collection"
+    },
+    {
+      "url": "https://sweetsworld.com.au/british-lollies/uk-sweets/chocchilli100g/",
+      "label": "Chocchilli100g",
+      "anchor_text": "View Chocchilli100g",
+      "link_kind": "product"
+    }
+  ],
+  "selected_products": [
+    {
+      "product_name": "Milk Chocolate Chilli 100g",
+      "category": "Candy",
+      "description": "Milk Chocolate Chilli 100g Product description: a bar of rich, luxurious chocolate made with the finest ingredients by our Master Chocolatiers. The perfect blend of smooth dark chocolate with high cocoa content...",
+      "price": "4.99",
+      "url": "https://sweetsworld.com.au/british-lollies/uk-sweets/chocchilli100g/",
+      "matched_tokens": [
+        "chocolate",
+        "chilli",
+        "choc"
+      ],
+      "matched_phrases": [],
+      "selection_reason": "direct_match"
+    },
+    {
+      "product_name": "Chocolatier Pure Milk Chocolates 250g",
+      "category": "Australian Chocolate",
+      "description": "Chocolatier Pure Milk Chocolates 250g Product Description: 46 solid pure milk chocolate mini bars, inside a beautiful white gift tin. Chocolate individually wrapped in gold foil for ultimate freshness. Ingredients...",
+      "price": "25",
+      "url": "https://sweetsworld.com.au/chocolate/australian-chocolate/chocolatierpuremilkchocolates250g/",
+      "matched_tokens": [
+        "chocolate",
+        "choc",
+        "bars"
+      ],
+      "matched_phrases": [],
+      "selection_reason": "direct_match"
+    }
+  ],
+  "related_keywords": [
+    "sweetsworld",
+    "sweets world",
+    "white knight chocolate",
+    "fantales lollies",
+    "fantails lolly",
+    "darrell lea kotara"
+  ],
+  "cta": {
+    "heading": "Move from spicy chocolate research into a purchase",
+    "body": "Compare the shortlist, then click through to the most relevant collection or product page to check live stock and delivery details."
+  }
+}

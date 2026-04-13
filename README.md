@@ -49,6 +49,20 @@ Auto-publish WordPress blog posts to social media platforms.
   npm run cli -- --url "https://sweetsworld.com.au/chocolate-cake" --title "Chocolate Cake" --slug "chocolate-cake" --excerpt "Perfect cake recipe" --dry-run
   ```
 
+## Change Recording
+
+Every code, config, content, and manual WordPress change should be recorded in [CHANGELOG.md](CHANGELOG.md).
+
+Use the helper script to append a standardized entry:
+
+```bash
+.venv/bin/python scripts/log_change.py \
+  --type manual \
+  --scope "Rank Math sitemap" \
+  --summary "Refreshed sitemap index" \
+  --details "post-sitemap.xml lastmod updated and previously missing URLs returned"
+```
+
 ## WordPress Integration
 
 Add this to your `functions.php` or create a plugin:
@@ -200,132 +214,203 @@ USE_GSC_DATA="true"
 - 新网站可能没有足够数据，建议先使用模板生成
 - 设置 `USE_GSC_DATA="false"` 可禁用 GSC 集成
 
-### 3. 准备选题数据
+### 3. Prepare Topic Data
 
-编辑 `topics.csv` 文件，添加你的选题：
+You now have two ways to maintain `topics.csv`.
+
+#### Option A: Edit `topics.csv` manually
 
 ```csv
 slug,title,primary_keyword,category_hint
 wholesale-candy-australia-guide,Wholesale Candy Australia: Supplier Guide (2026),wholesale candy australia,Wholesale Candy
-sour-lollies-buying-guide,Sour Lollies Buying Guide: Flavours, Brands & Bulk,sour lollies australia,Sour Lollies
+sour-lollies-buying-guide,"Sour Lollies Buying Guide: Flavours, Brands & Bulk",sour lollies australia,Sour Lollies
 ```
 
-**字段说明：**
-- `slug`: URL 友好的文章标识符（将作为永久链接）
-- `title`: 文章标题
-- `primary_keyword`: 主要 SEO 关键词
-- `category_hint`: 分类提示（用于内容生成）
+Field meanings:
+- `slug`: URL-safe article identifier
+- `title`: article title
+- `primary_keyword`: main SEO keyword
+- `category_hint`: article category hint
 
-### 4. 运行程序
+#### Option B: Let the program replenish `topics.csv`
+
+When `AUTO_GENERATE_TOPICS=true` or `--generate-topics` is passed, the Python workflow checks how many pending rows remain before publishing. If the queue is below the target, it generates new topic ideas and appends unique rows into `topics.csv`.
+
+Relevant settings:
+
+```env
+AUTO_GENERATE_TOPICS=true
+TOPIC_GENERATION_SOURCE=auto
+TOPIC_TARGET_PENDING=5
+TOPIC_SEEDS=american candy,sour lollies,vegan candy,halal candy
+```
+
+Meaning:
+- `TOPIC_GENERATION_SOURCE=auto`: prefer GSC opportunities, then fall back to seed topics.
+- `TOPIC_GENERATION_SOURCE=seed`: generate only from `TOPIC_SEEDS`.
+- `TOPIC_GENERATION_SOURCE=gsc`: generate only from Google Search Console opportunity data.
+- `TOPIC_TARGET_PENDING=5`: try to keep at least 5 pending topics in `topics.csv`.
+- `TOPIC_SEEDS`: seed topics used when seed generation is enabled.
+
+### 4. Run The Program
+
+#### Process the current `topics.csv` in batch mode
 
 ```bash
-python src/run_mvp.py
+.venv/bin/python src/run_mvp.py --mode batch
 ```
 
-**预期输出：**
+#### Create only 1 draft per day
 
-```
-🚀 SEO Automation Agent MVP - Starting...
-
-✅ Configuration loaded
-   WordPress: https://sweetsworld.com.au
-   Username: your_username
-
-📋 Found 2 topics to process
-
-[1/2] Processing: Wholesale Candy Australia: Supplier Guide (2026)
-  ✅ Generated HTML content (3456 characters)
-  ✅ Created draft: https://sweetsworld.com.au/?p=123
-
-[2/2] Processing: Sour Lollies Buying Guide: Flavours, Brands & Bulk
-  ✅ Generated HTML content (3521 characters)
-  ✅ Created draft: https://sweetsworld.com.au/?p=124
-
-📤 Sending Telegram notification...
-✅ Telegram notification sent successfully
-
-==================================================
-✅ Done. Created drafts: 2/2
-==================================================
+```bash
+SEO_RUN_MODE=daily DAILY_LIMIT=1 .venv/bin/python src/run_mvp.py --mode daily
 ```
 
-## 成功标准
+#### Replenish topics automatically during the daily run
 
-运行成功后，你应该看到：
+```bash
+AUTO_GENERATE_TOPICS=true TOPIC_GENERATION_SOURCE=auto TOPIC_TARGET_PENDING=5 TOPIC_SEEDS="american candy,sour lollies,vegan candy" SEO_RUN_MODE=daily DAILY_LIMIT=1 .venv/bin/python src/run_mvp.py --mode daily --generate-topics
+```
 
-1. ✅ WordPress 后台出现新的草稿文章（状态为 Draft）
-2. ✅ Telegram 收到包含草稿链接的通知消息
-3. ✅ 控制台输出显示所有文章创建成功
+#### Publish immediately after creation
 
-## 常见问题排查
+```bash
+AUTO_PUBLISH_CREATED_POSTS=true AUTO_GENERATE_TOPICS=true SEO_RUN_MODE=daily DAILY_LIMIT=1 .venv/bin/python src/run_mvp.py --mode daily --generate-topics --publish-created
+```
+
+The Python workflow now does all of the following:
+- reads `topics.csv`
+- tracks local run state to avoid re-processing the same row
+- dedupes against WordPress slugs and titles before creating a post
+- optionally uses OpenAI for article generation
+- optionally uses GSC keywords and top pages for SEO enrichment
+- builds structured SEO HTML with excerpt, FAQ, and internal links
+- sends a Telegram summary
+
+### 5. Schedule Daily Runs On macOS With launchd
+
+New scripts in this repo:
+- `scripts/run_daily_seo.sh`: actual daily runner
+- `scripts/install_launchd.sh`: installs the launchd job
+- `scripts/uninstall_launchd.sh`: removes the launchd job
+
+#### Install a job that runs every day at 09:15
+
+```bash
+cd ~/agents/agents/sweetsworld-seo-agent
+bash scripts/install_launchd.sh 9 15
+```
+
+This creates:
+- `~/Library/LaunchAgents/com.sweetsworld.seo-agent.daily.plist`
+
+Check status:
+
+```bash
+launchctl list | grep com.sweetsworld.seo-agent.daily
+```
+
+Watch logs:
+
+```bash
+tail -f logs/daily-seo.log
+```
+
+Remove the scheduled job:
+
+```bash
+bash scripts/uninstall_launchd.sh
+```
+
+### Success Criteria
+
+You should see all of the following when the workflow is healthy:
+
+1. New WordPress drafts appear, or published posts if `AUTO_PUBLISH_CREATED_POSTS=true` is enabled.
+2. `data/seo_daily_state.json` records the latest run state.
+3. `topics.csv` grows with unique rows when automatic topic generation is enabled.
+4. Telegram receives a summary with created links or error details.
+
+## Troubleshooting
 
 ### 401 Unauthorized
 
-**原因：** WordPress 认证失败
+Cause: WordPress authentication failed.
 
-**解决方案：**
-- 检查 `WP_USERNAME` 是否正确
-- 确认 `WP_APP_PASSWORD` 格式正确（包含空格）
-- 验证 Application Password 未过期或被删除
-- 确保用户有发布文章的权限
+Fix:
+- Check `WP_USERNAME`.
+- Check `WP_APP_PASSWORD` and keep the spaces.
+- Confirm the Application Password still exists.
+- Confirm the user can create posts.
 
 ### 403 Forbidden
 
-**原因：** 权限不足或 REST API 被禁用
+Cause: insufficient permissions or REST API access is blocked.
 
-**解决方案：**
-- 确认用户角色为 Editor 或 Administrator
-- 检查 WordPress 是否启用了 REST API
-- 查看是否有安全插件阻止 API 访问
+Fix:
+- Confirm the user role is Editor or Administrator.
+- Confirm the WordPress REST API is enabled.
+- Check whether security plugins are blocking the request.
 
 ### 404 Not Found
 
-**原因：** WordPress REST API 不可用
+Cause: the WordPress REST API endpoint is unavailable.
 
-**解决方案：**
-- 确认 `WP_BASE_URL` 正确（不要包含尾部斜杠）
-- 访问 `https://sweetsworld.com.au/wp-json/wp/v2/posts` 测试 API
-- 检查 WordPress 固定链接设置是否正确
+Fix:
+- Verify `WP_BASE_URL`.
+- Test `https://sweetsworld.com.au/wp-json/wp/v2/posts` directly.
+- Re-save WordPress permalink settings.
 
-### Connection Error
+### No new rows are added to `topics.csv`
 
-**原因：** 网络连接问题
+Cause: the generated suggestions duplicate existing rows, or OpenAI / GSC data is unavailable.
 
-**解决方案：**
-- 检查网络连接
-- 确认网站可正常访问
-- 尝试增加请求超时时间（修改 `wp_client.py` 中的 `timeout` 参数）
+Fix:
+- Change `TOPIC_SEEDS` to more specific topic areas.
+- Verify `OPENAI_API_KEY`.
+- If using GSC, set `USE_GSC_DATA=true` and confirm the service account works.
 
-## 功能清单
+### launchd does not trigger
 
-### ✅ 已实现
-- [x] WordPress REST API 集成（草稿创建）
-- [x] 完善的错误处理（401/403/404/500）
-- [x] 模板式内容生成
-- [x] **OpenAI API 集成**（AI 动态内容生成）
-- [x] **Google Search Console 集成**（真实关键词数据）
-- [x] Telegram 通知推送
-- [x] CSV 批量处理
+Cause: the launchd job was not loaded, or the plist was removed.
 
-### 🚀 后续扩展计划
-- [ ] 自动获取 WooCommerce 产品数据并插入文章
-- [ ] 支持自动设置特色图片（Unsplash/Pexels）
-- [ ] 支持自动分类和标签
-- [ ] 添加内容质量检查和 SEO 评分
-- [ ] 支持批量更新已有文章
-- [ ] 定时任务和自动化执行
-- [ ] 内容 A/B 测试
+Fix:
+- Run `launchctl list | grep com.sweetsworld.seo-agent.daily`.
+- Inspect `logs/launchd.stdout.log` and `logs/launchd.stderr.log`.
+- Re-run `bash scripts/install_launchd.sh 9 15`.
 
-## 开发环境
+## Feature Checklist
+
+### Implemented
+- WordPress REST API integration
+- Draft creation with optional immediate publish
+- Template-based article generation
+- OpenAI-based article generation
+- Google Search Console enrichment
+- Telegram notifications
+- CSV batch processing
+- Local run-state tracking
+- WordPress slug/title dedupe
+- Automatic `topics.csv` replenishment
+- macOS launchd install/uninstall scripts
+
+### Future Work
+- Pull WooCommerce product data into articles
+- Auto-set featured images
+- Auto-assign categories and tags
+- Add content quality scoring
+- Update existing posts in batches
+- Run content A/B tests
+## Development Environment
 
 - Python 3.10+
-- VS Code (推荐)
+- VS Code (recommended)
 - Git
 
 ## License
 
 MIT
 
-## 联系方式
+## Contact
 
-如有问题，请通过 GitHub Issues 反馈。
+Please use GitHub Issues for questions or bug reports.

@@ -1,0 +1,146 @@
+{
+  "brief_id": "kit-kat-australia-brief-v1",
+  "slug": "kit-kat-australia",
+  "keyword": "kit kat australia",
+  "search_intent": "Transactional with commercial intent",
+  "page_type": "landing_page",
+  "title": "Kit Kat Australia: Buy Kit Kat Flavours Including Japan Varieties",
+  "meta_description": "Kit Kat Australia: Buy Kit Kat Flavours Including Japan Varieties. Compare stock options, buying factors, and the best next steps for kit kat in Australia.",
+  "intro": "Use this page to compare where to buy kit kat in Australia, what to check before ordering, and which chocolate bars options are the best fit for your basket.",
+  "outline": [
+    "Where to buy kit kat with less guesswork",
+    "How to compare Chocolate Bars options before ordering"
+  ],
+  "sections": [
+    {
+      "heading": "Where to buy kit kat with less guesswork",
+      "paragraphs": [
+        "Landing pages for kit kat need to show real commercial value quickly, including price context, stock clarity, and relevant product paths.",
+        "The goal is to reduce purchase friction rather than publish a thin page that repeats the keyword."
+      ],
+      "bullets": [
+        "KITKAT JAPAN DARK MINI 13'S",
+        "KITKAT JAPAN MINI 14'S",
+        "KITKAT JAPAN RICH GREEN TEA 13",
+        "Flavour Ice Tropical Freezer"
+      ]
+    },
+    {
+      "heading": "How to compare Chocolate Bars options before ordering",
+      "paragraphs": [
+        "A stronger landing page explains the trade-offs between pack size, flavour range, stock depth, and delivery timing.",
+        "That gives the page a conversion job as well as a ranking job."
+      ],
+      "bullets": [
+        "Compare unit price instead of headline price alone.",
+        "Check stock, bundle size, and delivery timing together.",
+        "Keep the call to action aligned with the buying task."
+      ]
+    }
+  ],
+  "faq_items": [
+    {
+      "question": "Where can I buy kit kat online in Australia?",
+      "answer": "Start with Australian stores that show live stock, delivery windows, and product range depth for kit kat before checkout."
+    },
+    {
+      "question": "How should I compare kit kat prices?",
+      "answer": "Compare unit price, pack size, shipping cost, and bundle options together instead of looking at the headline price only."
+    },
+    {
+      "question": "Are there other chocolate bars options worth comparing?",
+      "answer": "Yes. Nearby collections or substitute products can be useful when kit kat is out of stock or only available in limited pack sizes."
+    }
+  ],
+  "faq_questions": [
+    "Where can I buy kit kat online in Australia?",
+    "How should I compare kit kat prices?",
+    "Are there other chocolate bars options worth comparing?"
+  ],
+  "internal_links": [
+    {
+      "url": "https://sweetsworld.com.au/where-to-buy/haribo-australia/",
+      "label": "Haribo Australia",
+      "anchor_text": "Shop Haribo Australia",
+      "link_kind": "commercial"
+    },
+    {
+      "url": "https://sweetsworld.com.au/chocolate/",
+      "label": "Chocolate",
+      "anchor_text": "Compare Chocolate",
+      "link_kind": "category"
+    },
+    {
+      "url": "https://sweetsworld.com.au/chocolate/kitkatjapandarkmini13s/",
+      "label": "Kitkatjapandarkmini13s",
+      "anchor_text": "Shop Kitkatjapandarkmini13s",
+      "link_kind": "collection"
+    }
+  ],
+  "selected_products": [
+    {
+      "product_name": "KITKAT JAPAN DARK MINI 13'S",
+      "category": "Chocolate Gift Box",
+      "description": "KITKAT JAPAN DARK MINI 13'S Product Description: Deeply, it is a full-fledged adult chocolate confectionery that can charm you to your taste. In a “crash-and-spread” method, it is kneaded into chocolate dough bitter...",
+      "price": "9.99",
+      "url": "https://sweetsworld.com.au/chocolate/kitkatjapandarkmini13s/",
+      "matched_tokens": [
+        "chocolate",
+        "japan"
+      ],
+      "matched_phrases": [],
+      "selection_reason": "direct_match"
+    },
+    {
+      "product_name": "KITKAT JAPAN MINI 14'S",
+      "category": "Chocolate Gift Box",
+      "description": "KITKAT Japan Mini 14's – A Tasty Twist on a Classic Favorite At Sweets World , we bring you exciting treats from all over the world, and the KITKAT Japan Mini 14's is one of our top picks for something fun and...",
+      "price": "9.99",
+      "url": "https://sweetsworld.com.au/chocolate/kitkat-japan-mini-14s/",
+      "matched_tokens": [
+        "chocolate",
+        "japan"
+      ],
+      "matched_phrases": [],
+      "selection_reason": "direct_match"
+    },
+    {
+      "product_name": "KITKAT JAPAN RICH GREEN TEA 13",
+      "category": "Chocolate Gift Box",
+      "description": "KITKAT JAPAN RICH GREEN TEA 13 Product Description: Nestle KitKat wafer chocolate snack bar (KitKat mini matcha rich). 12+1 Mini KitKat bar. Rich green tea flavor chocolate cover wafer biscuit is the special edition...",
+      "price": "9.99",
+      "url": "https://sweetsworld.com.au/chocolate/kitkatjapanrichgreentea13/",
+      "matched_tokens": [
+        "chocolate",
+        "japan"
+      ],
+      "matched_phrases": [],
+      "selection_reason": "direct_match"
+    },
+    {
+      "product_name": "Flavour Ice Tropical Freezer",
+      "category": "Drinks",
+      "description": "Flavour Ice Tropical Freezer Product description: Fun freezer bars, delicious desserts and beverages that are beyond refreshing. Jel Sert brings excitement to all types of treats and drinks. But there's so much more...",
+      "price": "7.99",
+      "url": "https://sweetsworld.com.au/drinks/flavouricetropicalfreezer/",
+      "matched_tokens": [
+        "flavour",
+        "bars"
+      ],
+      "matched_phrases": [],
+      "selection_reason": "direct_match"
+    }
+  ],
+  "related_keywords": [
+    "sweetsworld",
+    "sweets world",
+    "white knight chocolate",
+    "fantales lollies",
+    "clinkers chocolate",
+    "fantails lolly"
+  ],
+  "cta": {
+    "heading": "Move from kit kat research into a purchase",
+    "body": "Compare the shortlist, then click through to the most relevant collection or product page to check live stock and delivery details."
+  }
+}

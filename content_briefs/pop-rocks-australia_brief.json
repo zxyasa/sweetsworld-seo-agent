@@ -1,0 +1,132 @@
+{
+  "brief_id": "pop-rocks-australia-brief-v1",
+  "slug": "pop-rocks-australia",
+  "keyword": "pop rocks australia",
+  "search_intent": "Transactional with commercial intent",
+  "page_type": "landing_page",
+  "title": "Pop Rocks Australia: Buy Popping Candy Online",
+  "meta_description": "Pop Rocks Australia: Buy Popping Candy Online. Compare stock options, buying factors, and the best next steps for pop rocks in Australia.",
+  "intro": "Use this page to compare where to buy pop rocks in Australia, what to check before ordering, and which novelty candy options are the best fit for your basket.",
+  "outline": [
+    "Where to buy pop rocks with less guesswork",
+    "How to compare Novelty Candy options before ordering"
+  ],
+  "sections": [
+    {
+      "heading": "Where to buy pop rocks with less guesswork",
+      "paragraphs": [
+        "Landing pages for pop rocks need to show real commercial value quickly, including price context, stock clarity, and relevant product paths.",
+        "The goal is to reduce purchase friction rather than publish a thin page that repeats the keyword."
+      ],
+      "bullets": [
+        "POP ROCKS Tropical Punch Popping Candy 9.5g",
+        "Popping Candy Pop Rocks - Strawberry 7g",
+        "Pop Rock Dips & Tattoo Cola- 18g"
+      ]
+    },
+    {
+      "heading": "How to compare Novelty Candy options before ordering",
+      "paragraphs": [
+        "A stronger landing page explains the trade-offs between pack size, flavour range, stock depth, and delivery timing.",
+        "That gives the page a conversion job as well as a ranking job."
+      ],
+      "bullets": [
+        "Compare unit price instead of headline price alone.",
+        "Check stock, bundle size, and delivery timing together.",
+        "Keep the call to action aligned with the buying task."
+      ]
+    }
+  ],
+  "faq_items": [
+    {
+      "question": "Where can I buy pop rocks online in Australia?",
+      "answer": "Start with Australian stores that show live stock, delivery windows, and product range depth for pop rocks before checkout."
+    },
+    {
+      "question": "How should I compare pop rocks prices?",
+      "answer": "Compare unit price, pack size, shipping cost, and bundle options together instead of looking at the headline price only."
+    },
+    {
+      "question": "Are there other novelty candy options worth comparing?",
+      "answer": "Yes. Nearby collections or substitute products can be useful when pop rocks is out of stock or only available in limited pack sizes."
+    }
+  ],
+  "faq_questions": [
+    "Where can I buy pop rocks online in Australia?",
+    "How should I compare pop rocks prices?",
+    "Are there other novelty candy options worth comparing?"
+  ],
+  "internal_links": [
+    {
+      "url": "https://sweetsworld.com.au/candy/",
+      "label": "Candy",
+      "anchor_text": "Shop Candy",
+      "link_kind": "category"
+    },
+    {
+      "url": "https://sweetsworld.com.au/uncategorized/pop-rocks-tropical-punch-9-5g/",
+      "label": "Pop Rocks Tropical Punch 9 5g",
+      "anchor_text": "Browse Pop Rocks Tropical Punch 9 5g",
+      "link_kind": "collection"
+    },
+    {
+      "url": "https://sweetsworld.com.au/party-lollies/kidsparty/popping-candy-pop-rocks/",
+      "label": "Popping Candy Pop Rocks",
+      "anchor_text": "See Popping Candy Pop Rocks",
+      "link_kind": "product"
+    }
+  ],
+  "selected_products": [
+    {
+      "product_name": "POP ROCKS Tropical Punch Popping Candy 9.5g",
+      "category": "Uncategorized",
+      "description": "POP ROCKS Tropical Punch Popping Candy – A Tropical Burst in Every Pop! Get ready for a fun and fizzy explosion with POP ROCKS Tropical Punch Popping Candy , now at Sweets World ! This exciting candy is packed with...",
+      "price": "2.5",
+      "url": "https://sweetsworld.com.au/uncategorized/pop-rocks-tropical-punch-9-5g/",
+      "matched_tokens": [
+        "rock",
+        "popping"
+      ],
+      "matched_phrases": [],
+      "selection_reason": "direct_match"
+    },
+    {
+      "product_name": "Popping Candy Pop Rocks - Strawberry 7g",
+      "category": "Candy",
+      "description": "Popping Candy Pop Rocks delivers fizzy, crackling fun and vibrant flavors in every bite. Perfect for snacking, parties, or adding excitement to desserts.",
+      "price": "1",
+      "url": "https://sweetsworld.com.au/party-lollies/kidsparty/popping-candy-pop-rocks/",
+      "matched_tokens": [
+        "rock",
+        "popping"
+      ],
+      "matched_phrases": [],
+      "selection_reason": "direct_match"
+    },
+    {
+      "product_name": "Pop Rock Dips & Tattoo Cola- 18g",
+      "category": "Candy",
+      "description": "Pop Rock Dips & Tattoo Cola- 18g Pop Rocks Dips + Tattoo 18G Cola flavour ( Gluten Free) Pop Rocks Dips & Tattoo could be the ultimate fun box of Pop Rocks. This fabulous box of popping candies comes with 30 sachets...",
+      "price": "2",
+      "url": "https://sweetsworld.com.au/party-lollies/kidsparty/pop-rock-dips-tattoo-cola/",
+      "matched_tokens": [
+        "rock",
+        "popping"
+      ],
+      "matched_phrases": [],
+      "selection_reason": "direct_match"
+    }
+  ],
+  "related_keywords": [
+    "sweetsworld",
+    "sweets world",
+    "white knight chocolate",
+    "fantales lollies",
+    "fantails lolly",
+    "darrell lea kotara"
+  ],
+  "cta": {
+    "heading": "Move from pop rocks research into a purchase",
+    "body": "Compare the shortlist, then click through to the most relevant collection or product page to check live stock and delivery details."
+  }
+}

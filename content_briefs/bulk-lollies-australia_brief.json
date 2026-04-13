@@ -1,0 +1,135 @@
+{
+  "brief_id": "bulk-lollies-australia-brief-v1",
+  "slug": "bulk-lollies-australia",
+  "keyword": "bulk lollies australia",
+  "search_intent": "Transactional with commercial intent",
+  "page_type": "landing_page",
+  "title": "Bulk Lollies Australia: Wholesale Candy for Parties and Events",
+  "meta_description": "Bulk Lollies Australia: Wholesale Candy for Parties and Events. Compare stock options, buying factors, and the best next steps for lollies in Australia.",
+  "intro": "Use this page to compare where to buy lollies in Australia, what to check before ordering, and which wholesale options are the best fit for your basket.",
+  "outline": [
+    "Where to buy lollies with less guesswork",
+    "How to compare Wholesale options before ordering"
+  ],
+  "sections": [
+    {
+      "heading": "Where to buy lollies with less guesswork",
+      "paragraphs": [
+        "Landing pages for lollies need to show real commercial value quickly, including price context, stock clarity, and relevant product paths.",
+        "The goal is to reduce purchase friction rather than publish a thin page that repeats the keyword."
+      ],
+      "bullets": [
+        "Lolliland Choco Rocks 1kg",
+        "Milk Chocolate Chewy Caramel 1.8kg ( Like Cobbers)",
+        "Rainbow Baby Fish 1kg"
+      ]
+    },
+    {
+      "heading": "How to compare Wholesale options before ordering",
+      "paragraphs": [
+        "A stronger landing page explains the trade-offs between pack size, flavour range, stock depth, and delivery timing.",
+        "That gives the page a conversion job as well as a ranking job."
+      ],
+      "bullets": [
+        "Compare unit price instead of headline price alone.",
+        "Check stock, bundle size, and delivery timing together.",
+        "Keep the call to action aligned with the buying task."
+      ]
+    }
+  ],
+  "faq_items": [
+    {
+      "question": "Where can I buy lollies online in Australia?",
+      "answer": "Start with Australian stores that show live stock, delivery windows, and product range depth for lollies before checkout."
+    },
+    {
+      "question": "How should I compare lollies prices?",
+      "answer": "Compare unit price, pack size, shipping cost, and bundle options together instead of looking at the headline price only."
+    },
+    {
+      "question": "Are there other wholesale options worth comparing?",
+      "answer": "Yes. Nearby collections or substitute products can be useful when lollies is out of stock or only available in limited pack sizes."
+    }
+  ],
+  "faq_questions": [
+    "Where can I buy lollies online in Australia?",
+    "How should I compare lollies prices?",
+    "Are there other wholesale options worth comparing?"
+  ],
+  "internal_links": [
+    {
+      "url": "https://sweetsworld.com.au/where-to-buy/buy-bulk-candy-online-australia/",
+      "label": "Buy Bulk Candy Online Australia",
+      "anchor_text": "Shop Buy Bulk Candy Online Australia",
+      "link_kind": "commercial"
+    },
+    {
+      "url": "https://sweetsworld.com.au/candy/american-candy/",
+      "label": "American Candy",
+      "anchor_text": "Compare American Candy",
+      "link_kind": "collection"
+    },
+    {
+      "url": "https://sweetsworld.com.au/candy/",
+      "label": "Candy",
+      "anchor_text": "Shop Candy",
+      "link_kind": "category"
+    }
+  ],
+  "selected_products": [
+    {
+      "product_name": "Lolliland Choco Rocks 1kg",
+      "category": "American Chocolate",
+      "description": "Lolliland Choco Rocks – 1kg of Crunchy, Chocolaty Fun! Looking for something fun, tasty, and perfect for sharing? Try the Lolliland Choco Rocks , now available at Sweets World ! These little chocolate treats are...",
+      "price": "29.99",
+      "url": "https://sweetsworld.com.au/candy/american-candy/american-chocolate/lolliland-choco-rocks/",
+      "matched_tokens": [
+        "generic_family"
+      ],
+      "matched_phrases": [
+        "wholesale"
+      ],
+      "selection_reason": "fallback_large_pack"
+    },
+    {
+      "product_name": "Milk Chocolate Chewy Caramel 1.8kg ( Like Cobbers)",
+      "category": "Australian Chocolate",
+      "description": "Milk Chocolate Chewy Caramel is a luxurious treat that combines creamy chocolate with soft, rich caramel, providing an indulgent experience with every piece. Available from Lolly’s online shop for delivery throughout...",
+      "price": "69.99",
+      "url": "https://sweetsworld.com.au/chocolate/australian-chocolate/milk-chocolate-chewy-caramel-18kg-like-cobbers/",
+      "matched_tokens": [
+        "generic_family"
+      ],
+      "matched_phrases": [
+        "wholesale"
+      ],
+      "selection_reason": "fallback_large_pack"
+    },
+    {
+      "product_name": "Rainbow Baby Fish 1kg",
+      "category": "Chocolate Gift Box",
+      "description": "",
+      "price": "39.99",
+      "url": "https://sweetsworld.com.au/chocolate/new-zealand-chocolate/rainbowbabyfish1kg/",
+      "matched_tokens": [
+        "generic_family"
+      ],
+      "matched_phrases": [
+        "wholesale"
+      ],
+      "selection_reason": "fallback_large_pack"
+    }
+  ],
+  "related_keywords": [
+    "sweetsworld",
+    "sweets world",
+    "white knight chocolate",
+    "fantales lollies",
+    "fantails lolly",
+    "clinkers chocolate"
+  ],
+  "cta": {
+    "heading": "Move from lollies research into a purchase",
+    "body": "Compare the shortlist, then click through to the most relevant collection or product page to check live stock and delivery details."
+  }
+}

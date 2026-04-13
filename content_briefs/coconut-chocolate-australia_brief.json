@@ -1,0 +1,132 @@
+{
+  "brief_id": "coconut-chocolate-australia-brief-v1",
+  "slug": "coconut-chocolate-australia",
+  "keyword": "coconut chocolate australia",
+  "search_intent": "Commercial category intent",
+  "page_type": "category_page",
+  "title": "Coconut Chocolate Australia: Buy Coconut Lollies and Chocolate Online",
+  "meta_description": "Coconut Chocolate Australia: Buy Coconut Lollies and Chocolate Online. Compare stock options, buying factors, and the best next steps for coconut...",
+  "intro": "This page explains the coconut chocolate range, the main product formats to compare, and the next collection or product pages worth opening before you buy.",
+  "outline": [
+    "What defines the coconut chocolate range",
+    "How to shop Chocolate Bars more confidently"
+  ],
+  "sections": [
+    {
+      "heading": "What defines the coconut chocolate range",
+      "paragraphs": [
+        "A category page for coconut chocolate should explain flavour profile, product format, and the most recognisable options in the range.",
+        "That helps search engines and shoppers understand the scope of the page before they move deeper into the catalogue."
+      ],
+      "bullets": [
+        "Dark Chocolate Coconut Roughs 160g",
+        "Milk Chocolate Coconut Roughs 1kg",
+        "BUTLERS Coconut & Almond White 100g"
+      ]
+    },
+    {
+      "heading": "How to shop Chocolate Bars more confidently",
+      "paragraphs": [
+        "Category pages should guide users through format, suitability, and value instead of listing products without context.",
+        "This is the section that turns a collection page into a useful SEO landing surface."
+      ],
+      "bullets": [
+        "Show best sellers before long-tail variants.",
+        "Explain when bundles make more sense than single items.",
+        "Link into adjacent collections and product pages."
+      ]
+    }
+  ],
+  "faq_items": [
+    {
+      "question": "What should I look for when choosing coconut chocolate?",
+      "answer": "Focus on suitability for the use case, flavour profile, pack size, and delivery timing rather than assuming every popular candy is the right fit."
+    },
+    {
+      "question": "What is the best next step after reading this page?",
+      "answer": "Use the linked category or product pages to compare live stock, range depth, and practical buying options."
+    },
+    {
+      "question": "Can this page help me compare chocolate bars options?",
+      "answer": "Yes. It should clarify which products or collections are the best fit instead of leaving the reader with generic advice."
+    }
+  ],
+  "faq_questions": [
+    "What should I look for when choosing coconut chocolate?",
+    "What is the best next step after reading this page?",
+    "Can this page help me compare chocolate bars options?"
+  ],
+  "internal_links": [
+    {
+      "url": "https://sweetsworld.com.au/chocolate/",
+      "label": "Chocolate",
+      "anchor_text": "Explore Chocolate",
+      "link_kind": "category"
+    },
+    {
+      "url": "https://sweetsworld.com.au/chocolate/australian-chocolate/",
+      "label": "Australian Chocolate",
+      "anchor_text": "Browse Australian Chocolate",
+      "link_kind": "collection"
+    },
+    {
+      "url": "https://sweetsworld.com.au/chocolate/australian-chocolate/darkcoconutroughs160g/",
+      "label": "Darkcoconutroughs160g",
+      "anchor_text": "See Darkcoconutroughs160g",
+      "link_kind": "product"
+    }
+  ],
+  "selected_products": [
+    {
+      "product_name": "Dark Chocolate Coconut Roughs 160g",
+      "category": "Australian Chocolate",
+      "description": "",
+      "price": "9.99",
+      "url": "https://sweetsworld.com.au/chocolate/australian-chocolate/darkcoconutroughs160g/",
+      "matched_tokens": [
+        "chocolate",
+        "coconut"
+      ],
+      "matched_phrases": [],
+      "selection_reason": "direct_match"
+    },
+    {
+      "product_name": "Milk Chocolate Coconut Roughs 1kg",
+      "category": "Candy",
+      "description": "",
+      "price": "55",
+      "url": "https://sweetsworld.com.au/candy/milk-chocolate-coconut-roughs-1kg/",
+      "matched_tokens": [
+        "chocolate",
+        "coconut"
+      ],
+      "matched_phrases": [],
+      "selection_reason": "direct_match"
+    },
+    {
+      "product_name": "BUTLERS Coconut & Almond White 100g",
+      "category": "Chocolate Gift Box",
+      "description": "BUTLERS Coconut & Almond White 100g Product Description: White tropical coconut smothered in creamy white chocolate in a bite-size mini chocolate bar. Enjoy this delicious chocolate any time anywhere. This premium...",
+      "price": "8.99",
+      "url": "https://sweetsworld.com.au/british-lollies/uk-chocolate/butlerscoconutalmondwhite100g/",
+      "matched_tokens": [
+        "chocolate",
+        "coconut"
+      ],
+      "matched_phrases": [],
+      "selection_reason": "direct_match"
+    }
+  ],
+  "related_keywords": [
+    "sweetsworld",
+    "sweets world",
+    "white knight chocolate",
+    "fantales lollies",
+    "fantails lolly",
+    "darrell lea kotara"
+  ],
+  "cta": {
+    "heading": "Use this page as a shortlist for coconut chocolate",
+    "body": "Review the key options, then move into the linked collection or product pages when you are ready to compare live stock and pricing."
+  }
+}

@@ -123,6 +123,8 @@ class Settings:
     gsc_property_url: str
     gsc_credentials_file: str
     use_gsc_data: bool
+    ga4_property_id: str
+    ga4_credentials_file: str
     seo_run_mode: str
     daily_limit: int
     state_file: str
@@ -185,6 +187,13 @@ def get_settings() -> Settings:
         "gsc_credentials.json",
     )
     use_gsc_data = _get_bool_env("USE_GSC_DATA", False)
+    ga4_property_id = _clean_env_value("GA4_PROPERTY_ID", "")
+    # GA4 credentials — defaults to GSC credentials file if not separately configured
+    _ga4_creds_raw = _clean_env_value(
+        "GA4_CREDENTIALS_FILE",
+        _clean_env_value("GSC_CREDENTIALS_FILE", "gsc_credentials.json"),
+    )
+    ga4_credentials_file = _resolve_project_path(_ga4_creds_raw, "gsc_credentials.json")
 
     seo_run_mode = _clean_env_value("SEO_RUN_MODE", "batch").lower() or "batch"
     if seo_run_mode not in {"batch", "daily"}:
@@ -260,6 +269,8 @@ def get_settings() -> Settings:
         gsc_property_url=gsc_property_url,
         gsc_credentials_file=gsc_credentials_file,
         use_gsc_data=use_gsc_data,
+        ga4_property_id=ga4_property_id,
+        ga4_credentials_file=ga4_credentials_file,
         seo_run_mode=seo_run_mode,
         daily_limit=daily_limit,
         state_file=state_file,
