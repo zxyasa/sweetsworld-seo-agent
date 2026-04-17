@@ -72,14 +72,23 @@ def _normalise_keyword(keyword: str) -> str:
 def _is_near_duplicate(kw_a: str, kw_b: str, threshold: float = 0.85) -> bool:
     """Return True if two normalised keywords are semantically close.
 
-    Uses SequenceMatcher ratio — no external dependencies.
-    A threshold of 0.85 catches 'jolly ranchers halal' vs 'jolly rancher halal
-    australia' while keeping genuinely different topics separate.
+    Catches three cases:
+    1. High string similarity (SequenceMatcher >= threshold)
+    2. One keyword's tokens are a subset of the other's
+       (e.g. "twirl chocolate" vs "twirl chocolate bar")
+    3. Identical normalised forms
     """
     norm_a = _normalise_keyword(kw_a)
     norm_b = _normalise_keyword(kw_b)
     if not norm_a or not norm_b:
         return False
+    if norm_a == norm_b:
+        return True
+    # Subset check: if one keyword's tokens fully contain the other's
+    tokens_a = set(norm_a.split())
+    tokens_b = set(norm_b.split())
+    if tokens_a and tokens_b and (tokens_a <= tokens_b or tokens_b <= tokens_a):
+        return True
     return SequenceMatcher(None, norm_a, norm_b).ratio() >= threshold
 
 
@@ -281,6 +290,7 @@ def replenish_topics_csv(
     openai_api_key: str,
     openai_model: str,
     gsc_client: Any = None,
+    topics_db: Any = None,
 ) -> Dict[str, Any]:
     desired_pending = max(int(target_pending), 1)
     deficit = max(desired_pending - len(pending_topics), 0)
@@ -303,6 +313,12 @@ def replenish_topics_csv(
     )
 
     added_count = append_topics_to_csv(csv_path, generated_topics)
+    # Also write to topics.db if available
+    if topics_db is not None and added_count:
+        try:
+            topics_db.add_topics_bulk(generated_topics[:added_count], source="auto_generated")
+        except Exception as exc:
+            logger.warning(f"Failed to sync generated topics to topics.db: {exc}")
     return {
         "requested": deficit,
         "added": generated_topics[:added_count],

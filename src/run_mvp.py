@@ -1043,6 +1043,8 @@ def maybe_replenish_topics(
     settings: Any,
     args: argparse.Namespace,
     gsc_client: Optional["GSCClient"],
+    page_registry: Optional[Dict[str, Any]] = None,
+    topics_db: Any = None,
 ) -> tuple[List[Dict[str, str]], List[Dict[str, str]]]:
     auto_generate_topics = args.generate_topics or settings.auto_generate_topics
     if not auto_generate_topics:
@@ -1054,10 +1056,24 @@ def maybe_replenish_topics(
     if args.topic_seed:
         topic_seeds = args.topic_seed + topic_seeds
 
+    # Build complete existing_topics: CSV topics + registry entries not in CSV
+    # so dedup catches manually created WP posts too
+    all_existing = list(topics)
+    if page_registry:
+        csv_slugs = {t.get("slug", "").strip().lower() for t in topics}
+        for record in page_registry.get("records", []):
+            slug = record.get("slug", "").strip().lower()
+            if slug and slug not in csv_slugs:
+                all_existing.append({
+                    "slug": slug,
+                    "title": record.get("keyword", slug).replace("-", " ").title(),
+                    "primary_keyword": record.get("keyword", ""),
+                })
+
     logger.info(f"INFO: Auto topic generation enabled (source={topic_source}, target_pending={target_pending})")
     report = replenish_topics_csv(
         csv_path=csv_path,
-        existing_topics=topics,
+        existing_topics=all_existing,
         pending_topics=pending_topics,
         target_pending=target_pending,
         source=topic_source,
@@ -1065,6 +1081,7 @@ def maybe_replenish_topics(
         openai_api_key=settings.openai_api_key,
         openai_model=settings.openai_model,
         gsc_client=gsc_client,
+        topics_db=topics_db,
     )
 
     added = report.get("added", []) or []
@@ -1457,6 +1474,8 @@ def main() -> None:
         settings=settings,
         args=args,
         gsc_client=gsc_client,
+        page_registry=page_registry,
+        topics_db=_topics_db,
     )
     pending_topics = build_pending_queue(topics, state, force=args.force)
 
