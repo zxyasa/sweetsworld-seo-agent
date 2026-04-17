@@ -549,6 +549,7 @@ def save_registry_record(
     link: str = "",
     post_id: Optional[int] = None,
     wp_item: Optional[Dict[str, Any]] = None,
+    word_count: Optional[int] = None,
 ) -> Dict[str, Any]:
     record = ensure_registry_record(registry, topic)
     now = datetime.now().isoformat(timespec="seconds")
@@ -582,10 +583,12 @@ def save_registry_record(
 
     if effective_status == "published":
         record["published_at"] = wp_date or record.get("published_at") or now
+    if word_count is not None:
+        record["word_count"] = word_count
     if effective_status == "blocked":
-        record["blocking_reason"] = message
+        record["blocking_reason"] = str(message)
     elif message:
-        record["notes"] = message
+        record["notes"] = str(message)
 
     record["last_error"] = message if status == "error" else ""
     save_json_file(registry_path, registry)
@@ -1254,7 +1257,7 @@ def main() -> None:
         record["published_at"] = None
         record["post_link"] = ""
         record["updated_at"] = datetime.now().isoformat(timespec="seconds")
-        record["notes"] = (record.get("notes") or "") + " | reverted to draft"
+        record["notes"] = str(record.get("notes") or "") + " | reverted to draft"
         save_json_file(registry_path, registry)
         logger.info(f"OK: '{slug}' reverted to draft. Registry status → approved.")
         sys.exit(0)
@@ -1838,6 +1841,7 @@ def main() -> None:
                 link=post_link,
                 post_id=int(post_id) if post_id is not None else None,
                 wp_item=wp_result_item,
+                word_count=len(html_content.split()) if html_content else None,
             )
             record_topic_result(
                 state,
