@@ -1075,11 +1075,11 @@ def validate_content_quality(
             f"word count too low: {word_count} words (minimum {effective_min_words} for {page_type or 'this page type'})"
         )
 
-    # 2. H1 check skipped intentionally — WP theme renders H1 from the post title
-    # outside the content body. Template-generated content starts at H2 level.
+    # 2. H1 check — WP theme renders H1 from the post title outside the content body.
+    # Generated content must NOT contain H1 tags (expected 0).
     h1_count = len(_H1_RE.findall(html_content))
-    if h1_count > 1:
-        reasons.append(f"too many H1 tags in content body: found {h1_count} (should be 0 or 1)")
+    if h1_count > 0:
+        reasons.append(f"content body must not contain H1 tags: found {h1_count} (WP renders H1 from post title)")
 
     # 3. Target keyword appears at least twice in plain text
     topic_title = _clean_text(topic.get("title", ""))

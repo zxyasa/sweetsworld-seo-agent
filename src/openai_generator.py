@@ -210,7 +210,7 @@ class OpenAIGenerator:
         if pc.get("extra_instructions"):
             prompt += f"\n\n**Site-Specific Instructions (MANDATORY):**\n{pc['extra_instructions']}"
 
-        prompt += "\n\n**Output Format:**\nReturn ONLY the HTML content (starting with <h1> or <article>), no markdown, no explanations."
+        prompt += "\n\n**Output Format:**\nReturn ONLY the HTML content (starting with <h2> or <article>, NOT <h1>), no markdown, no explanations."
         return prompt
 
     def _sanitize_model_output(self, text: str, faq_items: list | None = None) -> str:
