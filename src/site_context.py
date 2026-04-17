@@ -245,6 +245,14 @@ def apply_site_context_env(ctx: SiteContext) -> None:
     os.environ["TELEGRAM_BOT_TOKEN"] = ctx.telegram_bot_token
     os.environ["TELEGRAM_CHAT_ID"] = ctx.telegram_chat_id
 
+    # Bridge token for RankMath SEO meta writes (wp-seo-meta.php)
+    _site_env_path = _SITES_ROOT / ctx.site_id / ".env"
+    if _site_env_path.exists():
+        _site_env = dotenv_values(_site_env_path)
+        _bridge_token = (_site_env.get("WP_SEO_BRIDGE_TOKEN") or "").strip()
+        if _bridge_token:
+            os.environ["WP_SEO_BRIDGE_TOKEN"] = _bridge_token
+
     if ctx.gsc_property_url:
         os.environ["GSC_PROPERTY_URL"] = ctx.gsc_property_url
 
