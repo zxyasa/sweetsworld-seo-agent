@@ -1093,9 +1093,10 @@ def main() -> None:
     _site_ctx = None
     if getattr(args, "site", None):
         try:
-            from site_context import load_site_context
+            from site_context import load_site_context, apply_site_context_env
             from sites_registry import SitesRegistry
             _site_ctx = load_site_context(args.site)
+            apply_site_context_env(_site_ctx)
             SitesRegistry().record_run(args.site)
             logger.info("Multi-site mode: site=%s  base_url=%s", args.site, _site_ctx.base_url)
         except Exception as _exc:
