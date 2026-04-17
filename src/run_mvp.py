@@ -1460,14 +1460,25 @@ def main() -> None:
     )
     pending_topics = build_pending_queue(topics, state, force=args.force)
 
+    # Sync any newly generated CSV topics into topics.db
+    if _topics_db is not None:
+        try:
+            result = _topics_db.add_topics_bulk(topics, source="csv_sync")
+            added_count = result.get("inserted", 0)
+            if added_count:
+                logger.info(f"INFO: Synced {added_count} new topic(s) from CSV into topics.db")
+        except Exception as _sync_exc:
+            logger.warning(f"WARN: CSV→topics.db sync failed: {_sync_exc}")
+
     # USE_TOPICS_DB: if DB is active and no targeted filters, load queue directly from DB
     # (DB already filters status='pending' and sorts by priority ASC)
-    if _topics_db is not None and not args.slug and not args.only_approved and not args.force:
+    if _topics_db is not None and not args.slug and not args.only_approved:
         try:
-            db_queue = _topics_db.get_pending_queue()
+            _db_limit = args.limit if args.limit is not None else settings.daily_limit
+            db_queue = _topics_db.get_pending_queue(limit=_db_limit)
             if db_queue:
                 pending_topics = db_queue
-                logger.info(f"INFO: topics_db queue — {len(pending_topics)} pending topics loaded from DB")
+                logger.info(f"INFO: topics_db queue — {len(pending_topics)} pending topic(s) loaded from DB (limit={_db_limit})")
             else:
                 logger.info("INFO: topics_db queue empty, falling back to CSV-based queue")
         except Exception as _db_queue_exc:
