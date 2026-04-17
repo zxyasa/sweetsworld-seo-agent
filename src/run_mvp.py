@@ -600,9 +600,6 @@ def registry_skip_reason(
     registry: Dict[str, Any],
     force: bool = False,
 ) -> Optional[str]:
-    if force:
-        return None
-
     record = find_registry_record(
         registry,
         slug=topic.get("slug", ""),
@@ -612,7 +609,11 @@ def registry_skip_reason(
         return None
 
     status = str(record.get("status", "")).strip().lower()
-    if status in REGISTRY_HOLD_STATUSES:
+    # Always skip published — even with --force (registry is authoritative)
+    if status == "published":
+        return f"Page registry already marks this page as {status}"
+    # --force bypasses other hold statuses (drafted, blocked, etc.)
+    if not force and status in REGISTRY_HOLD_STATUSES:
         return f"Page registry already marks this page as {status}"
     return None
 
@@ -1566,84 +1567,6 @@ def main() -> None:
             if _topics_db:
                 _topics_db.mark_status(topic.get("slug", ""), "exists")
             results.append({"title": title, "status": "exists", "message": registry_reason})
-            continue
-
-        existing = find_existing_post(wp_client, topic)
-        if existing:
-            existing_link = existing.get("link", "")
-            existing_status = str(existing.get("status", "existing")).strip().lower()
-            existing_post_id = existing.get("id")
-            registry_status = str(registry_record.get("status", "")).strip().lower()
-
-            if (
-                publish_created
-                and existing_status == "draft"
-                and registry_status in PUBLISH_APPROVED_STATUSES
-                and existing_post_id is not None
-            ):
-                published_post = wp_client.publish_post(int(existing_post_id))
-                existing_link = published_post.get("link") or existing_link
-                logger.info(f"  OK: Published approved existing draft: {existing_link}")
-                save_registry_record(
-                    page_registry,
-                    page_registry_path,
-                    topic,
-                    status="published",
-                    message="Published approved existing draft",
-                    link=existing_link,
-                    post_id=int(existing_post_id),
-                    wp_item=published_post,
-                )
-                record_topic_result(
-                    state,
-                    topic,
-                    status="published",
-                    link=existing_link,
-                    post_id=int(existing_post_id),
-                )
-                save_state(state_path, state)
-                if _topics_db:
-                    _topics_db.mark_status(topic.get("slug", ""), "published",
-                                           wp_post_id=int(existing_post_id), wp_post_url=existing_link)
-                if _site_ctx:
-                    from sites_registry import SitesRegistry as _SR3
-                    _site_ctx.db.upsert_page({
-                        "slug": topic.get("slug", ""), "wp_post_id": int(existing_post_id),
-                        "url": existing_link, "title": topic.get("title", ""),
-                        "page_type": topic.get("page_type", ""), "cluster": topic.get("cluster", ""),
-                        "status": "published",
-                        "published_at": datetime.now().isoformat(timespec="seconds"),
-                    })
-                    _site_ctx.db.log_publish(topic.get("slug", ""), "publish", wp_post_id=int(existing_post_id), details={"url": existing_link, "note": "existing_draft_published"})
-                    _SR3().record_publish(_site_ctx.site_id, slug=topic.get("slug", ""), wp_post_id=int(existing_post_id))
-                results.append({"title": title, "status": "published", "link": existing_link})
-                new_posts_created += 1
-                continue
-
-            registry_existing_status = "published" if existing_status in {"publish", "published"} else (registry_status or "drafted")
-            logger.info(f"  SKIP: Existing post found for slug '{topic['slug']}' ({existing_status}): {existing_link}")
-            save_registry_record(
-                page_registry,
-                page_registry_path,
-                topic,
-                status=registry_existing_status,
-                message=f"Existing {existing_status} post found",
-                link=existing_link,
-                post_id=int(existing_post_id) if existing_post_id is not None else None,
-                wp_item=existing,
-            )
-            record_topic_result(
-                state,
-                topic,
-                status="exists",
-                message=f"Existing {existing_status} post found",
-                link=existing_link,
-                post_id=existing_post_id,
-            )
-            save_state(state_path, state)
-            if _topics_db:
-                _topics_db.mark_status(topic.get("slug", ""), "exists")
-            results.append({"title": title, "status": "exists", "link": existing_link, "message": existing_status})
             continue
 
         try:
