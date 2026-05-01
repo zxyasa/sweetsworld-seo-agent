@@ -504,9 +504,51 @@ def _select_fallback_products(
     return selected
 
 
+_NSFW_NAME_PATTERNS = [
+    r"^ADULT\s",                # naming convention "ADULT Willies Candles ..."
+    r"\badult\s+(party|novelty|cake|candle|gift)",
+    r"\bwilly\b|\bwillies\b|\bpenis\b|\bvagina\b",
+    r"\bboob(s|ies)?\b",
+    r"\bbachelor(ette)?\s+party\b",
+    r"\bhens\s+party\b|\bhens\s+night\b",
+    r"\bbucks\s+party\b|\bbucks\s+night\b",
+    r"\bstripper\b|\bnaughty\b|\bnaked\b|\bnude\b",
+    r"\bx[\s-]?rated\b|\b18\s*\+",
+    r"\bsex(y|ual)?\b",
+]
+_NSFW_RE = __import__("re").compile("|".join(_NSFW_NAME_PATTERNS), __import__("re").IGNORECASE)
+
+
+def _is_nsfw_product(product: Dict[str, Any]) -> bool:
+    """SW catalog includes adult novelty SKUs (e.g. 'ADULT Willies Candles').
+    These must NOT appear in blog cross-sell — family-themed content + adult novelty
+    = brand inconsistency + ACL audience-confusion risk.
+    Filter by name pattern + category match."""
+    name = str(product.get("product_name") or product.get("name") or "")
+    if _NSFW_RE.search(name):
+        return True
+    cats = str(product.get("category") or product.get("categories") or "").lower()
+    if any(k in cats for k in ["adult", "novelty adult", "hens", "bucks", "bachelorette"]):
+        return True
+    tags = str(product.get("tags") or "").lower()
+    if "adult" in tags or "18+" in tags:
+        return True
+    return False
+
+
 def select_products_for_topic(topic: Dict[str, str], product_catalog: List[Dict[str, Any]], max_items: int = 4) -> List[Dict[str, Any]]:
     if not product_catalog:
         return []
+
+    # SAFETY FILTER: drop adult novelty SKUs before scoring — never appear in blog cross-sell
+    nsfw_count_before = len(product_catalog)
+    product_catalog = [p for p in product_catalog if not _is_nsfw_product(p)]
+    nsfw_filtered = nsfw_count_before - len(product_catalog)
+    if nsfw_filtered:
+        import logging as _logging
+        _logging.getLogger(__name__).info(
+            "  Filtered %s NSFW/adult products from selection candidates", nsfw_filtered
+        )
 
     tokens = _topic_tokens(topic)
     if not tokens:
