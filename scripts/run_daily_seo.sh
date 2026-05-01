@@ -5,7 +5,7 @@ SCRIPT_DIR="$(cd "$(dirname "${BASH_SOURCE[0]}")" && pwd)"
 REPO_DIR="$(cd "${SCRIPT_DIR}/.." && pwd)"
 LOG_DIR="${REPO_DIR}/logs"
 LOG_FILE="${LOG_DIR}/daily-seo.log"
-PYTHON_BIN="/opt/homebrew/bin/python3"
+PYTHON_BIN="${REPO_DIR}/.venv/bin/python"
 RUNNER="${REPO_DIR}/src/run_mvp.py"
 
 mkdir -p "${LOG_DIR}"
