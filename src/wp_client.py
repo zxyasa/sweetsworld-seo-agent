@@ -330,6 +330,39 @@ class WPClient(BasePublisher):
                 logger.warning("Failed to search WP media for '%s': %s", image_url, exc)
                 continue
 
+        # Fallback: image URL is reachable but not in media library (orphan upload).
+        # Re-import via wp/v2/media so subsequent posts hit the cache.
+        return self._reimport_orphan_media(image_url, filename)
+
+    def _reimport_orphan_media(self, image_url: str, filename: str) -> Dict[str, Any] | None:
+        """When find_media_by_source_url returns None but the URL is reachable, download
+        the file and re-upload via wp/v2/media to register it as an attachment."""
+        try:
+            r = requests.get(image_url, timeout=30)
+            if r.status_code != 200 or not r.content:
+                logger.warning("Re-import skipped: %s returned HTTP %s", image_url, r.status_code)
+                return None
+            # Guess mime
+            import mimetypes
+            mime, _ = mimetypes.guess_type(image_url)
+            if not mime:
+                mime = "image/png" if filename.lower().endswith(".png") else "image/jpeg"
+            upload_resp = requests.post(
+                f"{self.api_url}/media",
+                headers={
+                    **{k: v for k, v in self.headers.items() if k != "Content-Type"},
+                    "Content-Type": mime,
+                    "Content-Disposition": f'attachment; filename="{filename}"',
+                },
+                data=r.content,
+                timeout=120,
+            )
+            if upload_resp.status_code in (200, 201):
+                logger.info("  Re-imported orphan media: %s → id=%s", filename, upload_resp.json().get("id"))
+                return upload_resp.json()
+            logger.warning("Re-import failed: HTTP %s for %s", upload_resp.status_code, filename)
+        except Exception as exc:
+            logger.warning("Re-import exception for %s: %s", filename, exc)
         return None
 
     def find_similar_posts(self, query: str, max_results: int = 5) -> List[Dict[str, Any]]:
