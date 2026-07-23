@@ -167,9 +167,14 @@ def load_site_context(site_id: str, sites_root: Path | None = None) -> SiteConte
             indexing_key_file = None
 
     # ── GSC credentials ───────────────────────────────────────────────────────
+    # Single source of truth: seo-agent/gsc_credentials.json at repo root.
+    # A site may override via env var GSC_CREDENTIALS_FILE (absolute or site-relative).
     gsc_cfg = cfg.get("gsc", {})
     gsc_creds_rel = optional_env(gsc_cfg.get("env_credentials", "GSC_CREDENTIALS_FILE"), "")
-    gsc_credentials_file = site_dir / gsc_creds_rel if gsc_creds_rel else site_dir / "gsc_credentials.json"
+    if gsc_creds_rel:
+        gsc_credentials_file = site_dir / gsc_creds_rel  # Path() handles absolute natively
+    else:
+        gsc_credentials_file = _SITES_ROOT.parent / "gsc_credentials.json"
 
     wp_cfg = cfg.get("wp", {})
     tg_cfg = cfg.get("telegram", {})
@@ -252,6 +257,14 @@ def apply_site_context_env(ctx: SiteContext) -> None:
         _bridge_token = (_site_env.get("WP_SEO_BRIDGE_TOKEN") or "").strip()
         if _bridge_token:
             os.environ["WP_SEO_BRIDGE_TOKEN"] = _bridge_token
+
+    # SSH + WP-CLI transport for RankMath SEO meta (alternative to the bridge).
+    # WP_SSH_* / WP_CLI_DIR / optional SEO_META_WRITE_METHOD. Absent file → bridge default.
+    _wpcli_env_path = _SITES_ROOT / ctx.site_id / "wpcli.env"
+    if _wpcli_env_path.exists():
+        for _k, _v in dotenv_values(_wpcli_env_path).items():
+            if _v is not None and _v.strip():
+                os.environ[_k] = _v.strip()
 
     if ctx.gsc_property_url:
         os.environ["GSC_PROPERTY_URL"] = ctx.gsc_property_url

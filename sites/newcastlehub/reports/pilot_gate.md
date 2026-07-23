@@ -1,11 +1,11 @@
 # Pilot Gate
 
-- Generated at: `2026-04-13T00:30:21+00:00`
+- Generated at: `2026-07-23T00:30:23+00:00`
 - Decision: **`hold`**
-- Next action: Waiting for GSC impression signal on the 10 live pilot pages. Re-run pilot_gate after 2026-04-14 to check again.
+- Next action: Waiting for GSC impression signal on the 60 live pilot pages. Re-run pilot_gate after 2026-07-24 to check again.
 - Dashboard source: `live`
 
-- Published pilot pages: `10`
+- Published pilot pages: `60`
 - Approved but unpublished pages: `0`
 - QA pass rate: `1.0`
 - GSC impressions: `0` | clicks: `0` | avg CTR: `0.0%` | avg position: `0.0`
@@ -14,9 +14,9 @@
 - Content upgrade candidates: `0`
 - GA4 sessions: `0` | avg bounce: `0%` | avg duration: `0.0s`
 - GA4 pages with data: `0` | high bounce: `0` | low duration: `0`
-- Technical blockers: `1`
-- Dashboard issue pages: `9`
-- Non-blocking technical warnings: `8`
+- Technical blockers: `53`
+- Dashboard issue pages: `58`
+- Non-blocking technical warnings: `5`
 
 ## Checks
 
@@ -24,7 +24,7 @@
 - `manual_qa_complete`: `True`
 - `no_technical_blockers`: `False`
 - `no_orphaned_records`: `True`
-- `search_console_review_available`: `True`
+- `search_console_review_available`: `False`
 - `indexation_signal_present`: `False`
 - `query_intent_fit_present`: `False`
 - `ctr_meets_threshold`: `True`
@@ -35,12 +35,13 @@
 ## Blocking Reasons
 
 - technical blockers remain on published pilot pages after filtering soft warnings
+- GSC review is required but GSC metrics are not available
 - no GSC impression signal yet on the published pilot batch
 - no GSC click/query-fit signal yet on the published pilot batch
 
 ## Technical Warnings
 
-- `missing_from_post_sitemap`: `8` page(s)
+- `missing_from_post_sitemap`: `5` page(s)
 
 ## GSC Performance Analysis
 

@@ -1,5 +1,6 @@
 # Environment
 .env
+**/wpcli.env
 .venv
 venv/
 env/

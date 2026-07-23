@@ -1,112 +1,1804 @@
 {
-  "updated_at": "2026-04-13T10:30:56",
+  "updated_at": "2026-07-23T10:33:17",
   "runs": [
     {
-      "timestamp": "2026-04-02T10:30:46",
+      "timestamp": "2026-04-17T15:56:40",
       "slug": "dutch-candy-australia",
       "title": "Dutch Candy Australia: Buy Holland Sweets and Licorice Online",
-      "status": "published",
-      "link": "https://sweetsworld.com.au/candy-categories/dutch-candy-australia/",
-      "post_id": 70997,
-      "message": ""
+      "status": "exists",
+      "link": "",
+      "post_id": null,
+      "message": "Page registry already marks this page as published"
     },
     {
-      "timestamp": "2026-04-03T10:30:40",
+      "timestamp": "2026-04-17T15:56:40",
       "slug": "german-candy-australia",
       "title": "German Candy Australia: Buy Haribo and German Sweets Online",
-      "status": "published",
-      "link": "https://sweetsworld.com.au/candy-categories/german-candy-australia/",
-      "post_id": 71009,
-      "message": ""
+      "status": "exists",
+      "link": "",
+      "post_id": null,
+      "message": "Page registry already marks this page as published"
     },
     {
-      "timestamp": "2026-04-04T10:30:40",
+      "timestamp": "2026-04-17T15:56:40",
       "slug": "turkish-candy-australia",
       "title": "Turkish Candy Australia: Turkish Delight and Sweet Treats Online",
-      "status": "published",
-      "link": "https://sweetsworld.com.au/candy-categories/turkish-candy-australia/",
-      "post_id": 71020,
-      "message": ""
+      "status": "exists",
+      "link": "",
+      "post_id": null,
+      "message": "Page registry already marks this page as published"
     },
     {
-      "timestamp": "2026-04-05T10:30:36",
+      "timestamp": "2026-04-17T15:56:40",
       "slug": "mexican-candy-australia",
       "title": "Mexican Candy Australia: Buy Takis Pulparindo and More Online",
-      "status": "published",
-      "link": "https://sweetsworld.com.au/candy-categories/mexican-candy-australia/",
-      "post_id": 71031,
-      "message": ""
+      "status": "exists",
+      "link": "",
+      "post_id": null,
+      "message": "Page registry already marks this page as published"
     },
     {
-      "timestamp": "2026-04-06T10:30:41",
+      "timestamp": "2026-04-17T15:56:40",
       "slug": "jolly-rancher-australia",
       "title": "Jolly Rancher Australia: Buy Hard Candy and Gummies Online",
-      "status": "published",
-      "link": "https://sweetsworld.com.au/candy-types/jolly-rancher-australia/",
-      "post_id": 71043,
-      "message": ""
+      "status": "exists",
+      "link": "",
+      "post_id": null,
+      "message": "Page registry already marks this page as published"
     },
     {
-      "timestamp": "2026-04-07T10:30:42",
+      "timestamp": "2026-04-17T15:56:40",
       "slug": "twizzlers-australia",
       "title": "Twizzlers Australia: Where to Buy Red Licorice Twists Online",
-      "status": "published",
-      "link": "https://sweetsworld.com.au/candy-types/twizzlers-australia/",
-      "post_id": 71489,
-      "message": ""
+      "status": "exists",
+      "link": "",
+      "post_id": null,
+      "message": "Page registry already marks this page as published"
     },
     {
-      "timestamp": "2026-04-08T10:30:57",
+      "timestamp": "2026-04-17T15:56:40",
       "slug": "nerds-candy-australia",
       "title": "Nerds Candy Australia: Buy Nerds Rope and Nerds Clusters Online",
-      "status": "published",
-      "link": "https://sweetsworld.com.au/candy-types/nerds-candy-australia/",
-      "post_id": 71761,
-      "message": ""
+      "status": "exists",
+      "link": "",
+      "post_id": null,
+      "message": "Page registry already marks this page as published"
     },
     {
-      "timestamp": "2026-04-09T10:30:46",
+      "timestamp": "2026-04-17T15:56:40",
       "slug": "hersheys-australia",
       "title": "Hershey's Australia: Buy Hershey's Chocolate and Kisses Online",
-      "status": "published",
-      "link": "https://sweetsworld.com.au/candy-types/hersheys-australia/",
-      "post_id": 71820,
-      "message": ""
+      "status": "exists",
+      "link": "",
+      "post_id": null,
+      "message": "Page registry already marks this page as published"
     },
     {
-      "timestamp": "2026-04-10T10:30:45",
+      "timestamp": "2026-04-17T15:56:40",
       "slug": "trolli-australia",
       "title": "Trolli Australia: Buy Trolli Gummies and Sour Worms Online",
-      "status": "published",
-      "link": "https://sweetsworld.com.au/candy-types/trolli-australia/",
-      "post_id": 71841,
-      "message": ""
+      "status": "exists",
+      "link": "",
+      "post_id": null,
+      "message": "Page registry already marks this page as published"
     },
     {
-      "timestamp": "2026-04-11T10:30:55",
+      "timestamp": "2026-04-17T15:56:40",
       "slug": "darrell-lea-gift-ideas",
       "title": "Darrell Lea Gift Ideas: Best Australian Chocolate Gifts",
-      "status": "published",
-      "link": "https://sweetsworld.com.au/candy-types/darrell-lea-gift-ideas/",
-      "post_id": 72063,
-      "message": ""
+      "status": "exists",
+      "link": "",
+      "post_id": null,
+      "message": "Page registry already marks this page as published"
     },
     {
-      "timestamp": "2026-04-12T10:31:07",
+      "timestamp": "2026-04-17T15:56:40",
       "slug": "warheads-australia",
       "title": "Warheads Australia: Buy Sour Warheads Candy Online",
+      "status": "exists",
+      "link": "",
+      "post_id": null,
+      "message": "Page registry already marks this page as published"
+    },
+    {
+      "timestamp": "2026-04-17T15:56:40",
+      "slug": "corporate-candy-gifts-australia",
+      "title": "Corporate Candy Gifts Australia: Branded Sweet Hampers for Clients",
+      "status": "exists",
+      "link": "",
+      "post_id": null,
+      "message": "Page registry already marks this page as published"
+    },
+    {
+      "timestamp": "2026-04-17T15:56:40",
+      "slug": "personalised-candy-gifts-australia",
+      "title": "Personalised Candy Gifts Australia: Custom Sweet Hampers and Lolly Bags",
+      "status": "exists",
+      "link": "",
+      "post_id": null,
+      "message": "Page registry already marks this page as published"
+    },
+    {
+      "timestamp": "2026-04-17T15:56:40",
+      "slug": "candy-gift-ideas-for-him",
+      "title": "Candy Gift Ideas for Him: Best Sweet Gifts for Men Australia",
+      "status": "exists",
+      "link": "",
+      "post_id": null,
+      "message": "Page registry already marks this page as published"
+    },
+    {
+      "timestamp": "2026-04-17T15:56:40",
+      "slug": "candy-gift-ideas-for-her",
+      "title": "Candy Gift Ideas for Her: Best Sweet Gifts for Women Australia",
+      "status": "exists",
+      "link": "",
+      "post_id": null,
+      "message": "Page registry already marks this page as published"
+    },
+    {
+      "timestamp": "2026-04-17T15:56:40",
+      "slug": "twirl-chocolate-australia",
+      "title": "Twirl Chocolate Australia: Where to Buy Cadbury Twirl Online",
+      "status": "exists",
+      "link": "",
+      "post_id": null,
+      "message": "Page registry already marks this page as published"
+    },
+    {
+      "timestamp": "2026-04-17T15:56:40",
+      "slug": "maltesers-australia",
+      "title": "Maltesers Australia: Buy Maltesers Bags and Gift Boxes Online",
+      "status": "exists",
+      "link": "",
+      "post_id": null,
+      "message": "Page registry already marks this page as published"
+    },
+    {
+      "timestamp": "2026-04-17T15:56:40",
+      "slug": "after-eight-australia",
+      "title": "After Eight Australia: Buy Mint Chocolate Thins Online",
+      "status": "exists",
+      "link": "",
+      "post_id": null,
+      "message": "Page registry already marks this page as published"
+    },
+    {
+      "timestamp": "2026-04-17T15:57:54",
+      "slug": "twirl-australia",
+      "title": "Twirl Australia: Where to Buy Cadbury Twirl Bars Online",
       "status": "published",
-      "link": "https://sweetsworld.com.au/candy-types/warheads-australia/",
-      "post_id": 72074,
+      "link": "https://sweetsworld.com.au/candy-types/twirl-australia/",
+      "post_id": 72242,
       "message": ""
     },
     {
-      "timestamp": "2026-04-13T10:30:56",
-      "slug": "corporate-candy-gifts-australia",
-      "title": "Corporate Candy Gifts Australia: Branded Sweet Hampers for Clients",
+      "timestamp": "2026-04-18T10:31:14",
+      "slug": "airheads-australia",
+      "title": "Airheads Australia: Buy Airheads Candy and Xtremes Online",
       "status": "published",
-      "link": "https://sweetsworld.com.au/candy-types/corporate-candy-gifts-australia/",
-      "post_id": 72089,
+      "link": "https://sweetsworld.com.au/candy-types/airheads-australia/",
+      "post_id": 72251,
+      "message": ""
+    },
+    {
+      "timestamp": "2026-04-19T10:31:13",
+      "slug": "starburst-australia",
+      "title": "Starburst Australia: Buy Starburst Chews and FaveReds Online",
+      "status": "published",
+      "link": "https://sweetsworld.com.au/candy-types/starburst-australia/",
+      "post_id": 72267,
+      "message": ""
+    },
+    {
+      "timestamp": "2026-04-20T10:31:15",
+      "slug": "swedish-fish-australia",
+      "title": "Swedish Fish Australia: Where to Buy Swedish Fish Candy Online",
+      "status": "published",
+      "link": "https://sweetsworld.com.au/candy-types/swedish-fish-australia/",
+      "post_id": 72313,
+      "message": ""
+    },
+    {
+      "timestamp": "2026-04-21T10:31:16",
+      "slug": "anthon-berg-australia",
+      "title": "Anthon Berg Australia: Buy Chocolate Liqueurs Online",
+      "status": "published",
+      "link": "https://sweetsworld.com.au/candy-types/anthon-berg-australia/",
+      "post_id": 72409,
+      "message": ""
+    },
+    {
+      "timestamp": "2026-04-21T15:22:42",
+      "slug": "buy-candy-online-sydney",
+      "title": "Buy Candy Online Sydney: Fast Delivery of Lollies & Sweets",
+      "status": "published",
+      "link": "https://sweetsworld.com.au/candy-by-city/buy-candy-online-sydney/",
+      "post_id": 72416,
+      "message": ""
+    },
+    {
+      "timestamp": "2026-04-21T15:24:24",
+      "slug": "buy-lollies-online-melbourne",
+      "title": "Buy Lollies Online Melbourne: Sweets Delivered to Your Door",
+      "status": "published",
+      "link": "https://sweetsworld.com.au/candy-by-city/buy-lollies-online-melbourne/",
+      "post_id": 72418,
+      "message": ""
+    },
+    {
+      "timestamp": "2026-04-21T15:25:43",
+      "slug": "order-candy-online-brisbane",
+      "title": "Order Candy Online Brisbane: Lollies and Sweets Delivered",
+      "status": "published",
+      "link": "https://sweetsworld.com.au/candy-by-city/order-candy-online-brisbane/",
+      "post_id": 72420,
+      "message": ""
+    },
+    {
+      "timestamp": "2026-04-21T15:26:46",
+      "slug": "buy-candy-online-perth",
+      "title": "Buy Candy Online Perth: Australian Lollies Shipped to Perth",
+      "status": "published",
+      "link": "https://sweetsworld.com.au/candy-by-city/buy-candy-online-perth/",
+      "post_id": 72422,
+      "message": ""
+    },
+    {
+      "timestamp": "2026-04-22T10:30:53",
+      "slug": "lotus-biscoff-australia",
+      "title": "Lotus Biscoff Australia: Buy Biscoff Spread and Biscuits Online",
+      "status": "published",
+      "link": "https://sweetsworld.com.au/candy-types/lotus-biscoff-australia/",
+      "post_id": 72452,
+      "message": ""
+    },
+    {
+      "timestamp": "2026-04-22T10:31:37",
+      "slug": "hostess-twinkies-australia",
+      "title": "Hostess Twinkies Australia: Where to Buy Twinkies Online",
+      "status": "published",
+      "link": "https://sweetsworld.com.au/candy-types/hostess-twinkies-australia/",
+      "post_id": 72454,
+      "message": ""
+    },
+    {
+      "timestamp": "2026-04-22T10:32:24",
+      "slug": "freckleberry-australia",
+      "title": "Freckleberry Australia: Buy Freckleberry Chocolate and Gifts Online",
+      "status": "published",
+      "link": "https://sweetsworld.com.au/candy-types/freckleberry-australia/",
+      "post_id": 72456,
+      "message": ""
+    },
+    {
+      "timestamp": "2026-04-22T10:33:37",
+      "slug": "lolliland-australia",
+      "title": "Lolliland Australia: Buy Lolliland Bulk Lollies and Gummies Online",
+      "status": "published",
+      "link": "https://sweetsworld.com.au/candy-types/lolliland-australia/",
+      "post_id": 72458,
+      "message": ""
+    },
+    {
+      "timestamp": "2026-04-22T10:34:13",
+      "slug": "faygo-australia",
+      "title": "Faygo Australia: Buy Faygo Soda and American Drinks Online",
+      "status": "published",
+      "link": "https://sweetsworld.com.au/candy-types/faygo-australia/",
+      "post_id": 72460,
+      "message": ""
+    },
+    {
+      "timestamp": "2026-04-22T10:35:26",
+      "slug": "wonka-australia",
+      "title": "Wonka Australia: Buy Nerds Gobstoppers and Wonka Candy Online",
+      "status": "published",
+      "link": "https://sweetsworld.com.au/candy-types/wonka-australia/",
+      "post_id": 72462,
+      "message": ""
+    },
+    {
+      "timestamp": "2026-04-22T10:36:40",
+      "slug": "charlotte-piper-australia",
+      "title": "Charlotte Piper Australia: Buy Australian Chocolates Online",
+      "status": "published",
+      "link": "https://sweetsworld.com.au/candy-types/charlotte-piper-australia/",
+      "post_id": 72464,
+      "message": ""
+    },
+    {
+      "timestamp": "2026-04-22T10:37:15",
+      "slug": "jack-daniels-bbq-australia",
+      "title": "Jack Daniel's BBQ Sauce Australia: Buy JD Sauces and Gift Sets Online",
+      "status": "published",
+      "link": "https://sweetsworld.com.au/candy-types/jack-daniels-bbq-australia/",
+      "post_id": 72466,
+      "message": ""
+    },
+    {
+      "timestamp": "2026-04-22T10:37:56",
+      "slug": "mtn-dew-australia",
+      "title": "Mountain Dew Australia: Buy Mtn Dew Drinks and Varieties Online",
+      "status": "published",
+      "link": "https://sweetsworld.com.au/candy-types/mtn-dew-australia/",
+      "post_id": 72468,
+      "message": ""
+    },
+    {
+      "timestamp": "2026-04-22T10:38:43",
+      "slug": "milka-chocolate-australia",
+      "title": "Milka Chocolate Australia: Buy Milka Purple Bars and Gift Sets Online",
+      "status": "published",
+      "link": "https://sweetsworld.com.au/candy-types/milka-chocolate-australia/",
+      "post_id": 72470,
+      "message": ""
+    },
+    {
+      "timestamp": "2026-04-22T10:39:20",
+      "slug": "zappo-lollies-australia",
+      "title": "Zappo Lollies Australia: Buy Zappo Chews Online",
+      "status": "published",
+      "link": "https://sweetsworld.com.au/candy-types/zappo-lollies-australia/",
+      "post_id": 72472,
+      "message": ""
+    },
+    {
+      "timestamp": "2026-04-22T10:39:56",
+      "slug": "butlers-chocolate-ireland",
+      "title": "Butlers Chocolate Australia: Buy Irish Butlers Chocolates Online",
+      "status": "published",
+      "link": "https://sweetsworld.com.au/candy-types/butlers-chocolate-ireland/",
+      "post_id": 72474,
+      "message": ""
+    },
+    {
+      "timestamp": "2026-04-22T10:40:22",
+      "slug": "wicked-fizz-australia",
+      "title": "Wicked Fizz Australia: Buy Wicked Fizz Chews Online",
+      "status": "published",
+      "link": "https://sweetsworld.com.au/candy-types/wicked-fizz-australia/",
+      "post_id": 72476,
+      "message": ""
+    },
+    {
+      "timestamp": "2026-04-22T10:41:01",
+      "slug": "kool-aid-australia",
+      "title": "Kool-Aid Australia: Buy Kool-Aid Drinks and Jammers Online",
+      "status": "published",
+      "link": "https://sweetsworld.com.au/candy-types/kool-aid-australia/",
+      "post_id": 72478,
+      "message": ""
+    },
+    {
+      "timestamp": "2026-04-22T10:41:30",
+      "slug": "jaffas-lollies-australia",
+      "title": "Jaffas Lollies Australia: Buy Jaffas Orange Chocolate Balls Online",
+      "status": "published",
+      "link": "https://sweetsworld.com.au/candy-types/jaffas-lollies-australia/",
+      "post_id": 72480,
+      "message": ""
+    },
+    {
+      "timestamp": "2026-04-22T10:42:01",
+      "slug": "minties-australia",
+      "title": "Minties Australia: Buy Minties Lollies in Bulk Online",
+      "status": "published",
+      "link": "https://sweetsworld.com.au/candy-types/minties-australia/",
+      "post_id": 72482,
+      "message": ""
+    },
+    {
+      "timestamp": "2026-04-22T10:42:28",
+      "slug": "musk-sticks-australia",
+      "title": "Musk Sticks Australia: Buy Musk Sticks Lollies Online",
+      "status": "published",
+      "link": "https://sweetsworld.com.au/candy-types/musk-sticks-australia/",
+      "post_id": 72484,
+      "message": ""
+    },
+    {
+      "timestamp": "2026-04-22T10:42:53",
+      "slug": "clinkers-lollies-australia",
+      "title": "Clinkers Australia: Buy Clinkers Chocolate Lollies Online",
+      "status": "published",
+      "link": "https://sweetsworld.com.au/candy-types/clinkers-lollies-australia/",
+      "post_id": 72486,
+      "message": ""
+    },
+    {
+      "timestamp": "2026-04-22T10:43:29",
+      "slug": "pineapple-chunks-australia",
+      "title": "Pineapple Chunks Australia: Buy Pineapple Chew Lollies Online",
+      "status": "published",
+      "link": "https://sweetsworld.com.au/candy-types/pineapple-chunks-australia/",
+      "post_id": 72488,
+      "message": ""
+    },
+    {
+      "timestamp": "2026-04-22T10:43:58",
+      "slug": "licorice-allsorts-australia",
+      "title": "Licorice Allsorts Australia: Buy Bassetts and Darrell Lea Allsorts",
+      "status": "published",
+      "link": "https://sweetsworld.com.au/candy-types/licorice-allsorts-australia/",
+      "post_id": 72490,
+      "message": ""
+    },
+    {
+      "timestamp": "2026-04-23T10:30:54",
+      "slug": "werthers-original-australia",
+      "title": "Werther's Original Australia: Buy Werther's Caramel Sweets Online",
+      "status": "published",
+      "link": "https://sweetsworld.com.au/candy-types/werthers-original-australia/",
+      "post_id": 72536,
+      "message": ""
+    },
+    {
+      "timestamp": "2026-04-23T10:31:35",
+      "slug": "mentos-australia",
+      "title": "Mentos Australia: Buy Mentos Rolls and Mint Fresheners Online",
+      "status": "published",
+      "link": "https://sweetsworld.com.au/candy-types/mentos-australia/",
+      "post_id": 72538,
+      "message": ""
+    },
+    {
+      "timestamp": "2026-04-23T10:32:11",
+      "slug": "jawbreakers-australia",
+      "title": "Jawbreakers Australia: Buy Gobstoppers and Jawbreaker Candy Online",
+      "status": "published",
+      "link": "https://sweetsworld.com.au/candy-types/jawbreakers-australia/",
+      "post_id": 72540,
+      "message": ""
+    },
+    {
+      "timestamp": "2026-04-23T10:32:43",
+      "slug": "candy-canes-australia",
+      "title": "Candy Canes Australia: Buy Christmas Candy Canes in Bulk Online",
+      "status": "published",
+      "link": "https://sweetsworld.com.au/candy-types/candy-canes-australia/",
+      "post_id": 72542,
+      "message": ""
+    },
+    {
+      "timestamp": "2026-04-23T10:33:22",
+      "slug": "redskins-lollies-australia",
+      "title": "Red Rippers Australia: Buy Redskins Raspberry Chew Lollies Online",
+      "status": "published",
+      "link": "https://sweetsworld.com.au/candy-types/redskins-lollies-australia/",
+      "post_id": 72544,
+      "message": ""
+    },
+    {
+      "timestamp": "2026-04-23T10:34:05",
+      "slug": "retro-lolly-bags-australia",
+      "title": "Retro Lolly Bags Australia: Old School Sweets for Nostalgic Gifting",
+      "status": "published",
+      "link": "https://sweetsworld.com.au/candy-occasions/retro-lolly-bags-australia/",
+      "post_id": 72546,
+      "message": ""
+    },
+    {
+      "timestamp": "2026-04-23T10:34:46",
+      "slug": "strawberry-candy-australia",
+      "title": "Strawberry Candy Australia: Best Strawberry Lollies and Sweets Online",
+      "status": "published",
+      "link": "https://sweetsworld.com.au/candy-categories/strawberry-candy-australia/",
+      "post_id": 72548,
+      "message": ""
+    },
+    {
+      "timestamp": "2026-04-23T10:35:27",
+      "slug": "watermelon-candy-australia",
+      "title": "Watermelon Candy Australia: Buy Watermelon Lollies and Gummies Online",
+      "status": "published",
+      "link": "https://sweetsworld.com.au/candy-categories/watermelon-candy-australia/",
+      "post_id": 72550,
+      "message": ""
+    },
+    {
+      "timestamp": "2026-04-23T10:36:00",
+      "slug": "cola-candy-australia",
+      "title": "Cola Candy Australia: Buy Cola Bottles and Cola Flavoured Lollies",
+      "status": "published",
+      "link": "https://sweetsworld.com.au/candy-categories/cola-candy-australia/",
+      "post_id": 72552,
+      "message": ""
+    },
+    {
+      "timestamp": "2026-04-23T10:36:48",
+      "slug": "raspberry-candy-australia",
+      "title": "Raspberry Candy Australia: Buy Raspberry Lollies and Sweets Online",
+      "status": "published",
+      "link": "https://sweetsworld.com.au/candy-categories/raspberry-candy-australia/",
+      "post_id": 72554,
+      "message": ""
+    },
+    {
+      "timestamp": "2026-04-23T10:37:23",
+      "slug": "mango-candy-australia",
+      "title": "Mango Candy Australia: Buy Mango Lollies and Mango Sweets Online",
+      "status": "published",
+      "link": "https://sweetsworld.com.au/candy-categories/mango-candy-australia/",
+      "post_id": 72556,
+      "message": ""
+    },
+    {
+      "timestamp": "2026-04-23T10:38:06",
+      "slug": "lemon-candy-australia",
+      "title": "Lemon Candy Australia: Buy Lemon Lollies and Sour Lemon Sweets",
+      "status": "published",
+      "link": "https://sweetsworld.com.au/candy-categories/lemon-candy-australia/",
+      "post_id": 72558,
+      "message": ""
+    },
+    {
+      "timestamp": "2026-04-23T10:38:37",
+      "slug": "bubblegum-candy-australia",
+      "title": "Bubblegum Candy Australia: Buy Bubblegum Lollies and Chewing Gum Online",
+      "status": "published",
+      "link": "https://sweetsworld.com.au/candy-categories/bubblegum-candy-australia/",
+      "post_id": 72560,
+      "message": ""
+    },
+    {
+      "timestamp": "2026-04-23T10:39:19",
+      "slug": "coconut-chocolate-australia",
+      "title": "Coconut Chocolate Australia: Buy Coconut Lollies and Chocolate Online",
+      "status": "published",
+      "link": "https://sweetsworld.com.au/candy-categories/coconut-chocolate-australia/",
+      "post_id": 72562,
+      "message": ""
+    },
+    {
+      "timestamp": "2026-04-23T10:39:56",
+      "slug": "marshmallows-australia",
+      "title": "Marshmallows Australia: Buy Bulk Marshmallows and Flavoured Varieties",
+      "status": "published",
+      "link": "https://sweetsworld.com.au/candy-types/marshmallows-australia/",
+      "post_id": 72564,
+      "message": ""
+    },
+    {
+      "timestamp": "2026-04-23T10:40:30",
+      "slug": "chewing-gum-australia",
+      "title": "Chewing Gum Australia: Buy Bulk Chewing Gum and Sugar Free Gum Online",
+      "status": "published",
+      "link": "https://sweetsworld.com.au/candy-categories/chewing-gum-australia/",
+      "post_id": 72566,
+      "message": ""
+    },
+    {
+      "timestamp": "2026-04-23T10:41:10",
+      "slug": "hard-candy-australia",
+      "title": "Hard Candy Australia: Buy Boiled Sweets and Hard Lollies Online",
+      "status": "published",
+      "link": "https://sweetsworld.com.au/candy-categories/hard-candy-australia/",
+      "post_id": 72568,
+      "message": ""
+    },
+    {
+      "timestamp": "2026-04-23T10:41:48",
+      "slug": "candy-mystery-box-australia",
+      "title": "Candy Mystery Box Australia: Surprise Lolly Packs and Sweet Boxes",
+      "status": "published",
+      "link": "https://sweetsworld.com.au/candy-types/candy-mystery-box-australia/",
+      "post_id": 72570,
+      "message": ""
+    },
+    {
+      "timestamp": "2026-04-23T10:42:19",
+      "slug": "school-canteen-lollies-australia",
+      "title": "School Canteen Lollies Australia: Healthy and Fun Lolly Ideas",
+      "status": "published",
+      "link": "https://sweetsworld.com.au/candy-guides/school-canteen-lollies-australia/",
+      "post_id": 72572,
+      "message": ""
+    },
+    {
+      "timestamp": "2026-04-23T10:42:56",
+      "slug": "tuck-shop-lollies-australia",
+      "title": "Tuck Shop Lollies Australia: Best Value Bulk Lollies for Schools",
+      "status": "published",
+      "link": "https://sweetsworld.com.au/candy-types/tuck-shop-lollies-australia/",
+      "post_id": 72574,
+      "message": ""
+    },
+    {
+      "timestamp": "2026-04-24T10:30:48",
+      "slug": "hot-candy-australia",
+      "title": "Hot Candy Australia: Spicy Lollies and Chilli Sweets Online",
+      "status": "published",
+      "link": "https://sweetsworld.com.au/candy-categories/hot-candy-australia/",
+      "post_id": 72601,
+      "message": ""
+    },
+    {
+      "timestamp": "2026-04-24T10:31:24",
+      "slug": "spicy-chocolate-australia",
+      "title": "Spicy Chocolate Australia: Buy Chilli Chocolate and Hot Choc Online",
+      "status": "published",
+      "link": "https://sweetsworld.com.au/candy-types/spicy-chocolate-australia/",
+      "post_id": 72603,
+      "message": ""
+    },
+    {
+      "timestamp": "2026-04-24T10:31:55",
+      "slug": "craft-soda-australia",
+      "title": "Craft Soda Australia: Buy Artisan and Unusual Sodas Online",
+      "status": "published",
+      "link": "https://sweetsworld.com.au/candy-types/craft-soda-australia/",
+      "post_id": 72605,
+      "message": ""
+    },
+    {
+      "timestamp": "2026-04-24T10:32:21",
+      "slug": "lolly-advent-calendar-australia",
+      "title": "Lolly Advent Calendar Australia: Best Candy Countdown Calendars",
+      "status": "published",
+      "link": "https://sweetsworld.com.au/candy-types/lolly-advent-calendar-australia/",
+      "post_id": 72607,
+      "message": ""
+    },
+    {
+      "timestamp": "2026-04-24T10:32:49",
+      "slug": "fairy-floss-australia",
+      "title": "Fairy Floss Australia: Buy Cotton Candy and Fairy Floss Online",
+      "status": "published",
+      "link": "https://sweetsworld.com.au/candy-types/fairy-floss-australia/",
+      "post_id": 72609,
+      "message": ""
+    },
+    {
+      "timestamp": "2026-04-24T10:33:22",
+      "slug": "fudge-australia",
+      "title": "Fudge Australia: Buy Handmade Fudge and Chocolate Fudge Online",
+      "status": "published",
+      "link": "https://sweetsworld.com.au/candy-categories/fudge-australia/",
+      "post_id": 72611,
+      "message": ""
+    },
+    {
+      "timestamp": "2026-04-24T10:34:01",
+      "slug": "nougat-australia",
+      "title": "Nougat Australia: Buy Soft Nougat and Almond Nougat Online",
+      "status": "published",
+      "link": "https://sweetsworld.com.au/candy-types/nougat-australia/",
+      "post_id": 72613,
+      "message": ""
+    },
+    {
+      "timestamp": "2026-04-24T10:34:30",
+      "slug": "toffee-australia",
+      "title": "Toffee Australia: Buy Butterscotch Toffee and Toffee Lollies Online",
+      "status": "published",
+      "link": "https://sweetsworld.com.au/candy-types/toffee-australia/",
+      "post_id": 72615,
+      "message": ""
+    },
+    {
+      "timestamp": "2026-04-24T10:35:01",
+      "slug": "chocolate-truffles-australia",
+      "title": "Chocolate Truffles Australia: Buy Luxury Chocolate Truffles Online",
+      "status": "published",
+      "link": "https://sweetsworld.com.au/candy-types/chocolate-truffles-australia/",
+      "post_id": 72617,
+      "message": ""
+    },
+    {
+      "timestamp": "2026-04-24T10:35:49",
+      "slug": "caramel-popcorn-australia",
+      "title": "Caramel Popcorn Australia: Buy Sweet Popcorn and Snack Packs Online",
+      "status": "published",
+      "link": "https://sweetsworld.com.au/candy-types/caramel-popcorn-australia/",
+      "post_id": 72619,
+      "message": ""
+    },
+    {
+      "timestamp": "2026-04-24T10:36:26",
+      "slug": "chocolate-coated-nuts-australia",
+      "title": "Chocolate Coated Nuts Australia: Buy Choc Almonds and Peanuts Online",
+      "status": "published",
+      "link": "https://sweetsworld.com.au/candy-types/chocolate-coated-nuts-australia/",
+      "post_id": 72621,
+      "message": ""
+    },
+    {
+      "timestamp": "2026-04-24T10:36:55",
+      "slug": "candy-for-teenagers-australia",
+      "title": "Candy for Teenagers Australia: Cool and Trendy Lolly Picks",
+      "status": "published",
+      "link": "https://sweetsworld.com.au/candy-occasions/candy-for-teenagers-australia/",
+      "post_id": 72623,
+      "message": ""
+    },
+    {
+      "timestamp": "2026-04-24T10:37:32",
+      "slug": "candy-for-adults-australia",
+      "title": "Candy for Adults Australia: Sophisticated Sweets and Gourmet Lollies",
+      "status": "published",
+      "link": "https://sweetsworld.com.au/candy-occasions/candy-for-adults-australia/",
+      "post_id": 72625,
+      "message": ""
+    },
+    {
+      "timestamp": "2026-04-24T10:38:13",
+      "slug": "90s-candy-australia",
+      "title": "90s Candy Australia: Nostalgic Retro Sweets from the Nineties",
+      "status": "published",
+      "link": "https://sweetsworld.com.au/candy-categories/90s-candy-australia/",
+      "post_id": 72627,
+      "message": ""
+    },
+    {
+      "timestamp": "2026-04-24T10:38:52",
+      "slug": "teacher-gifts-candy-australia",
+      "title": "Teacher Gift Candy Australia: Sweet Thank You Gifts for Teachers",
+      "status": "published",
+      "link": "https://sweetsworld.com.au/candy-occasions/teacher-gifts-candy-australia/",
+      "post_id": 72629,
+      "message": ""
+    },
+    {
+      "timestamp": "2026-04-24T10:39:28",
+      "slug": "new-years-eve-candy-australia",
+      "title": "New Year's Eve Candy Australia: Party Lollies for NYE Celebrations",
+      "status": "published",
+      "link": "https://sweetsworld.com.au/candy-occasions/new-years-eve-candy-australia/",
+      "post_id": 72631,
+      "message": ""
+    },
+    {
+      "timestamp": "2026-04-24T10:40:08",
+      "slug": "candy-catering-australia",
+      "title": "Candy Catering Australia: Lolly Buffet and Sweet Table Hire",
+      "status": "published",
+      "link": "https://sweetsworld.com.au/candy-types/candy-catering-australia/",
+      "post_id": 72633,
+      "message": ""
+    },
+    {
+      "timestamp": "2026-04-24T10:40:59",
+      "slug": "keto-candy-australia",
+      "title": "Keto Candy Australia: Low Carb and Sugar Free Lollies for Keto Diet",
+      "status": "published",
+      "link": "https://sweetsworld.com.au/candy-types/keto-candy-australia/",
+      "post_id": 72635,
+      "message": ""
+    },
+    {
+      "timestamp": "2026-04-24T10:41:28",
+      "slug": "diabetic-candy-australia",
+      "title": "Diabetic Candy Australia: Low Sugar Lollies Safe for Diabetics",
+      "status": "published",
+      "link": "https://sweetsworld.com.au/candy-types/diabetic-candy-australia/",
+      "post_id": 72637,
+      "message": ""
+    },
+    {
+      "timestamp": "2026-04-24T10:42:05",
+      "slug": "best-australian-candy-to-send-overseas",
+      "title": "Best Australian Candy to Send Overseas: Iconic Lollies for Gifts Abroad",
+      "status": "published",
+      "link": "https://sweetsworld.com.au/candy-guides/best-australian-candy-to-send-overseas/",
+      "post_id": 72639,
+      "message": ""
+    },
+    {
+      "timestamp": "2026-05-01T20:48:25",
+      "slug": "candy-bouquet-ideas-australia",
+      "title": "Candy Bouquet Ideas Australia: How to Make a Sweet Bouquet",
+      "status": "published",
+      "link": "https://sweetsworld.com.au/candy-guides/candy-bouquet-ideas-australia/",
+      "post_id": 72806,
+      "message": ""
+    },
+    {
+      "timestamp": "2026-05-01T20:49:07",
+      "slug": "pink-lady-chocolates-australia",
+      "title": "Pink Lady Chocolates Australia: Buy Pink Lady Foil Chocolates Online",
+      "status": "published",
+      "link": "https://sweetsworld.com.au/candy-types/pink-lady-chocolates-australia/",
+      "post_id": 72808,
+      "message": ""
+    },
+    {
+      "timestamp": "2026-05-01T20:49:39",
+      "slug": "best-lolly-shops-near-me-2026",
+      "title": "Finding the Perfect Lolly Shop Near Me: Top Picks for 2026",
+      "status": "published",
+      "link": "https://sweetsworld.com.au/candy-types/best-lolly-shops-near-me-2026/",
+      "post_id": 72810,
+      "message": ""
+    },
+    {
+      "timestamp": "2026-05-01T20:50:13",
+      "slug": "pink-smarties-trend-2026",
+      "title": "Explore the World of Pink Smarties: A 2026 Candy Trend",
+      "status": "published",
+      "link": "https://sweetsworld.com.au/candy-types/pink-smarties-trend-2026/",
+      "post_id": 72812,
+      "message": ""
+    },
+    {
+      "timestamp": "2026-05-01T20:50:52",
+      "slug": "darrell-lea-chocolate-2026",
+      "title": "Darrell Lea Chocolate: Why It's a Must-Try in 2026",
+      "status": "published",
+      "link": "https://sweetsworld.com.au/candy-types/darrell-lea-chocolate-2026/",
+      "post_id": 72814,
+      "message": ""
+    },
+    {
+      "timestamp": "2026-05-01T20:51:22",
+      "slug": "top-australian-candies-2026",
+      "title": "Top 10 Australian Candies You Must Try in 2026",
+      "status": "published",
+      "link": "https://sweetsworld.com.au/candy-types/top-australian-candies-2026/",
+      "post_id": 72816,
+      "message": ""
+    },
+    {
+      "timestamp": "2026-05-01T20:51:52",
+      "slug": "top-10-chocolate-gift-ideas-christmas-2026",
+      "title": "Top 10 Chocolate Gift Ideas for Christmas 2026",
+      "status": "published",
+      "link": "https://sweetsworld.com.au/candy-types/top-10-chocolate-gift-ideas-christmas-2026/",
+      "post_id": 72818,
+      "message": ""
+    },
+    {
+      "timestamp": "2026-05-01T20:52:19",
+      "slug": "choose-perfect-chocolate-gift-easter-2026",
+      "title": "How to Choose the Perfect Chocolate Gift for Easter 2026",
+      "status": "published",
+      "link": "https://sweetsworld.com.au/candy-types/choose-perfect-chocolate-gift-easter-2026/",
+      "post_id": 72820,
+      "message": ""
+    },
+    {
+      "timestamp": "2026-05-01T20:52:50",
+      "slug": "australian-gourmet-chocolate-gift-boxes-2026",
+      "title": "Australian Gourmet Chocolate Gift Boxes: A 2026 Buying Guide",
+      "status": "published",
+      "link": "https://sweetsworld.com.au/candy-types/australian-gourmet-chocolate-gift-boxes-2026/",
+      "post_id": 72822,
+      "message": ""
+    },
+    {
+      "timestamp": "2026-05-01T20:53:23",
+      "slug": "best-chocolate-gifts-health-conscious-australians-2026",
+      "title": "The Best Chocolate Gifts for Health-Conscious Australians in 2026",
+      "status": "published",
+      "link": "https://sweetsworld.com.au/candy-types/best-chocolate-gifts-health-conscious-australians-2026/",
+      "post_id": 72824,
+      "message": ""
+    },
+    {
+      "timestamp": "2026-05-01T20:53:53",
+      "slug": "local-vs-imported-chocolate-gift-options-australia-2026",
+      "title": "Local vs. Imported: Comparing Chocolate Gift Options in Australia for 2026",
+      "status": "published",
+      "link": "https://sweetsworld.com.au/candy-types/local-vs-imported-chocolate-gift-options-australia-2026/",
+      "post_id": 72826,
+      "message": ""
+    },
+    {
+      "timestamp": "2026-05-01T20:54:23",
+      "slug": "top-chocolate-gift-ideas-2026",
+      "title": "Top Chocolate Gift Ideas for Every Occasion in 2026",
+      "status": "published",
+      "link": "https://sweetsworld.com.au/candy-types/top-chocolate-gift-ideas-2026/",
+      "post_id": 72828,
+      "message": ""
+    },
+    {
+      "timestamp": "2026-05-01T20:54:50",
+      "slug": "best-chocolate-gift-brands-australia-2026",
+      "title": "Comparing the Best Chocolate Gift Brands in Australia 2026",
+      "status": "published",
+      "link": "https://sweetsworld.com.au/candy-types/best-chocolate-gift-brands-australia-2026/",
+      "post_id": 72830,
+      "message": ""
+    },
+    {
+      "timestamp": "2026-05-01T20:55:18",
+      "slug": "top-lolly-party-ideas-easter-2026",
+      "title": "Top Lolly Party Ideas for Easter 2026",
+      "status": "published",
+      "link": "https://sweetsworld.com.au/candy-types/top-lolly-party-ideas-easter-2026/",
+      "post_id": 72832,
+      "message": ""
+    },
+    {
+      "timestamp": "2026-05-01T20:55:59",
+      "slug": "ultimate-lolly-buffet-birthday-party-2026",
+      "title": "How to Create the Ultimate Lolly Buffet for a Birthday Party in 2026",
+      "status": "published",
+      "link": "https://sweetsworld.com.au/candy-types/ultimate-lolly-buffet-birthday-party-2026/",
+      "post_id": 72834,
+      "message": ""
+    },
+    {
+      "timestamp": "2026-05-01T20:56:43",
+      "slug": "eco-friendly-lolly-party-supplies-2026",
+      "title": "Eco-Friendly Lolly Party Supplies for 2026: A Comprehensive Guide",
+      "status": "published",
+      "link": "https://sweetsworld.com.au/candy-types/eco-friendly-lolly-party-supplies-2026/",
+      "post_id": 72836,
+      "message": ""
+    },
+    {
+      "timestamp": "2026-05-01T20:57:14",
+      "slug": "trending-lolly-flavours-christmas-2026",
+      "title": "Trending Lolly Flavours for Christmas Parties 2026",
+      "status": "published",
+      "link": "https://sweetsworld.com.au/candy-types/trending-lolly-flavours-christmas-2026/",
+      "post_id": 72840,
+      "message": ""
+    },
+    {
+      "timestamp": "2026-05-01T20:57:51",
+      "slug": "diy-lolly-party-decorations-2026",
+      "title": "DIY Lolly Party Decorations: Easy Ideas for 2026",
+      "status": "published",
+      "link": "https://sweetsworld.com.au/candy-types/diy-lolly-party-decorations-2026/",
+      "post_id": 72843,
+      "message": ""
+    },
+    {
+      "timestamp": "2026-05-01T20:58:20",
+      "slug": "healthy-lolly-party-alternatives-2026",
+      "title": "Healthy Lolly Party Alternatives for 2026: Enjoy Guilt-Free Treats",
+      "status": "published",
+      "link": "https://sweetsworld.com.au/candy-types/healthy-lolly-party-alternatives-2026/",
+      "post_id": 72845,
+      "message": ""
+    },
+    {
+      "timestamp": "2026-05-01T20:59:00",
+      "slug": "top-snack-box-subscriptions-australia-2026",
+      "title": "Top Snack Box Subscriptions in Australia for 2026: A Sweet Guide",
+      "status": "published",
+      "link": "https://sweetsworld.com.au/candy-types/top-snack-box-subscriptions-australia-2026/",
+      "post_id": 72847,
+      "message": ""
+    },
+    {
+      "timestamp": "2026-05-02T10:30:52",
+      "slug": "diy-snack-box-ideas-easter-2026",
+      "title": "DIY Snack Box Ideas for Easter 2026: Delightful Treats to Share",
+      "status": "published",
+      "link": "https://sweetsworld.com.au/candy-types/diy-snack-box-ideas-easter-2026/",
+      "post_id": 72880,
+      "message": ""
+    },
+    {
+      "timestamp": "2026-05-02T10:31:28",
+      "slug": "healthy-snack-box-choices-australia-2026",
+      "title": "Healthy Snack Box Choices in Australia for 2026: Guilt-Free Indulgence",
+      "status": "published",
+      "link": "https://sweetsworld.com.au/candy-types/healthy-snack-box-choices-australia-2026/",
+      "post_id": 72882,
+      "message": ""
+    },
+    {
+      "timestamp": "2026-05-02T10:32:07",
+      "slug": "best-australian-international-snack-boxes-2026",
+      "title": "Comparing the Best Australian vs. International Snack Boxes of 2026",
+      "status": "published",
+      "link": "https://sweetsworld.com.au/candy-types/best-australian-international-snack-boxes-2026/",
+      "post_id": 72884,
+      "message": ""
+    },
+    {
+      "timestamp": "2026-05-02T10:32:40",
+      "slug": "perfect-christmas-snack-box-2026",
+      "title": "A Guide to Creating the Perfect Christmas Snack Box in 2026",
+      "status": "published",
+      "link": "https://sweetsworld.com.au/candy-types/perfect-christmas-snack-box-2026/",
+      "post_id": 72886,
+      "message": ""
+    },
+    {
+      "timestamp": "2026-05-02T10:33:17",
+      "slug": "best-snack-box-brands-2026-comparison",
+      "title": "Best Snack Box Brands in 2026: A Delicious Comparison",
+      "status": "published",
+      "link": "https://sweetsworld.com.au/candy-types/best-snack-box-brands-2026-comparison/",
+      "post_id": 72888,
+      "message": ""
+    },
+    {
+      "timestamp": "2026-05-02T10:33:53",
+      "slug": "healthiest-candy-delivery-options-australia",
+      "title": "How to Choose the Healthiest Candy Delivery Options in Australia",
+      "status": "published",
+      "link": "https://sweetsworld.com.au/candy-types/healthiest-candy-delivery-options-australia/",
+      "post_id": 72890,
+      "message": ""
+    },
+    {
+      "timestamp": "2026-05-02T10:34:31",
+      "slug": "best-local-candy-brands-delivery-australia-2026",
+      "title": "Best Local Candy Brands for Delivery in Australia 2026",
+      "status": "published",
+      "link": "https://sweetsworld.com.au/candy-types/best-local-candy-brands-delivery-australia-2026/",
+      "post_id": 72893,
+      "message": ""
+    },
+    {
+      "timestamp": "2026-05-02T10:35:15",
+      "slug": "top-10-sweet-treats-kids-parties-2026",
+      "title": "Top 10 Sweet Treats for Kids' Parties in 2026",
+      "status": "published",
+      "link": "https://sweetsworld.com.au/candy-types/top-10-sweet-treats-kids-parties-2026/",
+      "post_id": 72896,
+      "message": ""
+    },
+    {
+      "timestamp": "2026-05-02T10:35:48",
+      "slug": "healthy-sweet-treats-kids-2026",
+      "title": "Healthy Sweet Treats Kids Will Love in 2026",
+      "status": "published",
+      "link": "https://sweetsworld.com.au/candy-types/healthy-sweet-treats-kids-2026/",
+      "post_id": 72899,
+      "message": ""
+    },
+    {
+      "timestamp": "2026-05-02T10:36:25",
+      "slug": "back-to-school-sweet-treats-kids-2026",
+      "title": "Top 5 Back-to-School Sweet Treats for Kids in 2026",
+      "status": "published",
+      "link": "https://sweetsworld.com.au/candy-types/back-to-school-sweet-treats-kids-2026/",
+      "post_id": 72901,
+      "message": ""
+    },
+    {
+      "timestamp": "2026-05-02T10:37:03",
+      "slug": "best-sweet-treat-brands-for-kids-2026",
+      "title": "Best Sweet Treat Brands for Kids in 2026: Taste Test and Review",
+      "status": "published",
+      "link": "https://sweetsworld.com.au/candy-types/best-sweet-treat-brands-for-kids-2026/",
+      "post_id": 72903,
+      "message": ""
+    },
+    {
+      "timestamp": "2026-05-02T10:37:31",
+      "slug": "healthy-candy-alternatives-2026",
+      "title": "Discover Healthy Candy Alternatives for 2026",
+      "status": "published",
+      "link": "https://sweetsworld.com.au/candy-types/healthy-candy-alternatives-2026/",
+      "post_id": 72905,
+      "message": ""
+    },
+    {
+      "timestamp": "2026-05-02T10:38:04",
+      "slug": "italian-candy-australia",
+      "title": "Italian Candy Australia: Buy Italian Sweets and Confectionery Online",
+      "status": "published",
+      "link": "https://sweetsworld.com.au/candy-categories/italian-candy-australia/",
+      "post_id": 72907,
+      "message": ""
+    },
+    {
+      "timestamp": "2026-05-02T10:38:47",
+      "slug": "swedish-candy-australia",
+      "title": "Swedish Candy Australia: Pick and Mix Scandinavian Lollies Online",
+      "status": "published",
+      "link": "https://sweetsworld.com.au/candy-categories/swedish-candy-australia/",
+      "post_id": 72909,
+      "message": ""
+    },
+    {
+      "timestamp": "2026-05-02T10:39:28",
+      "slug": "canadian-candy-australia",
+      "title": "Canadian Candy Australia: Buy Ketchup Chips and Canadian Sweets",
+      "status": "published",
+      "link": "https://sweetsworld.com.au/candy-categories/canadian-candy-australia/",
+      "post_id": 72912,
+      "message": ""
+    },
+    {
+      "timestamp": "2026-05-02T10:40:05",
+      "slug": "pop-rocks-australia",
+      "title": "Pop Rocks Australia: Buy Popping Candy Online",
+      "status": "published",
+      "link": "https://sweetsworld.com.au/candy-types/pop-rocks-australia/",
+      "post_id": 72914,
+      "message": ""
+    },
+    {
+      "timestamp": "2026-05-02T10:40:40",
+      "slug": "pez-australia",
+      "title": "PEZ Australia: Buy PEZ Dispensers and Candy Online",
+      "status": "published",
+      "link": "https://sweetsworld.com.au/candy-types/pez-australia/",
+      "post_id": 72917,
+      "message": ""
+    },
+    {
+      "timestamp": "2026-05-02T10:41:20",
+      "slug": "twix-buy-australia",
+      "title": "Twix Australia: Where to Buy Bulk Twix and Gift Packs Online",
+      "status": "published",
+      "link": "https://sweetsworld.com.au/candy-types/twix-buy-australia/",
+      "post_id": 72919,
+      "message": ""
+    },
+    {
+      "timestamp": "2026-05-02T10:41:54",
+      "slug": "get-well-soon-candy-australia",
+      "title": "Get Well Soon Candy Australia: Sweet Care Packages to Cheer Someone Up",
+      "status": "published",
+      "link": "https://sweetsworld.com.au/candy-occasions/get-well-soon-candy-australia/",
+      "post_id": 72922,
+      "message": ""
+    },
+    {
+      "timestamp": "2026-05-02T10:42:30",
+      "slug": "thank-you-candy-gifts-australia",
+      "title": "Thank You Candy Gifts Australia: Sweet Ways to Say Thanks",
+      "status": "published",
+      "link": "https://sweetsworld.com.au/candy-occasions/thank-you-candy-gifts-australia/",
+      "post_id": 72924,
+      "message": ""
+    },
+    {
+      "timestamp": "2026-05-03T10:30:43",
+      "slug": "bounty-bar-australia",
+      "title": "Bounty Bar Australia: Where to Buy Coconut Chocolate Online",
+      "status": "published",
+      "link": "https://sweetsworld.com.au/candy-types/bounty-bar-australia/",
+      "post_id": 72936,
+      "message": ""
+    },
+    {
+      "timestamp": "2026-05-03T10:31:18",
+      "slug": "mike-and-ike-australia",
+      "title": "Mike and Ike Australia: Buy Mike and Ike Candy Online",
+      "status": "published",
+      "link": "https://sweetsworld.com.au/candy-types/mike-and-ike-australia/",
+      "post_id": 72938,
+      "message": ""
+    },
+    {
+      "timestamp": "2026-05-03T10:31:47",
+      "slug": "laffy-taffy-australia",
+      "title": "Laffy Taffy Australia: Buy Stretchy Taffy Candy Online",
+      "status": "published",
+      "link": "https://sweetsworld.com.au/candy-types/laffy-taffy-australia/",
+      "post_id": 72940,
+      "message": ""
+    },
+    {
+      "timestamp": "2026-05-03T10:32:15",
+      "slug": "black-forest-gummies-australia",
+      "title": "Black Forest Gummies Australia: Buy Organic Gummy Bears Online",
+      "status": "published",
+      "link": "https://sweetsworld.com.au/candy-types/black-forest-gummies-australia/",
+      "post_id": 72943,
+      "message": ""
+    },
+    {
+      "timestamp": "2026-05-03T10:32:52",
+      "slug": "dots-candy-australia",
+      "title": "Dots Candy Australia: Where to Buy Dots Gumdrops Online",
+      "status": "published",
+      "link": "https://sweetsworld.com.au/candy-types/dots-candy-australia/",
+      "post_id": 72945,
+      "message": ""
+    },
+    {
+      "timestamp": "2026-05-03T10:33:27",
+      "slug": "starbursts-gummies-australia",
+      "title": "Starburst Gummies Australia: Buy Starburst Gummy Worms Online",
+      "status": "published",
+      "link": "https://sweetsworld.com.au/candy-types/starbursts-gummies-australia/",
+      "post_id": 72948,
+      "message": ""
+    },
+    {
+      "timestamp": "2026-05-03T10:33:59",
+      "slug": "peeps-australia",
+      "title": "Peeps Australia: Buy Peeps Marshmallow Candy Online",
+      "status": "published",
+      "link": "https://sweetsworld.com.au/candy-types/peeps-australia/",
+      "post_id": 72951,
+      "message": ""
+    },
+    {
+      "timestamp": "2026-05-03T10:34:38",
+      "slug": "kellys-candy-australia",
+      "title": "Kelly's Candy Australia: Buy Kelly's Lollies and Sweets Online",
+      "status": "published",
+      "link": "https://sweetsworld.com.au/candy-types/kellys-candy-australia/",
+      "post_id": 72953,
+      "message": ""
+    },
+    {
+      "timestamp": "2026-05-03T10:35:24",
+      "slug": "fini-sweets-australia",
+      "title": "Fini Sweets Australia: Buy Fini Gummy and Licorice Online",
+      "status": "published",
+      "link": "https://sweetsworld.com.au/candy-types/fini-sweets-australia/",
+      "post_id": 72956,
+      "message": ""
+    },
+    {
+      "timestamp": "2026-05-03T10:35:56",
+      "slug": "blairs-hot-sauce-australia",
+      "title": "Blair's Hot Sauce Australia: Buy Blair's Death Sauce Online",
+      "status": "published",
+      "link": "https://sweetsworld.com.au/candy-types/blairs-hot-sauce-australia/",
+      "post_id": 72959,
+      "message": ""
+    },
+    {
+      "timestamp": "2026-05-03T10:36:28",
+      "slug": "lacroix-sparkling-water-australia",
+      "title": "LaCroix Australia: Buy LaCroix Sparkling Water Online",
+      "status": "published",
+      "link": "https://sweetsworld.com.au/candy-types/lacroix-sparkling-water-australia/",
+      "post_id": 72961,
+      "message": ""
+    },
+    {
+      "timestamp": "2026-05-03T10:37:03",
+      "slug": "humbugs-candy-australia",
+      "title": "Humbugs Australia: Buy Peppermint Humbugs Boiled Sweets Online",
+      "status": "published",
+      "link": "https://sweetsworld.com.au/candy-types/humbugs-candy-australia/",
+      "post_id": 72964,
+      "message": ""
+    },
+    {
+      "timestamp": "2026-05-03T10:37:41",
+      "slug": "spearmint-leaves-australia",
+      "title": "Spearmint Leaves Australia: Buy Spearmint Jelly Lollies Online",
+      "status": "published",
+      "link": "https://sweetsworld.com.au/candy-types/spearmint-leaves-australia/",
+      "post_id": 72966,
+      "message": ""
+    },
+    {
+      "timestamp": "2026-05-03T10:38:15",
+      "slug": "boiled-sweets-australia",
+      "title": "Boiled Sweets Australia: Buy Classic Hard Candy and Drops Online",
+      "status": "published",
+      "link": "https://sweetsworld.com.au/candy-categories/boiled-sweets-australia/",
+      "post_id": 72969,
+      "message": ""
+    },
+    {
+      "timestamp": "2026-05-03T10:38:52",
+      "slug": "grape-candy-australia",
+      "title": "Grape Candy Australia: Buy Grape Lollies and Grape Flavoured Sweets",
+      "status": "published",
+      "link": "https://sweetsworld.com.au/candy-categories/grape-candy-australia/",
+      "post_id": 72972,
+      "message": ""
+    },
+    {
+      "timestamp": "2026-05-03T10:39:24",
+      "slug": "cherry-candy-australia",
+      "title": "Cherry Candy Australia: Buy Cherry Lollies and Cherry Flavoured Sweets",
+      "status": "published",
+      "link": "https://sweetsworld.com.au/candy-categories/cherry-candy-australia/",
+      "post_id": 72975,
+      "message": ""
+    },
+    {
+      "timestamp": "2026-05-03T10:39:49",
+      "slug": "peach-candy-australia",
+      "title": "Peach Candy Australia: Buy Peach Rings and Peach Flavoured Sweets",
+      "status": "published",
+      "link": "https://sweetsworld.com.au/candy-categories/peach-candy-australia/",
+      "post_id": 72977,
+      "message": ""
+    },
+    {
+      "timestamp": "2026-05-03T10:40:27",
+      "slug": "orange-candy-australia",
+      "title": "Orange Candy Australia: Buy Orange Lollies and Orange Chocolate Online",
+      "status": "published",
+      "link": "https://sweetsworld.com.au/candy-categories/orange-candy-australia/",
+      "post_id": 72979,
+      "message": ""
+    },
+    {
+      "timestamp": "2026-05-03T10:40:57",
+      "slug": "cinnamon-candy-australia",
+      "title": "Cinnamon Candy Australia: Buy Hot Cinnamon Lollies and Sweets Online",
+      "status": "published",
+      "link": "https://sweetsworld.com.au/candy-categories/cinnamon-candy-australia/",
+      "post_id": 72981,
+      "message": ""
+    },
+    {
+      "timestamp": "2026-05-03T10:41:37",
+      "slug": "butterscotch-candy-australia",
+      "title": "Butterscotch Candy Australia: Buy Butterscotch Lollies and Toffees Online",
+      "status": "published",
+      "link": "https://sweetsworld.com.au/candy-categories/butterscotch-candy-australia/",
+      "post_id": 72983,
+      "message": ""
+    },
+    {
+      "timestamp": "2026-05-04T10:30:50",
+      "slug": "blueberry-candy-australia",
+      "title": "Blueberry Candy Australia: Buy Blueberry Lollies and Gummies Online",
+      "status": "published",
+      "link": "https://sweetsworld.com.au/candy-categories/blueberry-candy-australia/",
+      "post_id": 73029,
+      "message": ""
+    },
+    {
+      "timestamp": "2026-05-04T10:31:25",
+      "slug": "passionfruit-candy-australia",
+      "title": "Passionfruit Candy Australia: Buy Passionfruit Lollies and Sweets Online",
+      "status": "published",
+      "link": "https://sweetsworld.com.au/candy-categories/passionfruit-candy-australia/",
+      "post_id": 73031,
+      "message": ""
+    },
+    {
+      "timestamp": "2026-05-04T10:32:02",
+      "slug": "candy-necklace-australia",
+      "title": "Candy Necklace Australia: Buy Candy Jewellery and Wearable Sweets Online",
+      "status": "published",
+      "link": "https://sweetsworld.com.au/candy-types/candy-necklace-australia/",
+      "post_id": 73033,
+      "message": ""
+    },
+    {
+      "timestamp": "2026-05-04T10:32:38",
+      "slug": "candy-for-office-australia",
+      "title": "Office Candy Australia: Best Sweets and Snacks for the Workplace",
+      "status": "published",
+      "link": "https://sweetsworld.com.au/candy-occasions/candy-for-office-australia/",
+      "post_id": 73036,
+      "message": ""
+    },
+    {
+      "timestamp": "2026-05-04T10:33:15",
+      "slug": "graduation-candy-australia",
+      "title": "Graduation Candy Australia: Sweet Gifts to Celebrate Finishing School",
+      "status": "published",
+      "link": "https://sweetsworld.com.au/candy-occasions/graduation-candy-australia/",
+      "post_id": 73038,
+      "message": ""
+    },
+    {
+      "timestamp": "2026-05-04T10:33:52",
+      "slug": "farewell-party-lollies-australia",
+      "title": "Farewell Party Lollies Australia: Sweet Sendoff Ideas and Lolly Bags",
+      "status": "published",
+      "link": "https://sweetsworld.com.au/candy-occasions/farewell-party-lollies-australia/",
+      "post_id": 73040,
+      "message": ""
+    },
+    {
+      "timestamp": "2026-05-04T10:34:28",
+      "slug": "faq-bulk-candy-australia",
+      "title": "Bulk Candy Australia FAQ: Everything You Need to Know",
+      "status": "published",
+      "link": "https://sweetsworld.com.au/candy-faqs/faq-bulk-candy-australia/",
+      "post_id": 73042,
+      "message": ""
+    },
+    {
+      "timestamp": "2026-05-04T10:35:05",
+      "slug": "faq-american-candy-australia",
+      "title": "American Candy Australia FAQ: What to Buy and Where",
+      "status": "published",
+      "link": "https://sweetsworld.com.au/candy-faqs/faq-american-candy-australia/",
+      "post_id": 73044,
+      "message": ""
+    },
+    {
+      "timestamp": "2026-05-04T10:35:49",
+      "slug": "faq-chocolate-gifts-australia",
+      "title": "Chocolate Gifts Australia FAQ: Choosing the Right Gift",
+      "status": "published",
+      "link": "https://sweetsworld.com.au/candy-faqs/faq-chocolate-gifts-australia/",
+      "post_id": 73047,
+      "message": ""
+    },
+    {
+      "timestamp": "2026-05-04T10:36:20",
+      "slug": "allens-vs-cadbury-lollies-australia",
+      "title": "Allen's vs Cadbury Lollies Australia: Which Brand Is Worth It?",
+      "status": "published",
+      "link": "https://sweetsworld.com.au/candy-comparisons/allens-vs-cadbury-lollies-australia/",
+      "post_id": 73050,
+      "message": ""
+    },
+    {
+      "timestamp": "2026-05-04T10:36:59",
+      "slug": "bulk-candy-vs-retail-australia",
+      "title": "Bulk Candy vs Retail in Australia: Price, Variety and Value Compared",
+      "status": "published",
+      "link": "https://sweetsworld.com.au/candy-comparisons/bulk-candy-vs-retail-australia/",
+      "post_id": 73053,
+      "message": ""
+    },
+    {
+      "timestamp": "2026-05-04T10:37:36",
+      "slug": "natural-candy-vs-regular-australia",
+      "title": "Natural Candy vs Regular Candy Australia: Ingredients, Taste and Price",
+      "status": "published",
+      "link": "https://sweetsworld.com.au/candy-comparisons/natural-candy-vs-regular-australia/",
+      "post_id": 73056,
+      "message": ""
+    },
+    {
+      "timestamp": "2026-05-04T10:38:12",
+      "slug": "best-halal-lollies-australia",
+      "title": "Best Halal Lollies in Australia: Top Picks for Every Occasion",
+      "status": "published",
+      "link": "https://sweetsworld.com.au/best-candy/best-halal-lollies-australia/",
+      "post_id": 73058,
+      "message": ""
+    },
+    {
+      "timestamp": "2026-05-04T10:38:49",
+      "slug": "best-bulk-candy-deals-australia",
+      "title": "Best Bulk Candy Deals in Australia: Top Wholesale Picks",
+      "status": "published",
+      "link": "https://sweetsworld.com.au/best-candy/best-bulk-candy-deals-australia/",
+      "post_id": 73060,
+      "message": ""
+    },
+    {
+      "timestamp": "2026-05-04T10:39:23",
+      "slug": "best-australian-candy-brands",
+      "title": "Best Australian Candy Brands: Classic and Artisan Picks",
+      "status": "published",
+      "link": "https://sweetsworld.com.au/best-candy/best-australian-candy-brands/",
+      "post_id": 73063,
+      "message": ""
+    },
+    {
+      "timestamp": "2026-05-04T10:39:57",
+      "slug": "best-american-candy-to-try-australia",
+      "title": "Best American Candy to Try in Australia: Must-Have US Sweets",
+      "status": "published",
+      "link": "https://sweetsworld.com.au/best-candy/best-american-candy-to-try-australia/",
+      "post_id": 73065,
+      "message": ""
+    },
+    {
+      "timestamp": "2026-05-05T10:30:50",
+      "slug": "healthy-candy-alternatives-australia",
+      "title": "Healthy Candy Alternatives Australia: Low Sugar and Natural Sweets",
+      "status": "published",
+      "link": "https://sweetsworld.com.au/candy-types/healthy-candy-alternatives-australia-2/",
+      "post_id": 73098,
+      "message": ""
+    },
+    {
+      "timestamp": "2026-05-05T10:31:32",
+      "slug": "candy-australia-guide-2026",
+      "title": "Ultimate Guide to Candy in Australia 2026: Lollies Sweets and More",
+      "status": "published",
+      "link": "https://sweetsworld.com.au/candy-guides/candy-australia-guide-2026-2/",
+      "post_id": 73100,
+      "message": ""
+    },
+    {
+      "timestamp": "2026-05-05T10:32:15",
+      "slug": "best-candy-for-kids-australia",
+      "title": "Best Candy for Kids Australia: Safe and Fun Lolly Picks",
+      "status": "published",
+      "link": "https://sweetsworld.com.au/candy-occasions/best-candy-for-kids-australia-2/",
+      "post_id": 73102,
+      "message": ""
+    },
+    {
+      "timestamp": "2026-05-05T10:33:00",
+      "slug": "best-lollies-for-party-bags",
+      "title": "Best Lollies for Party Bags Australia: Bulk Picks Under Budget",
+      "status": "published",
+      "link": "https://sweetsworld.com.au/candy-occasions/best-lollies-for-party-bags-2/",
+      "post_id": 73104,
+      "message": ""
+    },
+    {
+      "timestamp": "2026-05-05T10:33:46",
+      "slug": "best-candy-for-movie-night",
+      "title": "Best Candy for Movie Night Australia: Sweet and Salty Picks",
+      "status": "published",
+      "link": "https://sweetsworld.com.au/candy-occasions/best-candy-for-movie-night-2/",
+      "post_id": 73106,
+      "message": ""
+    },
+    {
+      "timestamp": "2026-05-05T10:33:46",
+      "slug": "faq-halal-lollies-australia",
+      "title": "Halal Lollies Australia FAQ: Common Questions Answered",
+      "status": "exists",
+      "link": "",
+      "post_id": null,
+      "message": "Page registry already marks this page as blocked"
+    },
+    {
+      "timestamp": "2026-05-06T10:31:10",
+      "slug": "comparing-popular-lollies-australia-2026",
+      "title": "Comparing Popular Lollies in Australia: What to Buy in 2026",
+      "status": "published",
+      "link": "https://sweetsworld.com.au/candy-types/comparing-popular-lollies-australia-2026/",
+      "post_id": 73129,
+      "message": ""
+    },
+    {
+      "timestamp": "2026-05-07T10:31:02",
+      "slug": "vegan-candy-guide-australia-2026",
+      "title": "The Ultimate Guide to Vegan Candy Options in Australia 2026",
+      "status": "published",
+      "link": "https://sweetsworld.com.au/candy-types/vegan-candy-guide-australia-2026/",
+      "post_id": 73155,
+      "message": ""
+    },
+    {
+      "timestamp": "2026-05-10T10:31:06",
+      "slug": "best-chocolate-rocks-2026",
+      "title": "Discover the Best Chocolate Rocks of 2026",
+      "status": "published",
+      "link": "https://sweetsworld.com.au/candy-types/best-chocolate-rocks-2026/",
+      "post_id": 73219,
+      "message": ""
+    },
+    {
+      "timestamp": "2026-05-11T10:31:01",
+      "slug": "sugar-free-candy-australia-2026",
+      "title": "How to Choose Sugar-Free Candy in Australia: 2026 Edition",
+      "status": "published",
+      "link": "https://sweetsworld.com.au/candy-types/sugar-free-candy-australia-2026/",
+      "post_id": 73237,
+      "message": ""
+    },
+    {
+      "timestamp": "2026-05-11T10:31:40",
+      "slug": "gourmet-vs-traditional-candy-2026",
+      "title": "Comparing Gourmet vs Traditional Candy in 2026",
+      "status": "published",
+      "link": "https://sweetsworld.com.au/candy-types/gourmet-vs-traditional-candy-2026/",
+      "post_id": 73239,
+      "message": ""
+    },
+    {
+      "timestamp": "2026-05-12T10:31:02",
+      "slug": "imported-vs-local-candy-2026",
+      "title": "Comparing Imported vs. Local Candy: What Aussies Prefer in 2026",
+      "status": "published",
+      "link": "https://sweetsworld.com.au/candy-types/imported-vs-local-candy-2026/",
+      "post_id": 73255,
+      "message": ""
+    },
+    {
+      "timestamp": "2026-05-14T10:31:05",
+      "slug": "make-australian-candy-at-home-2026",
+      "title": "How to Make Traditional Australian Candy at Home in 2026",
+      "status": "published",
+      "link": "https://sweetsworld.com.au/candy-types/make-australian-candy-at-home-2026/",
+      "post_id": 73301,
+      "message": ""
+    },
+    {
+      "timestamp": "2026-05-19T10:31:03",
+      "slug": "best-australian-easter-chocolates-2026",
+      "title": "The Best Australian Easter Chocolates to Try in 2026",
+      "status": "published",
+      "link": "https://sweetsworld.com.au/candy-types/best-australian-easter-chocolates-2026/",
+      "post_id": 73392,
+      "message": ""
+    },
+    {
+      "timestamp": "2026-05-21T10:30:55",
+      "slug": "candy-brand-comparison-2026",
+      "title": "Comparing Popular Candy Brands for 2026: Which Reigns Supreme?",
+      "status": "published",
+      "link": "https://sweetsworld.com.au/candy-types/candy-brand-comparison-2026/",
+      "post_id": 73460,
+      "message": ""
+    },
+    {
+      "timestamp": "2026-05-22T10:31:08",
+      "slug": "create-candy-buffet-australia-2026",
+      "title": "How to Create a Candy Buffet for Your 2026 Australian Events",
+      "status": "published",
+      "link": "https://sweetsworld.com.au/candy-types/create-candy-buffet-australia-2026/",
+      "post_id": 73495,
+      "message": ""
+    },
+    {
+      "timestamp": "2026-07-19T10:32:52",
+      "slug": "candy-themed-party-2026",
+      "title": "How to Host the Perfect Candy-Themed Party in 2026",
+      "status": "published",
+      "link": "https://sweetsworld.com.au/candy-types/candy-themed-party-2026/",
+      "post_id": 74720,
+      "message": ""
+    },
+    {
+      "timestamp": "2026-07-20T10:33:45",
+      "slug": "healthier-gummy-candy-options-australia-2026",
+      "title": "Healthier Gummy Candy Options Available in Australia 2026",
+      "status": "drafted",
+      "link": "https://sweetsworld.com.au/?p=74742",
+      "post_id": 74742,
+      "message": ""
+    },
+    {
+      "timestamp": "2026-07-20T10:34:12",
+      "slug": "diy-gummy-candy-recipes-2026",
+      "title": "DIY Gummy Candy Recipes You Can Try at Home in 2026",
+      "status": "drafted",
+      "link": "https://sweetsworld.com.au/?p=74745",
+      "post_id": 74745,
+      "message": ""
+    },
+    {
+      "timestamp": "2026-07-20T10:34:39",
+      "slug": "ultimate-guide-buying-gummy-candy-2026",
+      "title": "The Ultimate Guide to Buying Gummy Candy in 2026",
+      "status": "drafted",
+      "link": "https://sweetsworld.com.au/?p=74747",
+      "post_id": 74747,
+      "message": ""
+    },
+    {
+      "timestamp": "2026-07-20T10:35:12",
+      "slug": "hard-candy-flavours-summer-australia-2026",
+      "title": "Hard Candy Flavours You Need to Try This Summer in Australia",
+      "status": "drafted",
+      "link": "https://sweetsworld.com.au/?p=74749",
+      "post_id": 74749,
+      "message": ""
+    },
+    {
+      "timestamp": "2026-07-20T10:35:46",
+      "slug": "top-10-retro-lollies-2026",
+      "title": "Top 10 Retro Lollies to Relive Your Childhood in 2026",
+      "status": "drafted",
+      "link": "https://sweetsworld.com.au/?p=74751",
+      "post_id": 74751,
+      "message": ""
+    },
+    {
+      "timestamp": "2026-07-21T10:32:21",
+      "slug": "sour-lolly-tasting-party-2026",
+      "title": "How to Host a Sour Lolly Tasting Party in 2026",
+      "status": "drafted",
+      "link": "https://sweetsworld.com.au/?p=74775",
+      "post_id": 74775,
+      "message": ""
+    },
+    {
+      "timestamp": "2026-07-21T10:32:41",
+      "slug": "top-gummy-candy-trends-australia-2026",
+      "title": "Top Gummy Candy Trends in Australia for 2026",
+      "status": "drafted",
+      "link": "https://sweetsworld.com.au/?p=74779",
+      "post_id": 74779,
+      "message": ""
+    },
+    {
+      "timestamp": "2026-07-21T10:33:02",
+      "slug": "how-gummy-candy-made-2026",
+      "title": "How Gummy Candy is Made: Behind the Scenes in 2026",
+      "status": "drafted",
+      "link": "https://sweetsworld.com.au/?p=74781",
+      "post_id": 74781,
+      "message": ""
+    },
+    {
+      "timestamp": "2026-07-21T10:33:22",
+      "slug": "top-10-nostalgic-australian-lollies-2026",
+      "title": "Top 10 Nostalgic Australian Lollies to Try in 2026",
+      "status": "drafted",
+      "link": "https://sweetsworld.com.au/?p=74783",
+      "post_id": 74783,
+      "message": ""
+    },
+    {
+      "timestamp": "2026-07-21T10:33:42",
+      "slug": "history-iconic-australian-lollies",
+      "title": "The History of Iconic Australian Lollies: A Sweet Journey",
+      "status": "drafted",
+      "link": "https://sweetsworld.com.au/?p=74785",
+      "post_id": 74785,
+      "message": ""
+    },
+    {
+      "timestamp": "2026-07-22T10:31:29",
+      "slug": "healthier-candy-gift-box-options-2026",
+      "title": "Healthier Candy Gift Box Options for 2026: Sweet and Guilt-Free",
+      "status": "drafted",
+      "link": "https://sweetsworld.com.au/?p=74808",
+      "post_id": 74808,
+      "message": ""
+    },
+    {
+      "timestamp": "2026-07-22T10:31:50",
+      "slug": "best-sour-lolly-brands-2026-comparison",
+      "title": "Best Sour Lolly Brands in 2026: A Comprehensive Comparison",
+      "status": "drafted",
+      "link": "https://sweetsworld.com.au/?p=74810",
+      "post_id": 74810,
+      "message": ""
+    },
+    {
+      "timestamp": "2026-07-22T10:32:09",
+      "slug": "best-retro-lolly-brands-australia-2026",
+      "title": "Best Retro Lolly Brands in Australia for 2026",
+      "status": "drafted",
+      "link": "https://sweetsworld.com.au/?p=74813",
+      "post_id": 74813,
+      "message": ""
+    },
+    {
+      "timestamp": "2026-07-22T10:32:29",
+      "slug": "australian-christmas-lollies-2026",
+      "title": "Best Australian Christmas Lollies for a Nostalgic 2026 Celebration",
+      "status": "drafted",
+      "link": "https://sweetsworld.com.au/?p=74815",
+      "post_id": 74815,
+      "message": ""
+    },
+    {
+      "timestamp": "2026-07-22T10:32:47",
+      "slug": "nostalgic-lollies-aussie-party-2026",
+      "title": "Nostalgic Lollies That Are Perfect for Your 2026 Aussie Themed Party",
+      "status": "drafted",
+      "link": "https://sweetsworld.com.au/?p=74817",
+      "post_id": 74817,
+      "message": ""
+    },
+    {
+      "timestamp": "2026-07-23T10:31:58",
+      "slug": "unique-australian-gummy-candy-2026",
+      "title": "Exploring the Flavours: Unique Australian Gummy Candy in 2026",
+      "status": "drafted",
+      "link": "https://sweetsworld.com.au/?p=74838",
+      "post_id": 74838,
+      "message": ""
+    },
+    {
+      "timestamp": "2026-07-23T10:32:22",
+      "slug": "rediscovering-classic-australian-lollies-2026",
+      "title": "Rediscovering Classic Australian Lollies: Top Picks for 2026",
+      "status": "drafted",
+      "link": "https://sweetsworld.com.au/?p=74840",
+      "post_id": 74840,
+      "message": ""
+    },
+    {
+      "timestamp": "2026-07-23T10:32:39",
+      "slug": "iconic-australian-lollies-still-buy-2026",
+      "title": "Iconic Australian Lollies You Can Still Buy in 2026",
+      "status": "drafted",
+      "link": "https://sweetsworld.com.au/?p=74843",
+      "post_id": 74843,
+      "message": ""
+    },
+    {
+      "timestamp": "2026-07-23T10:32:58",
+      "slug": "ultimate-guide-buying-candy-by-kilo-australia-2026",
+      "title": "The Ultimate 2026 Guide to Buying Candy by the Kilo in Australia",
+      "status": "drafted",
+      "link": "https://sweetsworld.com.au/?p=74845",
+      "post_id": 74845,
+      "message": ""
+    },
+    {
+      "timestamp": "2026-07-23T10:33:17",
+      "slug": "perfect-lolly-buffet-wedding-2026",
+      "title": "Create the Perfect Lolly Buffet for Your Wedding in 2026",
+      "status": "drafted",
+      "link": "https://sweetsworld.com.au/?p=74847",
+      "post_id": 74847,
       "message": ""
     }
   ],
@@ -114,122 +1806,2852 @@
     "dutch-candy-australia": {
       "slug": "dutch-candy-australia",
       "title": "Dutch Candy Australia: Buy Holland Sweets and Licorice Online",
-      "status": "published",
-      "last_attempted_at": "2026-04-02T10:30:46",
+      "status": "exists",
+      "last_attempted_at": "2026-04-17T15:56:40",
       "post_link": "https://sweetsworld.com.au/candy-categories/dutch-candy-australia/",
       "post_id": 70997,
       "last_error": "",
-      "last_success_at": "2026-04-02T10:30:46"
+      "last_success_at": "2026-04-17T15:56:40"
     },
     "german-candy-australia": {
       "slug": "german-candy-australia",
       "title": "German Candy Australia: Buy Haribo and German Sweets Online",
-      "status": "published",
-      "last_attempted_at": "2026-04-03T10:30:40",
+      "status": "exists",
+      "last_attempted_at": "2026-04-17T15:56:40",
       "post_link": "https://sweetsworld.com.au/candy-categories/german-candy-australia/",
       "post_id": 71009,
       "last_error": "",
-      "last_success_at": "2026-04-03T10:30:40"
+      "last_success_at": "2026-04-17T15:56:40"
     },
     "turkish-candy-australia": {
       "slug": "turkish-candy-australia",
       "title": "Turkish Candy Australia: Turkish Delight and Sweet Treats Online",
-      "status": "published",
-      "last_attempted_at": "2026-04-04T10:30:40",
+      "status": "exists",
+      "last_attempted_at": "2026-04-17T15:56:40",
       "post_link": "https://sweetsworld.com.au/candy-categories/turkish-candy-australia/",
       "post_id": 71020,
       "last_error": "",
-      "last_success_at": "2026-04-04T10:30:40"
+      "last_success_at": "2026-04-17T15:56:40"
     },
     "mexican-candy-australia": {
       "slug": "mexican-candy-australia",
       "title": "Mexican Candy Australia: Buy Takis Pulparindo and More Online",
-      "status": "published",
-      "last_attempted_at": "2026-04-05T10:30:36",
+      "status": "exists",
+      "last_attempted_at": "2026-04-17T15:56:40",
       "post_link": "https://sweetsworld.com.au/candy-categories/mexican-candy-australia/",
       "post_id": 71031,
       "last_error": "",
-      "last_success_at": "2026-04-05T10:30:36"
+      "last_success_at": "2026-04-17T15:56:40"
     },
     "jolly-rancher-australia": {
       "slug": "jolly-rancher-australia",
       "title": "Jolly Rancher Australia: Buy Hard Candy and Gummies Online",
-      "status": "published",
-      "last_attempted_at": "2026-04-06T10:30:41",
+      "status": "exists",
+      "last_attempted_at": "2026-04-17T15:56:40",
       "post_link": "https://sweetsworld.com.au/candy-types/jolly-rancher-australia/",
       "post_id": 71043,
       "last_error": "",
-      "last_success_at": "2026-04-06T10:30:41"
+      "last_success_at": "2026-04-17T15:56:40"
     },
     "twizzlers-australia": {
       "slug": "twizzlers-australia",
       "title": "Twizzlers Australia: Where to Buy Red Licorice Twists Online",
-      "status": "published",
-      "last_attempted_at": "2026-04-07T10:30:42",
+      "status": "exists",
+      "last_attempted_at": "2026-04-17T15:56:40",
       "post_link": "https://sweetsworld.com.au/candy-types/twizzlers-australia/",
       "post_id": 71489,
       "last_error": "",
-      "last_success_at": "2026-04-07T10:30:42"
+      "last_success_at": "2026-04-17T15:56:40"
     },
     "nerds-candy-australia": {
       "slug": "nerds-candy-australia",
       "title": "Nerds Candy Australia: Buy Nerds Rope and Nerds Clusters Online",
-      "status": "published",
-      "last_attempted_at": "2026-04-08T10:30:57",
+      "status": "exists",
+      "last_attempted_at": "2026-04-17T15:56:40",
       "post_link": "https://sweetsworld.com.au/candy-types/nerds-candy-australia/",
       "post_id": 71761,
       "last_error": "",
-      "last_success_at": "2026-04-08T10:30:57"
+      "last_success_at": "2026-04-17T15:56:40"
     },
     "hersheys-australia": {
       "slug": "hersheys-australia",
       "title": "Hershey's Australia: Buy Hershey's Chocolate and Kisses Online",
-      "status": "published",
-      "last_attempted_at": "2026-04-09T10:30:46",
+      "status": "exists",
+      "last_attempted_at": "2026-04-17T15:56:40",
       "post_link": "https://sweetsworld.com.au/candy-types/hersheys-australia/",
       "post_id": 71820,
       "last_error": "",
-      "last_success_at": "2026-04-09T10:30:46"
+      "last_success_at": "2026-04-17T15:56:40"
     },
     "trolli-australia": {
       "slug": "trolli-australia",
       "title": "Trolli Australia: Buy Trolli Gummies and Sour Worms Online",
-      "status": "published",
-      "last_attempted_at": "2026-04-10T10:30:45",
+      "status": "exists",
+      "last_attempted_at": "2026-04-17T15:56:40",
       "post_link": "https://sweetsworld.com.au/candy-types/trolli-australia/",
       "post_id": 71841,
       "last_error": "",
-      "last_success_at": "2026-04-10T10:30:45"
+      "last_success_at": "2026-04-17T15:56:40"
     },
     "darrell-lea-gift-ideas": {
       "slug": "darrell-lea-gift-ideas",
       "title": "Darrell Lea Gift Ideas: Best Australian Chocolate Gifts",
-      "status": "published",
-      "last_attempted_at": "2026-04-11T10:30:55",
+      "status": "exists",
+      "last_attempted_at": "2026-04-17T15:56:40",
       "post_link": "https://sweetsworld.com.au/candy-types/darrell-lea-gift-ideas/",
       "post_id": 72063,
       "last_error": "",
-      "last_success_at": "2026-04-11T10:30:55"
+      "last_success_at": "2026-04-17T15:56:40"
     },
     "warheads-australia": {
       "slug": "warheads-australia",
       "title": "Warheads Australia: Buy Sour Warheads Candy Online",
-      "status": "published",
-      "last_attempted_at": "2026-04-12T10:31:07",
+      "status": "exists",
+      "last_attempted_at": "2026-04-17T15:56:40",
       "post_link": "https://sweetsworld.com.au/candy-types/warheads-australia/",
       "post_id": 72074,
       "last_error": "",
-      "last_success_at": "2026-04-12T10:31:07"
+      "last_success_at": "2026-04-17T15:56:40"
     },
     "corporate-candy-gifts-australia": {
       "slug": "corporate-candy-gifts-australia",
       "title": "Corporate Candy Gifts Australia: Branded Sweet Hampers for Clients",
-      "status": "published",
-      "last_attempted_at": "2026-04-13T10:30:56",
+      "status": "exists",
+      "last_attempted_at": "2026-04-17T15:56:40",
       "post_link": "https://sweetsworld.com.au/candy-types/corporate-candy-gifts-australia/",
       "post_id": 72089,
       "last_error": "",
-      "last_success_at": "2026-04-13T10:30:56"
+      "last_success_at": "2026-04-17T15:56:40"
+    },
+    "white-knight-chocolate-where-to-buy-australia": {
+      "slug": "white-knight-chocolate-where-to-buy-australia",
+      "title": "White Knight Chocolate: Where to Buy in Australia",
+      "status": "exists",
+      "last_attempted_at": "2026-04-17T15:56:40",
+      "post_link": "https://sweetsworld.com.au/where-to-buy/white-knight-chocolate-where-to-buy-australia/",
+      "post_id": 70143,
+      "last_error": "",
+      "last_success_at": "2026-04-17T15:56:40"
+    },
+    "american-candy-australia": {
+      "slug": "american-candy-australia",
+      "title": "American Candy Australia: Buy US Sweets Online",
+      "status": "exists",
+      "last_attempted_at": "2026-04-17T15:56:40",
+      "post_link": "https://sweetsworld.com.au/where-to-buy/american-candy-australia/",
+      "post_id": 70305,
+      "last_error": "",
+      "last_success_at": "2026-04-17T15:56:40"
+    },
+    "buy-bulk-candy-online-australia": {
+      "slug": "buy-bulk-candy-online-australia",
+      "title": "Buy Bulk Candy Online Australia: Cheapest Lolly Packs",
+      "status": "exists",
+      "last_attempted_at": "2026-04-17T15:56:40",
+      "post_link": "https://sweetsworld.com.au/where-to-buy/buy-bulk-candy-online-australia/",
+      "post_id": 70306,
+      "last_error": "",
+      "last_success_at": "2026-04-17T15:56:40"
+    },
+    "candy-gift-box-australia": {
+      "slug": "candy-gift-box-australia",
+      "title": "Candy Gift Box Australia: Best Sweet Hampers and Lolly Bags",
+      "status": "exists",
+      "last_attempted_at": "2026-04-17T15:56:40",
+      "post_link": "https://sweetsworld.com.au/where-to-buy/candy-gift-box-australia/",
+      "post_id": 70285,
+      "last_error": "",
+      "last_success_at": "2026-04-17T15:56:40"
+    },
+    "christmas-candy-australia": {
+      "slug": "christmas-candy-australia",
+      "title": "Christmas Candy Australia: Festive Lollies and Sweet Gifts",
+      "status": "exists",
+      "last_attempted_at": "2026-04-17T15:56:40",
+      "post_link": "https://sweetsworld.com.au/candy-guides/christmas-candy-australia/",
+      "post_id": 70425,
+      "last_error": "",
+      "last_success_at": "2026-04-17T15:56:40"
+    },
+    "halloween-candy-australia": {
+      "slug": "halloween-candy-australia",
+      "title": "Halloween Candy Australia: Best Trick or Treat Lollies",
+      "status": "exists",
+      "last_attempted_at": "2026-04-17T15:56:40",
+      "post_link": "https://sweetsworld.com.au/candy-guides/halloween-candy-australia/",
+      "post_id": 70445,
+      "last_error": "",
+      "last_success_at": "2026-04-17T15:56:40"
+    },
+    "easter-candy-australia": {
+      "slug": "easter-candy-australia",
+      "title": "Easter Candy Australia: Chocolate Eggs and Easter Lollies",
+      "status": "exists",
+      "last_attempted_at": "2026-04-17T15:56:40",
+      "post_link": "https://sweetsworld.com.au/candy-guides/easter-candy-australia/",
+      "post_id": 70447,
+      "last_error": "",
+      "last_success_at": "2026-04-17T15:56:40"
+    },
+    "wedding-candy-australia": {
+      "slug": "wedding-candy-australia",
+      "title": "Wedding Candy Australia: Lolly Buffets and Bonbonniere Ideas",
+      "status": "exists",
+      "last_attempted_at": "2026-04-17T15:56:40",
+      "post_link": "https://sweetsworld.com.au/candy-guides/wedding-candy-australia/",
+      "post_id": 70449,
+      "last_error": "",
+      "last_success_at": "2026-04-17T15:56:40"
+    },
+    "birthday-candy-australia": {
+      "slug": "birthday-candy-australia",
+      "title": "Birthday Candy Australia: Fun Lolly Bags and Party Sweets",
+      "status": "exists",
+      "last_attempted_at": "2026-04-17T15:56:40",
+      "post_link": "https://sweetsworld.com.au/candy-guides/birthday-candy-australia/",
+      "post_id": 70451,
+      "last_error": "",
+      "last_success_at": "2026-04-17T15:56:40"
+    },
+    "uk-sweets-australia": {
+      "slug": "uk-sweets-australia",
+      "title": "UK Sweets Australia: British Lollies and Candy to Buy Online",
+      "status": "exists",
+      "last_attempted_at": "2026-04-17T15:56:40",
+      "post_link": "https://sweetsworld.com.au/products/uk-sweets-australia/",
+      "post_id": 70453,
+      "last_error": "",
+      "last_success_at": "2026-04-17T15:56:40"
+    },
+    "halal-candy-australia": {
+      "slug": "halal-candy-australia",
+      "title": "Halal Candy Australia: Gelatine-Free Lollies and Sweets",
+      "status": "exists",
+      "last_attempted_at": "2026-04-17T15:56:40",
+      "post_link": "https://sweetsworld.com.au/where-to-buy/halal-candy-australia/",
+      "post_id": 70455,
+      "last_error": "",
+      "last_success_at": "2026-04-17T15:56:40"
+    },
+    "vegan-lollies-australia": {
+      "slug": "vegan-lollies-australia",
+      "title": "Vegan Lollies Australia: Gelatine-Free and Plant-Based Candy",
+      "status": "exists",
+      "last_attempted_at": "2026-04-17T15:56:40",
+      "post_link": "https://sweetsworld.com.au/where-to-buy/vegan-lollies-australia/",
+      "post_id": 70459,
+      "last_error": "",
+      "last_success_at": "2026-04-17T15:56:40"
+    },
+    "lolly-buffet-ideas-australia": {
+      "slug": "lolly-buffet-ideas-australia",
+      "title": "Lolly Buffet Ideas Australia: How to Set Up the Perfect Sweet Table",
+      "status": "exists",
+      "last_attempted_at": "2026-04-17T15:56:40",
+      "post_link": "https://sweetsworld.com.au/candy-guides/lolly-buffet-ideas-australia/",
+      "post_id": 70461,
+      "last_error": "",
+      "last_success_at": "2026-04-17T15:56:40"
+    },
+    "bulk-lollies-australia": {
+      "slug": "bulk-lollies-australia",
+      "title": "Bulk Lollies Australia: Wholesale Candy for Parties and Events",
+      "status": "exists",
+      "last_attempted_at": "2026-04-17T15:56:40",
+      "post_link": "https://sweetsworld.com.au/where-to-buy/bulk-lollies-australia/",
+      "post_id": 70463,
+      "last_error": "",
+      "last_success_at": "2026-04-17T15:56:40"
+    },
+    "gluten-free-lollies-australia": {
+      "slug": "gluten-free-lollies-australia",
+      "title": "Gluten Free Lollies Australia: Safe Candy for Coeliac and Gluten Intolerant",
+      "status": "exists",
+      "last_attempted_at": "2026-04-17T15:56:40",
+      "post_link": "https://sweetsworld.com.au/where-to-buy/gluten-free-lollies-australia/",
+      "post_id": 70465,
+      "last_error": "",
+      "last_success_at": "2026-04-17T15:56:40"
+    },
+    "dairy-free-chocolate-australia": {
+      "slug": "dairy-free-chocolate-australia",
+      "title": "Dairy Free Chocolate Australia: Milk-Free Choc and Candy Online",
+      "status": "exists",
+      "last_attempted_at": "2026-04-17T15:56:40",
+      "post_link": "https://sweetsworld.com.au/where-to-buy/dairy-free-chocolate-australia/",
+      "post_id": 70483,
+      "last_error": "",
+      "last_success_at": "2026-04-17T15:56:40"
+    },
+    "belgian-chocolate-australia": {
+      "slug": "belgian-chocolate-australia",
+      "title": "Belgian Chocolate Australia: Buy Authentic Belgian Choc Online",
+      "status": "exists",
+      "last_attempted_at": "2026-04-17T15:56:40",
+      "post_link": "https://sweetsworld.com.au/where-to-buy/belgian-chocolate-australia/",
+      "post_id": 70486,
+      "last_error": "",
+      "last_success_at": "2026-04-17T15:56:40"
+    },
+    "haribo-australia": {
+      "slug": "haribo-australia",
+      "title": "Haribo Australia: Buy Goldbears and Haribo Gummies Online",
+      "status": "exists",
+      "last_attempted_at": "2026-04-17T15:56:40",
+      "post_link": "https://sweetsworld.com.au/where-to-buy/haribo-australia/",
+      "post_id": 70488,
+      "last_error": "",
+      "last_success_at": "2026-04-17T15:56:40"
+    },
+    "reeses-australia": {
+      "slug": "reeses-australia",
+      "title": "Reese's Australia: Buy Peanut Butter Cups and Reese's Candy Online",
+      "status": "exists",
+      "last_attempted_at": "2026-04-17T15:56:40",
+      "post_link": "https://sweetsworld.com.au/where-to-buy/reeses-australia/",
+      "post_id": 70490,
+      "last_error": "",
+      "last_success_at": "2026-04-17T15:56:40"
+    },
+    "skittles-australia": {
+      "slug": "skittles-australia",
+      "title": "Skittles Australia: All Flavours and Varieties to Buy Online",
+      "status": "exists",
+      "last_attempted_at": "2026-04-17T15:56:40",
+      "post_link": "https://sweetsworld.com.au/where-to-buy/skittles-australia/",
+      "post_id": 70492,
+      "last_error": "",
+      "last_success_at": "2026-04-17T15:56:40"
+    },
+    "jelly-belly-australia": {
+      "slug": "jelly-belly-australia",
+      "title": "Jelly Belly Australia: Buy Jelly Beans and Gift Boxes Online",
+      "status": "exists",
+      "last_attempted_at": "2026-04-17T15:56:40",
+      "post_link": "https://sweetsworld.com.au/where-to-buy/jelly-belly-australia/",
+      "post_id": 70494,
+      "last_error": "",
+      "last_success_at": "2026-04-17T15:56:40"
+    },
+    "candy-hamper-australia": {
+      "slug": "candy-hamper-australia",
+      "title": "Candy Hamper Australia: Sweet Gift Hampers for Every Occasion",
+      "status": "exists",
+      "last_attempted_at": "2026-04-17T15:56:40",
+      "post_link": "https://sweetsworld.com.au/where-to-buy/candy-hamper-australia/",
+      "post_id": 70496,
+      "last_error": "",
+      "last_success_at": "2026-04-17T15:56:40"
+    },
+    "lolly-bag-ideas-kids": {
+      "slug": "lolly-bag-ideas-kids",
+      "title": "Lolly Bag Ideas for Kids: What to Put in Party Bags Australia",
+      "status": "exists",
+      "last_attempted_at": "2026-04-17T15:56:40",
+      "post_link": "https://sweetsworld.com.au/candy-guides/lolly-bag-ideas-kids/",
+      "post_id": 70498,
+      "last_error": "",
+      "last_success_at": "2026-04-17T15:56:40"
+    },
+    "m-and-ms-australia": {
+      "slug": "m-and-ms-australia",
+      "title": "M&Ms Australia: All Flavours and Varieties to Buy Online",
+      "status": "exists",
+      "last_attempted_at": "2026-04-17T15:56:40",
+      "post_link": "https://sweetsworld.com.au/where-to-buy/m-and-ms-australia/",
+      "post_id": 70500,
+      "last_error": "",
+      "last_success_at": "2026-04-17T15:56:40"
+    },
+    "kit-kat-australia": {
+      "slug": "kit-kat-australia",
+      "title": "Kit Kat Australia: Buy Kit Kat Flavours Including Japan Varieties",
+      "status": "exists",
+      "last_attempted_at": "2026-04-17T15:56:40",
+      "post_link": "https://sweetsworld.com.au/where-to-buy/kit-kat-australia/",
+      "post_id": 70502,
+      "last_error": "",
+      "last_success_at": "2026-04-17T15:56:40"
+    },
+    "cadbury-favourites-australia": {
+      "slug": "cadbury-favourites-australia",
+      "title": "Cadbury Favourites Australia: Buy Cadbury Chocolate Gift Boxes",
+      "status": "exists",
+      "last_attempted_at": "2026-04-17T15:56:40",
+      "post_link": "https://sweetsworld.com.au/where-to-buy/cadbury-favourites-australia/",
+      "post_id": 70520,
+      "last_error": "",
+      "last_success_at": "2026-04-17T15:56:40"
+    },
+    "lindt-chocolate-australia": {
+      "slug": "lindt-chocolate-australia",
+      "title": "Lindt Chocolate Australia: Buy Lindt Balls and Gift Boxes Online",
+      "status": "exists",
+      "last_attempted_at": "2026-04-17T15:56:40",
+      "post_link": "https://sweetsworld.com.au/where-to-buy/lindt-chocolate-australia/",
+      "post_id": 70522,
+      "last_error": "",
+      "last_success_at": "2026-04-17T15:56:40"
+    },
+    "sour-patch-kids-australia": {
+      "slug": "sour-patch-kids-australia",
+      "title": "Sour Patch Kids Australia: Where to Buy Sour Patch Kids Online",
+      "status": "exists",
+      "last_attempted_at": "2026-04-17T15:56:40",
+      "post_link": "https://sweetsworld.com.au/where-to-buy/sour-patch-kids-australia/",
+      "post_id": 70524,
+      "last_error": "",
+      "last_success_at": "2026-04-17T15:56:40"
+    },
+    "kinder-chocolate-australia": {
+      "slug": "kinder-chocolate-australia",
+      "title": "Kinder Chocolate Australia: Buy Kinder Surprise and Bueno Online",
+      "status": "exists",
+      "last_attempted_at": "2026-04-17T15:56:40",
+      "post_link": "https://sweetsworld.com.au/where-to-buy/kinder-chocolate-australia/",
+      "post_id": 70526,
+      "last_error": "",
+      "last_success_at": "2026-04-17T15:56:40"
+    },
+    "ferrero-rocher-australia": {
+      "slug": "ferrero-rocher-australia",
+      "title": "Ferrero Rocher Australia: Buy Ferrero Gift Boxes Online",
+      "status": "exists",
+      "last_attempted_at": "2026-04-17T15:56:40",
+      "post_link": "https://sweetsworld.com.au/where-to-buy/ferrero-rocher-australia/",
+      "post_id": 70528,
+      "last_error": "",
+      "last_success_at": "2026-04-17T15:56:40"
+    },
+    "takis-australia": {
+      "slug": "takis-australia",
+      "title": "Takis Australia: Buy Takis Fuego and All Flavours Online",
+      "status": "exists",
+      "last_attempted_at": "2026-04-17T15:56:40",
+      "post_link": "https://sweetsworld.com.au/where-to-buy/takis-australia/",
+      "post_id": 70530,
+      "last_error": "",
+      "last_success_at": "2026-04-17T15:56:40"
+    },
+    "tnt-sour-candy-australia": {
+      "slug": "tnt-sour-candy-australia",
+      "title": "TNT Sour Candy Australia: Buy TNT Sour Straps and Turbo Tubes Online",
+      "status": "exists",
+      "last_attempted_at": "2026-04-17T15:56:40",
+      "post_link": "https://sweetsworld.com.au/where-to-buy/tnt-sour-candy-australia/",
+      "post_id": 70532,
+      "last_error": "",
+      "last_success_at": "2026-04-17T15:56:40"
+    },
+    "allens-lollies-australia": {
+      "slug": "allens-lollies-australia",
+      "title": "Allen's Lollies Australia: Buy Allen's Red Frogs Snakes and More",
+      "status": "exists",
+      "last_attempted_at": "2026-04-17T15:56:40",
+      "post_link": "https://sweetsworld.com.au/where-to-buy/allens-lollies-australia/",
+      "post_id": 70534,
+      "last_error": "",
+      "last_success_at": "2026-04-17T15:56:40"
+    },
+    "pop-tarts-australia": {
+      "slug": "pop-tarts-australia",
+      "title": "Pop Tarts Australia: Buy Pop Tarts All Flavours Online",
+      "status": "exists",
+      "last_attempted_at": "2026-04-17T15:56:40",
+      "post_link": "https://sweetsworld.com.au/where-to-buy/pop-tarts-australia/",
+      "post_id": 70536,
+      "last_error": "",
+      "last_success_at": "2026-04-17T15:56:40"
+    },
+    "cheetos-australia": {
+      "slug": "cheetos-australia",
+      "title": "Cheetos Australia: Buy Cheetos Flamin Hot and Crunchy Online",
+      "status": "exists",
+      "last_attempted_at": "2026-04-17T15:56:40",
+      "post_link": "https://sweetsworld.com.au/where-to-buy/cheetos-australia/",
+      "post_id": 70538,
+      "last_error": "",
+      "last_success_at": "2026-04-17T15:56:40"
+    },
+    "old-fashioned-lollies-australia": {
+      "slug": "old-fashioned-lollies-australia",
+      "title": "Old Fashioned Lollies Australia: Classic Retro Sweets You Grew Up With",
+      "status": "exists",
+      "last_attempted_at": "2026-04-17T15:56:40",
+      "post_link": "https://sweetsworld.com.au/products/old-fashioned-lollies-australia/",
+      "post_id": 70752,
+      "last_error": "",
+      "last_success_at": "2026-04-17T15:56:40"
+    },
+    "allens-red-frogs-australia": {
+      "slug": "allens-red-frogs-australia",
+      "title": "Allen's Red Frogs Australia: Buy Red Frogs Bulk and Gift Packs",
+      "status": "exists",
+      "last_attempted_at": "2026-04-17T15:56:40",
+      "post_link": "https://sweetsworld.com.au/where-to-buy/allens-red-frogs-australia/",
+      "post_id": 70754,
+      "last_error": "",
+      "last_success_at": "2026-04-17T15:56:40"
+    },
+    "allens-snakes-alive-australia": {
+      "slug": "allens-snakes-alive-australia",
+      "title": "Allen's Snakes Alive Australia: Buy Snakes Lollies in Bulk Online",
+      "status": "exists",
+      "last_attempted_at": "2026-04-17T15:56:40",
+      "post_link": "https://sweetsworld.com.au/where-to-buy/allens-snakes-alive-australia/",
+      "post_id": 70756,
+      "last_error": "",
+      "last_success_at": "2026-04-17T15:56:40"
+    },
+    "chupa-chups-australia": {
+      "slug": "chupa-chups-australia",
+      "title": "Chupa Chups Australia: Buy Chupa Chups Lollipops and Bulk Packs",
+      "status": "exists",
+      "last_attempted_at": "2026-04-17T15:56:40",
+      "post_link": "https://sweetsworld.com.au/where-to-buy/chupa-chups-australia/",
+      "post_id": 70758,
+      "last_error": "",
+      "last_success_at": "2026-04-17T15:56:40"
+    },
+    "mint-chocolate-australia": {
+      "slug": "mint-chocolate-australia",
+      "title": "Mint Chocolate Australia: Buy Mint Dark Chocolate and Mint Lollies Online",
+      "status": "exists",
+      "last_attempted_at": "2026-04-17T15:56:40",
+      "post_link": "https://sweetsworld.com.au/products/mint-chocolate-australia/",
+      "post_id": 70760,
+      "last_error": "",
+      "last_success_at": "2026-04-17T15:56:40"
+    },
+    "caramel-chocolate-australia": {
+      "slug": "caramel-chocolate-australia",
+      "title": "Caramel Chocolate Australia: Buy Caramel Chews and Caramel Chocolate",
+      "status": "exists",
+      "last_attempted_at": "2026-04-17T15:56:40",
+      "post_link": "https://sweetsworld.com.au/products/caramel-chocolate-australia/",
+      "post_id": 70762,
+      "last_error": "",
+      "last_success_at": "2026-04-17T15:56:40"
+    },
+    "peanut-butter-candy-australia": {
+      "slug": "peanut-butter-candy-australia",
+      "title": "Peanut Butter Candy Australia: Buy Peanut Butter Cups and Sweets Online",
+      "status": "exists",
+      "last_attempted_at": "2026-04-17T15:56:40",
+      "post_link": "https://sweetsworld.com.au/products/peanut-butter-candy-australia/",
+      "post_id": 70764,
+      "last_error": "",
+      "last_success_at": "2026-04-17T15:56:40"
+    },
+    "lollipops-australia": {
+      "slug": "lollipops-australia",
+      "title": "Lollipops Australia: Buy Giant Lollipops and Bulk Lollipops Online",
+      "status": "exists",
+      "last_attempted_at": "2026-04-17T15:56:40",
+      "post_link": "https://sweetsworld.com.au/products/lollipops-australia/",
+      "post_id": 70766,
+      "last_error": "",
+      "last_success_at": "2026-04-17T15:56:40"
+    },
+    "gummy-bears-australia": {
+      "slug": "gummy-bears-australia",
+      "title": "Gummy Bears Australia: Buy Haribo and Bulk Gummy Bears Online",
+      "status": "exists",
+      "last_attempted_at": "2026-04-17T15:56:40",
+      "post_link": "https://sweetsworld.com.au/where-to-buy/gummy-bears-australia/",
+      "post_id": 70768,
+      "last_error": "",
+      "last_success_at": "2026-04-17T15:56:40"
+    },
+    "licorice-australia": {
+      "slug": "licorice-australia",
+      "title": "Licorice Australia: Buy Black and Red Licorice Twists Online",
+      "status": "exists",
+      "last_attempted_at": "2026-04-17T15:56:40",
+      "post_link": "https://sweetsworld.com.au/products/licorice-australia/",
+      "post_id": 70770,
+      "last_error": "",
+      "last_success_at": "2026-04-17T15:56:40"
+    },
+    "chocolate-bars-australia": {
+      "slug": "chocolate-bars-australia",
+      "title": "Chocolate Bars Australia: Best Chocolate Bars to Buy Online",
+      "status": "exists",
+      "last_attempted_at": "2026-04-17T15:56:40",
+      "post_link": "https://sweetsworld.com.au/products/chocolate-bars-australia/",
+      "post_id": 70787,
+      "last_error": "",
+      "last_success_at": "2026-04-17T15:56:40"
+    },
+    "pick-and-mix-lollies-online": {
+      "slug": "pick-and-mix-lollies-online",
+      "title": "Pick and Mix Lollies Online Australia: Build Your Own Lolly Bag",
+      "status": "exists",
+      "last_attempted_at": "2026-04-17T15:56:40",
+      "post_link": "https://sweetsworld.com.au/where-to-buy/pick-and-mix-lollies-online/",
+      "post_id": 70789,
+      "last_error": "",
+      "last_success_at": "2026-04-17T15:56:40"
+    },
+    "buy-lollies-online-australia": {
+      "slug": "buy-lollies-online-australia",
+      "title": "Buy Lollies Online Australia: Best Online Lolly Shop",
+      "status": "exists",
+      "last_attempted_at": "2026-04-17T15:56:40",
+      "post_link": "https://sweetsworld.com.au/where-to-buy/buy-lollies-online-australia/",
+      "post_id": 70791,
+      "last_error": "",
+      "last_success_at": "2026-04-17T15:56:40"
+    },
+    "candy-subscription-box-australia": {
+      "slug": "candy-subscription-box-australia",
+      "title": "Candy Subscription Box Australia: Monthly Lolly Box Delivered",
+      "status": "exists",
+      "last_attempted_at": "2026-04-17T15:56:40",
+      "post_link": "https://sweetsworld.com.au/where-to-buy/candy-subscription-box-australia/",
+      "post_id": 70793,
+      "last_error": "",
+      "last_success_at": "2026-04-17T15:56:40"
+    },
+    "lolly-shop-online-australia": {
+      "slug": "lolly-shop-online-australia",
+      "title": "Lolly Shop Online Australia: Best Place to Buy Lollies and Candy",
+      "status": "exists",
+      "last_attempted_at": "2026-04-17T15:56:40",
+      "post_link": "https://sweetsworld.com.au/where-to-buy/lolly-shop-online-australia/",
+      "post_id": 70795,
+      "last_error": "",
+      "last_success_at": "2026-04-17T15:56:40"
+    },
+    "australian-made-chocolate": {
+      "slug": "australian-made-chocolate",
+      "title": "Australian Made Chocolate: Best Locally Made Chocolate Brands",
+      "status": "exists",
+      "last_attempted_at": "2026-04-17T15:56:40",
+      "post_link": "https://sweetsworld.com.au/products/australian-made-chocolate/",
+      "post_id": 70797,
+      "last_error": "",
+      "last_success_at": "2026-04-17T15:56:40"
+    },
+    "australian-candy-brands": {
+      "slug": "australian-candy-brands",
+      "title": "Australian Candy Brands: Best Made in Australia Lollies and Sweets",
+      "status": "exists",
+      "last_attempted_at": "2026-04-17T15:56:40",
+      "post_link": "https://sweetsworld.com.au/products/australian-candy-brands/",
+      "post_id": 70799,
+      "last_error": "",
+      "last_success_at": "2026-04-17T15:56:40"
+    },
+    "american-soda-australia": {
+      "slug": "american-soda-australia",
+      "title": "American Soda Australia: Buy US Soft Drinks and Sodas Online",
+      "status": "exists",
+      "last_attempted_at": "2026-04-17T15:56:40",
+      "post_link": "https://sweetsworld.com.au/products/american-soda-australia/",
+      "post_id": 70801,
+      "last_error": "",
+      "last_success_at": "2026-04-17T15:56:40"
+    },
+    "candy-advent-calendar-australia": {
+      "slug": "candy-advent-calendar-australia",
+      "title": "Candy Advent Calendar Australia: Sweet Christmas Countdown Calendars",
+      "status": "exists",
+      "last_attempted_at": "2026-04-17T15:56:40",
+      "post_link": "https://sweetsworld.com.au/where-to-buy/candy-advent-calendar-australia/",
+      "post_id": 70803,
+      "last_error": "",
+      "last_success_at": "2026-04-17T15:56:40"
+    },
+    "stocking-fillers-australia": {
+      "slug": "stocking-fillers-australia",
+      "title": "Stocking Fillers Australia: Best Candy and Sweet Stocking Stuffers",
+      "status": "exists",
+      "last_attempted_at": "2026-04-17T15:56:40",
+      "post_link": "https://sweetsworld.com.au/candy-guides/stocking-fillers-australia/",
+      "post_id": 70805,
+      "last_error": "",
+      "last_success_at": "2026-04-17T15:56:40"
+    },
+    "rocky-road-australia": {
+      "slug": "rocky-road-australia",
+      "title": "Rocky Road Australia: Buy Rocky Road Chocolate Blocks Online",
+      "status": "exists",
+      "last_attempted_at": "2026-04-17T15:56:40",
+      "post_link": "https://sweetsworld.com.au/where-to-buy/rocky-road-australia/",
+      "post_id": 70824,
+      "last_error": "",
+      "last_success_at": "2026-04-17T15:56:40"
+    },
+    "jelly-beans-australia": {
+      "slug": "jelly-beans-australia",
+      "title": "Jelly Beans Australia: Buy Jelly Belly and Bulk Jelly Beans Online",
+      "status": "exists",
+      "last_attempted_at": "2026-04-17T15:56:40",
+      "post_link": "https://sweetsworld.com.au/where-to-buy/jelly-beans-australia/",
+      "post_id": 70826,
+      "last_error": "",
+      "last_success_at": "2026-04-17T15:56:40"
+    },
+    "sour-straps-australia": {
+      "slug": "sour-straps-australia",
+      "title": "Sour Straps Australia: Buy Sour Straps Lollies in Bulk Online",
+      "status": "exists",
+      "last_attempted_at": "2026-04-17T15:56:40",
+      "post_link": "https://sweetsworld.com.au/where-to-buy/sour-straps-australia/",
+      "post_id": 70828,
+      "last_error": "",
+      "last_success_at": "2026-04-17T15:56:40"
+    },
+    "wholesale-candy-australia": {
+      "slug": "wholesale-candy-australia",
+      "title": "Wholesale Candy Australia: Bulk Lolly Suppliers for Events and Retail",
+      "status": "exists",
+      "last_attempted_at": "2026-04-17T15:56:40",
+      "post_link": "https://sweetsworld.com.au/where-to-buy/wholesale-candy-australia/",
+      "post_id": 70830,
+      "last_error": "",
+      "last_success_at": "2026-04-17T15:56:40"
+    },
+    "bulk-candy-for-events-australia": {
+      "slug": "bulk-candy-for-events-australia",
+      "title": "Bulk Candy for Events Australia: Weddings Parties and Corporates",
+      "status": "exists",
+      "last_attempted_at": "2026-04-17T15:56:40",
+      "post_link": "https://sweetsworld.com.au/where-to-buy/bulk-candy-for-events-australia/",
+      "post_id": 70832,
+      "last_error": "",
+      "last_success_at": "2026-04-17T15:56:40"
+    },
+    "no-gelatine-candy-australia": {
+      "slug": "no-gelatine-candy-australia",
+      "title": "No Gelatine Candy Australia: Gelatine Free Lollies and Sweets",
+      "status": "exists",
+      "last_attempted_at": "2026-04-17T15:56:40",
+      "post_link": "https://sweetsworld.com.au/where-to-buy/no-gelatine-candy-australia/",
+      "post_id": 70834,
+      "last_error": "",
+      "last_success_at": "2026-04-17T15:56:40"
+    },
+    "most-popular-candy-australia": {
+      "slug": "most-popular-candy-australia",
+      "title": "Most Popular Candy in Australia: Best Selling Lollies and Sweets",
+      "status": "exists",
+      "last_attempted_at": "2026-04-17T15:56:40",
+      "post_link": "https://sweetsworld.com.au/candy-guides/most-popular-candy-australia/",
+      "post_id": 70836,
+      "last_error": "",
+      "last_success_at": "2026-04-17T15:56:40"
+    },
+    "how-to-set-up-candy-bar": {
+      "slug": "how-to-set-up-candy-bar",
+      "title": "How to Set Up a Candy Bar: DIY Lolly Buffet Guide for Parties",
+      "status": "exists",
+      "last_attempted_at": "2026-04-17T15:56:40",
+      "post_link": "https://sweetsworld.com.au/candy-guides/how-to-set-up-candy-bar/",
+      "post_id": 70838,
+      "last_error": "",
+      "last_success_at": "2026-04-17T15:56:40"
+    },
+    "darrell-lea-liquorice-australia": {
+      "slug": "darrell-lea-liquorice-australia",
+      "title": "Darrell Lea Liquorice Australia: Buy Soft Eating Liquorice Online",
+      "status": "exists",
+      "last_attempted_at": "2026-04-17T15:56:40",
+      "post_link": "https://sweetsworld.com.au/where-to-buy/darrell-lea-liquorice-australia/",
+      "post_id": 70840,
+      "last_error": "",
+      "last_success_at": "2026-04-17T15:56:40"
+    },
+    "best-candy-australia-2026": {
+      "slug": "best-candy-australia-2026",
+      "title": "Best Candy in Australia 2026: Top Lollies and Sweets",
+      "status": "exists",
+      "last_attempted_at": "2026-04-17T15:56:40",
+      "post_link": "https://sweetsworld.com.au/candy-guides/best-candy-australia-2026/",
+      "post_id": 70351,
+      "last_error": "",
+      "last_success_at": "2026-04-17T15:56:40"
+    },
+    "fantales-lollies-buying-guide": {
+      "slug": "fantales-lollies-buying-guide",
+      "title": "Fantales Lollies Buying Guide: Where to Buy, 1kg Options, and Best Alternatives",
+      "status": "exists",
+      "last_attempted_at": "2026-04-17T15:56:40",
+      "post_link": "https://sweetsworld.com.au/candy-guides/fantales-lollies-buying-guide/",
+      "post_id": 70268,
+      "last_error": "",
+      "last_success_at": "2026-04-17T15:56:40"
+    },
+    "are-jolly-ranchers-halal": {
+      "slug": "are-jolly-ranchers-halal",
+      "title": "Are Jolly Ranchers Halal? Ingredients, Gelatine, and What to Check",
+      "status": "exists",
+      "last_attempted_at": "2026-04-17T15:56:40",
+      "post_link": "https://sweetsworld.com.au/candy-guides/are-jolly-ranchers-halal/",
+      "post_id": 70297,
+      "last_error": "",
+      "last_success_at": "2026-04-17T15:56:40"
+    },
+    "are-nerds-vegan": {
+      "slug": "are-nerds-vegan",
+      "title": "Are Nerds Vegan? Ingredients, Colours, and Vegan-Friendly Alternatives",
+      "status": "exists",
+      "last_attempted_at": "2026-04-17T15:56:40",
+      "post_link": "https://sweetsworld.com.au/candy-guides/are-nerds-vegan/",
+      "post_id": 62543,
+      "last_error": "",
+      "last_success_at": "2026-04-17T15:56:40"
+    },
+    "nilla-wafers-australia-where-to-buy": {
+      "slug": "nilla-wafers-australia-where-to-buy",
+      "title": "Nilla Wafers in Australia: Where to Buy and Best Alternatives",
+      "status": "exists",
+      "last_attempted_at": "2026-04-17T15:56:40",
+      "post_link": "https://sweetsworld.com.au/where-to-buy/nilla-wafers-australia-where-to-buy/",
+      "post_id": 70296,
+      "last_error": "",
+      "last_success_at": "2026-04-17T15:56:40"
+    },
+    "american-candy-guide": {
+      "slug": "american-candy-guide",
+      "title": "American Candy Guide: Popular US Sweets Explained",
+      "status": "exists",
+      "last_attempted_at": "2026-04-17T15:56:40",
+      "post_link": "https://sweetsworld.com.au/products/american-candy-guide/",
+      "post_id": 70300,
+      "last_error": "",
+      "last_success_at": "2026-04-17T15:56:40"
+    },
+    "japanese-candy-australia": {
+      "slug": "japanese-candy-australia",
+      "title": "Japanese Candy Australia: Where to Buy Dagashi and Pocky",
+      "status": "exists",
+      "last_attempted_at": "2026-04-17T15:56:40",
+      "post_link": "https://sweetsworld.com.au/products/japanese-candy-australia/",
+      "post_id": 70298,
+      "last_error": "",
+      "last_success_at": "2026-04-17T15:56:40"
+    },
+    "sour-lollies-australia": {
+      "slug": "sour-lollies-australia",
+      "title": "Sour Lollies Australia: Best Sour Candy to Buy Online",
+      "status": "exists",
+      "last_attempted_at": "2026-04-17T15:56:40",
+      "post_link": "https://sweetsworld.com.au/products/sour-lollies-australia/",
+      "post_id": 70299,
+      "last_error": "",
+      "last_success_at": "2026-04-17T15:56:40"
+    },
+    "cheap-candy-online-australia": {
+      "slug": "cheap-candy-online-australia",
+      "title": "Cheap Candy Online Australia: Best Value Lolly Deals",
+      "status": "exists",
+      "last_attempted_at": "2026-04-17T15:56:40",
+      "post_link": "https://sweetsworld.com.au/where-to-buy/cheap-candy-online-australia/",
+      "post_id": 70301,
+      "last_error": "",
+      "last_success_at": "2026-04-17T15:56:40"
+    },
+    "valentines-day-candy-australia": {
+      "slug": "valentines-day-candy-australia",
+      "title": "Valentine's Day Candy Australia: Sweet Gifts for Your Partner",
+      "status": "exists",
+      "last_attempted_at": "2026-04-17T15:56:40",
+      "post_link": "https://sweetsworld.com.au/candy-guides/valentines-day-candy-australia/",
+      "post_id": 70842,
+      "last_error": "",
+      "last_success_at": "2026-04-17T15:56:40"
+    },
+    "mothers-day-chocolate-australia": {
+      "slug": "mothers-day-chocolate-australia",
+      "title": "Mother's Day Chocolate Australia: Sweet Gifts Mum Will Love",
+      "status": "exists",
+      "last_attempted_at": "2026-04-17T15:56:40",
+      "post_link": "https://sweetsworld.com.au/candy-guides/mothers-day-chocolate-australia/",
+      "post_id": 70863,
+      "last_error": "",
+      "last_success_at": "2026-04-17T15:56:40"
+    },
+    "fathers-day-candy-australia": {
+      "slug": "fathers-day-candy-australia",
+      "title": "Father's Day Candy Australia: Sweet and Savoury Gift Ideas",
+      "status": "exists",
+      "last_attempted_at": "2026-04-17T15:56:40",
+      "post_link": "https://sweetsworld.com.au/candy-guides/fathers-day-candy-australia/",
+      "post_id": 70865,
+      "last_error": "",
+      "last_success_at": "2026-04-17T15:56:40"
+    },
+    "engagement-party-lollies": {
+      "slug": "engagement-party-lollies",
+      "title": "Engagement Party Lollies: Sweet Ideas for Your Celebration",
+      "status": "exists",
+      "last_attempted_at": "2026-04-17T15:56:40",
+      "post_link": "https://sweetsworld.com.au/candy-guides/engagement-party-lollies/",
+      "post_id": 70867,
+      "last_error": "",
+      "last_success_at": "2026-04-17T15:56:40"
+    },
+    "baby-shower-candy-australia": {
+      "slug": "baby-shower-candy-australia",
+      "title": "Baby Shower Candy Australia: Cute Sweet Treats for the Big Day",
+      "status": "exists",
+      "last_attempted_at": "2026-04-17T15:56:40",
+      "post_link": "https://sweetsworld.com.au/candy-guides/baby-shower-candy-australia/",
+      "post_id": 70869,
+      "last_error": "",
+      "last_success_at": "2026-04-17T15:56:40"
+    },
+    "british-chocolate-australia": {
+      "slug": "british-chocolate-australia",
+      "title": "British Chocolate Australia: Buy Cadbury UK and More Online",
+      "status": "exists",
+      "last_attempted_at": "2026-04-17T15:56:40",
+      "post_link": "https://sweetsworld.com.au/where-to-buy/british-chocolate-australia/",
+      "post_id": 70871,
+      "last_error": "",
+      "last_success_at": "2026-04-17T15:56:40"
+    },
+    "korean-snacks-australia": {
+      "slug": "korean-snacks-australia",
+      "title": "Korean Snacks Australia: Buy K-Snacks and Pepero Online",
+      "status": "exists",
+      "last_attempted_at": "2026-04-17T15:56:40",
+      "post_link": "https://sweetsworld.com.au/products/korean-snacks-australia/",
+      "post_id": 70873,
+      "last_error": "",
+      "last_success_at": "2026-04-17T15:56:40"
+    },
+    "european-chocolate-australia": {
+      "slug": "european-chocolate-australia",
+      "title": "European Chocolate Australia: Belgian and Swiss Choc Online",
+      "status": "exists",
+      "last_attempted_at": "2026-04-17T15:56:40",
+      "post_link": "https://sweetsworld.com.au/products/european-chocolate-australia/",
+      "post_id": 70875,
+      "last_error": "",
+      "last_success_at": "2026-04-17T15:56:40"
+    },
+    "sugar-free-lollies-australia": {
+      "slug": "sugar-free-lollies-australia",
+      "title": "Sugar Free Lollies Australia: Best Low-Sugar Candy Online",
+      "status": "exists",
+      "last_attempted_at": "2026-04-17T15:56:40",
+      "post_link": "https://sweetsworld.com.au/where-to-buy/sugar-free-lollies-australia/",
+      "post_id": 70877,
+      "last_error": "",
+      "last_success_at": "2026-04-17T15:56:40"
+    },
+    "no-artificial-colours-lollies": {
+      "slug": "no-artificial-colours-lollies",
+      "title": "Natural Lollies Australia: No Artificial Colours or Flavours",
+      "status": "exists",
+      "last_attempted_at": "2026-04-17T15:56:40",
+      "post_link": "https://sweetsworld.com.au/where-to-buy/no-artificial-colours-lollies/",
+      "post_id": 70879,
+      "last_error": "",
+      "last_success_at": "2026-04-17T15:56:40"
+    },
+    "nut-free-candy-australia": {
+      "slug": "nut-free-candy-australia",
+      "title": "Nut Free Candy Australia: Safe Lollies for Nut Allergy Kids",
+      "status": "exists",
+      "last_attempted_at": "2026-04-17T15:56:40",
+      "post_link": "https://sweetsworld.com.au/where-to-buy/nut-free-candy-australia/",
+      "post_id": 70881,
+      "last_error": "",
+      "last_success_at": "2026-04-17T15:56:40"
+    },
+    "allergy-friendly-lollies-australia": {
+      "slug": "allergy-friendly-lollies-australia",
+      "title": "Allergy Friendly Lollies Australia: Nut Free Gluten Free Dairy Free Options",
+      "status": "exists",
+      "last_attempted_at": "2026-04-17T15:56:40",
+      "post_link": "https://sweetsworld.com.au/candy-guides/allergy-friendly-lollies-australia/",
+      "post_id": 70908,
+      "last_error": "",
+      "last_success_at": "2026-04-17T15:56:40"
+    },
+    "personalised-candy-gifts-australia": {
+      "slug": "personalised-candy-gifts-australia",
+      "title": "Personalised Candy Gifts Australia: Custom Sweet Hampers and Lolly Bags",
+      "status": "exists",
+      "last_attempted_at": "2026-04-17T15:56:40",
+      "post_link": "https://sweetsworld.com.au/candy-types/personalised-candy-gifts-australia/",
+      "post_id": 72103,
+      "last_error": "",
+      "last_success_at": "2026-04-17T15:56:40"
+    },
+    "candy-gift-ideas-for-him": {
+      "slug": "candy-gift-ideas-for-him",
+      "title": "Candy Gift Ideas for Him: Best Sweet Gifts for Men Australia",
+      "status": "exists",
+      "last_attempted_at": "2026-04-17T15:56:40",
+      "post_link": "https://sweetsworld.com.au/candy-occasions/candy-gift-ideas-for-him/",
+      "post_id": 72177,
+      "last_error": "",
+      "last_success_at": "2026-04-17T15:56:40"
+    },
+    "candy-gift-ideas-for-her": {
+      "slug": "candy-gift-ideas-for-her",
+      "title": "Candy Gift Ideas for Her: Best Sweet Gifts for Women Australia",
+      "status": "exists",
+      "last_attempted_at": "2026-04-17T15:56:40",
+      "post_link": "https://sweetsworld.com.au/candy-occasions/candy-gift-ideas-for-her/",
+      "post_id": 72210,
+      "last_error": "",
+      "last_success_at": "2026-04-17T15:56:40"
+    },
+    "twirl-chocolate-australia": {
+      "slug": "twirl-chocolate-australia",
+      "title": "Twirl Chocolate Australia: Where to Buy Cadbury Twirl Online",
+      "status": "exists",
+      "last_attempted_at": "2026-04-17T15:56:40",
+      "post_link": "https://sweetsworld.com.au/candy-types/twirl-chocolate-australia/",
+      "post_id": 72232,
+      "last_error": "",
+      "last_success_at": "2026-04-17T15:56:40"
+    },
+    "maltesers-australia": {
+      "slug": "maltesers-australia",
+      "title": "Maltesers Australia: Buy Maltesers Bags and Gift Boxes Online",
+      "status": "exists",
+      "last_attempted_at": "2026-04-17T15:56:40",
+      "post_link": "https://sweetsworld.com.au/candy-types/maltesers-australia/",
+      "post_id": 72237,
+      "last_error": "",
+      "last_success_at": "2026-04-17T15:56:40"
+    },
+    "after-eight-australia": {
+      "slug": "after-eight-australia",
+      "title": "After Eight Australia: Buy Mint Chocolate Thins Online",
+      "status": "exists",
+      "last_attempted_at": "2026-04-17T15:56:40",
+      "post_link": "https://sweetsworld.com.au/candy-types/after-eight-australia/",
+      "post_id": 72240,
+      "last_error": "",
+      "last_success_at": "2026-04-17T15:56:40"
+    },
+    "twirl-australia": {
+      "slug": "twirl-australia",
+      "title": "Twirl Australia: Where to Buy Cadbury Twirl Bars Online",
+      "status": "published",
+      "last_attempted_at": "2026-04-17T15:57:54",
+      "post_link": "https://sweetsworld.com.au/candy-types/twirl-australia/",
+      "post_id": 72242,
+      "last_error": "",
+      "last_success_at": "2026-04-17T15:57:54"
+    },
+    "airheads-australia": {
+      "slug": "airheads-australia",
+      "title": "Airheads Australia: Buy Airheads Candy and Xtremes Online",
+      "status": "published",
+      "last_attempted_at": "2026-04-18T10:31:14",
+      "post_link": "https://sweetsworld.com.au/candy-types/airheads-australia/",
+      "post_id": 72251,
+      "last_error": "",
+      "last_success_at": "2026-04-18T10:31:14"
+    },
+    "starburst-australia": {
+      "slug": "starburst-australia",
+      "title": "Starburst Australia: Buy Starburst Chews and FaveReds Online",
+      "status": "published",
+      "last_attempted_at": "2026-04-19T10:31:13",
+      "post_link": "https://sweetsworld.com.au/candy-types/starburst-australia/",
+      "post_id": 72267,
+      "last_error": "",
+      "last_success_at": "2026-04-19T10:31:13"
+    },
+    "swedish-fish-australia": {
+      "slug": "swedish-fish-australia",
+      "title": "Swedish Fish Australia: Where to Buy Swedish Fish Candy Online",
+      "status": "published",
+      "last_attempted_at": "2026-04-20T10:31:15",
+      "post_link": "https://sweetsworld.com.au/candy-types/swedish-fish-australia/",
+      "post_id": 72313,
+      "last_error": "",
+      "last_success_at": "2026-04-20T10:31:15"
+    },
+    "anthon-berg-australia": {
+      "slug": "anthon-berg-australia",
+      "title": "Anthon Berg Australia: Buy Chocolate Liqueurs Online",
+      "status": "published",
+      "last_attempted_at": "2026-04-21T10:31:16",
+      "post_link": "https://sweetsworld.com.au/candy-types/anthon-berg-australia/",
+      "post_id": 72409,
+      "last_error": "",
+      "last_success_at": "2026-04-21T10:31:16"
+    },
+    "buy-candy-online-sydney": {
+      "slug": "buy-candy-online-sydney",
+      "title": "Buy Candy Online Sydney: Fast Delivery of Lollies & Sweets",
+      "status": "published",
+      "last_attempted_at": "2026-04-21T15:22:42",
+      "post_link": "https://sweetsworld.com.au/candy-by-city/buy-candy-online-sydney/",
+      "post_id": 72416,
+      "last_error": "",
+      "last_success_at": "2026-04-21T15:22:42"
+    },
+    "buy-lollies-online-melbourne": {
+      "slug": "buy-lollies-online-melbourne",
+      "title": "Buy Lollies Online Melbourne: Sweets Delivered to Your Door",
+      "status": "published",
+      "last_attempted_at": "2026-04-21T15:24:24",
+      "post_link": "https://sweetsworld.com.au/candy-by-city/buy-lollies-online-melbourne/",
+      "post_id": 72418,
+      "last_error": "",
+      "last_success_at": "2026-04-21T15:24:24"
+    },
+    "order-candy-online-brisbane": {
+      "slug": "order-candy-online-brisbane",
+      "title": "Order Candy Online Brisbane: Lollies and Sweets Delivered",
+      "status": "published",
+      "last_attempted_at": "2026-04-21T15:25:43",
+      "post_link": "https://sweetsworld.com.au/candy-by-city/order-candy-online-brisbane/",
+      "post_id": 72420,
+      "last_error": "",
+      "last_success_at": "2026-04-21T15:25:43"
+    },
+    "buy-candy-online-perth": {
+      "slug": "buy-candy-online-perth",
+      "title": "Buy Candy Online Perth: Australian Lollies Shipped to Perth",
+      "status": "published",
+      "last_attempted_at": "2026-04-21T15:26:46",
+      "post_link": "https://sweetsworld.com.au/candy-by-city/buy-candy-online-perth/",
+      "post_id": 72422,
+      "last_error": "",
+      "last_success_at": "2026-04-21T15:26:46"
+    },
+    "lotus-biscoff-australia": {
+      "slug": "lotus-biscoff-australia",
+      "title": "Lotus Biscoff Australia: Buy Biscoff Spread and Biscuits Online",
+      "status": "published",
+      "last_attempted_at": "2026-04-22T10:30:53",
+      "post_link": "https://sweetsworld.com.au/candy-types/lotus-biscoff-australia/",
+      "post_id": 72452,
+      "last_error": "",
+      "last_success_at": "2026-04-22T10:30:53"
+    },
+    "hostess-twinkies-australia": {
+      "slug": "hostess-twinkies-australia",
+      "title": "Hostess Twinkies Australia: Where to Buy Twinkies Online",
+      "status": "published",
+      "last_attempted_at": "2026-04-22T10:31:37",
+      "post_link": "https://sweetsworld.com.au/candy-types/hostess-twinkies-australia/",
+      "post_id": 72454,
+      "last_error": "",
+      "last_success_at": "2026-04-22T10:31:37"
+    },
+    "freckleberry-australia": {
+      "slug": "freckleberry-australia",
+      "title": "Freckleberry Australia: Buy Freckleberry Chocolate and Gifts Online",
+      "status": "published",
+      "last_attempted_at": "2026-04-22T10:32:24",
+      "post_link": "https://sweetsworld.com.au/candy-types/freckleberry-australia/",
+      "post_id": 72456,
+      "last_error": "",
+      "last_success_at": "2026-04-22T10:32:24"
+    },
+    "lolliland-australia": {
+      "slug": "lolliland-australia",
+      "title": "Lolliland Australia: Buy Lolliland Bulk Lollies and Gummies Online",
+      "status": "published",
+      "last_attempted_at": "2026-04-22T10:33:37",
+      "post_link": "https://sweetsworld.com.au/candy-types/lolliland-australia/",
+      "post_id": 72458,
+      "last_error": "",
+      "last_success_at": "2026-04-22T10:33:37"
+    },
+    "faygo-australia": {
+      "slug": "faygo-australia",
+      "title": "Faygo Australia: Buy Faygo Soda and American Drinks Online",
+      "status": "published",
+      "last_attempted_at": "2026-04-22T10:34:13",
+      "post_link": "https://sweetsworld.com.au/candy-types/faygo-australia/",
+      "post_id": 72460,
+      "last_error": "",
+      "last_success_at": "2026-04-22T10:34:13"
+    },
+    "wonka-australia": {
+      "slug": "wonka-australia",
+      "title": "Wonka Australia: Buy Nerds Gobstoppers and Wonka Candy Online",
+      "status": "published",
+      "last_attempted_at": "2026-04-22T10:35:26",
+      "post_link": "https://sweetsworld.com.au/candy-types/wonka-australia/",
+      "post_id": 72462,
+      "last_error": "",
+      "last_success_at": "2026-04-22T10:35:26"
+    },
+    "charlotte-piper-australia": {
+      "slug": "charlotte-piper-australia",
+      "title": "Charlotte Piper Australia: Buy Australian Chocolates Online",
+      "status": "published",
+      "last_attempted_at": "2026-04-22T10:36:40",
+      "post_link": "https://sweetsworld.com.au/candy-types/charlotte-piper-australia/",
+      "post_id": 72464,
+      "last_error": "",
+      "last_success_at": "2026-04-22T10:36:40"
+    },
+    "jack-daniels-bbq-australia": {
+      "slug": "jack-daniels-bbq-australia",
+      "title": "Jack Daniel's BBQ Sauce Australia: Buy JD Sauces and Gift Sets Online",
+      "status": "published",
+      "last_attempted_at": "2026-04-22T10:37:15",
+      "post_link": "https://sweetsworld.com.au/candy-types/jack-daniels-bbq-australia/",
+      "post_id": 72466,
+      "last_error": "",
+      "last_success_at": "2026-04-22T10:37:15"
+    },
+    "mtn-dew-australia": {
+      "slug": "mtn-dew-australia",
+      "title": "Mountain Dew Australia: Buy Mtn Dew Drinks and Varieties Online",
+      "status": "published",
+      "last_attempted_at": "2026-04-22T10:37:56",
+      "post_link": "https://sweetsworld.com.au/candy-types/mtn-dew-australia/",
+      "post_id": 72468,
+      "last_error": "",
+      "last_success_at": "2026-04-22T10:37:56"
+    },
+    "milka-chocolate-australia": {
+      "slug": "milka-chocolate-australia",
+      "title": "Milka Chocolate Australia: Buy Milka Purple Bars and Gift Sets Online",
+      "status": "published",
+      "last_attempted_at": "2026-04-22T10:38:43",
+      "post_link": "https://sweetsworld.com.au/candy-types/milka-chocolate-australia/",
+      "post_id": 72470,
+      "last_error": "",
+      "last_success_at": "2026-04-22T10:38:43"
+    },
+    "zappo-lollies-australia": {
+      "slug": "zappo-lollies-australia",
+      "title": "Zappo Lollies Australia: Buy Zappo Chews Online",
+      "status": "published",
+      "last_attempted_at": "2026-04-22T10:39:20",
+      "post_link": "https://sweetsworld.com.au/candy-types/zappo-lollies-australia/",
+      "post_id": 72472,
+      "last_error": "",
+      "last_success_at": "2026-04-22T10:39:20"
+    },
+    "butlers-chocolate-ireland": {
+      "slug": "butlers-chocolate-ireland",
+      "title": "Butlers Chocolate Australia: Buy Irish Butlers Chocolates Online",
+      "status": "published",
+      "last_attempted_at": "2026-04-22T10:39:56",
+      "post_link": "https://sweetsworld.com.au/candy-types/butlers-chocolate-ireland/",
+      "post_id": 72474,
+      "last_error": "",
+      "last_success_at": "2026-04-22T10:39:56"
+    },
+    "wicked-fizz-australia": {
+      "slug": "wicked-fizz-australia",
+      "title": "Wicked Fizz Australia: Buy Wicked Fizz Chews Online",
+      "status": "published",
+      "last_attempted_at": "2026-04-22T10:40:22",
+      "post_link": "https://sweetsworld.com.au/candy-types/wicked-fizz-australia/",
+      "post_id": 72476,
+      "last_error": "",
+      "last_success_at": "2026-04-22T10:40:22"
+    },
+    "kool-aid-australia": {
+      "slug": "kool-aid-australia",
+      "title": "Kool-Aid Australia: Buy Kool-Aid Drinks and Jammers Online",
+      "status": "published",
+      "last_attempted_at": "2026-04-22T10:41:01",
+      "post_link": "https://sweetsworld.com.au/candy-types/kool-aid-australia/",
+      "post_id": 72478,
+      "last_error": "",
+      "last_success_at": "2026-04-22T10:41:01"
+    },
+    "jaffas-lollies-australia": {
+      "slug": "jaffas-lollies-australia",
+      "title": "Jaffas Lollies Australia: Buy Jaffas Orange Chocolate Balls Online",
+      "status": "published",
+      "last_attempted_at": "2026-04-22T10:41:30",
+      "post_link": "https://sweetsworld.com.au/candy-types/jaffas-lollies-australia/",
+      "post_id": 72480,
+      "last_error": "",
+      "last_success_at": "2026-04-22T10:41:30"
+    },
+    "minties-australia": {
+      "slug": "minties-australia",
+      "title": "Minties Australia: Buy Minties Lollies in Bulk Online",
+      "status": "published",
+      "last_attempted_at": "2026-04-22T10:42:01",
+      "post_link": "https://sweetsworld.com.au/candy-types/minties-australia/",
+      "post_id": 72482,
+      "last_error": "",
+      "last_success_at": "2026-04-22T10:42:01"
+    },
+    "musk-sticks-australia": {
+      "slug": "musk-sticks-australia",
+      "title": "Musk Sticks Australia: Buy Musk Sticks Lollies Online",
+      "status": "published",
+      "last_attempted_at": "2026-04-22T10:42:28",
+      "post_link": "https://sweetsworld.com.au/candy-types/musk-sticks-australia/",
+      "post_id": 72484,
+      "last_error": "",
+      "last_success_at": "2026-04-22T10:42:28"
+    },
+    "clinkers-lollies-australia": {
+      "slug": "clinkers-lollies-australia",
+      "title": "Clinkers Australia: Buy Clinkers Chocolate Lollies Online",
+      "status": "published",
+      "last_attempted_at": "2026-04-22T10:42:53",
+      "post_link": "https://sweetsworld.com.au/candy-types/clinkers-lollies-australia/",
+      "post_id": 72486,
+      "last_error": "",
+      "last_success_at": "2026-04-22T10:42:53"
+    },
+    "pineapple-chunks-australia": {
+      "slug": "pineapple-chunks-australia",
+      "title": "Pineapple Chunks Australia: Buy Pineapple Chew Lollies Online",
+      "status": "published",
+      "last_attempted_at": "2026-04-22T10:43:29",
+      "post_link": "https://sweetsworld.com.au/candy-types/pineapple-chunks-australia/",
+      "post_id": 72488,
+      "last_error": "",
+      "last_success_at": "2026-04-22T10:43:29"
+    },
+    "licorice-allsorts-australia": {
+      "slug": "licorice-allsorts-australia",
+      "title": "Licorice Allsorts Australia: Buy Bassetts and Darrell Lea Allsorts",
+      "status": "published",
+      "last_attempted_at": "2026-04-22T10:43:58",
+      "post_link": "https://sweetsworld.com.au/candy-types/licorice-allsorts-australia/",
+      "post_id": 72490,
+      "last_error": "",
+      "last_success_at": "2026-04-22T10:43:58"
+    },
+    "werthers-original-australia": {
+      "slug": "werthers-original-australia",
+      "title": "Werther's Original Australia: Buy Werther's Caramel Sweets Online",
+      "status": "published",
+      "last_attempted_at": "2026-04-23T10:30:54",
+      "post_link": "https://sweetsworld.com.au/candy-types/werthers-original-australia/",
+      "post_id": 72536,
+      "last_error": "",
+      "last_success_at": "2026-04-23T10:30:54"
+    },
+    "mentos-australia": {
+      "slug": "mentos-australia",
+      "title": "Mentos Australia: Buy Mentos Rolls and Mint Fresheners Online",
+      "status": "published",
+      "last_attempted_at": "2026-04-23T10:31:35",
+      "post_link": "https://sweetsworld.com.au/candy-types/mentos-australia/",
+      "post_id": 72538,
+      "last_error": "",
+      "last_success_at": "2026-04-23T10:31:35"
+    },
+    "jawbreakers-australia": {
+      "slug": "jawbreakers-australia",
+      "title": "Jawbreakers Australia: Buy Gobstoppers and Jawbreaker Candy Online",
+      "status": "published",
+      "last_attempted_at": "2026-04-23T10:32:11",
+      "post_link": "https://sweetsworld.com.au/candy-types/jawbreakers-australia/",
+      "post_id": 72540,
+      "last_error": "",
+      "last_success_at": "2026-04-23T10:32:11"
+    },
+    "candy-canes-australia": {
+      "slug": "candy-canes-australia",
+      "title": "Candy Canes Australia: Buy Christmas Candy Canes in Bulk Online",
+      "status": "published",
+      "last_attempted_at": "2026-04-23T10:32:43",
+      "post_link": "https://sweetsworld.com.au/candy-types/candy-canes-australia/",
+      "post_id": 72542,
+      "last_error": "",
+      "last_success_at": "2026-04-23T10:32:43"
+    },
+    "redskins-lollies-australia": {
+      "slug": "redskins-lollies-australia",
+      "title": "Red Rippers Australia: Buy Redskins Raspberry Chew Lollies Online",
+      "status": "published",
+      "last_attempted_at": "2026-04-23T10:33:22",
+      "post_link": "https://sweetsworld.com.au/candy-types/redskins-lollies-australia/",
+      "post_id": 72544,
+      "last_error": "",
+      "last_success_at": "2026-04-23T10:33:22"
+    },
+    "retro-lolly-bags-australia": {
+      "slug": "retro-lolly-bags-australia",
+      "title": "Retro Lolly Bags Australia: Old School Sweets for Nostalgic Gifting",
+      "status": "published",
+      "last_attempted_at": "2026-04-23T10:34:05",
+      "post_link": "https://sweetsworld.com.au/candy-occasions/retro-lolly-bags-australia/",
+      "post_id": 72546,
+      "last_error": "",
+      "last_success_at": "2026-04-23T10:34:05"
+    },
+    "strawberry-candy-australia": {
+      "slug": "strawberry-candy-australia",
+      "title": "Strawberry Candy Australia: Best Strawberry Lollies and Sweets Online",
+      "status": "published",
+      "last_attempted_at": "2026-04-23T10:34:46",
+      "post_link": "https://sweetsworld.com.au/candy-categories/strawberry-candy-australia/",
+      "post_id": 72548,
+      "last_error": "",
+      "last_success_at": "2026-04-23T10:34:46"
+    },
+    "watermelon-candy-australia": {
+      "slug": "watermelon-candy-australia",
+      "title": "Watermelon Candy Australia: Buy Watermelon Lollies and Gummies Online",
+      "status": "published",
+      "last_attempted_at": "2026-04-23T10:35:27",
+      "post_link": "https://sweetsworld.com.au/candy-categories/watermelon-candy-australia/",
+      "post_id": 72550,
+      "last_error": "",
+      "last_success_at": "2026-04-23T10:35:27"
+    },
+    "cola-candy-australia": {
+      "slug": "cola-candy-australia",
+      "title": "Cola Candy Australia: Buy Cola Bottles and Cola Flavoured Lollies",
+      "status": "published",
+      "last_attempted_at": "2026-04-23T10:36:00",
+      "post_link": "https://sweetsworld.com.au/candy-categories/cola-candy-australia/",
+      "post_id": 72552,
+      "last_error": "",
+      "last_success_at": "2026-04-23T10:36:00"
+    },
+    "raspberry-candy-australia": {
+      "slug": "raspberry-candy-australia",
+      "title": "Raspberry Candy Australia: Buy Raspberry Lollies and Sweets Online",
+      "status": "published",
+      "last_attempted_at": "2026-04-23T10:36:48",
+      "post_link": "https://sweetsworld.com.au/candy-categories/raspberry-candy-australia/",
+      "post_id": 72554,
+      "last_error": "",
+      "last_success_at": "2026-04-23T10:36:48"
+    },
+    "mango-candy-australia": {
+      "slug": "mango-candy-australia",
+      "title": "Mango Candy Australia: Buy Mango Lollies and Mango Sweets Online",
+      "status": "published",
+      "last_attempted_at": "2026-04-23T10:37:23",
+      "post_link": "https://sweetsworld.com.au/candy-categories/mango-candy-australia/",
+      "post_id": 72556,
+      "last_error": "",
+      "last_success_at": "2026-04-23T10:37:23"
+    },
+    "lemon-candy-australia": {
+      "slug": "lemon-candy-australia",
+      "title": "Lemon Candy Australia: Buy Lemon Lollies and Sour Lemon Sweets",
+      "status": "published",
+      "last_attempted_at": "2026-04-23T10:38:06",
+      "post_link": "https://sweetsworld.com.au/candy-categories/lemon-candy-australia/",
+      "post_id": 72558,
+      "last_error": "",
+      "last_success_at": "2026-04-23T10:38:06"
+    },
+    "bubblegum-candy-australia": {
+      "slug": "bubblegum-candy-australia",
+      "title": "Bubblegum Candy Australia: Buy Bubblegum Lollies and Chewing Gum Online",
+      "status": "published",
+      "last_attempted_at": "2026-04-23T10:38:37",
+      "post_link": "https://sweetsworld.com.au/candy-categories/bubblegum-candy-australia/",
+      "post_id": 72560,
+      "last_error": "",
+      "last_success_at": "2026-04-23T10:38:37"
+    },
+    "coconut-chocolate-australia": {
+      "slug": "coconut-chocolate-australia",
+      "title": "Coconut Chocolate Australia: Buy Coconut Lollies and Chocolate Online",
+      "status": "published",
+      "last_attempted_at": "2026-04-23T10:39:19",
+      "post_link": "https://sweetsworld.com.au/candy-categories/coconut-chocolate-australia/",
+      "post_id": 72562,
+      "last_error": "",
+      "last_success_at": "2026-04-23T10:39:19"
+    },
+    "marshmallows-australia": {
+      "slug": "marshmallows-australia",
+      "title": "Marshmallows Australia: Buy Bulk Marshmallows and Flavoured Varieties",
+      "status": "published",
+      "last_attempted_at": "2026-04-23T10:39:56",
+      "post_link": "https://sweetsworld.com.au/candy-types/marshmallows-australia/",
+      "post_id": 72564,
+      "last_error": "",
+      "last_success_at": "2026-04-23T10:39:56"
+    },
+    "chewing-gum-australia": {
+      "slug": "chewing-gum-australia",
+      "title": "Chewing Gum Australia: Buy Bulk Chewing Gum and Sugar Free Gum Online",
+      "status": "published",
+      "last_attempted_at": "2026-04-23T10:40:30",
+      "post_link": "https://sweetsworld.com.au/candy-categories/chewing-gum-australia/",
+      "post_id": 72566,
+      "last_error": "",
+      "last_success_at": "2026-04-23T10:40:30"
+    },
+    "hard-candy-australia": {
+      "slug": "hard-candy-australia",
+      "title": "Hard Candy Australia: Buy Boiled Sweets and Hard Lollies Online",
+      "status": "published",
+      "last_attempted_at": "2026-04-23T10:41:10",
+      "post_link": "https://sweetsworld.com.au/candy-categories/hard-candy-australia/",
+      "post_id": 72568,
+      "last_error": "",
+      "last_success_at": "2026-04-23T10:41:10"
+    },
+    "candy-mystery-box-australia": {
+      "slug": "candy-mystery-box-australia",
+      "title": "Candy Mystery Box Australia: Surprise Lolly Packs and Sweet Boxes",
+      "status": "published",
+      "last_attempted_at": "2026-04-23T10:41:48",
+      "post_link": "https://sweetsworld.com.au/candy-types/candy-mystery-box-australia/",
+      "post_id": 72570,
+      "last_error": "",
+      "last_success_at": "2026-04-23T10:41:48"
+    },
+    "school-canteen-lollies-australia": {
+      "slug": "school-canteen-lollies-australia",
+      "title": "School Canteen Lollies Australia: Healthy and Fun Lolly Ideas",
+      "status": "published",
+      "last_attempted_at": "2026-04-23T10:42:19",
+      "post_link": "https://sweetsworld.com.au/candy-guides/school-canteen-lollies-australia/",
+      "post_id": 72572,
+      "last_error": "",
+      "last_success_at": "2026-04-23T10:42:19"
+    },
+    "tuck-shop-lollies-australia": {
+      "slug": "tuck-shop-lollies-australia",
+      "title": "Tuck Shop Lollies Australia: Best Value Bulk Lollies for Schools",
+      "status": "published",
+      "last_attempted_at": "2026-04-23T10:42:56",
+      "post_link": "https://sweetsworld.com.au/candy-types/tuck-shop-lollies-australia/",
+      "post_id": 72574,
+      "last_error": "",
+      "last_success_at": "2026-04-23T10:42:56"
+    },
+    "hot-candy-australia": {
+      "slug": "hot-candy-australia",
+      "title": "Hot Candy Australia: Spicy Lollies and Chilli Sweets Online",
+      "status": "published",
+      "last_attempted_at": "2026-04-24T10:30:48",
+      "post_link": "https://sweetsworld.com.au/candy-categories/hot-candy-australia/",
+      "post_id": 72601,
+      "last_error": "",
+      "last_success_at": "2026-04-24T10:30:48"
+    },
+    "spicy-chocolate-australia": {
+      "slug": "spicy-chocolate-australia",
+      "title": "Spicy Chocolate Australia: Buy Chilli Chocolate and Hot Choc Online",
+      "status": "published",
+      "last_attempted_at": "2026-04-24T10:31:24",
+      "post_link": "https://sweetsworld.com.au/candy-types/spicy-chocolate-australia/",
+      "post_id": 72603,
+      "last_error": "",
+      "last_success_at": "2026-04-24T10:31:24"
+    },
+    "craft-soda-australia": {
+      "slug": "craft-soda-australia",
+      "title": "Craft Soda Australia: Buy Artisan and Unusual Sodas Online",
+      "status": "published",
+      "last_attempted_at": "2026-04-24T10:31:55",
+      "post_link": "https://sweetsworld.com.au/candy-types/craft-soda-australia/",
+      "post_id": 72605,
+      "last_error": "",
+      "last_success_at": "2026-04-24T10:31:55"
+    },
+    "lolly-advent-calendar-australia": {
+      "slug": "lolly-advent-calendar-australia",
+      "title": "Lolly Advent Calendar Australia: Best Candy Countdown Calendars",
+      "status": "published",
+      "last_attempted_at": "2026-04-24T10:32:21",
+      "post_link": "https://sweetsworld.com.au/candy-types/lolly-advent-calendar-australia/",
+      "post_id": 72607,
+      "last_error": "",
+      "last_success_at": "2026-04-24T10:32:21"
+    },
+    "fairy-floss-australia": {
+      "slug": "fairy-floss-australia",
+      "title": "Fairy Floss Australia: Buy Cotton Candy and Fairy Floss Online",
+      "status": "published",
+      "last_attempted_at": "2026-04-24T10:32:49",
+      "post_link": "https://sweetsworld.com.au/candy-types/fairy-floss-australia/",
+      "post_id": 72609,
+      "last_error": "",
+      "last_success_at": "2026-04-24T10:32:49"
+    },
+    "fudge-australia": {
+      "slug": "fudge-australia",
+      "title": "Fudge Australia: Buy Handmade Fudge and Chocolate Fudge Online",
+      "status": "published",
+      "last_attempted_at": "2026-04-24T10:33:22",
+      "post_link": "https://sweetsworld.com.au/candy-categories/fudge-australia/",
+      "post_id": 72611,
+      "last_error": "",
+      "last_success_at": "2026-04-24T10:33:22"
+    },
+    "nougat-australia": {
+      "slug": "nougat-australia",
+      "title": "Nougat Australia: Buy Soft Nougat and Almond Nougat Online",
+      "status": "published",
+      "last_attempted_at": "2026-04-24T10:34:01",
+      "post_link": "https://sweetsworld.com.au/candy-types/nougat-australia/",
+      "post_id": 72613,
+      "last_error": "",
+      "last_success_at": "2026-04-24T10:34:01"
+    },
+    "toffee-australia": {
+      "slug": "toffee-australia",
+      "title": "Toffee Australia: Buy Butterscotch Toffee and Toffee Lollies Online",
+      "status": "published",
+      "last_attempted_at": "2026-04-24T10:34:30",
+      "post_link": "https://sweetsworld.com.au/candy-types/toffee-australia/",
+      "post_id": 72615,
+      "last_error": "",
+      "last_success_at": "2026-04-24T10:34:30"
+    },
+    "chocolate-truffles-australia": {
+      "slug": "chocolate-truffles-australia",
+      "title": "Chocolate Truffles Australia: Buy Luxury Chocolate Truffles Online",
+      "status": "published",
+      "last_attempted_at": "2026-04-24T10:35:01",
+      "post_link": "https://sweetsworld.com.au/candy-types/chocolate-truffles-australia/",
+      "post_id": 72617,
+      "last_error": "",
+      "last_success_at": "2026-04-24T10:35:01"
+    },
+    "caramel-popcorn-australia": {
+      "slug": "caramel-popcorn-australia",
+      "title": "Caramel Popcorn Australia: Buy Sweet Popcorn and Snack Packs Online",
+      "status": "published",
+      "last_attempted_at": "2026-04-24T10:35:49",
+      "post_link": "https://sweetsworld.com.au/candy-types/caramel-popcorn-australia/",
+      "post_id": 72619,
+      "last_error": "",
+      "last_success_at": "2026-04-24T10:35:49"
+    },
+    "chocolate-coated-nuts-australia": {
+      "slug": "chocolate-coated-nuts-australia",
+      "title": "Chocolate Coated Nuts Australia: Buy Choc Almonds and Peanuts Online",
+      "status": "published",
+      "last_attempted_at": "2026-04-24T10:36:26",
+      "post_link": "https://sweetsworld.com.au/candy-types/chocolate-coated-nuts-australia/",
+      "post_id": 72621,
+      "last_error": "",
+      "last_success_at": "2026-04-24T10:36:26"
+    },
+    "candy-for-teenagers-australia": {
+      "slug": "candy-for-teenagers-australia",
+      "title": "Candy for Teenagers Australia: Cool and Trendy Lolly Picks",
+      "status": "published",
+      "last_attempted_at": "2026-04-24T10:36:55",
+      "post_link": "https://sweetsworld.com.au/candy-occasions/candy-for-teenagers-australia/",
+      "post_id": 72623,
+      "last_error": "",
+      "last_success_at": "2026-04-24T10:36:55"
+    },
+    "candy-for-adults-australia": {
+      "slug": "candy-for-adults-australia",
+      "title": "Candy for Adults Australia: Sophisticated Sweets and Gourmet Lollies",
+      "status": "published",
+      "last_attempted_at": "2026-04-24T10:37:32",
+      "post_link": "https://sweetsworld.com.au/candy-occasions/candy-for-adults-australia/",
+      "post_id": 72625,
+      "last_error": "",
+      "last_success_at": "2026-04-24T10:37:32"
+    },
+    "90s-candy-australia": {
+      "slug": "90s-candy-australia",
+      "title": "90s Candy Australia: Nostalgic Retro Sweets from the Nineties",
+      "status": "published",
+      "last_attempted_at": "2026-04-24T10:38:13",
+      "post_link": "https://sweetsworld.com.au/candy-categories/90s-candy-australia/",
+      "post_id": 72627,
+      "last_error": "",
+      "last_success_at": "2026-04-24T10:38:13"
+    },
+    "teacher-gifts-candy-australia": {
+      "slug": "teacher-gifts-candy-australia",
+      "title": "Teacher Gift Candy Australia: Sweet Thank You Gifts for Teachers",
+      "status": "published",
+      "last_attempted_at": "2026-04-24T10:38:52",
+      "post_link": "https://sweetsworld.com.au/candy-occasions/teacher-gifts-candy-australia/",
+      "post_id": 72629,
+      "last_error": "",
+      "last_success_at": "2026-04-24T10:38:52"
+    },
+    "new-years-eve-candy-australia": {
+      "slug": "new-years-eve-candy-australia",
+      "title": "New Year's Eve Candy Australia: Party Lollies for NYE Celebrations",
+      "status": "published",
+      "last_attempted_at": "2026-04-24T10:39:28",
+      "post_link": "https://sweetsworld.com.au/candy-occasions/new-years-eve-candy-australia/",
+      "post_id": 72631,
+      "last_error": "",
+      "last_success_at": "2026-04-24T10:39:28"
+    },
+    "candy-catering-australia": {
+      "slug": "candy-catering-australia",
+      "title": "Candy Catering Australia: Lolly Buffet and Sweet Table Hire",
+      "status": "published",
+      "last_attempted_at": "2026-04-24T10:40:08",
+      "post_link": "https://sweetsworld.com.au/candy-types/candy-catering-australia/",
+      "post_id": 72633,
+      "last_error": "",
+      "last_success_at": "2026-04-24T10:40:08"
+    },
+    "keto-candy-australia": {
+      "slug": "keto-candy-australia",
+      "title": "Keto Candy Australia: Low Carb and Sugar Free Lollies for Keto Diet",
+      "status": "published",
+      "last_attempted_at": "2026-04-24T10:40:59",
+      "post_link": "https://sweetsworld.com.au/candy-types/keto-candy-australia/",
+      "post_id": 72635,
+      "last_error": "",
+      "last_success_at": "2026-04-24T10:40:59"
+    },
+    "diabetic-candy-australia": {
+      "slug": "diabetic-candy-australia",
+      "title": "Diabetic Candy Australia: Low Sugar Lollies Safe for Diabetics",
+      "status": "published",
+      "last_attempted_at": "2026-04-24T10:41:28",
+      "post_link": "https://sweetsworld.com.au/candy-types/diabetic-candy-australia/",
+      "post_id": 72637,
+      "last_error": "",
+      "last_success_at": "2026-04-24T10:41:28"
+    },
+    "best-australian-candy-to-send-overseas": {
+      "slug": "best-australian-candy-to-send-overseas",
+      "title": "Best Australian Candy to Send Overseas: Iconic Lollies for Gifts Abroad",
+      "status": "published",
+      "last_attempted_at": "2026-04-24T10:42:05",
+      "post_link": "https://sweetsworld.com.au/candy-guides/best-australian-candy-to-send-overseas/",
+      "post_id": 72639,
+      "last_error": "",
+      "last_success_at": "2026-04-24T10:42:05"
+    },
+    "candy-bouquet-ideas-australia": {
+      "slug": "candy-bouquet-ideas-australia",
+      "title": "Candy Bouquet Ideas Australia: How to Make a Sweet Bouquet",
+      "status": "published",
+      "last_attempted_at": "2026-05-01T20:48:25",
+      "post_link": "https://sweetsworld.com.au/candy-guides/candy-bouquet-ideas-australia/",
+      "post_id": 72806,
+      "last_error": "",
+      "last_success_at": "2026-05-01T20:48:25"
+    },
+    "pink-lady-chocolates-australia": {
+      "slug": "pink-lady-chocolates-australia",
+      "title": "Pink Lady Chocolates Australia: Buy Pink Lady Foil Chocolates Online",
+      "status": "published",
+      "last_attempted_at": "2026-05-01T20:49:07",
+      "post_link": "https://sweetsworld.com.au/candy-types/pink-lady-chocolates-australia/",
+      "post_id": 72808,
+      "last_error": "",
+      "last_success_at": "2026-05-01T20:49:07"
+    },
+    "best-lolly-shops-near-me-2026": {
+      "slug": "best-lolly-shops-near-me-2026",
+      "title": "Finding the Perfect Lolly Shop Near Me: Top Picks for 2026",
+      "status": "published",
+      "last_attempted_at": "2026-05-01T20:49:39",
+      "post_link": "https://sweetsworld.com.au/candy-types/best-lolly-shops-near-me-2026/",
+      "post_id": 72810,
+      "last_error": "",
+      "last_success_at": "2026-05-01T20:49:39"
+    },
+    "pink-smarties-trend-2026": {
+      "slug": "pink-smarties-trend-2026",
+      "title": "Explore the World of Pink Smarties: A 2026 Candy Trend",
+      "status": "published",
+      "last_attempted_at": "2026-05-01T20:50:13",
+      "post_link": "https://sweetsworld.com.au/candy-types/pink-smarties-trend-2026/",
+      "post_id": 72812,
+      "last_error": "",
+      "last_success_at": "2026-05-01T20:50:13"
+    },
+    "darrell-lea-chocolate-2026": {
+      "slug": "darrell-lea-chocolate-2026",
+      "title": "Darrell Lea Chocolate: Why It's a Must-Try in 2026",
+      "status": "published",
+      "last_attempted_at": "2026-05-01T20:50:52",
+      "post_link": "https://sweetsworld.com.au/candy-types/darrell-lea-chocolate-2026/",
+      "post_id": 72814,
+      "last_error": "",
+      "last_success_at": "2026-05-01T20:50:52"
+    },
+    "top-australian-candies-2026": {
+      "slug": "top-australian-candies-2026",
+      "title": "Top 10 Australian Candies You Must Try in 2026",
+      "status": "published",
+      "last_attempted_at": "2026-05-01T20:51:22",
+      "post_link": "https://sweetsworld.com.au/candy-types/top-australian-candies-2026/",
+      "post_id": 72816,
+      "last_error": "",
+      "last_success_at": "2026-05-01T20:51:22"
+    },
+    "top-10-chocolate-gift-ideas-christmas-2026": {
+      "slug": "top-10-chocolate-gift-ideas-christmas-2026",
+      "title": "Top 10 Chocolate Gift Ideas for Christmas 2026",
+      "status": "published",
+      "last_attempted_at": "2026-05-01T20:51:52",
+      "post_link": "https://sweetsworld.com.au/candy-types/top-10-chocolate-gift-ideas-christmas-2026/",
+      "post_id": 72818,
+      "last_error": "",
+      "last_success_at": "2026-05-01T20:51:52"
+    },
+    "choose-perfect-chocolate-gift-easter-2026": {
+      "slug": "choose-perfect-chocolate-gift-easter-2026",
+      "title": "How to Choose the Perfect Chocolate Gift for Easter 2026",
+      "status": "published",
+      "last_attempted_at": "2026-05-01T20:52:19",
+      "post_link": "https://sweetsworld.com.au/candy-types/choose-perfect-chocolate-gift-easter-2026/",
+      "post_id": 72820,
+      "last_error": "",
+      "last_success_at": "2026-05-01T20:52:19"
+    },
+    "australian-gourmet-chocolate-gift-boxes-2026": {
+      "slug": "australian-gourmet-chocolate-gift-boxes-2026",
+      "title": "Australian Gourmet Chocolate Gift Boxes: A 2026 Buying Guide",
+      "status": "published",
+      "last_attempted_at": "2026-05-01T20:52:50",
+      "post_link": "https://sweetsworld.com.au/candy-types/australian-gourmet-chocolate-gift-boxes-2026/",
+      "post_id": 72822,
+      "last_error": "",
+      "last_success_at": "2026-05-01T20:52:50"
+    },
+    "best-chocolate-gifts-health-conscious-australians-2026": {
+      "slug": "best-chocolate-gifts-health-conscious-australians-2026",
+      "title": "The Best Chocolate Gifts for Health-Conscious Australians in 2026",
+      "status": "published",
+      "last_attempted_at": "2026-05-01T20:53:23",
+      "post_link": "https://sweetsworld.com.au/candy-types/best-chocolate-gifts-health-conscious-australians-2026/",
+      "post_id": 72824,
+      "last_error": "",
+      "last_success_at": "2026-05-01T20:53:23"
+    },
+    "local-vs-imported-chocolate-gift-options-australia-2026": {
+      "slug": "local-vs-imported-chocolate-gift-options-australia-2026",
+      "title": "Local vs. Imported: Comparing Chocolate Gift Options in Australia for 2026",
+      "status": "published",
+      "last_attempted_at": "2026-05-01T20:53:53",
+      "post_link": "https://sweetsworld.com.au/candy-types/local-vs-imported-chocolate-gift-options-australia-2026/",
+      "post_id": 72826,
+      "last_error": "",
+      "last_success_at": "2026-05-01T20:53:53"
+    },
+    "top-chocolate-gift-ideas-2026": {
+      "slug": "top-chocolate-gift-ideas-2026",
+      "title": "Top Chocolate Gift Ideas for Every Occasion in 2026",
+      "status": "published",
+      "last_attempted_at": "2026-05-01T20:54:23",
+      "post_link": "https://sweetsworld.com.au/candy-types/top-chocolate-gift-ideas-2026/",
+      "post_id": 72828,
+      "last_error": "",
+      "last_success_at": "2026-05-01T20:54:23"
+    },
+    "best-chocolate-gift-brands-australia-2026": {
+      "slug": "best-chocolate-gift-brands-australia-2026",
+      "title": "Comparing the Best Chocolate Gift Brands in Australia 2026",
+      "status": "published",
+      "last_attempted_at": "2026-05-01T20:54:50",
+      "post_link": "https://sweetsworld.com.au/candy-types/best-chocolate-gift-brands-australia-2026/",
+      "post_id": 72830,
+      "last_error": "",
+      "last_success_at": "2026-05-01T20:54:50"
+    },
+    "top-lolly-party-ideas-easter-2026": {
+      "slug": "top-lolly-party-ideas-easter-2026",
+      "title": "Top Lolly Party Ideas for Easter 2026",
+      "status": "published",
+      "last_attempted_at": "2026-05-01T20:55:18",
+      "post_link": "https://sweetsworld.com.au/candy-types/top-lolly-party-ideas-easter-2026/",
+      "post_id": 72832,
+      "last_error": "",
+      "last_success_at": "2026-05-01T20:55:18"
+    },
+    "ultimate-lolly-buffet-birthday-party-2026": {
+      "slug": "ultimate-lolly-buffet-birthday-party-2026",
+      "title": "How to Create the Ultimate Lolly Buffet for a Birthday Party in 2026",
+      "status": "published",
+      "last_attempted_at": "2026-05-01T20:55:59",
+      "post_link": "https://sweetsworld.com.au/candy-types/ultimate-lolly-buffet-birthday-party-2026/",
+      "post_id": 72834,
+      "last_error": "",
+      "last_success_at": "2026-05-01T20:55:59"
+    },
+    "eco-friendly-lolly-party-supplies-2026": {
+      "slug": "eco-friendly-lolly-party-supplies-2026",
+      "title": "Eco-Friendly Lolly Party Supplies for 2026: A Comprehensive Guide",
+      "status": "published",
+      "last_attempted_at": "2026-05-01T20:56:43",
+      "post_link": "https://sweetsworld.com.au/candy-types/eco-friendly-lolly-party-supplies-2026/",
+      "post_id": 72836,
+      "last_error": "",
+      "last_success_at": "2026-05-01T20:56:43"
+    },
+    "trending-lolly-flavours-christmas-2026": {
+      "slug": "trending-lolly-flavours-christmas-2026",
+      "title": "Trending Lolly Flavours for Christmas Parties 2026",
+      "status": "published",
+      "last_attempted_at": "2026-05-01T20:57:14",
+      "post_link": "https://sweetsworld.com.au/candy-types/trending-lolly-flavours-christmas-2026/",
+      "post_id": 72840,
+      "last_error": "",
+      "last_success_at": "2026-05-01T20:57:14"
+    },
+    "diy-lolly-party-decorations-2026": {
+      "slug": "diy-lolly-party-decorations-2026",
+      "title": "DIY Lolly Party Decorations: Easy Ideas for 2026",
+      "status": "published",
+      "last_attempted_at": "2026-05-01T20:57:51",
+      "post_link": "https://sweetsworld.com.au/candy-types/diy-lolly-party-decorations-2026/",
+      "post_id": 72843,
+      "last_error": "",
+      "last_success_at": "2026-05-01T20:57:51"
+    },
+    "healthy-lolly-party-alternatives-2026": {
+      "slug": "healthy-lolly-party-alternatives-2026",
+      "title": "Healthy Lolly Party Alternatives for 2026: Enjoy Guilt-Free Treats",
+      "status": "published",
+      "last_attempted_at": "2026-05-01T20:58:20",
+      "post_link": "https://sweetsworld.com.au/candy-types/healthy-lolly-party-alternatives-2026/",
+      "post_id": 72845,
+      "last_error": "",
+      "last_success_at": "2026-05-01T20:58:20"
+    },
+    "top-snack-box-subscriptions-australia-2026": {
+      "slug": "top-snack-box-subscriptions-australia-2026",
+      "title": "Top Snack Box Subscriptions in Australia for 2026: A Sweet Guide",
+      "status": "published",
+      "last_attempted_at": "2026-05-01T20:59:00",
+      "post_link": "https://sweetsworld.com.au/candy-types/top-snack-box-subscriptions-australia-2026/",
+      "post_id": 72847,
+      "last_error": "",
+      "last_success_at": "2026-05-01T20:59:00"
+    },
+    "diy-snack-box-ideas-easter-2026": {
+      "slug": "diy-snack-box-ideas-easter-2026",
+      "title": "DIY Snack Box Ideas for Easter 2026: Delightful Treats to Share",
+      "status": "published",
+      "last_attempted_at": "2026-05-02T10:30:52",
+      "post_link": "https://sweetsworld.com.au/candy-types/diy-snack-box-ideas-easter-2026/",
+      "post_id": 72880,
+      "last_error": "",
+      "last_success_at": "2026-05-02T10:30:52"
+    },
+    "healthy-snack-box-choices-australia-2026": {
+      "slug": "healthy-snack-box-choices-australia-2026",
+      "title": "Healthy Snack Box Choices in Australia for 2026: Guilt-Free Indulgence",
+      "status": "published",
+      "last_attempted_at": "2026-05-02T10:31:28",
+      "post_link": "https://sweetsworld.com.au/candy-types/healthy-snack-box-choices-australia-2026/",
+      "post_id": 72882,
+      "last_error": "",
+      "last_success_at": "2026-05-02T10:31:28"
+    },
+    "best-australian-international-snack-boxes-2026": {
+      "slug": "best-australian-international-snack-boxes-2026",
+      "title": "Comparing the Best Australian vs. International Snack Boxes of 2026",
+      "status": "published",
+      "last_attempted_at": "2026-05-02T10:32:07",
+      "post_link": "https://sweetsworld.com.au/candy-types/best-australian-international-snack-boxes-2026/",
+      "post_id": 72884,
+      "last_error": "",
+      "last_success_at": "2026-05-02T10:32:07"
+    },
+    "perfect-christmas-snack-box-2026": {
+      "slug": "perfect-christmas-snack-box-2026",
+      "title": "A Guide to Creating the Perfect Christmas Snack Box in 2026",
+      "status": "published",
+      "last_attempted_at": "2026-05-02T10:32:40",
+      "post_link": "https://sweetsworld.com.au/candy-types/perfect-christmas-snack-box-2026/",
+      "post_id": 72886,
+      "last_error": "",
+      "last_success_at": "2026-05-02T10:32:40"
+    },
+    "best-snack-box-brands-2026-comparison": {
+      "slug": "best-snack-box-brands-2026-comparison",
+      "title": "Best Snack Box Brands in 2026: A Delicious Comparison",
+      "status": "published",
+      "last_attempted_at": "2026-05-02T10:33:17",
+      "post_link": "https://sweetsworld.com.au/candy-types/best-snack-box-brands-2026-comparison/",
+      "post_id": 72888,
+      "last_error": "",
+      "last_success_at": "2026-05-02T10:33:17"
+    },
+    "healthiest-candy-delivery-options-australia": {
+      "slug": "healthiest-candy-delivery-options-australia",
+      "title": "How to Choose the Healthiest Candy Delivery Options in Australia",
+      "status": "published",
+      "last_attempted_at": "2026-05-02T10:33:53",
+      "post_link": "https://sweetsworld.com.au/candy-types/healthiest-candy-delivery-options-australia/",
+      "post_id": 72890,
+      "last_error": "",
+      "last_success_at": "2026-05-02T10:33:53"
+    },
+    "best-local-candy-brands-delivery-australia-2026": {
+      "slug": "best-local-candy-brands-delivery-australia-2026",
+      "title": "Best Local Candy Brands for Delivery in Australia 2026",
+      "status": "published",
+      "last_attempted_at": "2026-05-02T10:34:31",
+      "post_link": "https://sweetsworld.com.au/candy-types/best-local-candy-brands-delivery-australia-2026/",
+      "post_id": 72893,
+      "last_error": "",
+      "last_success_at": "2026-05-02T10:34:31"
+    },
+    "top-10-sweet-treats-kids-parties-2026": {
+      "slug": "top-10-sweet-treats-kids-parties-2026",
+      "title": "Top 10 Sweet Treats for Kids' Parties in 2026",
+      "status": "published",
+      "last_attempted_at": "2026-05-02T10:35:15",
+      "post_link": "https://sweetsworld.com.au/candy-types/top-10-sweet-treats-kids-parties-2026/",
+      "post_id": 72896,
+      "last_error": "",
+      "last_success_at": "2026-05-02T10:35:15"
+    },
+    "healthy-sweet-treats-kids-2026": {
+      "slug": "healthy-sweet-treats-kids-2026",
+      "title": "Healthy Sweet Treats Kids Will Love in 2026",
+      "status": "published",
+      "last_attempted_at": "2026-05-02T10:35:48",
+      "post_link": "https://sweetsworld.com.au/candy-types/healthy-sweet-treats-kids-2026/",
+      "post_id": 72899,
+      "last_error": "",
+      "last_success_at": "2026-05-02T10:35:48"
+    },
+    "back-to-school-sweet-treats-kids-2026": {
+      "slug": "back-to-school-sweet-treats-kids-2026",
+      "title": "Top 5 Back-to-School Sweet Treats for Kids in 2026",
+      "status": "published",
+      "last_attempted_at": "2026-05-02T10:36:25",
+      "post_link": "https://sweetsworld.com.au/candy-types/back-to-school-sweet-treats-kids-2026/",
+      "post_id": 72901,
+      "last_error": "",
+      "last_success_at": "2026-05-02T10:36:25"
+    },
+    "best-sweet-treat-brands-for-kids-2026": {
+      "slug": "best-sweet-treat-brands-for-kids-2026",
+      "title": "Best Sweet Treat Brands for Kids in 2026: Taste Test and Review",
+      "status": "published",
+      "last_attempted_at": "2026-05-02T10:37:03",
+      "post_link": "https://sweetsworld.com.au/candy-types/best-sweet-treat-brands-for-kids-2026/",
+      "post_id": 72903,
+      "last_error": "",
+      "last_success_at": "2026-05-02T10:37:03"
+    },
+    "healthy-candy-alternatives-2026": {
+      "slug": "healthy-candy-alternatives-2026",
+      "title": "Discover Healthy Candy Alternatives for 2026",
+      "status": "published",
+      "last_attempted_at": "2026-05-02T10:37:31",
+      "post_link": "https://sweetsworld.com.au/candy-types/healthy-candy-alternatives-2026/",
+      "post_id": 72905,
+      "last_error": "",
+      "last_success_at": "2026-05-02T10:37:31"
+    },
+    "italian-candy-australia": {
+      "slug": "italian-candy-australia",
+      "title": "Italian Candy Australia: Buy Italian Sweets and Confectionery Online",
+      "status": "published",
+      "last_attempted_at": "2026-05-02T10:38:04",
+      "post_link": "https://sweetsworld.com.au/candy-categories/italian-candy-australia/",
+      "post_id": 72907,
+      "last_error": "",
+      "last_success_at": "2026-05-02T10:38:04"
+    },
+    "swedish-candy-australia": {
+      "slug": "swedish-candy-australia",
+      "title": "Swedish Candy Australia: Pick and Mix Scandinavian Lollies Online",
+      "status": "published",
+      "last_attempted_at": "2026-05-02T10:38:47",
+      "post_link": "https://sweetsworld.com.au/candy-categories/swedish-candy-australia/",
+      "post_id": 72909,
+      "last_error": "",
+      "last_success_at": "2026-05-02T10:38:47"
+    },
+    "canadian-candy-australia": {
+      "slug": "canadian-candy-australia",
+      "title": "Canadian Candy Australia: Buy Ketchup Chips and Canadian Sweets",
+      "status": "published",
+      "last_attempted_at": "2026-05-02T10:39:28",
+      "post_link": "https://sweetsworld.com.au/candy-categories/canadian-candy-australia/",
+      "post_id": 72912,
+      "last_error": "",
+      "last_success_at": "2026-05-02T10:39:28"
+    },
+    "pop-rocks-australia": {
+      "slug": "pop-rocks-australia",
+      "title": "Pop Rocks Australia: Buy Popping Candy Online",
+      "status": "published",
+      "last_attempted_at": "2026-05-02T10:40:05",
+      "post_link": "https://sweetsworld.com.au/candy-types/pop-rocks-australia/",
+      "post_id": 72914,
+      "last_error": "",
+      "last_success_at": "2026-05-02T10:40:05"
+    },
+    "pez-australia": {
+      "slug": "pez-australia",
+      "title": "PEZ Australia: Buy PEZ Dispensers and Candy Online",
+      "status": "published",
+      "last_attempted_at": "2026-05-02T10:40:40",
+      "post_link": "https://sweetsworld.com.au/candy-types/pez-australia/",
+      "post_id": 72917,
+      "last_error": "",
+      "last_success_at": "2026-05-02T10:40:40"
+    },
+    "twix-buy-australia": {
+      "slug": "twix-buy-australia",
+      "title": "Twix Australia: Where to Buy Bulk Twix and Gift Packs Online",
+      "status": "published",
+      "last_attempted_at": "2026-05-02T10:41:20",
+      "post_link": "https://sweetsworld.com.au/candy-types/twix-buy-australia/",
+      "post_id": 72919,
+      "last_error": "",
+      "last_success_at": "2026-05-02T10:41:20"
+    },
+    "get-well-soon-candy-australia": {
+      "slug": "get-well-soon-candy-australia",
+      "title": "Get Well Soon Candy Australia: Sweet Care Packages to Cheer Someone Up",
+      "status": "published",
+      "last_attempted_at": "2026-05-02T10:41:54",
+      "post_link": "https://sweetsworld.com.au/candy-occasions/get-well-soon-candy-australia/",
+      "post_id": 72922,
+      "last_error": "",
+      "last_success_at": "2026-05-02T10:41:54"
+    },
+    "thank-you-candy-gifts-australia": {
+      "slug": "thank-you-candy-gifts-australia",
+      "title": "Thank You Candy Gifts Australia: Sweet Ways to Say Thanks",
+      "status": "published",
+      "last_attempted_at": "2026-05-02T10:42:30",
+      "post_link": "https://sweetsworld.com.au/candy-occasions/thank-you-candy-gifts-australia/",
+      "post_id": 72924,
+      "last_error": "",
+      "last_success_at": "2026-05-02T10:42:30"
+    },
+    "bounty-bar-australia": {
+      "slug": "bounty-bar-australia",
+      "title": "Bounty Bar Australia: Where to Buy Coconut Chocolate Online",
+      "status": "published",
+      "last_attempted_at": "2026-05-03T10:30:43",
+      "post_link": "https://sweetsworld.com.au/candy-types/bounty-bar-australia/",
+      "post_id": 72936,
+      "last_error": "",
+      "last_success_at": "2026-05-03T10:30:43"
+    },
+    "mike-and-ike-australia": {
+      "slug": "mike-and-ike-australia",
+      "title": "Mike and Ike Australia: Buy Mike and Ike Candy Online",
+      "status": "published",
+      "last_attempted_at": "2026-05-03T10:31:18",
+      "post_link": "https://sweetsworld.com.au/candy-types/mike-and-ike-australia/",
+      "post_id": 72938,
+      "last_error": "",
+      "last_success_at": "2026-05-03T10:31:18"
+    },
+    "laffy-taffy-australia": {
+      "slug": "laffy-taffy-australia",
+      "title": "Laffy Taffy Australia: Buy Stretchy Taffy Candy Online",
+      "status": "published",
+      "last_attempted_at": "2026-05-03T10:31:47",
+      "post_link": "https://sweetsworld.com.au/candy-types/laffy-taffy-australia/",
+      "post_id": 72940,
+      "last_error": "",
+      "last_success_at": "2026-05-03T10:31:47"
+    },
+    "black-forest-gummies-australia": {
+      "slug": "black-forest-gummies-australia",
+      "title": "Black Forest Gummies Australia: Buy Organic Gummy Bears Online",
+      "status": "published",
+      "last_attempted_at": "2026-05-03T10:32:15",
+      "post_link": "https://sweetsworld.com.au/candy-types/black-forest-gummies-australia/",
+      "post_id": 72943,
+      "last_error": "",
+      "last_success_at": "2026-05-03T10:32:15"
+    },
+    "dots-candy-australia": {
+      "slug": "dots-candy-australia",
+      "title": "Dots Candy Australia: Where to Buy Dots Gumdrops Online",
+      "status": "published",
+      "last_attempted_at": "2026-05-03T10:32:52",
+      "post_link": "https://sweetsworld.com.au/candy-types/dots-candy-australia/",
+      "post_id": 72945,
+      "last_error": "",
+      "last_success_at": "2026-05-03T10:32:52"
+    },
+    "starbursts-gummies-australia": {
+      "slug": "starbursts-gummies-australia",
+      "title": "Starburst Gummies Australia: Buy Starburst Gummy Worms Online",
+      "status": "published",
+      "last_attempted_at": "2026-05-03T10:33:27",
+      "post_link": "https://sweetsworld.com.au/candy-types/starbursts-gummies-australia/",
+      "post_id": 72948,
+      "last_error": "",
+      "last_success_at": "2026-05-03T10:33:27"
+    },
+    "peeps-australia": {
+      "slug": "peeps-australia",
+      "title": "Peeps Australia: Buy Peeps Marshmallow Candy Online",
+      "status": "published",
+      "last_attempted_at": "2026-05-03T10:33:59",
+      "post_link": "https://sweetsworld.com.au/candy-types/peeps-australia/",
+      "post_id": 72951,
+      "last_error": "",
+      "last_success_at": "2026-05-03T10:33:59"
+    },
+    "kellys-candy-australia": {
+      "slug": "kellys-candy-australia",
+      "title": "Kelly's Candy Australia: Buy Kelly's Lollies and Sweets Online",
+      "status": "published",
+      "last_attempted_at": "2026-05-03T10:34:38",
+      "post_link": "https://sweetsworld.com.au/candy-types/kellys-candy-australia/",
+      "post_id": 72953,
+      "last_error": "",
+      "last_success_at": "2026-05-03T10:34:38"
+    },
+    "fini-sweets-australia": {
+      "slug": "fini-sweets-australia",
+      "title": "Fini Sweets Australia: Buy Fini Gummy and Licorice Online",
+      "status": "published",
+      "last_attempted_at": "2026-05-03T10:35:24",
+      "post_link": "https://sweetsworld.com.au/candy-types/fini-sweets-australia/",
+      "post_id": 72956,
+      "last_error": "",
+      "last_success_at": "2026-05-03T10:35:24"
+    },
+    "blairs-hot-sauce-australia": {
+      "slug": "blairs-hot-sauce-australia",
+      "title": "Blair's Hot Sauce Australia: Buy Blair's Death Sauce Online",
+      "status": "published",
+      "last_attempted_at": "2026-05-03T10:35:56",
+      "post_link": "https://sweetsworld.com.au/candy-types/blairs-hot-sauce-australia/",
+      "post_id": 72959,
+      "last_error": "",
+      "last_success_at": "2026-05-03T10:35:56"
+    },
+    "lacroix-sparkling-water-australia": {
+      "slug": "lacroix-sparkling-water-australia",
+      "title": "LaCroix Australia: Buy LaCroix Sparkling Water Online",
+      "status": "published",
+      "last_attempted_at": "2026-05-03T10:36:28",
+      "post_link": "https://sweetsworld.com.au/candy-types/lacroix-sparkling-water-australia/",
+      "post_id": 72961,
+      "last_error": "",
+      "last_success_at": "2026-05-03T10:36:28"
+    },
+    "humbugs-candy-australia": {
+      "slug": "humbugs-candy-australia",
+      "title": "Humbugs Australia: Buy Peppermint Humbugs Boiled Sweets Online",
+      "status": "published",
+      "last_attempted_at": "2026-05-03T10:37:03",
+      "post_link": "https://sweetsworld.com.au/candy-types/humbugs-candy-australia/",
+      "post_id": 72964,
+      "last_error": "",
+      "last_success_at": "2026-05-03T10:37:03"
+    },
+    "spearmint-leaves-australia": {
+      "slug": "spearmint-leaves-australia",
+      "title": "Spearmint Leaves Australia: Buy Spearmint Jelly Lollies Online",
+      "status": "published",
+      "last_attempted_at": "2026-05-03T10:37:41",
+      "post_link": "https://sweetsworld.com.au/candy-types/spearmint-leaves-australia/",
+      "post_id": 72966,
+      "last_error": "",
+      "last_success_at": "2026-05-03T10:37:41"
+    },
+    "boiled-sweets-australia": {
+      "slug": "boiled-sweets-australia",
+      "title": "Boiled Sweets Australia: Buy Classic Hard Candy and Drops Online",
+      "status": "published",
+      "last_attempted_at": "2026-05-03T10:38:15",
+      "post_link": "https://sweetsworld.com.au/candy-categories/boiled-sweets-australia/",
+      "post_id": 72969,
+      "last_error": "",
+      "last_success_at": "2026-05-03T10:38:15"
+    },
+    "grape-candy-australia": {
+      "slug": "grape-candy-australia",
+      "title": "Grape Candy Australia: Buy Grape Lollies and Grape Flavoured Sweets",
+      "status": "published",
+      "last_attempted_at": "2026-05-03T10:38:52",
+      "post_link": "https://sweetsworld.com.au/candy-categories/grape-candy-australia/",
+      "post_id": 72972,
+      "last_error": "",
+      "last_success_at": "2026-05-03T10:38:52"
+    },
+    "cherry-candy-australia": {
+      "slug": "cherry-candy-australia",
+      "title": "Cherry Candy Australia: Buy Cherry Lollies and Cherry Flavoured Sweets",
+      "status": "published",
+      "last_attempted_at": "2026-05-03T10:39:24",
+      "post_link": "https://sweetsworld.com.au/candy-categories/cherry-candy-australia/",
+      "post_id": 72975,
+      "last_error": "",
+      "last_success_at": "2026-05-03T10:39:24"
+    },
+    "peach-candy-australia": {
+      "slug": "peach-candy-australia",
+      "title": "Peach Candy Australia: Buy Peach Rings and Peach Flavoured Sweets",
+      "status": "published",
+      "last_attempted_at": "2026-05-03T10:39:49",
+      "post_link": "https://sweetsworld.com.au/candy-categories/peach-candy-australia/",
+      "post_id": 72977,
+      "last_error": "",
+      "last_success_at": "2026-05-03T10:39:49"
+    },
+    "orange-candy-australia": {
+      "slug": "orange-candy-australia",
+      "title": "Orange Candy Australia: Buy Orange Lollies and Orange Chocolate Online",
+      "status": "published",
+      "last_attempted_at": "2026-05-03T10:40:27",
+      "post_link": "https://sweetsworld.com.au/candy-categories/orange-candy-australia/",
+      "post_id": 72979,
+      "last_error": "",
+      "last_success_at": "2026-05-03T10:40:27"
+    },
+    "cinnamon-candy-australia": {
+      "slug": "cinnamon-candy-australia",
+      "title": "Cinnamon Candy Australia: Buy Hot Cinnamon Lollies and Sweets Online",
+      "status": "published",
+      "last_attempted_at": "2026-05-03T10:40:57",
+      "post_link": "https://sweetsworld.com.au/candy-categories/cinnamon-candy-australia/",
+      "post_id": 72981,
+      "last_error": "",
+      "last_success_at": "2026-05-03T10:40:57"
+    },
+    "butterscotch-candy-australia": {
+      "slug": "butterscotch-candy-australia",
+      "title": "Butterscotch Candy Australia: Buy Butterscotch Lollies and Toffees Online",
+      "status": "published",
+      "last_attempted_at": "2026-05-03T10:41:37",
+      "post_link": "https://sweetsworld.com.au/candy-categories/butterscotch-candy-australia/",
+      "post_id": 72983,
+      "last_error": "",
+      "last_success_at": "2026-05-03T10:41:37"
+    },
+    "blueberry-candy-australia": {
+      "slug": "blueberry-candy-australia",
+      "title": "Blueberry Candy Australia: Buy Blueberry Lollies and Gummies Online",
+      "status": "published",
+      "last_attempted_at": "2026-05-04T10:30:50",
+      "post_link": "https://sweetsworld.com.au/candy-categories/blueberry-candy-australia/",
+      "post_id": 73029,
+      "last_error": "",
+      "last_success_at": "2026-05-04T10:30:50"
+    },
+    "passionfruit-candy-australia": {
+      "slug": "passionfruit-candy-australia",
+      "title": "Passionfruit Candy Australia: Buy Passionfruit Lollies and Sweets Online",
+      "status": "published",
+      "last_attempted_at": "2026-05-04T10:31:25",
+      "post_link": "https://sweetsworld.com.au/candy-categories/passionfruit-candy-australia/",
+      "post_id": 73031,
+      "last_error": "",
+      "last_success_at": "2026-05-04T10:31:25"
+    },
+    "candy-necklace-australia": {
+      "slug": "candy-necklace-australia",
+      "title": "Candy Necklace Australia: Buy Candy Jewellery and Wearable Sweets Online",
+      "status": "published",
+      "last_attempted_at": "2026-05-04T10:32:02",
+      "post_link": "https://sweetsworld.com.au/candy-types/candy-necklace-australia/",
+      "post_id": 73033,
+      "last_error": "",
+      "last_success_at": "2026-05-04T10:32:02"
+    },
+    "candy-for-office-australia": {
+      "slug": "candy-for-office-australia",
+      "title": "Office Candy Australia: Best Sweets and Snacks for the Workplace",
+      "status": "published",
+      "last_attempted_at": "2026-05-04T10:32:38",
+      "post_link": "https://sweetsworld.com.au/candy-occasions/candy-for-office-australia/",
+      "post_id": 73036,
+      "last_error": "",
+      "last_success_at": "2026-05-04T10:32:38"
+    },
+    "graduation-candy-australia": {
+      "slug": "graduation-candy-australia",
+      "title": "Graduation Candy Australia: Sweet Gifts to Celebrate Finishing School",
+      "status": "published",
+      "last_attempted_at": "2026-05-04T10:33:15",
+      "post_link": "https://sweetsworld.com.au/candy-occasions/graduation-candy-australia/",
+      "post_id": 73038,
+      "last_error": "",
+      "last_success_at": "2026-05-04T10:33:15"
+    },
+    "farewell-party-lollies-australia": {
+      "slug": "farewell-party-lollies-australia",
+      "title": "Farewell Party Lollies Australia: Sweet Sendoff Ideas and Lolly Bags",
+      "status": "published",
+      "last_attempted_at": "2026-05-04T10:33:52",
+      "post_link": "https://sweetsworld.com.au/candy-occasions/farewell-party-lollies-australia/",
+      "post_id": 73040,
+      "last_error": "",
+      "last_success_at": "2026-05-04T10:33:52"
+    },
+    "faq-bulk-candy-australia": {
+      "slug": "faq-bulk-candy-australia",
+      "title": "Bulk Candy Australia FAQ: Everything You Need to Know",
+      "status": "published",
+      "last_attempted_at": "2026-05-04T10:34:28",
+      "post_link": "https://sweetsworld.com.au/candy-faqs/faq-bulk-candy-australia/",
+      "post_id": 73042,
+      "last_error": "",
+      "last_success_at": "2026-05-04T10:34:28"
+    },
+    "faq-american-candy-australia": {
+      "slug": "faq-american-candy-australia",
+      "title": "American Candy Australia FAQ: What to Buy and Where",
+      "status": "published",
+      "last_attempted_at": "2026-05-04T10:35:05",
+      "post_link": "https://sweetsworld.com.au/candy-faqs/faq-american-candy-australia/",
+      "post_id": 73044,
+      "last_error": "",
+      "last_success_at": "2026-05-04T10:35:05"
+    },
+    "faq-chocolate-gifts-australia": {
+      "slug": "faq-chocolate-gifts-australia",
+      "title": "Chocolate Gifts Australia FAQ: Choosing the Right Gift",
+      "status": "published",
+      "last_attempted_at": "2026-05-04T10:35:49",
+      "post_link": "https://sweetsworld.com.au/candy-faqs/faq-chocolate-gifts-australia/",
+      "post_id": 73047,
+      "last_error": "",
+      "last_success_at": "2026-05-04T10:35:49"
+    },
+    "allens-vs-cadbury-lollies-australia": {
+      "slug": "allens-vs-cadbury-lollies-australia",
+      "title": "Allen's vs Cadbury Lollies Australia: Which Brand Is Worth It?",
+      "status": "published",
+      "last_attempted_at": "2026-05-04T10:36:20",
+      "post_link": "https://sweetsworld.com.au/candy-comparisons/allens-vs-cadbury-lollies-australia/",
+      "post_id": 73050,
+      "last_error": "",
+      "last_success_at": "2026-05-04T10:36:20"
+    },
+    "bulk-candy-vs-retail-australia": {
+      "slug": "bulk-candy-vs-retail-australia",
+      "title": "Bulk Candy vs Retail in Australia: Price, Variety and Value Compared",
+      "status": "published",
+      "last_attempted_at": "2026-05-04T10:36:59",
+      "post_link": "https://sweetsworld.com.au/candy-comparisons/bulk-candy-vs-retail-australia/",
+      "post_id": 73053,
+      "last_error": "",
+      "last_success_at": "2026-05-04T10:36:59"
+    },
+    "natural-candy-vs-regular-australia": {
+      "slug": "natural-candy-vs-regular-australia",
+      "title": "Natural Candy vs Regular Candy Australia: Ingredients, Taste and Price",
+      "status": "published",
+      "last_attempted_at": "2026-05-04T10:37:36",
+      "post_link": "https://sweetsworld.com.au/candy-comparisons/natural-candy-vs-regular-australia/",
+      "post_id": 73056,
+      "last_error": "",
+      "last_success_at": "2026-05-04T10:37:36"
+    },
+    "best-halal-lollies-australia": {
+      "slug": "best-halal-lollies-australia",
+      "title": "Best Halal Lollies in Australia: Top Picks for Every Occasion",
+      "status": "published",
+      "last_attempted_at": "2026-05-04T10:38:12",
+      "post_link": "https://sweetsworld.com.au/best-candy/best-halal-lollies-australia/",
+      "post_id": 73058,
+      "last_error": "",
+      "last_success_at": "2026-05-04T10:38:12"
+    },
+    "best-bulk-candy-deals-australia": {
+      "slug": "best-bulk-candy-deals-australia",
+      "title": "Best Bulk Candy Deals in Australia: Top Wholesale Picks",
+      "status": "published",
+      "last_attempted_at": "2026-05-04T10:38:49",
+      "post_link": "https://sweetsworld.com.au/best-candy/best-bulk-candy-deals-australia/",
+      "post_id": 73060,
+      "last_error": "",
+      "last_success_at": "2026-05-04T10:38:49"
+    },
+    "best-australian-candy-brands": {
+      "slug": "best-australian-candy-brands",
+      "title": "Best Australian Candy Brands: Classic and Artisan Picks",
+      "status": "published",
+      "last_attempted_at": "2026-05-04T10:39:23",
+      "post_link": "https://sweetsworld.com.au/best-candy/best-australian-candy-brands/",
+      "post_id": 73063,
+      "last_error": "",
+      "last_success_at": "2026-05-04T10:39:23"
+    },
+    "best-american-candy-to-try-australia": {
+      "slug": "best-american-candy-to-try-australia",
+      "title": "Best American Candy to Try in Australia: Must-Have US Sweets",
+      "status": "published",
+      "last_attempted_at": "2026-05-04T10:39:57",
+      "post_link": "https://sweetsworld.com.au/best-candy/best-american-candy-to-try-australia/",
+      "post_id": 73065,
+      "last_error": "",
+      "last_success_at": "2026-05-04T10:39:57"
+    },
+    "healthy-candy-alternatives-australia": {
+      "slug": "healthy-candy-alternatives-australia",
+      "title": "Healthy Candy Alternatives Australia: Low Sugar and Natural Sweets",
+      "status": "published",
+      "last_attempted_at": "2026-05-05T10:30:50",
+      "post_link": "https://sweetsworld.com.au/candy-types/healthy-candy-alternatives-australia-2/",
+      "post_id": 73098,
+      "last_error": "",
+      "last_success_at": "2026-05-05T10:30:50"
+    },
+    "candy-australia-guide-2026": {
+      "slug": "candy-australia-guide-2026",
+      "title": "Ultimate Guide to Candy in Australia 2026: Lollies Sweets and More",
+      "status": "published",
+      "last_attempted_at": "2026-05-05T10:31:32",
+      "post_link": "https://sweetsworld.com.au/candy-guides/candy-australia-guide-2026-2/",
+      "post_id": 73100,
+      "last_error": "",
+      "last_success_at": "2026-05-05T10:31:32"
+    },
+    "best-candy-for-kids-australia": {
+      "slug": "best-candy-for-kids-australia",
+      "title": "Best Candy for Kids Australia: Safe and Fun Lolly Picks",
+      "status": "published",
+      "last_attempted_at": "2026-05-05T10:32:15",
+      "post_link": "https://sweetsworld.com.au/candy-occasions/best-candy-for-kids-australia-2/",
+      "post_id": 73102,
+      "last_error": "",
+      "last_success_at": "2026-05-05T10:32:15"
+    },
+    "best-lollies-for-party-bags": {
+      "slug": "best-lollies-for-party-bags",
+      "title": "Best Lollies for Party Bags Australia: Bulk Picks Under Budget",
+      "status": "published",
+      "last_attempted_at": "2026-05-05T10:33:00",
+      "post_link": "https://sweetsworld.com.au/candy-occasions/best-lollies-for-party-bags-2/",
+      "post_id": 73104,
+      "last_error": "",
+      "last_success_at": "2026-05-05T10:33:00"
+    },
+    "best-candy-for-movie-night": {
+      "slug": "best-candy-for-movie-night",
+      "title": "Best Candy for Movie Night Australia: Sweet and Salty Picks",
+      "status": "published",
+      "last_attempted_at": "2026-05-05T10:33:46",
+      "post_link": "https://sweetsworld.com.au/candy-occasions/best-candy-for-movie-night-2/",
+      "post_id": 73106,
+      "last_error": "",
+      "last_success_at": "2026-05-05T10:33:46"
+    },
+    "faq-halal-lollies-australia": {
+      "slug": "faq-halal-lollies-australia",
+      "title": "Halal Lollies Australia FAQ: Common Questions Answered",
+      "status": "exists",
+      "last_attempted_at": "2026-05-05T10:33:46",
+      "post_link": "",
+      "post_id": null,
+      "last_error": "",
+      "last_success_at": "2026-05-05T10:33:46"
+    },
+    "comparing-popular-lollies-australia-2026": {
+      "slug": "comparing-popular-lollies-australia-2026",
+      "title": "Comparing Popular Lollies in Australia: What to Buy in 2026",
+      "status": "published",
+      "last_attempted_at": "2026-05-06T10:31:10",
+      "post_link": "https://sweetsworld.com.au/candy-types/comparing-popular-lollies-australia-2026/",
+      "post_id": 73129,
+      "last_error": "",
+      "last_success_at": "2026-05-06T10:31:10"
+    },
+    "vegan-candy-guide-australia-2026": {
+      "slug": "vegan-candy-guide-australia-2026",
+      "title": "The Ultimate Guide to Vegan Candy Options in Australia 2026",
+      "status": "published",
+      "last_attempted_at": "2026-05-07T10:31:02",
+      "post_link": "https://sweetsworld.com.au/candy-types/vegan-candy-guide-australia-2026/",
+      "post_id": 73155,
+      "last_error": "",
+      "last_success_at": "2026-05-07T10:31:02"
+    },
+    "best-chocolate-rocks-2026": {
+      "slug": "best-chocolate-rocks-2026",
+      "title": "Discover the Best Chocolate Rocks of 2026",
+      "status": "published",
+      "last_attempted_at": "2026-05-10T10:31:06",
+      "post_link": "https://sweetsworld.com.au/candy-types/best-chocolate-rocks-2026/",
+      "post_id": 73219,
+      "last_error": "",
+      "last_success_at": "2026-05-10T10:31:06"
+    },
+    "sugar-free-candy-australia-2026": {
+      "slug": "sugar-free-candy-australia-2026",
+      "title": "How to Choose Sugar-Free Candy in Australia: 2026 Edition",
+      "status": "published",
+      "last_attempted_at": "2026-05-11T10:31:01",
+      "post_link": "https://sweetsworld.com.au/candy-types/sugar-free-candy-australia-2026/",
+      "post_id": 73237,
+      "last_error": "",
+      "last_success_at": "2026-05-11T10:31:01"
+    },
+    "gourmet-vs-traditional-candy-2026": {
+      "slug": "gourmet-vs-traditional-candy-2026",
+      "title": "Comparing Gourmet vs Traditional Candy in 2026",
+      "status": "published",
+      "last_attempted_at": "2026-05-11T10:31:40",
+      "post_link": "https://sweetsworld.com.au/candy-types/gourmet-vs-traditional-candy-2026/",
+      "post_id": 73239,
+      "last_error": "",
+      "last_success_at": "2026-05-11T10:31:40"
+    },
+    "imported-vs-local-candy-2026": {
+      "slug": "imported-vs-local-candy-2026",
+      "title": "Comparing Imported vs. Local Candy: What Aussies Prefer in 2026",
+      "status": "published",
+      "last_attempted_at": "2026-05-12T10:31:02",
+      "post_link": "https://sweetsworld.com.au/candy-types/imported-vs-local-candy-2026/",
+      "post_id": 73255,
+      "last_error": "",
+      "last_success_at": "2026-05-12T10:31:02"
+    },
+    "make-australian-candy-at-home-2026": {
+      "slug": "make-australian-candy-at-home-2026",
+      "title": "How to Make Traditional Australian Candy at Home in 2026",
+      "status": "published",
+      "last_attempted_at": "2026-05-14T10:31:05",
+      "post_link": "https://sweetsworld.com.au/candy-types/make-australian-candy-at-home-2026/",
+      "post_id": 73301,
+      "last_error": "",
+      "last_success_at": "2026-05-14T10:31:05"
+    },
+    "best-australian-easter-chocolates-2026": {
+      "slug": "best-australian-easter-chocolates-2026",
+      "title": "The Best Australian Easter Chocolates to Try in 2026",
+      "status": "published",
+      "last_attempted_at": "2026-05-19T10:31:03",
+      "post_link": "https://sweetsworld.com.au/candy-types/best-australian-easter-chocolates-2026/",
+      "post_id": 73392,
+      "last_error": "",
+      "last_success_at": "2026-05-19T10:31:03"
+    },
+    "candy-brand-comparison-2026": {
+      "slug": "candy-brand-comparison-2026",
+      "title": "Comparing Popular Candy Brands for 2026: Which Reigns Supreme?",
+      "status": "published",
+      "last_attempted_at": "2026-05-21T10:30:55",
+      "post_link": "https://sweetsworld.com.au/candy-types/candy-brand-comparison-2026/",
+      "post_id": 73460,
+      "last_error": "",
+      "last_success_at": "2026-05-21T10:30:55"
+    },
+    "create-candy-buffet-australia-2026": {
+      "slug": "create-candy-buffet-australia-2026",
+      "title": "How to Create a Candy Buffet for Your 2026 Australian Events",
+      "status": "published",
+      "last_attempted_at": "2026-05-22T10:31:08",
+      "post_link": "https://sweetsworld.com.au/candy-types/create-candy-buffet-australia-2026/",
+      "post_id": 73495,
+      "last_error": "",
+      "last_success_at": "2026-05-22T10:31:08"
+    },
+    "candy-themed-party-2026": {
+      "slug": "candy-themed-party-2026",
+      "title": "How to Host the Perfect Candy-Themed Party in 2026",
+      "status": "published",
+      "last_attempted_at": "2026-07-19T10:32:52",
+      "post_link": "https://sweetsworld.com.au/candy-types/candy-themed-party-2026/",
+      "post_id": 74720,
+      "last_error": "",
+      "last_success_at": "2026-07-19T10:32:52"
+    },
+    "healthier-gummy-candy-options-australia-2026": {
+      "slug": "healthier-gummy-candy-options-australia-2026",
+      "title": "Healthier Gummy Candy Options Available in Australia 2026",
+      "status": "drafted",
+      "last_attempted_at": "2026-07-20T10:33:45",
+      "post_link": "https://sweetsworld.com.au/?p=74742",
+      "post_id": 74742,
+      "last_error": "",
+      "last_success_at": "2026-07-20T10:33:45"
+    },
+    "diy-gummy-candy-recipes-2026": {
+      "slug": "diy-gummy-candy-recipes-2026",
+      "title": "DIY Gummy Candy Recipes You Can Try at Home in 2026",
+      "status": "drafted",
+      "last_attempted_at": "2026-07-20T10:34:12",
+      "post_link": "https://sweetsworld.com.au/?p=74745",
+      "post_id": 74745,
+      "last_error": "",
+      "last_success_at": "2026-07-20T10:34:12"
+    },
+    "ultimate-guide-buying-gummy-candy-2026": {
+      "slug": "ultimate-guide-buying-gummy-candy-2026",
+      "title": "The Ultimate Guide to Buying Gummy Candy in 2026",
+      "status": "drafted",
+      "last_attempted_at": "2026-07-20T10:34:39",
+      "post_link": "https://sweetsworld.com.au/?p=74747",
+      "post_id": 74747,
+      "last_error": "",
+      "last_success_at": "2026-07-20T10:34:39"
+    },
+    "hard-candy-flavours-summer-australia-2026": {
+      "slug": "hard-candy-flavours-summer-australia-2026",
+      "title": "Hard Candy Flavours You Need to Try This Summer in Australia",
+      "status": "drafted",
+      "last_attempted_at": "2026-07-20T10:35:12",
+      "post_link": "https://sweetsworld.com.au/?p=74749",
+      "post_id": 74749,
+      "last_error": "",
+      "last_success_at": "2026-07-20T10:35:12"
+    },
+    "top-10-retro-lollies-2026": {
+      "slug": "top-10-retro-lollies-2026",
+      "title": "Top 10 Retro Lollies to Relive Your Childhood in 2026",
+      "status": "drafted",
+      "last_attempted_at": "2026-07-20T10:35:46",
+      "post_link": "https://sweetsworld.com.au/?p=74751",
+      "post_id": 74751,
+      "last_error": "",
+      "last_success_at": "2026-07-20T10:35:46"
+    },
+    "sour-lolly-tasting-party-2026": {
+      "slug": "sour-lolly-tasting-party-2026",
+      "title": "How to Host a Sour Lolly Tasting Party in 2026",
+      "status": "drafted",
+      "last_attempted_at": "2026-07-21T10:32:21",
+      "post_link": "https://sweetsworld.com.au/?p=74775",
+      "post_id": 74775,
+      "last_error": "",
+      "last_success_at": "2026-07-21T10:32:21"
+    },
+    "top-gummy-candy-trends-australia-2026": {
+      "slug": "top-gummy-candy-trends-australia-2026",
+      "title": "Top Gummy Candy Trends in Australia for 2026",
+      "status": "drafted",
+      "last_attempted_at": "2026-07-21T10:32:41",
+      "post_link": "https://sweetsworld.com.au/?p=74779",
+      "post_id": 74779,
+      "last_error": "",
+      "last_success_at": "2026-07-21T10:32:41"
+    },
+    "how-gummy-candy-made-2026": {
+      "slug": "how-gummy-candy-made-2026",
+      "title": "How Gummy Candy is Made: Behind the Scenes in 2026",
+      "status": "drafted",
+      "last_attempted_at": "2026-07-21T10:33:02",
+      "post_link": "https://sweetsworld.com.au/?p=74781",
+      "post_id": 74781,
+      "last_error": "",
+      "last_success_at": "2026-07-21T10:33:02"
+    },
+    "top-10-nostalgic-australian-lollies-2026": {
+      "slug": "top-10-nostalgic-australian-lollies-2026",
+      "title": "Top 10 Nostalgic Australian Lollies to Try in 2026",
+      "status": "drafted",
+      "last_attempted_at": "2026-07-21T10:33:22",
+      "post_link": "https://sweetsworld.com.au/?p=74783",
+      "post_id": 74783,
+      "last_error": "",
+      "last_success_at": "2026-07-21T10:33:22"
+    },
+    "history-iconic-australian-lollies": {
+      "slug": "history-iconic-australian-lollies",
+      "title": "The History of Iconic Australian Lollies: A Sweet Journey",
+      "status": "drafted",
+      "last_attempted_at": "2026-07-21T10:33:42",
+      "post_link": "https://sweetsworld.com.au/?p=74785",
+      "post_id": 74785,
+      "last_error": "",
+      "last_success_at": "2026-07-21T10:33:42"
+    },
+    "healthier-candy-gift-box-options-2026": {
+      "slug": "healthier-candy-gift-box-options-2026",
+      "title": "Healthier Candy Gift Box Options for 2026: Sweet and Guilt-Free",
+      "status": "drafted",
+      "last_attempted_at": "2026-07-22T10:31:29",
+      "post_link": "https://sweetsworld.com.au/?p=74808",
+      "post_id": 74808,
+      "last_error": "",
+      "last_success_at": "2026-07-22T10:31:29"
+    },
+    "best-sour-lolly-brands-2026-comparison": {
+      "slug": "best-sour-lolly-brands-2026-comparison",
+      "title": "Best Sour Lolly Brands in 2026: A Comprehensive Comparison",
+      "status": "drafted",
+      "last_attempted_at": "2026-07-22T10:31:50",
+      "post_link": "https://sweetsworld.com.au/?p=74810",
+      "post_id": 74810,
+      "last_error": "",
+      "last_success_at": "2026-07-22T10:31:50"
+    },
+    "best-retro-lolly-brands-australia-2026": {
+      "slug": "best-retro-lolly-brands-australia-2026",
+      "title": "Best Retro Lolly Brands in Australia for 2026",
+      "status": "drafted",
+      "last_attempted_at": "2026-07-22T10:32:09",
+      "post_link": "https://sweetsworld.com.au/?p=74813",
+      "post_id": 74813,
+      "last_error": "",
+      "last_success_at": "2026-07-22T10:32:09"
+    },
+    "australian-christmas-lollies-2026": {
+      "slug": "australian-christmas-lollies-2026",
+      "title": "Best Australian Christmas Lollies for a Nostalgic 2026 Celebration",
+      "status": "drafted",
+      "last_attempted_at": "2026-07-22T10:32:29",
+      "post_link": "https://sweetsworld.com.au/?p=74815",
+      "post_id": 74815,
+      "last_error": "",
+      "last_success_at": "2026-07-22T10:32:29"
+    },
+    "nostalgic-lollies-aussie-party-2026": {
+      "slug": "nostalgic-lollies-aussie-party-2026",
+      "title": "Nostalgic Lollies That Are Perfect for Your 2026 Aussie Themed Party",
+      "status": "drafted",
+      "last_attempted_at": "2026-07-22T10:32:47",
+      "post_link": "https://sweetsworld.com.au/?p=74817",
+      "post_id": 74817,
+      "last_error": "",
+      "last_success_at": "2026-07-22T10:32:47"
+    },
+    "unique-australian-gummy-candy-2026": {
+      "slug": "unique-australian-gummy-candy-2026",
+      "title": "Exploring the Flavours: Unique Australian Gummy Candy in 2026",
+      "status": "drafted",
+      "last_attempted_at": "2026-07-23T10:31:58",
+      "post_link": "https://sweetsworld.com.au/?p=74838",
+      "post_id": 74838,
+      "last_error": "",
+      "last_success_at": "2026-07-23T10:31:58"
+    },
+    "rediscovering-classic-australian-lollies-2026": {
+      "slug": "rediscovering-classic-australian-lollies-2026",
+      "title": "Rediscovering Classic Australian Lollies: Top Picks for 2026",
+      "status": "drafted",
+      "last_attempted_at": "2026-07-23T10:32:22",
+      "post_link": "https://sweetsworld.com.au/?p=74840",
+      "post_id": 74840,
+      "last_error": "",
+      "last_success_at": "2026-07-23T10:32:22"
+    },
+    "iconic-australian-lollies-still-buy-2026": {
+      "slug": "iconic-australian-lollies-still-buy-2026",
+      "title": "Iconic Australian Lollies You Can Still Buy in 2026",
+      "status": "drafted",
+      "last_attempted_at": "2026-07-23T10:32:39",
+      "post_link": "https://sweetsworld.com.au/?p=74843",
+      "post_id": 74843,
+      "last_error": "",
+      "last_success_at": "2026-07-23T10:32:39"
+    },
+    "ultimate-guide-buying-candy-by-kilo-australia-2026": {
+      "slug": "ultimate-guide-buying-candy-by-kilo-australia-2026",
+      "title": "The Ultimate 2026 Guide to Buying Candy by the Kilo in Australia",
+      "status": "drafted",
+      "last_attempted_at": "2026-07-23T10:32:58",
+      "post_link": "https://sweetsworld.com.au/?p=74845",
+      "post_id": 74845,
+      "last_error": "",
+      "last_success_at": "2026-07-23T10:32:58"
+    },
+    "perfect-lolly-buffet-wedding-2026": {
+      "slug": "perfect-lolly-buffet-wedding-2026",
+      "title": "Create the Perfect Lolly Buffet for Your Wedding in 2026",
+      "status": "drafted",
+      "last_attempted_at": "2026-07-23T10:33:17",
+      "post_link": "https://sweetsworld.com.au/?p=74847",
+      "post_id": 74847,
+      "last_error": "",
+      "last_success_at": "2026-07-23T10:33:17"
     }
   }
 }

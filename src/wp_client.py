@@ -2,6 +2,9 @@
 import base64
 import logging
 import os
+import shlex
+import shutil
+import subprocess
 import time
 from pathlib import PurePosixPath
 from typing import Any, Dict, List, Optional
@@ -561,6 +564,102 @@ class WPClient(BasePublisher):
         except Exception as exc:
             logger.warning(f"WARN: SEO meta write error for post {post_id}: {exc}")
         return False
+
+    def write_seo_meta_via_wpcli(
+        self,
+        post_id: int,
+        keyword: str = "",
+        seo_title: str = "",
+        seo_description: str = "",
+    ) -> bool:
+        """Write rank_math meta over SSH + WP-CLI (`wp post meta update`).
+
+        Cleaner replacement for the wp-seo-meta.php DB bridge: no custom PHP
+        endpoint, no shared token — auth is the SSH key. rank_math_* are plain
+        post-meta rows, so wp-cli writes them directly (verified 2026-07-19).
+        Returns True on success, False on any error (non-fatal).
+
+        Reads connection from env: WP_SSH_HOST / WP_SSH_PORT / WP_SSH_USER /
+        WP_SSH_KEY / WP_CLI_DIR (see sites/<site>/wpcli.env).
+        """
+        host = os.environ.get("WP_SSH_HOST", "").strip()
+        user = os.environ.get("WP_SSH_USER", "").strip()
+        key = os.path.expanduser(os.environ.get("WP_SSH_KEY", "").strip())
+        port = os.environ.get("WP_SSH_PORT", "22").strip() or "22"
+        wp_dir = os.environ.get("WP_CLI_DIR", "~/public_html").strip() or "~/public_html"
+        if not (host and user and key):
+            logger.warning(
+                "WP_SSH_* not configured, skipping wp-cli SEO meta write for post %d", post_id
+            )
+            return False
+
+        # rank_math meta are plain-string post meta. Values are shlex.quote'd so
+        # the REMOTE shell treats them literally (no command injection); post_id
+        # is coerced to int; meta keys are hard-coded constants.
+        fields = {
+            "rank_math_title": seo_title,
+            "rank_math_description": seo_description,
+            "rank_math_focus_keyword": keyword,
+        }
+        # Keep a leading ~ unquoted so the remote shell expands $HOME (quoting ~
+        # breaks `cd`); quote only the remainder so nothing can inject.
+        if wp_dir == "~":
+            cd_cmd = "cd ~"
+        elif wp_dir.startswith("~/"):
+            cd_cmd = "cd ~/" + shlex.quote(wp_dir[2:])
+        else:
+            cd_cmd = "cd " + shlex.quote(wp_dir)
+        parts = [cd_cmd]
+        for meta_key, value in fields.items():
+            parts.append(
+                f"wp post meta update {int(post_id)} {meta_key} {shlex.quote(value)}"
+            )
+        remote_cmd = " && ".join(parts)
+        # Absolute ssh path so a minimal launchd PATH can't force a silent
+        # fallback to the bridge (macOS ssh lives at /usr/bin/ssh).
+        ssh_bin = os.environ.get("SSH_BIN") or shutil.which("ssh") or "/usr/bin/ssh"
+        ssh_cmd = [
+            ssh_bin, "-i", key, "-p", str(port),
+            "-o", "StrictHostKeyChecking=no",
+            "-o", "BatchMode=yes",
+            "-o", "LogLevel=ERROR",
+            "-o", "ConnectTimeout=15",
+            "-T", f"{user}@{host}", remote_cmd,
+        ]
+        try:
+            result = subprocess.run(ssh_cmd, capture_output=True, text=True, timeout=90)
+            if result.returncode == 0:
+                logger.info("  SEO meta (wp-cli) written for post %d", post_id)
+                return True
+            logger.warning(
+                "wp-cli SEO meta write failed for post %d rc=%s err=%s",
+                post_id, result.returncode, (result.stderr or "")[:300],
+            )
+        except Exception as exc:
+            logger.warning("wp-cli SEO meta write error for post %d: %s", post_id, exc)
+        return False
+
+    def write_seo_meta(
+        self,
+        post_id: int,
+        keyword: str = "",
+        seo_title: str = "",
+        seo_description: str = "",
+    ) -> bool:
+        """Dispatch RankMath meta write by SEO_META_WRITE_METHOD env.
+
+        Default ``bridge`` = existing wp-seo-meta.php path (production unchanged).
+        Set ``wpcli`` to use SSH + WP-CLI; on failure it falls back to the bridge
+        so a transient SSH problem never drops the SEO meta write.
+        """
+        method = os.environ.get("SEO_META_WRITE_METHOD", "bridge").strip().lower()
+        if method == "wpcli":
+            if self.write_seo_meta_via_wpcli(post_id, keyword, seo_title, seo_description):
+                return True
+            logger.warning(
+                "wp-cli SEO meta write failed for post %d; falling back to bridge", post_id
+            )
+        return self.write_seo_meta_via_db(post_id, keyword, seo_title, seo_description)
 
     def _extract_slug_from_url(self, url: str) -> str:
         try:

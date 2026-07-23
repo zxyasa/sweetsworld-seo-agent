@@ -46,11 +46,17 @@ def _load_skin(site_dir: Optional[str] = None) -> dict:
                 if not (_valid_from <= _today <= _valid_until):
                     active_skin = "default"
 
-        # Resolve skin file — check site-specific override first, then project root
-        _project_root = Path(__file__).parent.parent
+        # Resolve skin file — check site-specific override first, then monorepo root design-system
+        # (moved from agents/sweetsworld-seo-agent/design-system to agents/design-system on 2026-04-23)
+        _project_root = Path(__file__).parent.parent          # sweetsworld-seo-agent/ (legacy fallback)
+        _monorepo_root = Path(__file__).parents[3]            # /Users/michaelzhao/agents/ (canonical)
         skin_file = Path(site_dir) / "design-system" / "skins" / f"{active_skin}.md"
         if not skin_file.exists():
+            skin_file = _monorepo_root / "design-system" / "skins" / f"{active_skin}.md"
+        if not skin_file.exists():
             skin_file = _project_root / "design-system" / "skins" / f"{active_skin}.md"
+        if not skin_file.exists():
+            skin_file = _monorepo_root / "design-system" / "skins" / "default.md"
         if not skin_file.exists():
             skin_file = _project_root / "design-system" / "skins" / "default.md"
         if not skin_file.exists():

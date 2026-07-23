@@ -1755,8 +1755,10 @@ def main() -> None:
                 wp_result_item = published_post
                 result_status = "published"
                 logger.info(f"  OK: Published post: {post_link}")
-                # Write RankMath meta directly via DB (REST API blocked by plugin permissions)
-                wp_client.write_seo_meta_via_db(
+                # Write RankMath meta (REST API blocked by plugin permissions).
+                # Dispatches by SEO_META_WRITE_METHOD env: default "bridge"
+                # (wp-seo-meta.php), "wpcli" = SSH + wp-cli with bridge fallback.
+                wp_client.write_seo_meta(
                     post_id=int(post_id),
                     keyword=topic.get("primary_keyword", ""),
                     seo_title=seo_title,

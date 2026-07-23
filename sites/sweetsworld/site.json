@@ -75,14 +75,62 @@
     "env_chat_id":   "TELEGRAM_CHAT_ID"
   },
 
-  "active_skin": "default",
-  "skin_valid_from": null,
-  "skin_valid_until": null,
+  "active_skin": "sweetsworld-matchday-2026",
+  "skin_valid_from": "2026-06-04",
+  "skin_valid_until": "2026-07-22",
+
+  "local_business": {
+    "type": "ConfectioneryStore",
+    "name": "SweetsWorld",
+    "telephone": "+61-1300-526-397",
+    "email": "hello@sweetsworld.com.au",
+    "logo": "https://sweetsworld.com.au/wp-content/uploads/2026/04/sweetsworld-logo.webp",
+    "address": {
+      "streetAddress": "Shop 1029, Westfield Kotara",
+      "addressLocality": "Kotara",
+      "addressRegion": "NSW",
+      "postalCode": "2289",
+      "addressCountry": "AU"
+    },
+    "geo": {
+      "latitude": -32.9407,
+      "longitude": 151.6900
+    },
+    "openingHours": [
+      {"days": ["Monday","Tuesday","Wednesday","Thursday","Friday"], "opens": "09:00", "closes": "17:30"},
+      {"days": ["Saturday"], "opens": "09:00", "closes": "17:00"},
+      {"days": ["Sunday"], "opens": "10:00", "closes": "16:00"}
+    ],
+    "priceRange": "$$",
+    "sameAs": [
+      "https://www.facebook.com/sweetsworlds",
+      "https://www.instagram.com/kardskandy"
+    ],
+    "inject_on": ["front_page", "contact"]
+  },
+
+  "gbp": {
+    "account_id": "accounts/116138618738043853534",
+    "location_ids": [
+      "locations/299222400938747233",
+      "locations/14699183411973957643",
+      "locations/12363065843956158235",
+      "locations/5516706521768255332",
+      "locations/2532839834288417758"
+    ],
+    "location_labels": {
+      "locations/299222400938747233": "Kotara (Westfield)",
+      "locations/14699183411973957643": "East Maitland (Greenhills)",
+      "locations/12363065843956158235": "Charlestown (Square)",
+      "locations/5516706521768255332": "Salamander Bay",
+      "locations/2532839834288417758": "Jesmond (Stockland)"
+    }
+  },
 
   "publish": {
-    "daily_limit":           1,
+    "daily_limit":           20,
     "indexing_api_enabled":  true,
-    "auto_publish":          true
+    "auto_publish":          false
   },
 
   "prompt_config": {

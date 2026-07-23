@@ -1,13 +1,13 @@
 {
-  "generated_at": "2026-04-13T00:30:21+00:00",
+  "generated_at": "2026-07-23T00:30:23+00:00",
   "days": 7,
   "decision": "hold",
-  "next_action": "Waiting for GSC impression signal on the 10 live pilot pages. Re-run pilot_gate after 2026-04-14 to check again.",
+  "next_action": "Waiting for GSC impression signal on the 60 live pilot pages. Re-run pilot_gate after 2026-07-24 to check again.",
   "dashboard_report_source": "live",
   "summary": {
-    "published_count": 10,
+    "published_count": 60,
     "approved_count": 0,
-    "reviewed_count": 10,
+    "reviewed_count": 60,
     "qa_pass_rate": 1.0,
     "review_window_days": 14,
     "total_impressions": 0,
@@ -23,16 +23,16 @@
     "ga4_pages_with_data": 0,
     "ga4_pages_high_bounce": 0,
     "ga4_pages_low_duration": 0,
-    "blocking_issue_count": 1,
-    "dashboard_issue_count": 9,
-    "warning_issue_count": 8
+    "blocking_issue_count": 53,
+    "dashboard_issue_count": 58,
+    "warning_issue_count": 5
   },
   "checks": {
     "published_batch_within_expected_range": true,
     "manual_qa_complete": true,
     "no_technical_blockers": false,
     "no_orphaned_records": true,
-    "search_console_review_available": true,
+    "search_console_review_available": false,
     "indexation_signal_present": false,
     "query_intent_fit_present": false,
     "ctr_meets_threshold": true,
@@ -42,18 +42,19 @@
   },
   "blocking_reasons": [
     "technical blockers remain on published pilot pages after filtering soft warnings",
+    "GSC review is required but GSC metrics are not available",
     "no GSC impression signal yet on the published pilot batch",
     "no GSC click/query-fit signal yet on the published pilot batch"
   ],
   "technical_blockers": {
-    "blocking_issue_count": 1,
-    "dashboard_issue_count": 9,
-    "warning_issue_count": 8,
+    "blocking_issue_count": 53,
+    "dashboard_issue_count": 58,
+    "warning_issue_count": 5,
     "blocking_issue_breakdown": {
-      "missing_from_post_sitemap": 1
+      "missing_from_post_sitemap": 53
     },
     "warning_issue_breakdown": {
-      "missing_from_post_sitemap": 8
+      "missing_from_post_sitemap": 5
     },
     "blocking_pages": [
       {
@@ -68,9 +69,7 @@
           }
         ],
         "warnings": []
-      }
-    ],
-    "warning_pages": [
+      },
       {
         "slug": "website-design-newcastle",
         "page_type": "landing_page",
@@ -79,9 +78,10 @@
         "issues": [
           {
             "issue": "missing_from_post_sitemap",
-            "note": "fresh publish (7.0d old); allow sitemap propagation"
+            "note": "not in post sitemap after grace window"
           }
-        ]
+        ],
+        "warnings": []
       },
       {
         "slug": "seo-newcastle-nsw",
@@ -91,9 +91,10 @@
         "issues": [
           {
             "issue": "missing_from_post_sitemap",
-            "note": "fresh publish (6.0d old); allow sitemap propagation"
+            "note": "not in post sitemap after grace window"
           }
-        ]
+        ],
+        "warnings": []
       },
       {
         "slug": "digital-marketing-newcastle",
@@ -103,9 +104,10 @@
         "issues": [
           {
             "issue": "missing_from_post_sitemap",
-            "note": "fresh publish (5.0d old); allow sitemap propagation"
+            "note": "not in post sitemap after grace window"
           }
-        ]
+        ],
+        "warnings": []
       },
       {
         "slug": "newcastle-business-online-presence",
@@ -115,9 +117,10 @@
         "issues": [
           {
             "issue": "missing_from_post_sitemap",
-            "note": "fresh publish (5.0d old); allow sitemap propagation"
+            "note": "not in post sitemap after grace window"
           }
-        ]
+        ],
+        "warnings": []
       },
       {
         "slug": "google-reviews-newcastle",
@@ -127,9 +130,10 @@
         "issues": [
           {
             "issue": "missing_from_post_sitemap",
-            "note": "fresh publish (4.0d old); allow sitemap propagation"
+            "note": "not in post sitemap after grace window"
           }
-        ]
+        ],
+        "warnings": []
       },
       {
         "slug": "local-seo-vs-national-seo",
@@ -139,9 +143,10 @@
         "issues": [
           {
             "issue": "missing_from_post_sitemap",
-            "note": "fresh publish (3.0d old); allow sitemap propagation"
+            "note": "not in post sitemap after grace window"
           }
-        ]
+        ],
+        "warnings": []
       },
       {
         "slug": "best-website-builders-small-business",
@@ -151,15 +156,651 @@
         "issues": [
           {
             "issue": "missing_from_post_sitemap",
-            "note": "fresh publish (2.0d old); allow sitemap propagation"
+            "note": "not in post sitemap after grace window"
           }
-        ]
+        ],
+        "warnings": []
       },
       {
         "slug": "social-media-newcastle",
         "page_type": "landing_page",
         "post_link": "https://newcastlehub.info/social-media-newcastle/",
         "published_at": "2026-04-12T01:00:37",
+        "issues": [
+          {
+            "issue": "missing_from_post_sitemap",
+            "note": "not in post sitemap after grace window"
+          }
+        ],
+        "warnings": []
+      },
+      {
+        "slug": "newcastle-business-directory",
+        "page_type": "landing_page",
+        "post_link": "https://newcastlehub.info/newcastle-business-directory/",
+        "published_at": "2026-04-13T01:00:30",
+        "issues": [
+          {
+            "issue": "missing_from_post_sitemap",
+            "note": "not in post sitemap after grace window"
+          }
+        ],
+        "warnings": []
+      },
+      {
+        "slug": "seo-newcastle-cbd",
+        "page_type": "city_landing_page",
+        "post_link": "https://newcastlehub.info/seo-newcastle-cbd/",
+        "published_at": "2026-04-14T01:00:37",
+        "issues": [
+          {
+            "issue": "missing_from_post_sitemap",
+            "note": "not in post sitemap after grace window"
+          }
+        ],
+        "warnings": []
+      },
+      {
+        "slug": "seo-hunter-valley",
+        "page_type": "city_landing_page",
+        "post_link": "https://newcastlehub.info/seo-hunter-valley/",
+        "published_at": "2026-04-15T01:00:53",
+        "issues": [
+          {
+            "issue": "missing_from_post_sitemap",
+            "note": "not in post sitemap after grace window"
+          }
+        ],
+        "warnings": []
+      },
+      {
+        "slug": "seo-lake-macquarie",
+        "page_type": "city_landing_page",
+        "post_link": "https://newcastlehub.info/seo-lake-macquarie/",
+        "published_at": "2026-04-16T01:00:40",
+        "issues": [
+          {
+            "issue": "missing_from_post_sitemap",
+            "note": "not in post sitemap after grace window"
+          }
+        ],
+        "warnings": []
+      },
+      {
+        "slug": "website-speed-newcastle",
+        "page_type": "guide_page",
+        "post_link": "https://newcastlehub.info/website-speed-newcastle/",
+        "published_at": "2026-04-17T01:00:46",
+        "issues": [
+          {
+            "issue": "missing_from_post_sitemap",
+            "note": "not in post sitemap after grace window"
+          }
+        ],
+        "warnings": []
+      },
+      {
+        "slug": "content-marketing-newcastle",
+        "page_type": "guide_page",
+        "post_link": "https://newcastlehub.info/content-marketing-newcastle/",
+        "published_at": "2026-05-10T01:00:23",
+        "issues": [
+          {
+            "issue": "missing_from_post_sitemap",
+            "note": "not in post sitemap after grace window"
+          }
+        ],
+        "warnings": []
+      },
+      {
+        "slug": "email-marketing-newcastle",
+        "page_type": "guide_page",
+        "post_link": "https://newcastlehub.info/email-marketing-newcastle/",
+        "published_at": "2026-05-11T01:00:32",
+        "issues": [
+          {
+            "issue": "missing_from_post_sitemap",
+            "note": "not in post sitemap after grace window"
+          }
+        ],
+        "warnings": []
+      },
+      {
+        "slug": "citation-building-newcastle",
+        "page_type": "guide_page",
+        "post_link": "https://newcastlehub.info/citation-building-newcastle/",
+        "published_at": "2026-05-12T01:00:27",
+        "issues": [
+          {
+            "issue": "missing_from_post_sitemap",
+            "note": "not in post sitemap after grace window"
+          }
+        ],
+        "warnings": []
+      },
+      {
+        "slug": "technical-seo-newcastle",
+        "page_type": "guide_page",
+        "post_link": "https://newcastlehub.info/technical-seo-newcastle/",
+        "published_at": "2026-05-26T01:00:27",
+        "issues": [
+          {
+            "issue": "missing_from_post_sitemap",
+            "note": "not in post sitemap after grace window"
+          }
+        ],
+        "warnings": []
+      },
+      {
+        "slug": "how-to-rank-google-maps-newcastle",
+        "page_type": "guide_page",
+        "post_link": "https://newcastlehub.info/how-to-rank-google-maps-newcastle/",
+        "published_at": "2026-06-02T01:00:45",
+        "issues": [
+          {
+            "issue": "missing_from_post_sitemap",
+            "note": "not in post sitemap after grace window"
+          }
+        ],
+        "warnings": []
+      },
+      {
+        "slug": "newcastle-digital-marketing-faq",
+        "page_type": "faq_page",
+        "post_link": "https://newcastlehub.info/newcastle-digital-marketing-faq/",
+        "published_at": "2026-06-03T01:00:42",
+        "issues": [
+          {
+            "issue": "missing_from_post_sitemap",
+            "note": "not in post sitemap after grace window"
+          }
+        ],
+        "warnings": []
+      },
+      {
+        "slug": "local-seo-faq-newcastle",
+        "page_type": "faq_page",
+        "post_link": "https://newcastlehub.info/local-seo-faq-newcastle/",
+        "published_at": "2026-06-04T01:00:38",
+        "issues": [
+          {
+            "issue": "missing_from_post_sitemap",
+            "note": "not in post sitemap after grace window"
+          }
+        ],
+        "warnings": []
+      },
+      {
+        "slug": "best-australian-christmas-candy-gift-ideas-2026",
+        "page_type": "landing_page",
+        "post_link": "https://newcastlehub.info/best-australian-christmas-candy-gift-ideas-2026/",
+        "published_at": "2026-05-13T01:00:37",
+        "issues": [
+          {
+            "issue": "missing_from_post_sitemap",
+            "note": "not in post sitemap after grace window"
+          }
+        ],
+        "warnings": []
+      },
+      {
+        "slug": "top-australian-candy-brands-2026",
+        "page_type": "landing_page",
+        "post_link": "https://newcastlehub.info/top-australian-candy-brands-2026/",
+        "published_at": "2026-05-14T01:00:36",
+        "issues": [
+          {
+            "issue": "missing_from_post_sitemap",
+            "note": "not in post sitemap after grace window"
+          }
+        ],
+        "warnings": []
+      },
+      {
+        "slug": "top-10-australian-candies-2026",
+        "page_type": "landing_page",
+        "post_link": "https://newcastlehub.info/top-10-australian-candies-2026/",
+        "published_at": "2026-05-15T01:00:39",
+        "issues": [
+          {
+            "issue": "missing_from_post_sitemap",
+            "note": "not in post sitemap after grace window"
+          }
+        ],
+        "warnings": []
+      },
+      {
+        "slug": "healthy-candy-options-australia-2026",
+        "page_type": "landing_page",
+        "post_link": "https://newcastlehub.info/healthy-candy-options-australia-2026/",
+        "published_at": "2026-05-16T01:00:35",
+        "issues": [
+          {
+            "issue": "missing_from_post_sitemap",
+            "note": "not in post sitemap after grace window"
+          }
+        ],
+        "warnings": []
+      },
+      {
+        "slug": "buying-candy-online-australia-2026",
+        "page_type": "landing_page",
+        "post_link": "https://newcastlehub.info/buying-candy-online-australia-2026/",
+        "published_at": "2026-05-17T01:00:21",
+        "issues": [
+          {
+            "issue": "missing_from_post_sitemap",
+            "note": "not in post sitemap after grace window"
+          }
+        ],
+        "warnings": []
+      },
+      {
+        "slug": "top-australian-confectionery-brands-2026",
+        "page_type": "landing_page",
+        "post_link": "https://newcastlehub.info/top-australian-confectionery-brands-2026/",
+        "published_at": "2026-05-18T01:00:57",
+        "issues": [
+          {
+            "issue": "missing_from_post_sitemap",
+            "note": "not in post sitemap after grace window"
+          }
+        ],
+        "warnings": []
+      },
+      {
+        "slug": "sugar-free-candy-australia-2026",
+        "page_type": "landing_page",
+        "post_link": "https://newcastlehub.info/sugar-free-candy-australia-2026/",
+        "published_at": "2026-05-19T01:00:45",
+        "issues": [
+          {
+            "issue": "missing_from_post_sitemap",
+            "note": "not in post sitemap after grace window"
+          }
+        ],
+        "warnings": []
+      },
+      {
+        "slug": "buying-bulk-candy-australia-2026",
+        "page_type": "landing_page",
+        "post_link": "https://newcastlehub.info/buying-bulk-candy-australia-2026/",
+        "published_at": "2026-05-21T01:00:22",
+        "issues": [
+          {
+            "issue": "missing_from_post_sitemap",
+            "note": "not in post sitemap after grace window"
+          }
+        ],
+        "warnings": []
+      },
+      {
+        "slug": "vegan-candy-australia-2026",
+        "page_type": "landing_page",
+        "post_link": "https://newcastlehub.info/vegan-candy-australia-2026/",
+        "published_at": "2026-05-22T01:00:28",
+        "issues": [
+          {
+            "issue": "missing_from_post_sitemap",
+            "note": "not in post sitemap after grace window"
+          }
+        ],
+        "warnings": []
+      },
+      {
+        "slug": "aussie-easter-candy-trends-2026",
+        "page_type": "landing_page",
+        "post_link": "https://newcastlehub.info/aussie-easter-candy-trends-2026/",
+        "published_at": "2026-05-24T01:00:16",
+        "issues": [
+          {
+            "issue": "missing_from_post_sitemap",
+            "note": "not in post sitemap after grace window"
+          }
+        ],
+        "warnings": []
+      },
+      {
+        "slug": "easter-candy-trends-australia-2026",
+        "page_type": "landing_page",
+        "post_link": "https://newcastlehub.info/easter-candy-trends-australia-2026/",
+        "published_at": "2026-05-25T01:00:25",
+        "issues": [
+          {
+            "issue": "missing_from_post_sitemap",
+            "note": "not in post sitemap after grace window"
+          }
+        ],
+        "warnings": []
+      },
+      {
+        "slug": "candy-gift-ideas-christmas-2026",
+        "page_type": "landing_page",
+        "post_link": "https://newcastlehub.info/candy-gift-ideas-christmas-2026/",
+        "published_at": "2026-05-27T01:00:26",
+        "issues": [
+          {
+            "issue": "missing_from_post_sitemap",
+            "note": "not in post sitemap after grace window"
+          }
+        ],
+        "warnings": []
+      },
+      {
+        "slug": "candy-buffet-tips-2026",
+        "page_type": "landing_page",
+        "post_link": "https://newcastlehub.info/candy-buffet-tips-2026/",
+        "published_at": "2026-05-28T01:00:30",
+        "issues": [
+          {
+            "issue": "missing_from_post_sitemap",
+            "note": "not in post sitemap after grace window"
+          }
+        ],
+        "warnings": []
+      },
+      {
+        "slug": "history-of-candy-in-australia-2026",
+        "page_type": "landing_page",
+        "post_link": "https://newcastlehub.info/history-of-candy-in-australia-2026/",
+        "published_at": "2026-05-29T01:00:33",
+        "issues": [
+          {
+            "issue": "missing_from_post_sitemap",
+            "note": "not in post sitemap after grace window"
+          }
+        ],
+        "warnings": []
+      },
+      {
+        "slug": "candy-buffet-weddings-australia-2026",
+        "page_type": "landing_page",
+        "post_link": "https://newcastlehub.info/candy-buffet-weddings-australia-2026/",
+        "published_at": "2026-05-30T01:00:49",
+        "issues": [
+          {
+            "issue": "missing_from_post_sitemap",
+            "note": "not in post sitemap after grace window"
+          }
+        ],
+        "warnings": []
+      },
+      {
+        "slug": "homemade-candy-recipes-2026",
+        "page_type": "landing_page",
+        "post_link": "https://newcastlehub.info/homemade-candy-recipes-2026/",
+        "published_at": "2026-05-31T01:00:33",
+        "issues": [
+          {
+            "issue": "missing_from_post_sitemap",
+            "note": "not in post sitemap after grace window"
+          }
+        ],
+        "warnings": []
+      },
+      {
+        "slug": "best-chocolate-brands-australia-2026",
+        "page_type": "landing_page",
+        "post_link": "https://newcastlehub.info/best-chocolate-brands-australia-2026/",
+        "published_at": "2026-06-01T01:00:31",
+        "issues": [
+          {
+            "issue": "missing_from_post_sitemap",
+            "note": "not in post sitemap after grace window"
+          }
+        ],
+        "warnings": []
+      },
+      {
+        "slug": "healthier-candy-options-2026",
+        "page_type": "landing_page",
+        "post_link": "https://newcastlehub.info/healthier-candy-options-2026/",
+        "published_at": "2026-06-05T01:00:36",
+        "issues": [
+          {
+            "issue": "missing_from_post_sitemap",
+            "note": "not in post sitemap after grace window"
+          }
+        ],
+        "warnings": []
+      },
+      {
+        "slug": "best-easter-candy-hampers-2026",
+        "page_type": "landing_page",
+        "post_link": "https://newcastlehub.info/best-easter-candy-hampers-2026/",
+        "published_at": "2026-06-06T01:00:37",
+        "issues": [
+          {
+            "issue": "missing_from_post_sitemap",
+            "note": "not in post sitemap after grace window"
+          }
+        ],
+        "warnings": []
+      },
+      {
+        "slug": "candy-packaging-trends-australia-2026",
+        "page_type": "landing_page",
+        "post_link": "https://newcastlehub.info/candy-packaging-trends-australia-2026/",
+        "published_at": "2026-06-07T01:00:28",
+        "issues": [
+          {
+            "issue": "missing_from_post_sitemap",
+            "note": "not in post sitemap after grace window"
+          }
+        ],
+        "warnings": []
+      },
+      {
+        "slug": "best-lollies-kids-parties-australia-2026",
+        "page_type": "landing_page",
+        "post_link": "https://newcastlehub.info/best-lollies-kids-parties-australia-2026/",
+        "published_at": "2026-06-08T01:00:41",
+        "issues": [
+          {
+            "issue": "missing_from_post_sitemap",
+            "note": "not in post sitemap after grace window"
+          }
+        ],
+        "warnings": []
+      },
+      {
+        "slug": "easter-candy-ideas-2026",
+        "page_type": "landing_page",
+        "post_link": "https://newcastlehub.info/easter-candy-ideas-2026/",
+        "published_at": "2026-06-09T01:00:44",
+        "issues": [
+          {
+            "issue": "missing_from_post_sitemap",
+            "note": "not in post sitemap after grace window"
+          }
+        ],
+        "warnings": []
+      },
+      {
+        "slug": "candy-tasting-party-ideas-2026",
+        "page_type": "landing_page",
+        "post_link": "https://newcastlehub.info/candy-tasting-party-ideas-2026/",
+        "published_at": "2026-06-14T01:00:37",
+        "issues": [
+          {
+            "issue": "missing_from_post_sitemap",
+            "note": "not in post sitemap after grace window"
+          }
+        ],
+        "warnings": []
+      },
+      {
+        "slug": "candy-themed-party-ideas-2026",
+        "page_type": "landing_page",
+        "post_link": "https://newcastlehub.info/candy-themed-party-ideas-2026/",
+        "published_at": "2026-06-19T01:00:45",
+        "issues": [
+          {
+            "issue": "missing_from_post_sitemap",
+            "note": "not in post sitemap after grace window"
+          }
+        ],
+        "warnings": []
+      },
+      {
+        "slug": "easter-candy-deals-2026",
+        "page_type": "landing_page",
+        "post_link": "https://newcastlehub.info/easter-candy-deals-2026/",
+        "published_at": "2026-06-20T01:00:39",
+        "issues": [
+          {
+            "issue": "missing_from_post_sitemap",
+            "note": "not in post sitemap after grace window"
+          }
+        ],
+        "warnings": []
+      },
+      {
+        "slug": "aussie-vs-international-candy-2026",
+        "page_type": "landing_page",
+        "post_link": "https://newcastlehub.info/aussie-vs-international-candy-2026/",
+        "published_at": "2026-06-21T01:00:38",
+        "issues": [
+          {
+            "issue": "missing_from_post_sitemap",
+            "note": "not in post sitemap after grace window"
+          }
+        ],
+        "warnings": []
+      },
+      {
+        "slug": "halloween-candy-deals-australia-2026",
+        "page_type": "landing_page",
+        "post_link": "https://newcastlehub.info/halloween-candy-deals-australia-2026/",
+        "published_at": "2026-06-25T01:01:17",
+        "issues": [
+          {
+            "issue": "missing_from_post_sitemap",
+            "note": "not in post sitemap after grace window"
+          }
+        ],
+        "warnings": []
+      },
+      {
+        "slug": "diy-candy-recipes-2026",
+        "page_type": "landing_page",
+        "post_link": "https://newcastlehub.info/diy-candy-recipes-2026/",
+        "published_at": "2026-06-27T01:01:09",
+        "issues": [
+          {
+            "issue": "missing_from_post_sitemap",
+            "note": "not in post sitemap after grace window"
+          }
+        ],
+        "warnings": []
+      },
+      {
+        "slug": "aussie-vs-american-candy-showdown-2026",
+        "page_type": "landing_page",
+        "post_link": "https://newcastlehub.info/aussie-vs-american-candy-showdown-2026/",
+        "published_at": "2026-06-28T01:01:16",
+        "issues": [
+          {
+            "issue": "missing_from_post_sitemap",
+            "note": "not in post sitemap after grace window"
+          }
+        ],
+        "warnings": []
+      },
+      {
+        "slug": "sweetest-brands-candy-reviews-2026",
+        "page_type": "landing_page",
+        "post_link": "https://newcastlehub.info/sweetest-brands-candy-reviews-2026/",
+        "published_at": "2026-06-29T01:01:44",
+        "issues": [
+          {
+            "issue": "missing_from_post_sitemap",
+            "note": "not in post sitemap after grace window"
+          }
+        ],
+        "warnings": []
+      },
+      {
+        "slug": "best-candy-gift-hampers-australia-2026",
+        "page_type": "landing_page",
+        "post_link": "https://newcastlehub.info/best-candy-gift-hampers-australia-2026/",
+        "published_at": "2026-07-03T01:01:23",
+        "issues": [
+          {
+            "issue": "missing_from_post_sitemap",
+            "note": "not in post sitemap after grace window"
+          }
+        ],
+        "warnings": []
+      },
+      {
+        "slug": "popular-lollies-taste-test-australia-2026",
+        "page_type": "landing_page",
+        "post_link": "https://newcastlehub.info/popular-lollies-taste-test-australia-2026/",
+        "published_at": "2026-07-07T01:00:52",
+        "issues": [
+          {
+            "issue": "missing_from_post_sitemap",
+            "note": "not in post sitemap after grace window"
+          }
+        ],
+        "warnings": []
+      }
+    ],
+    "warning_pages": [
+      {
+        "slug": "best-easter-chocolates-australia-2026",
+        "page_type": "landing_page",
+        "post_link": "https://newcastlehub.info/best-easter-chocolates-australia-2026/",
+        "published_at": "2026-07-17T01:00:57",
+        "issues": [
+          {
+            "issue": "missing_from_post_sitemap",
+            "note": "fresh publish (6.0d old); allow sitemap propagation"
+          }
+        ]
+      },
+      {
+        "slug": "candy-making-classes-australia-2026",
+        "page_type": "landing_page",
+        "post_link": "https://newcastlehub.info/candy-making-classes-australia-2026/",
+        "published_at": "2026-07-19T01:01:24",
+        "issues": [
+          {
+            "issue": "missing_from_post_sitemap",
+            "note": "fresh publish (4.0d old); allow sitemap propagation"
+          }
+        ]
+      },
+      {
+        "slug": "ultimate-guide-custom-candy-gift-box-2026",
+        "page_type": "landing_page",
+        "post_link": "https://newcastlehub.info/ultimate-guide-custom-candy-gift-box-2026/",
+        "published_at": "2026-07-20T01:01:31",
+        "issues": [
+          {
+            "issue": "missing_from_post_sitemap",
+            "note": "fresh publish (3.0d old); allow sitemap propagation"
+          }
+        ]
+      },
+      {
+        "slug": "2026-best-candy-gift-boxes-brand-comparison",
+        "page_type": "landing_page",
+        "post_link": "https://newcastlehub.info/2026-best-candy-gift-boxes-brand-comparison/",
+        "published_at": "2026-07-21T01:00:37",
+        "issues": [
+          {
+            "issue": "missing_from_post_sitemap",
+            "note": "fresh publish (2.0d old); allow sitemap propagation"
+          }
+        ]
+      },
+      {
+        "slug": "top-10-sour-lollies-australia-2026",
+        "page_type": "landing_page",
+        "post_link": "https://newcastlehub.info/top-10-sour-lollies-australia-2026/",
+        "published_at": "2026-07-22T01:00:52",
         "issues": [
           {
             "issue": "missing_from_post_sitemap",
@@ -191,16 +832,37 @@
   },
   "approved_queue": [],
   "dashboard_report": {
-    "generated_at": "2026-04-13T00:30:21+00:00",
+    "generated_at": "2026-07-23T00:30:23+00:00",
     "days": 7,
-    "published_count": 10,
-    "blocking_issue_count": 9,
-    "gsc_enabled": true,
-    "gsc_error": "",
+    "published_count": 60,
+    "blocking_issue_count": 58,
+    "gsc_enabled": false,
+    "gsc_error": "USE_GSC_DATA=false",
     "ga4_enabled": false,
     "ga4_error": "",
     "sitemap_error": "",
     "pages": [
+      {
+        "slug": "local-seo-newcastle",
+        "keyword": "local seo newcastle",
+        "page_type": "guide_page",
+        "post_link": "https://newcastlehub.info/local-seo-newcastle/",
+        "published_at": "2026-04-01T09:16:10",
+        "wp_modified": "2026-04-01T09:36:26",
+        "health": {
+          "status_code": 200,
+          "final_url": "https://newcastlehub.info/local-seo-newcastle/",
+          "title": "Local SEO Newcastle \u2014 Complete Guide | Newcastle Hub",
+          "meta_description": "Local SEO Newcastle \u2014 Complete Guide. Compare stock options, buying factors, and the best next steps for local seo newcastle in Australia.",
+          "canonical": "https://newcastlehub.info/local-seo-newcastle/",
+          "h1_count": 1,
+          "noindex": false
+        },
+        "in_post_sitemap": true,
+        "gsc": null,
+        "ga4": null,
+        "issues": []
+      },
       {
         "slug": "google-business-profile-newcastle",
         "keyword": "google business profile newcastle",
@@ -218,13 +880,7 @@
           "noindex": false
         },
         "in_post_sitemap": true,
-        "gsc": {
-          "clicks": 0,
-          "impressions": 0,
-          "ctr": 0.0,
-          "position": 0.0,
-          "top_queries": []
-        },
+        "gsc": null,
         "ga4": null,
         "issues": []
       },
@@ -245,13 +901,7 @@
           "noindex": false
         },
         "in_post_sitemap": false,
-        "gsc": {
-          "clicks": 0,
-          "impressions": 0,
-          "ctr": 0.0,
-          "position": 0.0,
-          "top_queries": []
-        },
+        "gsc": null,
         "ga4": null,
         "issues": [
           "missing_from_post_sitemap"
@@ -274,13 +924,7 @@
           "noindex": false
         },
         "in_post_sitemap": false,
-        "gsc": {
-          "clicks": 0,
-          "impressions": 0,
-          "ctr": 0.0,
-          "position": 0.0,
-          "top_queries": []
-        },
+        "gsc": null,
         "ga4": null,
         "issues": [
           "missing_from_post_sitemap"
@@ -303,13 +947,7 @@
           "noindex": false
         },
         "in_post_sitemap": false,
-        "gsc": {
-          "clicks": 0,
-          "impressions": 0,
-          "ctr": 0.0,
-          "position": 0.0,
-          "top_queries": []
-        },
+        "gsc": null,
         "ga4": null,
         "issues": [
           "missing_from_post_sitemap"
@@ -332,13 +970,7 @@
           "noindex": false
         },
         "in_post_sitemap": false,
-        "gsc": {
-          "clicks": 0,
-          "impressions": 0,
-          "ctr": 0.0,
-          "position": 0.0,
-          "top_queries": []
-        },
+        "gsc": null,
         "ga4": null,
         "issues": [
           "missing_from_post_sitemap"
@@ -361,13 +993,7 @@
           "noindex": false
         },
         "in_post_sitemap": false,
-        "gsc": {
-          "clicks": 0,
-          "impressions": 0,
-          "ctr": 0.0,
-          "position": 0.0,
-          "top_queries": []
-        },
+        "gsc": null,
         "ga4": null,
         "issues": [
           "missing_from_post_sitemap"
@@ -390,13 +1016,7 @@
           "noindex": false
         },
         "in_post_sitemap": false,
-        "gsc": {
-          "clicks": 0,
-          "impressions": 0,
-          "ctr": 0.0,
-          "position": 0.0,
-          "top_queries": []
-        },
+        "gsc": null,
         "ga4": null,
         "issues": [
           "missing_from_post_sitemap"
@@ -419,13 +1039,7 @@
           "noindex": false
         },
         "in_post_sitemap": false,
-        "gsc": {
-          "clicks": 0,
-          "impressions": 0,
-          "ctr": 0.0,
-          "position": 0.0,
-          "top_queries": []
-        },
+        "gsc": null,
         "ga4": null,
         "issues": [
           "missing_from_post_sitemap"
@@ -448,13 +1062,7 @@
           "noindex": false
         },
         "in_post_sitemap": false,
-        "gsc": {
-          "clicks": 0,
-          "impressions": 0,
-          "ctr": 0.0,
-          "position": 0.0,
-          "top_queries": []
-        },
+        "gsc": null,
         "ga4": null,
         "issues": [
           "missing_from_post_sitemap"
@@ -477,13 +1085,1134 @@
           "noindex": false
         },
         "in_post_sitemap": false,
-        "gsc": {
-          "clicks": 0,
-          "impressions": 0,
-          "ctr": 0.0,
-          "position": 0.0,
-          "top_queries": []
+        "gsc": null,
+        "ga4": null,
+        "issues": [
+          "missing_from_post_sitemap"
+        ]
+      },
+      {
+        "slug": "newcastle-business-directory",
+        "keyword": "newcastle business directory",
+        "page_type": "landing_page",
+        "post_link": "https://newcastlehub.info/newcastle-business-directory/",
+        "published_at": "2026-04-13T01:00:30",
+        "wp_modified": "2026-04-13T01:00:30",
+        "health": {
+          "status_code": 200,
+          "final_url": "https://newcastlehub.info/newcastle-business-directory/",
+          "title": "Newcastle Business Directory \u2014 Get Listed Online - Newcastle Hub Info",
+          "meta_description": "Newcastle Business Directory \u2014 Get Listed Online. Compare stock options, buying factors, and the best next steps for newcastle business directory in...",
+          "canonical": "https://newcastlehub.info/newcastle-business-directory/",
+          "h1_count": 1,
+          "noindex": false
         },
+        "in_post_sitemap": false,
+        "gsc": null,
+        "ga4": null,
+        "issues": [
+          "missing_from_post_sitemap"
+        ]
+      },
+      {
+        "slug": "seo-newcastle-cbd",
+        "keyword": "seo newcastle cbd",
+        "page_type": "city_landing_page",
+        "post_link": "https://newcastlehub.info/seo-newcastle-cbd/",
+        "published_at": "2026-04-14T01:00:37",
+        "wp_modified": "2026-04-14T01:00:37",
+        "health": {
+          "status_code": 200,
+          "final_url": "https://newcastlehub.info/seo-newcastle-cbd/",
+          "title": "SEO Services for Newcastle CBD Businesses - Newcastle Hub Info",
+          "meta_description": "SEO Services for Newcastle CBD Businesses. Find seo newcastle cbd in newcastle. Compare options, pricing, and availability from trusted Newcastle, NSW...",
+          "canonical": "https://newcastlehub.info/seo-newcastle-cbd/",
+          "h1_count": 1,
+          "noindex": false
+        },
+        "in_post_sitemap": false,
+        "gsc": null,
+        "ga4": null,
+        "issues": [
+          "missing_from_post_sitemap"
+        ]
+      },
+      {
+        "slug": "seo-hunter-valley",
+        "keyword": "seo hunter valley",
+        "page_type": "city_landing_page",
+        "post_link": "https://newcastlehub.info/seo-hunter-valley/",
+        "published_at": "2026-04-15T01:00:53",
+        "wp_modified": "2026-04-15T01:00:53",
+        "health": {
+          "status_code": 200,
+          "final_url": "https://newcastlehub.info/seo-hunter-valley/",
+          "title": "SEO Services Hunter Valley NSW - Newcastle Hub Info",
+          "meta_description": "SEO Services Hunter Valley NSW. Find seo hunter valley in your city. Compare options, pricing, and availability from trusted Newcastle, NSW seo providers.",
+          "canonical": "https://newcastlehub.info/seo-hunter-valley/",
+          "h1_count": 1,
+          "noindex": false
+        },
+        "in_post_sitemap": false,
+        "gsc": null,
+        "ga4": null,
+        "issues": [
+          "missing_from_post_sitemap"
+        ]
+      },
+      {
+        "slug": "seo-lake-macquarie",
+        "keyword": "seo lake macquarie",
+        "page_type": "city_landing_page",
+        "post_link": "https://newcastlehub.info/seo-lake-macquarie/",
+        "published_at": "2026-04-16T01:00:40",
+        "wp_modified": "2026-04-16T01:00:40",
+        "health": {
+          "status_code": 200,
+          "final_url": "https://newcastlehub.info/seo-lake-macquarie/",
+          "title": "SEO Services Lake Macquarie NSW - Newcastle Hub Info",
+          "meta_description": "SEO Services Lake Macquarie NSW. Find seo lake macquarie in your city. Compare options, pricing, and availability from trusted Newcastle, NSW seo...",
+          "canonical": "https://newcastlehub.info/seo-lake-macquarie/",
+          "h1_count": 1,
+          "noindex": false
+        },
+        "in_post_sitemap": false,
+        "gsc": null,
+        "ga4": null,
+        "issues": [
+          "missing_from_post_sitemap"
+        ]
+      },
+      {
+        "slug": "website-speed-newcastle",
+        "keyword": "website speed newcastle",
+        "page_type": "guide_page",
+        "post_link": "https://newcastlehub.info/website-speed-newcastle/",
+        "published_at": "2026-04-17T01:00:46",
+        "wp_modified": "2026-04-17T01:00:46",
+        "health": {
+          "status_code": 200,
+          "final_url": "https://newcastlehub.info/website-speed-newcastle/",
+          "title": "Why Your Newcastle Business Website is Slow (and How to Fix It) - Newcastle Hub Info",
+          "meta_description": "Why Your Newcastle Business Website is Slow (and How to Fix It). Compare stock options, buying factors, and the best next steps for website speed...",
+          "canonical": "https://newcastlehub.info/website-speed-newcastle/",
+          "h1_count": 1,
+          "noindex": false
+        },
+        "in_post_sitemap": false,
+        "gsc": null,
+        "ga4": null,
+        "issues": [
+          "missing_from_post_sitemap"
+        ]
+      },
+      {
+        "slug": "content-marketing-newcastle",
+        "keyword": "content marketing newcastle",
+        "page_type": "guide_page",
+        "post_link": "https://newcastlehub.info/content-marketing-newcastle/",
+        "published_at": "2026-05-10T01:00:23",
+        "wp_modified": "2026-05-10T01:00:23",
+        "health": {
+          "status_code": 200,
+          "final_url": "https://newcastlehub.info/content-marketing-newcastle/",
+          "title": "Content Marketing for Newcastle Businesses \u2014 A Practical Guide - Newcastle Hub Info",
+          "meta_description": "Content Marketing for Newcastle Businesses \u2014 A Practical Guide. Compare stock options, buying factors, and the best next steps for content marketing...",
+          "canonical": "https://newcastlehub.info/content-marketing-newcastle/",
+          "h1_count": 1,
+          "noindex": false
+        },
+        "in_post_sitemap": false,
+        "gsc": null,
+        "ga4": null,
+        "issues": [
+          "missing_from_post_sitemap"
+        ]
+      },
+      {
+        "slug": "email-marketing-newcastle",
+        "keyword": "email marketing newcastle",
+        "page_type": "guide_page",
+        "post_link": "https://newcastlehub.info/email-marketing-newcastle/",
+        "published_at": "2026-05-11T01:00:32",
+        "wp_modified": "2026-05-11T01:00:32",
+        "health": {
+          "status_code": 200,
+          "final_url": "https://newcastlehub.info/email-marketing-newcastle/",
+          "title": "Email Marketing for Newcastle Small Businesses - Newcastle Hub Info",
+          "meta_description": "Email Marketing for Newcastle Small Businesses. Compare stock options, buying factors, and the best next steps for email marketing newcastle in Australia.",
+          "canonical": "https://newcastlehub.info/email-marketing-newcastle/",
+          "h1_count": 1,
+          "noindex": false
+        },
+        "in_post_sitemap": false,
+        "gsc": null,
+        "ga4": null,
+        "issues": [
+          "missing_from_post_sitemap"
+        ]
+      },
+      {
+        "slug": "citation-building-newcastle",
+        "keyword": "local citations newcastle",
+        "page_type": "guide_page",
+        "post_link": "https://newcastlehub.info/citation-building-newcastle/",
+        "published_at": "2026-05-12T01:00:27",
+        "wp_modified": "2026-05-12T01:00:27",
+        "health": {
+          "status_code": 200,
+          "final_url": "https://newcastlehub.info/citation-building-newcastle/",
+          "title": "What Are Local Citations and Why Does Your Newcastle Business Need Them - Newcastle Hub Info",
+          "meta_description": "What Are Local Citations and Why Does Your Newcastle Business Need Them. Compare stock options, buying factors, and the best next steps for local...",
+          "canonical": "https://newcastlehub.info/citation-building-newcastle/",
+          "h1_count": 1,
+          "noindex": false
+        },
+        "in_post_sitemap": false,
+        "gsc": null,
+        "ga4": null,
+        "issues": [
+          "missing_from_post_sitemap"
+        ]
+      },
+      {
+        "slug": "technical-seo-newcastle",
+        "keyword": "technical seo audit",
+        "page_type": "guide_page",
+        "post_link": "https://newcastlehub.info/technical-seo-newcastle/",
+        "published_at": "2026-05-26T01:00:27",
+        "wp_modified": "2026-05-26T01:00:27",
+        "health": {
+          "status_code": 200,
+          "final_url": "https://newcastlehub.info/technical-seo-newcastle/",
+          "title": "Technical SEO Checklist for Newcastle Business Websites - Newcastle Hub Info",
+          "meta_description": "Technical SEO Checklist for Newcastle Business Websites. Compare stock options, buying factors, and the best next steps for technical seo audit in...",
+          "canonical": "https://newcastlehub.info/technical-seo-newcastle/",
+          "h1_count": 1,
+          "noindex": false
+        },
+        "in_post_sitemap": false,
+        "gsc": null,
+        "ga4": null,
+        "issues": [
+          "missing_from_post_sitemap"
+        ]
+      },
+      {
+        "slug": "how-to-rank-google-maps-newcastle",
+        "keyword": "rank google maps newcastle",
+        "page_type": "guide_page",
+        "post_link": "https://newcastlehub.info/how-to-rank-google-maps-newcastle/",
+        "published_at": "2026-06-02T01:00:45",
+        "wp_modified": "2026-06-02T01:00:45",
+        "health": {
+          "status_code": 200,
+          "final_url": "https://newcastlehub.info/how-to-rank-google-maps-newcastle/",
+          "title": "How to Rank on Google Maps in Newcastle - Newcastle Hub Info",
+          "meta_description": "How to Rank on Google Maps in Newcastle. Compare stock options, buying factors, and the best next steps for rank google maps newcastle in Australia.",
+          "canonical": "https://newcastlehub.info/how-to-rank-google-maps-newcastle/",
+          "h1_count": 1,
+          "noindex": false
+        },
+        "in_post_sitemap": false,
+        "gsc": null,
+        "ga4": null,
+        "issues": [
+          "missing_from_post_sitemap"
+        ]
+      },
+      {
+        "slug": "newcastle-digital-marketing-faq",
+        "keyword": "digital marketing faq newcastle",
+        "page_type": "faq_page",
+        "post_link": "https://newcastlehub.info/newcastle-digital-marketing-faq/",
+        "published_at": "2026-06-03T01:00:42",
+        "wp_modified": "2026-06-03T01:00:42",
+        "health": {
+          "status_code": 200,
+          "final_url": "https://newcastlehub.info/newcastle-digital-marketing-faq/",
+          "title": "Newcastle Digital Marketing \u2014 Frequently Asked Questions - Newcastle Hub Info",
+          "meta_description": "Newcastle Digital Marketing \u2014 Frequently Asked Questions. Quick answers about ingredients, suitability, where to buy, and alternatives for digital...",
+          "canonical": "https://newcastlehub.info/newcastle-digital-marketing-faq/",
+          "h1_count": 1,
+          "noindex": false
+        },
+        "in_post_sitemap": false,
+        "gsc": null,
+        "ga4": null,
+        "issues": [
+          "missing_from_post_sitemap"
+        ]
+      },
+      {
+        "slug": "local-seo-faq-newcastle",
+        "keyword": "local seo faq newcastle",
+        "page_type": "faq_page",
+        "post_link": "https://newcastlehub.info/local-seo-faq-newcastle/",
+        "published_at": "2026-06-04T01:00:38",
+        "wp_modified": "2026-06-04T01:00:38",
+        "health": {
+          "status_code": 200,
+          "final_url": "https://newcastlehub.info/local-seo-faq-newcastle/",
+          "title": "Local SEO FAQs for Newcastle Businesses - Newcastle Hub Info",
+          "meta_description": "Local SEO FAQs for Newcastle Businesses. Quick answers about ingredients, suitability, where to buy, and alternatives for local seo faq newcastle in...",
+          "canonical": "https://newcastlehub.info/local-seo-faq-newcastle/",
+          "h1_count": 1,
+          "noindex": false
+        },
+        "in_post_sitemap": false,
+        "gsc": null,
+        "ga4": null,
+        "issues": [
+          "missing_from_post_sitemap"
+        ]
+      },
+      {
+        "slug": "best-australian-christmas-candy-gift-ideas-2026",
+        "keyword": "Australian Christmas candy",
+        "page_type": "landing_page",
+        "post_link": "https://newcastlehub.info/best-australian-christmas-candy-gift-ideas-2026/",
+        "published_at": "2026-05-13T01:00:37",
+        "wp_modified": "2026-05-13T01:00:37",
+        "health": {
+          "status_code": 200,
+          "final_url": "https://newcastlehub.info/best-australian-christmas-candy-gift-ideas-2026/",
+          "title": "The Best Australian Christmas Candy Gift Ideas for 2026 - Newcastle Hub Info",
+          "meta_description": "The Best Australian Christmas Candy Gift Ideas for 2026. Compare stock options, buying factors, and the best next steps for Australian Christmas candy...",
+          "canonical": "https://newcastlehub.info/best-australian-christmas-candy-gift-ideas-2026/",
+          "h1_count": 1,
+          "noindex": false
+        },
+        "in_post_sitemap": false,
+        "gsc": null,
+        "ga4": null,
+        "issues": [
+          "missing_from_post_sitemap"
+        ]
+      },
+      {
+        "slug": "top-australian-candy-brands-2026",
+        "keyword": "Australian candy brands",
+        "page_type": "landing_page",
+        "post_link": "https://newcastlehub.info/top-australian-candy-brands-2026/",
+        "published_at": "2026-05-14T01:00:36",
+        "wp_modified": "2026-05-14T01:00:36",
+        "health": {
+          "status_code": 200,
+          "final_url": "https://newcastlehub.info/top-australian-candy-brands-2026/",
+          "title": "Top Australian Candy Brands to Try in 2026 - Newcastle Hub Info",
+          "meta_description": "Top Australian Candy Brands to Try in 2026. Compare stock options, buying factors, and the best next steps for Australian candy brands in Australia.",
+          "canonical": "https://newcastlehub.info/top-australian-candy-brands-2026/",
+          "h1_count": 1,
+          "noindex": false
+        },
+        "in_post_sitemap": false,
+        "gsc": null,
+        "ga4": null,
+        "issues": [
+          "missing_from_post_sitemap"
+        ]
+      },
+      {
+        "slug": "top-10-australian-candies-2026",
+        "keyword": "Australian candies",
+        "page_type": "landing_page",
+        "post_link": "https://newcastlehub.info/top-10-australian-candies-2026/",
+        "published_at": "2026-05-15T01:00:39",
+        "wp_modified": "2026-05-15T01:00:39",
+        "health": {
+          "status_code": 200,
+          "final_url": "https://newcastlehub.info/top-10-australian-candies-2026/",
+          "title": "Top 10 Australian Candies to Try in 2026 - Newcastle Hub Info",
+          "meta_description": "Top 10 Australian Candies to Try in 2026. Compare stock options, buying factors, and the best next steps for Australian candies in Australia.",
+          "canonical": "https://newcastlehub.info/top-10-australian-candies-2026/",
+          "h1_count": 1,
+          "noindex": false
+        },
+        "in_post_sitemap": false,
+        "gsc": null,
+        "ga4": null,
+        "issues": [
+          "missing_from_post_sitemap"
+        ]
+      },
+      {
+        "slug": "healthy-candy-options-australia-2026",
+        "keyword": "healthy candy Australia",
+        "page_type": "landing_page",
+        "post_link": "https://newcastlehub.info/healthy-candy-options-australia-2026/",
+        "published_at": "2026-05-16T01:00:35",
+        "wp_modified": "2026-05-16T01:00:35",
+        "health": {
+          "status_code": 200,
+          "final_url": "https://newcastlehub.info/healthy-candy-options-australia-2026/",
+          "title": "Healthy Candy Options for Australians in 2026 - Newcastle Hub Info",
+          "meta_description": "Healthy Candy Options for Australians in 2026. Compare stock options, buying factors, and the best next steps for healthy candy in Australia.",
+          "canonical": "https://newcastlehub.info/healthy-candy-options-australia-2026/",
+          "h1_count": 1,
+          "noindex": false
+        },
+        "in_post_sitemap": false,
+        "gsc": null,
+        "ga4": null,
+        "issues": [
+          "missing_from_post_sitemap"
+        ]
+      },
+      {
+        "slug": "buying-candy-online-australia-2026",
+        "keyword": "buy candy online Australia",
+        "page_type": "landing_page",
+        "post_link": "https://newcastlehub.info/buying-candy-online-australia-2026/",
+        "published_at": "2026-05-17T01:00:21",
+        "wp_modified": "2026-05-17T01:00:21",
+        "health": {
+          "status_code": 200,
+          "final_url": "https://newcastlehub.info/buying-candy-online-australia-2026/",
+          "title": "The Ultimate Guide to Buying Candy Online in Australia (2026 Edition) - Newcastle Hub Info",
+          "meta_description": "The Ultimate Guide to Buying Candy Online in Australia (2026 Edition). Compare stock options, buying factors, and the best next steps for buy candy...",
+          "canonical": "https://newcastlehub.info/buying-candy-online-australia-2026/",
+          "h1_count": 1,
+          "noindex": false
+        },
+        "in_post_sitemap": false,
+        "gsc": null,
+        "ga4": null,
+        "issues": [
+          "missing_from_post_sitemap"
+        ]
+      },
+      {
+        "slug": "top-australian-confectionery-brands-2026",
+        "keyword": "Australian confectionery brands",
+        "page_type": "landing_page",
+        "post_link": "https://newcastlehub.info/top-australian-confectionery-brands-2026/",
+        "published_at": "2026-05-18T01:00:57",
+        "wp_modified": "2026-05-18T01:00:57",
+        "health": {
+          "status_code": 200,
+          "final_url": "https://newcastlehub.info/top-australian-confectionery-brands-2026/",
+          "title": "Top 10 Australian Confectionery Brands to Try in 2026 - Newcastle Hub Info",
+          "meta_description": "Top 10 Australian Confectionery Brands to Try in 2026. Compare stock options, buying factors, and the best next steps for Australian confectionery...",
+          "canonical": "https://newcastlehub.info/top-australian-confectionery-brands-2026/",
+          "h1_count": 1,
+          "noindex": false
+        },
+        "in_post_sitemap": false,
+        "gsc": null,
+        "ga4": null,
+        "issues": [
+          "missing_from_post_sitemap"
+        ]
+      },
+      {
+        "slug": "sugar-free-candy-australia-2026",
+        "keyword": "sugar-free candy Australia",
+        "page_type": "landing_page",
+        "post_link": "https://newcastlehub.info/sugar-free-candy-australia-2026/",
+        "published_at": "2026-05-19T01:00:45",
+        "wp_modified": "2026-05-19T01:00:45",
+        "health": {
+          "status_code": 200,
+          "final_url": "https://newcastlehub.info/sugar-free-candy-australia-2026/",
+          "title": "Sugar-Free Candy Options Available in Australia 2026 - Newcastle Hub Info",
+          "meta_description": "Sugar-Free Candy Options Available in Australia 2026. Compare stock options, buying factors, and the best next steps for sugar-free candy in Australia.",
+          "canonical": "https://newcastlehub.info/sugar-free-candy-australia-2026/",
+          "h1_count": 1,
+          "noindex": false
+        },
+        "in_post_sitemap": false,
+        "gsc": null,
+        "ga4": null,
+        "issues": [
+          "missing_from_post_sitemap"
+        ]
+      },
+      {
+        "slug": "buying-bulk-candy-australia-2026",
+        "keyword": "bulk candy Australia",
+        "page_type": "landing_page",
+        "post_link": "https://newcastlehub.info/buying-bulk-candy-australia-2026/",
+        "published_at": "2026-05-21T01:00:22",
+        "wp_modified": "2026-05-21T01:00:22",
+        "health": {
+          "status_code": 200,
+          "final_url": "https://newcastlehub.info/buying-bulk-candy-australia-2026/",
+          "title": "The Ultimate Guide to Buying Bulk Candy in Australia 2026 - Newcastle Hub Info",
+          "meta_description": "The Ultimate Guide to Buying Bulk Candy in Australia 2026. Compare stock options, buying factors, and the best next steps for bulk candy in Australia.",
+          "canonical": "https://newcastlehub.info/buying-bulk-candy-australia-2026/",
+          "h1_count": 1,
+          "noindex": false
+        },
+        "in_post_sitemap": false,
+        "gsc": null,
+        "ga4": null,
+        "issues": [
+          "missing_from_post_sitemap"
+        ]
+      },
+      {
+        "slug": "vegan-candy-australia-2026",
+        "keyword": "vegan candy Australia",
+        "page_type": "landing_page",
+        "post_link": "https://newcastlehub.info/vegan-candy-australia-2026/",
+        "published_at": "2026-05-22T01:00:28",
+        "wp_modified": "2026-05-22T01:00:28",
+        "health": {
+          "status_code": 200,
+          "final_url": "https://newcastlehub.info/vegan-candy-australia-2026/",
+          "title": "The Ultimate Guide to Vegan Candy Options in Australia 2026 - Newcastle Hub Info",
+          "meta_description": "The Ultimate Guide to Vegan Candy Options in Australia 2026. Compare stock options, buying factors, and the best next steps for vegan candy in Australia.",
+          "canonical": "https://newcastlehub.info/vegan-candy-australia-2026/",
+          "h1_count": 1,
+          "noindex": false
+        },
+        "in_post_sitemap": false,
+        "gsc": null,
+        "ga4": null,
+        "issues": [
+          "missing_from_post_sitemap"
+        ]
+      },
+      {
+        "slug": "aussie-easter-candy-trends-2026",
+        "keyword": "Easter candy Australia 2026",
+        "page_type": "landing_page",
+        "post_link": "https://newcastlehub.info/aussie-easter-candy-trends-2026/",
+        "published_at": "2026-05-24T01:00:16",
+        "wp_modified": "2026-05-24T01:00:16",
+        "health": {
+          "status_code": 200,
+          "final_url": "https://newcastlehub.info/aussie-easter-candy-trends-2026/",
+          "title": "Aussie Easter Candy Trends for 2026 - Newcastle Hub Info",
+          "meta_description": "Aussie Easter Candy Trends for 2026. Compare stock options, buying factors, and the best next steps for Easter candy 2026 in Australia.",
+          "canonical": "https://newcastlehub.info/aussie-easter-candy-trends-2026/",
+          "h1_count": 1,
+          "noindex": false
+        },
+        "in_post_sitemap": false,
+        "gsc": null,
+        "ga4": null,
+        "issues": [
+          "missing_from_post_sitemap"
+        ]
+      },
+      {
+        "slug": "easter-candy-trends-australia-2026",
+        "keyword": "Easter candy trends",
+        "page_type": "landing_page",
+        "post_link": "https://newcastlehub.info/easter-candy-trends-australia-2026/",
+        "published_at": "2026-05-25T01:00:25",
+        "wp_modified": "2026-05-25T01:00:25",
+        "health": {
+          "status_code": 200,
+          "final_url": "https://newcastlehub.info/easter-candy-trends-australia-2026/",
+          "title": "Easter Candy Trends for 2026: What's New in Australia? - Newcastle Hub Info",
+          "meta_description": "Easter Candy Trends for 2026: What's New in Australia?. Compare stock options, buying factors, and the best next steps for Easter candy trends in...",
+          "canonical": "https://newcastlehub.info/easter-candy-trends-australia-2026/",
+          "h1_count": 1,
+          "noindex": false
+        },
+        "in_post_sitemap": false,
+        "gsc": null,
+        "ga4": null,
+        "issues": [
+          "missing_from_post_sitemap"
+        ]
+      },
+      {
+        "slug": "candy-gift-ideas-christmas-2026",
+        "keyword": "candy gift ideas",
+        "page_type": "landing_page",
+        "post_link": "https://newcastlehub.info/candy-gift-ideas-christmas-2026/",
+        "published_at": "2026-05-27T01:00:26",
+        "wp_modified": "2026-05-27T01:00:26",
+        "health": {
+          "status_code": 200,
+          "final_url": "https://newcastlehub.info/candy-gift-ideas-christmas-2026/",
+          "title": "Sweet Gift Ideas: Best Candy for Christmas 2026 in Australia - Newcastle Hub Info",
+          "meta_description": "Sweet Gift Ideas: Best Candy for Christmas 2026 in Australia. Compare stock options, buying factors, and the best next steps for candy gift ideas in...",
+          "canonical": "https://newcastlehub.info/candy-gift-ideas-christmas-2026/",
+          "h1_count": 1,
+          "noindex": false
+        },
+        "in_post_sitemap": false,
+        "gsc": null,
+        "ga4": null,
+        "issues": [
+          "missing_from_post_sitemap"
+        ]
+      },
+      {
+        "slug": "candy-buffet-tips-2026",
+        "keyword": "candy buffet ideas",
+        "page_type": "landing_page",
+        "post_link": "https://newcastlehub.info/candy-buffet-tips-2026/",
+        "published_at": "2026-05-28T01:00:30",
+        "wp_modified": "2026-05-28T01:00:30",
+        "health": {
+          "status_code": 200,
+          "final_url": "https://newcastlehub.info/candy-buffet-tips-2026/",
+          "title": "How to Host a Candy Buffet: Tips and Ideas for 2026 - Newcastle Hub Info",
+          "meta_description": "How to Host a Candy Buffet: Tips and Ideas for 2026. Compare stock options, buying factors, and the best next steps for candy buffet ideas in Australia.",
+          "canonical": "https://newcastlehub.info/candy-buffet-tips-2026/",
+          "h1_count": 1,
+          "noindex": false
+        },
+        "in_post_sitemap": false,
+        "gsc": null,
+        "ga4": null,
+        "issues": [
+          "missing_from_post_sitemap"
+        ]
+      },
+      {
+        "slug": "history-of-candy-in-australia-2026",
+        "keyword": "history of candy Australia",
+        "page_type": "landing_page",
+        "post_link": "https://newcastlehub.info/history-of-candy-in-australia-2026/",
+        "published_at": "2026-05-29T01:00:33",
+        "wp_modified": "2026-05-29T01:00:33",
+        "health": {
+          "status_code": 200,
+          "final_url": "https://newcastlehub.info/history-of-candy-in-australia-2026/",
+          "title": "The History of Candy in Australia: What You Need to Know in 2026 - Newcastle Hub Info",
+          "meta_description": "The History of Candy in Australia: What You Need to Know in 2026. Compare stock options, buying factors, and the best next steps for history of candy in...",
+          "canonical": "https://newcastlehub.info/history-of-candy-in-australia-2026/",
+          "h1_count": 1,
+          "noindex": false
+        },
+        "in_post_sitemap": false,
+        "gsc": null,
+        "ga4": null,
+        "issues": [
+          "missing_from_post_sitemap"
+        ]
+      },
+      {
+        "slug": "candy-buffet-weddings-australia-2026",
+        "keyword": "candy buffet weddings",
+        "page_type": "landing_page",
+        "post_link": "https://newcastlehub.info/candy-buffet-weddings-australia-2026/",
+        "published_at": "2026-05-30T01:00:49",
+        "wp_modified": "2026-05-30T01:00:49",
+        "health": {
+          "status_code": 200,
+          "final_url": "https://newcastlehub.info/candy-buffet-weddings-australia-2026/",
+          "title": "How to Create a Candy Buffet for Weddings in Australia 2026 - Newcastle Hub Info",
+          "meta_description": "How to Create a Candy Buffet for Weddings in Australia 2026. Compare stock options, buying factors, and the best next steps for candy buffet weddings in...",
+          "canonical": "https://newcastlehub.info/candy-buffet-weddings-australia-2026/",
+          "h1_count": 1,
+          "noindex": false
+        },
+        "in_post_sitemap": false,
+        "gsc": null,
+        "ga4": null,
+        "issues": [
+          "missing_from_post_sitemap"
+        ]
+      },
+      {
+        "slug": "homemade-candy-recipes-2026",
+        "keyword": "homemade candy recipes",
+        "page_type": "landing_page",
+        "post_link": "https://newcastlehub.info/homemade-candy-recipes-2026/",
+        "published_at": "2026-05-31T01:00:33",
+        "wp_modified": "2026-05-31T01:00:33",
+        "health": {
+          "status_code": 200,
+          "final_url": "https://newcastlehub.info/homemade-candy-recipes-2026/",
+          "title": "How to Make Homemade Candy: Easy Recipes for 2026 - Newcastle Hub Info",
+          "meta_description": "How to Make Homemade Candy: Easy Recipes for 2026. Compare stock options, buying factors, and the best next steps for homemade candy recipes in Australia.",
+          "canonical": "https://newcastlehub.info/homemade-candy-recipes-2026/",
+          "h1_count": 1,
+          "noindex": false
+        },
+        "in_post_sitemap": false,
+        "gsc": null,
+        "ga4": null,
+        "issues": [
+          "missing_from_post_sitemap"
+        ]
+      },
+      {
+        "slug": "best-chocolate-brands-australia-2026",
+        "keyword": "best chocolate brands Australia",
+        "page_type": "landing_page",
+        "post_link": "https://newcastlehub.info/best-chocolate-brands-australia-2026/",
+        "published_at": "2026-06-01T01:00:31",
+        "wp_modified": "2026-06-01T01:00:31",
+        "health": {
+          "status_code": 200,
+          "final_url": "https://newcastlehub.info/best-chocolate-brands-australia-2026/",
+          "title": "Best Chocolate Brands in Australia in 2026 - Newcastle Hub Info",
+          "meta_description": "Best Chocolate Brands in Australia in 2026. Compare stock options, buying factors, and the best next steps for best chocolate brands in Australia.",
+          "canonical": "https://newcastlehub.info/best-chocolate-brands-australia-2026/",
+          "h1_count": 1,
+          "noindex": false
+        },
+        "in_post_sitemap": false,
+        "gsc": null,
+        "ga4": null,
+        "issues": [
+          "missing_from_post_sitemap"
+        ]
+      },
+      {
+        "slug": "healthier-candy-options-2026",
+        "keyword": "healthier candy options",
+        "page_type": "landing_page",
+        "post_link": "https://newcastlehub.info/healthier-candy-options-2026/",
+        "published_at": "2026-06-05T01:00:36",
+        "wp_modified": "2026-06-05T01:00:36",
+        "health": {
+          "status_code": 200,
+          "final_url": "https://newcastlehub.info/healthier-candy-options-2026/",
+          "title": "The Ultimate Guide to Choosing Healthier Candy Options in 2026 - Newcastle Hub Info",
+          "meta_description": "The Ultimate Guide to Choosing Healthier Candy Options in 2026. Compare stock options, buying factors, and the best next steps for healthier candy...",
+          "canonical": "https://newcastlehub.info/healthier-candy-options-2026/",
+          "h1_count": 1,
+          "noindex": false
+        },
+        "in_post_sitemap": false,
+        "gsc": null,
+        "ga4": null,
+        "issues": [
+          "missing_from_post_sitemap"
+        ]
+      },
+      {
+        "slug": "best-easter-candy-hampers-2026",
+        "keyword": "Easter candy hampers",
+        "page_type": "landing_page",
+        "post_link": "https://newcastlehub.info/best-easter-candy-hampers-2026/",
+        "published_at": "2026-06-06T01:00:37",
+        "wp_modified": "2026-06-06T01:00:37",
+        "health": {
+          "status_code": 200,
+          "final_url": "https://newcastlehub.info/best-easter-candy-hampers-2026/",
+          "title": "Best Easter Candy Hampers for 2026: A Sweet Australian Selection - Newcastle Hub Info",
+          "meta_description": "Best Easter Candy Hampers for 2026: A Sweet Australian Selection. Compare stock options, buying factors, and the best next steps for Easter candy...",
+          "canonical": "https://newcastlehub.info/best-easter-candy-hampers-2026/",
+          "h1_count": 1,
+          "noindex": false
+        },
+        "in_post_sitemap": false,
+        "gsc": null,
+        "ga4": null,
+        "issues": [
+          "missing_from_post_sitemap"
+        ]
+      },
+      {
+        "slug": "candy-packaging-trends-australia-2026",
+        "keyword": "candy packaging trends Australia 2026",
+        "page_type": "landing_page",
+        "post_link": "https://newcastlehub.info/candy-packaging-trends-australia-2026/",
+        "published_at": "2026-06-07T01:00:28",
+        "wp_modified": "2026-06-07T01:00:28",
+        "health": {
+          "status_code": 200,
+          "final_url": "https://newcastlehub.info/candy-packaging-trends-australia-2026/",
+          "title": "The Evolution of Candy Packaging in Australia: Trends for 2026 - Newcastle Hub Info",
+          "meta_description": "The Evolution of Candy Packaging in Australia: Trends for 2026. Compare stock options, buying factors, and the best next steps for candy packaging...",
+          "canonical": "https://newcastlehub.info/candy-packaging-trends-australia-2026/",
+          "h1_count": 1,
+          "noindex": false
+        },
+        "in_post_sitemap": false,
+        "gsc": null,
+        "ga4": null,
+        "issues": [
+          "missing_from_post_sitemap"
+        ]
+      },
+      {
+        "slug": "best-lollies-kids-parties-australia-2026",
+        "keyword": "lollies for kids parties",
+        "page_type": "landing_page",
+        "post_link": "https://newcastlehub.info/best-lollies-kids-parties-australia-2026/",
+        "published_at": "2026-06-08T01:00:41",
+        "wp_modified": "2026-06-08T01:00:41",
+        "health": {
+          "status_code": 200,
+          "final_url": "https://newcastlehub.info/best-lollies-kids-parties-australia-2026/",
+          "title": "Best Lollies for Kids' Parties in Australia 2026 - Newcastle Hub Info",
+          "meta_description": "Best Lollies for Kids' Parties in Australia 2026. Compare stock options, buying factors, and the best next steps for lollies for kids parties in Australia.",
+          "canonical": "https://newcastlehub.info/best-lollies-kids-parties-australia-2026/",
+          "h1_count": 1,
+          "noindex": false
+        },
+        "in_post_sitemap": false,
+        "gsc": null,
+        "ga4": null,
+        "issues": [
+          "missing_from_post_sitemap"
+        ]
+      },
+      {
+        "slug": "easter-candy-ideas-2026",
+        "keyword": "Easter candy ideas",
+        "page_type": "landing_page",
+        "post_link": "https://newcastlehub.info/easter-candy-ideas-2026/",
+        "published_at": "2026-06-09T01:00:44",
+        "wp_modified": "2026-06-09T01:00:44",
+        "health": {
+          "status_code": 200,
+          "final_url": "https://newcastlehub.info/easter-candy-ideas-2026/",
+          "title": "The Ultimate Guide to Easter Candy Ideas for 2026 - Newcastle Hub Info",
+          "meta_description": "The Ultimate Guide to Easter Candy Ideas for 2026. Compare stock options, buying factors, and the best next steps for Easter candy ideas in Australia.",
+          "canonical": "https://newcastlehub.info/easter-candy-ideas-2026/",
+          "h1_count": 1,
+          "noindex": false
+        },
+        "in_post_sitemap": false,
+        "gsc": null,
+        "ga4": null,
+        "issues": [
+          "missing_from_post_sitemap"
+        ]
+      },
+      {
+        "slug": "candy-tasting-party-ideas-2026",
+        "keyword": "candy tasting party ideas",
+        "page_type": "landing_page",
+        "post_link": "https://newcastlehub.info/candy-tasting-party-ideas-2026/",
+        "published_at": "2026-06-14T01:00:37",
+        "wp_modified": "2026-06-14T01:00:37",
+        "health": {
+          "status_code": 200,
+          "final_url": "https://newcastlehub.info/candy-tasting-party-ideas-2026/",
+          "title": "How to Host a Candy Tasting Party: Tips and Ideas for 2026 - Newcastle Hub Info",
+          "meta_description": "How to Host a Candy Tasting Party: Tips and Ideas for 2026. Compare stock options, buying factors, and the best next steps for candy tasting party ideas...",
+          "canonical": "https://newcastlehub.info/candy-tasting-party-ideas-2026/",
+          "h1_count": 1,
+          "noindex": false
+        },
+        "in_post_sitemap": false,
+        "gsc": null,
+        "ga4": null,
+        "issues": [
+          "missing_from_post_sitemap"
+        ]
+      },
+      {
+        "slug": "candy-themed-party-ideas-2026",
+        "keyword": "candy-themed party",
+        "page_type": "landing_page",
+        "post_link": "https://newcastlehub.info/candy-themed-party-ideas-2026/",
+        "published_at": "2026-06-19T01:00:45",
+        "wp_modified": "2026-06-19T01:00:45",
+        "health": {
+          "status_code": 200,
+          "final_url": "https://newcastlehub.info/candy-themed-party-ideas-2026/",
+          "title": "How to Host a Candy-Themed Party: Ideas and Tips for 2026 - Newcastle Hub Info",
+          "meta_description": "How to Host a Candy-Themed Party: Ideas and Tips for 2026. Compare stock options, buying factors, and the best next steps for candy-themed party in...",
+          "canonical": "https://newcastlehub.info/candy-themed-party-ideas-2026/",
+          "h1_count": 1,
+          "noindex": false
+        },
+        "in_post_sitemap": false,
+        "gsc": null,
+        "ga4": null,
+        "issues": [
+          "missing_from_post_sitemap"
+        ]
+      },
+      {
+        "slug": "easter-candy-deals-2026",
+        "keyword": "Easter candy deals",
+        "page_type": "landing_page",
+        "post_link": "https://newcastlehub.info/easter-candy-deals-2026/",
+        "published_at": "2026-06-20T01:00:39",
+        "wp_modified": "2026-06-20T01:00:39",
+        "health": {
+          "status_code": 200,
+          "final_url": "https://newcastlehub.info/easter-candy-deals-2026/",
+          "title": "Easter 2026: The Best Chocolate Eggs and Candy Deals in Australia - Newcastle Hub Info",
+          "meta_description": "Easter 2026: The Best Chocolate Eggs and Candy Deals in Australia. Compare stock options, buying factors, and the best next steps for Easter candy deals...",
+          "canonical": "https://newcastlehub.info/easter-candy-deals-2026/",
+          "h1_count": 1,
+          "noindex": false
+        },
+        "in_post_sitemap": false,
+        "gsc": null,
+        "ga4": null,
+        "issues": [
+          "missing_from_post_sitemap"
+        ]
+      },
+      {
+        "slug": "aussie-vs-international-candy-2026",
+        "keyword": "Aussie vs international candy",
+        "page_type": "landing_page",
+        "post_link": "https://newcastlehub.info/aussie-vs-international-candy-2026/",
+        "published_at": "2026-06-21T01:00:38",
+        "wp_modified": "2026-06-21T01:00:38",
+        "health": {
+          "status_code": 200,
+          "final_url": "https://newcastlehub.info/aussie-vs-international-candy-2026/",
+          "title": "Aussie vs. International Candy: What Stands Out in 2026? - Newcastle Hub Info",
+          "meta_description": "Aussie vs. International Candy: What Stands Out in 2026?. Compare stock options, buying factors, and the best next steps for Aussie vs international...",
+          "canonical": "https://newcastlehub.info/aussie-vs-international-candy-2026/",
+          "h1_count": 1,
+          "noindex": false
+        },
+        "in_post_sitemap": false,
+        "gsc": null,
+        "ga4": null,
+        "issues": [
+          "missing_from_post_sitemap"
+        ]
+      },
+      {
+        "slug": "halloween-candy-deals-australia-2026",
+        "keyword": "Halloween candy deals",
+        "page_type": "landing_page",
+        "post_link": "https://newcastlehub.info/halloween-candy-deals-australia-2026/",
+        "published_at": "2026-06-25T01:01:17",
+        "wp_modified": "2026-06-25T01:01:17",
+        "health": {
+          "status_code": 200,
+          "final_url": "https://newcastlehub.info/halloween-candy-deals-australia-2026/",
+          "title": "The Best Halloween Candy Deals in Australia for 2026 - Newcastle Hub Info",
+          "meta_description": "The Best Halloween Candy Deals in Australia for 2026. Compare stock options, buying factors, and the best next steps for Halloween candy deals in...",
+          "canonical": "https://newcastlehub.info/halloween-candy-deals-australia-2026/",
+          "h1_count": 1,
+          "noindex": false
+        },
+        "in_post_sitemap": false,
+        "gsc": null,
+        "ga4": null,
+        "issues": [
+          "missing_from_post_sitemap"
+        ]
+      },
+      {
+        "slug": "diy-candy-recipes-2026",
+        "keyword": "DIY candy recipes",
+        "page_type": "landing_page",
+        "post_link": "https://newcastlehub.info/diy-candy-recipes-2026/",
+        "published_at": "2026-06-27T01:01:09",
+        "wp_modified": "2026-06-27T01:01:09",
+        "health": {
+          "status_code": 200,
+          "final_url": "https://newcastlehub.info/diy-candy-recipes-2026/",
+          "title": "DIY Candy Recipes to Make at Home in 2026 - Newcastle Hub Info",
+          "meta_description": "DIY Candy Recipes to Make at Home in 2026. Compare stock options, buying factors, and the best next steps for DIY candy recipes in Australia.",
+          "canonical": "https://newcastlehub.info/diy-candy-recipes-2026/",
+          "h1_count": 1,
+          "noindex": false
+        },
+        "in_post_sitemap": false,
+        "gsc": null,
+        "ga4": null,
+        "issues": [
+          "missing_from_post_sitemap"
+        ]
+      },
+      {
+        "slug": "aussie-vs-american-candy-showdown-2026",
+        "keyword": "Aussie candy vs. American candy",
+        "page_type": "landing_page",
+        "post_link": "https://newcastlehub.info/aussie-vs-american-candy-showdown-2026/",
+        "published_at": "2026-06-28T01:01:16",
+        "wp_modified": "2026-06-28T01:01:16",
+        "health": {
+          "status_code": 200,
+          "final_url": "https://newcastlehub.info/aussie-vs-american-candy-showdown-2026/",
+          "title": "Aussie Candy vs. American Candy: The Ultimate 2026 Showdown - Newcastle Hub Info",
+          "meta_description": "Aussie Candy vs. American Candy: The Ultimate 2026 Showdown. Compare stock options, buying factors, and the best next steps for Aussie candy vs...",
+          "canonical": "https://newcastlehub.info/aussie-vs-american-candy-showdown-2026/",
+          "h1_count": 1,
+          "noindex": false
+        },
+        "in_post_sitemap": false,
+        "gsc": null,
+        "ga4": null,
+        "issues": [
+          "missing_from_post_sitemap"
+        ]
+      },
+      {
+        "slug": "sweetest-brands-candy-reviews-2026",
+        "keyword": "candy reviews",
+        "page_type": "landing_page",
+        "post_link": "https://newcastlehub.info/sweetest-brands-candy-reviews-2026/",
+        "published_at": "2026-06-29T01:01:44",
+        "wp_modified": "2026-06-29T01:01:44",
+        "health": {
+          "status_code": 200,
+          "final_url": "https://newcastlehub.info/sweetest-brands-candy-reviews-2026/",
+          "title": "The Sweetest Brands: Candy Reviews of 2026 - Newcastle Hub Info",
+          "meta_description": "The Sweetest Brands: Candy Reviews of 2026. Compare stock options, buying factors, and the best next steps for candy reviews in Australia.",
+          "canonical": "https://newcastlehub.info/sweetest-brands-candy-reviews-2026/",
+          "h1_count": 1,
+          "noindex": false
+        },
+        "in_post_sitemap": false,
+        "gsc": null,
+        "ga4": null,
+        "issues": [
+          "missing_from_post_sitemap"
+        ]
+      },
+      {
+        "slug": "best-candy-gift-hampers-australia-2026",
+        "keyword": "candy gift hampers Australia",
+        "page_type": "landing_page",
+        "post_link": "https://newcastlehub.info/best-candy-gift-hampers-australia-2026/",
+        "published_at": "2026-07-03T01:01:23",
+        "wp_modified": "2026-07-03T01:01:23",
+        "health": {
+          "status_code": 200,
+          "final_url": "https://newcastlehub.info/best-candy-gift-hampers-australia-2026/",
+          "title": "How to Choose the Best Candy Gift Hampers in Australia 2026 - Newcastle Hub Info",
+          "meta_description": "How to Choose the Best Candy Gift Hampers in Australia 2026. Compare stock options, buying factors, and the best next steps for candy gift hampers in...",
+          "canonical": "https://newcastlehub.info/best-candy-gift-hampers-australia-2026/",
+          "h1_count": 1,
+          "noindex": false
+        },
+        "in_post_sitemap": false,
+        "gsc": null,
+        "ga4": null,
+        "issues": [
+          "missing_from_post_sitemap"
+        ]
+      },
+      {
+        "slug": "popular-lollies-taste-test-australia-2026",
+        "keyword": "popular lollies Australia",
+        "page_type": "landing_page",
+        "post_link": "https://newcastlehub.info/popular-lollies-taste-test-australia-2026/",
+        "published_at": "2026-07-07T01:00:52",
+        "wp_modified": "2026-07-07T01:00:52",
+        "health": {
+          "status_code": 200,
+          "final_url": "https://newcastlehub.info/popular-lollies-taste-test-australia-2026/",
+          "title": "Comparing Popular Lollies in Australia: Taste Test 2026 - Newcastle Hub Info",
+          "meta_description": "Comparing Popular Lollies in Australia: Taste Test 2026. Compare stock options, buying factors, and the best next steps for popular lollies in Australia.",
+          "canonical": "https://newcastlehub.info/popular-lollies-taste-test-australia-2026/",
+          "h1_count": 1,
+          "noindex": false
+        },
+        "in_post_sitemap": false,
+        "gsc": null,
+        "ga4": null,
+        "issues": [
+          "missing_from_post_sitemap"
+        ]
+      },
+      {
+        "slug": "best-easter-chocolates-australia-2026",
+        "keyword": "Easter chocolates Australia",
+        "page_type": "landing_page",
+        "post_link": "https://newcastlehub.info/best-easter-chocolates-australia-2026/",
+        "published_at": "2026-07-17T01:00:57",
+        "wp_modified": "2026-07-17T01:00:57",
+        "health": {
+          "status_code": 200,
+          "final_url": "https://newcastlehub.info/best-easter-chocolates-australia-2026/",
+          "title": "Comparing the Best Easter Chocolates in Australia for 2026 - Newcastle Hub Info",
+          "meta_description": "Comparing the Best Easter Chocolates in Australia for 2026. Compare stock options, buying factors, and the best next steps for Easter chocolates in...",
+          "canonical": "https://newcastlehub.info/best-easter-chocolates-australia-2026/",
+          "h1_count": 1,
+          "noindex": false
+        },
+        "in_post_sitemap": false,
+        "gsc": null,
+        "ga4": null,
+        "issues": [
+          "missing_from_post_sitemap"
+        ]
+      },
+      {
+        "slug": "candy-making-classes-australia-2026",
+        "keyword": "candy making classes Australia",
+        "page_type": "landing_page",
+        "post_link": "https://newcastlehub.info/candy-making-classes-australia-2026/",
+        "published_at": "2026-07-19T01:01:24",
+        "wp_modified": "2026-07-19T01:01:24",
+        "health": {
+          "status_code": 200,
+          "final_url": "https://newcastlehub.info/candy-making-classes-australia-2026/",
+          "title": "Candy Making Classes and Workshops in Australia 2026 - Newcastle Hub Info",
+          "meta_description": "Candy Making Classes and Workshops in Australia 2026. Compare stock options, buying factors, and the best next steps for candy making classes in Australia.",
+          "canonical": "https://newcastlehub.info/candy-making-classes-australia-2026/",
+          "h1_count": 1,
+          "noindex": false
+        },
+        "in_post_sitemap": false,
+        "gsc": null,
+        "ga4": null,
+        "issues": [
+          "missing_from_post_sitemap"
+        ]
+      },
+      {
+        "slug": "ultimate-guide-custom-candy-gift-box-2026",
+        "keyword": "custom candy gift box",
+        "page_type": "landing_page",
+        "post_link": "https://newcastlehub.info/ultimate-guide-custom-candy-gift-box-2026/",
+        "published_at": "2026-07-20T01:01:31",
+        "wp_modified": "2026-07-20T01:01:31",
+        "health": {
+          "status_code": 200,
+          "final_url": "https://newcastlehub.info/ultimate-guide-custom-candy-gift-box-2026/",
+          "title": "The Ultimate Guide to Creating a Custom Candy Gift Box in 2026 - Newcastle Hub Info",
+          "meta_description": "The Ultimate Guide to Creating a Custom Candy Gift Box in 2026. Compare stock options, buying factors, and the best next steps for custom candy gift box...",
+          "canonical": "https://newcastlehub.info/ultimate-guide-custom-candy-gift-box-2026/",
+          "h1_count": 1,
+          "noindex": false
+        },
+        "in_post_sitemap": false,
+        "gsc": null,
+        "ga4": null,
+        "issues": [
+          "missing_from_post_sitemap"
+        ]
+      },
+      {
+        "slug": "2026-best-candy-gift-boxes-brand-comparison",
+        "keyword": "best candy gift boxes",
+        "page_type": "landing_page",
+        "post_link": "https://newcastlehub.info/2026-best-candy-gift-boxes-brand-comparison/",
+        "published_at": "2026-07-21T01:00:37",
+        "wp_modified": "2026-07-21T01:00:37",
+        "health": {
+          "status_code": 200,
+          "final_url": "https://newcastlehub.info/2026-best-candy-gift-boxes-brand-comparison/",
+          "title": "2026's Best Candy Gift Boxes: A Sweet Brand Comparison - Newcastle Hub Info",
+          "meta_description": "2026's Best Candy Gift Boxes: A Sweet Brand Comparison. Compare stock options, buying factors, and the best next steps for best candy gift boxes in...",
+          "canonical": "https://newcastlehub.info/2026-best-candy-gift-boxes-brand-comparison/",
+          "h1_count": 1,
+          "noindex": false
+        },
+        "in_post_sitemap": false,
+        "gsc": null,
+        "ga4": null,
+        "issues": [
+          "missing_from_post_sitemap"
+        ]
+      },
+      {
+        "slug": "top-10-sour-lollies-australia-2026",
+        "keyword": "best sour lollies Australia 2026",
+        "page_type": "landing_page",
+        "post_link": "https://newcastlehub.info/top-10-sour-lollies-australia-2026/",
+        "published_at": "2026-07-22T01:00:52",
+        "wp_modified": "2026-07-22T01:00:52",
+        "health": {
+          "status_code": 200,
+          "final_url": "https://newcastlehub.info/top-10-sour-lollies-australia-2026/",
+          "title": "Top 10 Sour Lollies to Try in Australia 2026 - Newcastle Hub Info",
+          "meta_description": "Top 10 Sour Lollies to Try in Australia 2026. Compare stock options, buying factors, and the best next steps for best sour lollies 2026 in Australia.",
+          "canonical": "https://newcastlehub.info/top-10-sour-lollies-australia-2026/",
+          "h1_count": 1,
+          "noindex": false
+        },
+        "in_post_sitemap": false,
+        "gsc": null,
         "ga4": null,
         "issues": [
           "missing_from_post_sitemap"

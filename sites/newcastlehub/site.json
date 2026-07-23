@@ -66,6 +66,36 @@
   "skin_valid_from": null,
   "skin_valid_until": null,
 
+  "local_business": {
+    "type": "ProfessionalService",
+    "name": "Newcastle Hub",
+    "telephone": "+61-2-4075-5307",
+    "email": "hello@newcastlehub.info",
+    "logo": null,
+    "address": {
+      "streetAddress": null,
+      "addressLocality": "Newcastle",
+      "addressRegion": "NSW",
+      "postalCode": "2300",
+      "addressCountry": "AU"
+    },
+    "geo": {
+      "latitude": -32.9283,
+      "longitude": 151.7817
+    },
+    "openingHours": [
+      {"days": ["Monday","Tuesday","Wednesday","Thursday","Friday"], "opens": "09:00", "closes": "17:00"}
+    ],
+    "priceRange": null,
+    "sameAs": [],
+    "inject_on": ["front_page", "contact"]
+  },
+
+  "gbp": {
+    "account_id": null,
+    "location_ids": []
+  },
+
   "feature_flags": {
     "use_topics_db": true,
     "auto_publish": true,
