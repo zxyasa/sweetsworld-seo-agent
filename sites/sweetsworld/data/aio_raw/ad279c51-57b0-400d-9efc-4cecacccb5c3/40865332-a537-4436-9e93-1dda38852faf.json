@@ -1,0 +1,282 @@
+{
+  "id": "resp_03a0fb997e13d56f006a5b73be04bc819994e60c559f66f2b1",
+  "object": "response",
+  "created_at": 1784378302,
+  "status": "completed",
+  "background": false,
+  "billing": {
+    "payer": "developer"
+  },
+  "completed_at": 1784378314,
+  "error": null,
+  "frequency_penalty": 0.0,
+  "incomplete_details": null,
+  "instructions": null,
+  "max_output_tokens": null,
+  "max_tool_calls": null,
+  "model": "gpt-5-mini-2025-08-07",
+  "moderation": null,
+  "output": [
+    {
+      "id": "rs_03a0fb997e13d56f006a5b73beabd481999b0eff648d857c8b",
+      "type": "reasoning",
+      "content": [],
+      "encrypted_content": "gAAAAABqW3PKXXribA0zVYrCJS9If4i_1H6dNTK08zqa74_siiIwlKs80Y7ng7zJgW-abcq8HU77Iodty_Vlj4b546HEG7_0hi0h7uE_sgtkHOGdX96YFD_OEXARKTsHw_ymJ15VLkyAsuPKklP1_GEdW0MAql2zSEx_NSNQlGXbUG2V3mb0scC1sCXVTvmdOtsllRRi6_8ld5ygqJbySmK4z8lyQf-Cku49HPK4P2DVskzAvomRDlmMXjge0MVxaTSNnxNQHaF5sCqrKWa4dU4TGm8qpjXcdVDk9AS3cKlZBRGLu3EmluTeF3Hsb-MdGGJwqSy1XqcvITliciJYT8b009EbiBnlxcSCCdZmQ917tXyKqFHQwpyOmFB3OhbU03vYFnnRkZmYy5maKK46Z3K8nz5WAbCNesqIvWR-L1jXhI-zz2GMosZxvqmKDcXRj5G9nutdpA3QGJQNWh-8KnYpRBaxsKQCIMV3MEjUhorxzZs9_FEEBhOoHCo5D6KgHFsEKNSTW6WS0DEHbNJiMV93k7xqeRErnSnZgW0dVLmtlhPO8BTDitiZOSq2IIPnyAbbFWZDaLX_qQn5z1H5marLI2QvF4_vKsTtEW1acSYA6DZXJlzSonb0v26nL0OBgugSNFqBNtKBr0TSQ7hFo1mCfHmN4oRFiVvDXbdKsoGPkDwFt7OicXlbHhesgJ75nQLLGahOb3lgZiWjpM_WVC1r744CYG__LKQWmQ3pchifKlY6aUyRKAD8G9mzO_RhOUcJuuBdfYIWyf-LzmYIWee4kqHBwzpeb869l2Q9hMuNs8maZSgmDdXNQigt86SUQnXmtnIOhYZQLfVAdjxSbD5kO7yXGTG5jt2_ntnt04mCG_PwhZkERuhBo2Tk4LN3XiCspe9oACMX24_p7zCHG3QhZ6MICnkdle9ujzGPqJ43xCGfzkPMIogSfLguXKRZ3Y4yk0-5gtBP8Z4PnEunbtl0P81E8E12YQmFUwqgH0wmnEnZhXyShn0ZGRqH_Ed8tSeGLRT2KirsDh0DJMtlBvcEH1KIYq-TtiBevYzs4YpvId6_TRh1zgtx89ZxDkgLy--Z2H28PzO3FbeC5a8mnjBVPCa_r1Zuij3kBePOchSnc_o6wVwSpCy2dT9Pw0lSnqL6JAC_jI_4T_hgvtnbZ55cLddrYmQbCP_Md0ASXt2DDFa3bGENcyZG-A8z493F5IirxP6S_IN7uqhEfRT2ubkqje1vipLGIXniYWh8VUwPoOXqWONwIYpOqM2w42czf8ucT9RH1pvjqOKoCNHWd9IYSWFQ0lNeHlukB-Qn8xWmQYf-fa0mZ-dPo3Zb5lSAmbbFqq7RQg7HXQIiue7wvId4btRdyDUbYuQSST0dPE_ykZHQERpYXzRbdZYI1ZmpKckRho8KdR9MPOeBkRMjax8BrR01t1_kFAqMMrec5Bwg1M7mYu_8T_NbIdxcwnEw4UWgk6HMFVz81I-7HARXLBDYVYutQxwashItSp4Uzgi-SIngjkuNsMgjEKeKW3zV7UgQibOIaHlEVm6xso87JQ6yc1zkFSAnvwtrTYj6-qDzPipN-2ougWqALhyzgXFFwRsmaoGSxix-eXTFKH4SARDjTSylhg8uQCX5_ksv-YQD-XSkfx_4bhjtMGZmDshNfx5IXQmW0StPfwm0AbF6mdHDjtCmMGrYe-XdImEncerard1IcN5JW_JS97wJ3v0WByA4PJAMZHqgd1PXuSIgGpBjXlYmWuJLNBKXsTXpMccJ6GcAzMLxQzcePqNSqa-okRiS8Ze5hhMErCjwrBT5L4-D4jUka-XyROkuq2RY1dFazZpc-z5VjfRV8KG43sg7Zk8o-PsjjpqOtap2HUnT_b8_7Q7H7LjRKctg4kCBcXAChy6LvvABkeiHn5unCZ40QHe8il40dvnxHv2yo03r-wonP9n1uzZ-Y2j0vHjHpez5Ye4PfqT6p58Fwz8kkBwvyeqlLWfo7nuxUB1yw5Zd70bg1-_hMXc-t6gOSt1_KcWBCe825lI0W5zrV9qJLQPSQGxL6jxfy2kUrk-ivazY3d9tWcy2vrX1Zg==",
+      "summary": []
+    },
+    {
+      "id": "ws_03a0fb997e13d56f006a5b73c014748199a89c260b0819d937",
+      "type": "web_search_call",
+      "status": "completed",
+      "action": {
+        "type": "search",
+        "queries": [
+          "buy bulk lollies online Australia wholesale",
+          "bulk lollies online Australia 'bulk sweets' 'wholesale' 'Australia'",
+          "best place to buy bulk lollies online Australia reviews",
+          "bulk candy suppliers Australia online 'bulk candy' 'Australia'"
+        ],
+        "query": "buy bulk lollies online Australia wholesale",
+        "sources": [
+          {
+            "type": "url",
+            "url": "https://www.goodygoodygumdrops.com.au/"
+          },
+          {
+            "type": "url",
+            "url": "https://www.operafoods.com.au/bulk-lollies"
+          },
+          {
+            "type": "url",
+            "url": "https://lollyshop.com.au/wholesale-lollies/"
+          },
+          {
+            "type": "url",
+            "url": "https://wholesalelollies.com.au/"
+          },
+          {
+            "type": "url",
+            "url": "https://candykitchen.com.au/"
+          },
+          {
+            "type": "url",
+            "url": "https://www.globalconfectionery.com/"
+          },
+          {
+            "type": "url",
+            "url": "https://www.thelollishop.com.au/bulk/"
+          },
+          {
+            "type": "url",
+            "url": "https://sweetcraft.com.au/"
+          },
+          {
+            "type": "url",
+            "url": "https://kissdistribution.com.au/"
+          },
+          {
+            "type": "url",
+            "url": "https://www.lolliland.com.au/"
+          },
+          {
+            "type": "url",
+            "url": "https://mylollies.com.au/"
+          },
+          {
+            "type": "url",
+            "url": "https://candybarsydney.com.au/cheapest-wholesale-prices-on-bulk-lollies"
+          },
+          {
+            "type": "url",
+            "url": "https://www.reddit.com/r/AskAnAustralian/comments/1ucavpz/artisanal_sweet_treats_or_family_owned_lolly/"
+          },
+          {
+            "type": "url",
+            "url": "https://universalau.com.au/email/UCA55535_Corp_profile_V3_26062024.pdf"
+          },
+          {
+            "type": "url",
+            "url": "https://www.reddit.com/r/AskAnAustralian/comments/1c5zvfp"
+          },
+          {
+            "type": "url",
+            "url": "https://www.reddit.com/r/sydney/comments/um9dqo"
+          },
+          {
+            "type": "url",
+            "url": "https://www.reddit.com/r/australianvegans/comments/1uw2vsh/new_vegan_lollies_in_coles/"
+          },
+          {
+            "type": "url",
+            "url": "https://www.adelaidecandy.com.au/Bulk%20Pricelist.pdf"
+          },
+          {
+            "type": "url",
+            "url": "https://www.goodygoodygumdrops.com.au/?utm_source=openai"
+          },
+          {
+            "type": "url",
+            "url": "https://lollyshop.com.au/wholesale-lollies/?utm_source=openai"
+          },
+          {
+            "type": "url",
+            "url": "https://wholesalelollies.com.au/?utm_source=openai"
+          },
+          {
+            "type": "url",
+            "url": "https://www.globalconfectionery.com/?utm_source=openai"
+          },
+          {
+            "type": "url",
+            "url": "https://www.adelaidecandy.com.au/Bulk%20Pricelist.pdf?utm_source=openai"
+          }
+        ]
+      }
+    },
+    {
+      "id": "rs_03a0fb997e13d56f006a5b73c351348199913d55fddf726f23",
+      "type": "reasoning",
+      "content": [],
+      "encrypted_content": "gAAAAABqW3PKHP4Oe9CDj2xJL57mBIBEL7kNsxlhLMk-sxhOP1cTZhol163RP80EdR2UeHHMBSue_qqxksVYAU7yul-mWCxIxkZ7JBun2l_GER5Nbxj1TEr6ZzlH0qpuh_baQ8drCHJ9G1kcYWDOdTG3APLsZfaxnvxwseAE12ieSs4GFP27Cf28GhO6sQs0QHLjjRu0RnAKIdyzBB4yzhaPP8C0wFhR1y5_VdzHUHL8LVObMv-8fFHi86pIi4wPjpasRa-o5TROpMALgFT9DM_ttPxw7ihCm62DiVeYe0L3X5QTbuEZbASm8PXKifsfxF7IvvObaHUk5O9YM-k6-bRJNTNcFyRY1Lsgdjr-Ku6fhpyQJcsGMRq2JksOhJaJmoGecX28ji-SEnXCS83B0FHZ6IKh54zVao-WCBGzq6siX0RSkz0oZDqd16foMWw1Kj2tVMHF1CyEZB_JFJfkk1SKSXFv1V_6uKQexKemsVTMp_QVBRq518hfn0-tKgqWiJwYIgROJP8KxsDKI5dOnqGEhrPvkeVMDifLgT5XG_JRVJUqseLIAHhscpZcqOCwE_oZJoN1sEXQ7eXIiQHZwTKqPNjdZXduVoLi9xMbTkRPYCrb9IefT__YJfpT28v-hCFAGbFRhf7puGtvkuh7IzeWDtP80ths9--08-OpijmUbs480MT2LdYVwMxw_gYRmK-wOSQqyAhyJmRd1m13RJStfkF2LmIxJcf1L0VJUg9ehQEV3wytj6z9Lydw9uE4VbPQpX18n-iRj2hDMiTEPzj34EjEO4WA92PprVByOyow2mIB7LAbiCjLSODnRfmOoUaXnQQqHhxYKIHWGdOE0no6tpWxNuqivgfqcFOBldkfbK3o-iNOFSFz1TRc06ZSewUopF5_Ahcti9-EyB_nn9Gxzg0nGw5b9pAbSDNN92jznnwEzbiOPtVf43vIiuz57UvXkI3pBCOfbBOP5-YBLL0suthLXCuclyXKTaibSKBUmz_77HHv9bYfcS60XTyBUEkoZpikKdv22qfko89WyUmHpz3HX9QoLSrohq32VRNYJgGB6FA1bo5sy3xRdJZAbPRQ0eBLPbzGbx4N5jfmanS_0WVCbIIHonX7akUxuWr0oSE7MP4pNaPdjnPRLg22jBDlUB-Ryh7mwoDUe7UBBf6TQVgBmz3fNTIUGHWzhjBswNjTdst1nTxw7oPQjAz0lMDzT1nkEPnknb7uL4zT_T9yB2p6FvjQQOtH71TmLZ9g1u_2Ta9Kese7cZd5VNaWdk3-UFGHBUjHp3jtwvYX_PmHxMrHx3ZR4miWTb7p3nfvJQgsMUcYlYJG-_jn5V9c8ujwzi7eXaiznUGLGPh7scWDrGES9YFj_kkzkhZQPcIVXrwDbCT6RPCuwIm7w-w8bzmnC8SuwSX07t9FD85bqpAf-GdPXYdymSE0GTGmdrF4cl7fPS72301jg9_nP4pt3ucCkpXLfC_HNh7C3Sj6OW7fg_L-ibPFkq3QjhQs_-ngRzfNB6JWykHeT-Ohdi0kud-rX9r6sS_pBzeZHBU5VE5lRsb7584oH9ITZry9SYFYoDaQnk-yvxeaBLKwuHRB7tchfta94WYW75yCLR4M0vQRmNsvvKRh5EieMFivHfOhLtdq8Dcceu4h_QnRgJA7COjm6sWYJyhiYVGBpAummyjIeYZq4q3RcH13u7AFo01HGukjC5A_K9ME8EJltSdO9_qtfzZZHMnYp17ww2VVKBw3tjgPpP4rSFAfz_nFQ0m18j_yXQZQlzP5w3d2EmJde85oEiYeCTm8V4U2iJbeyIdI3zUcfbCVSZkbesbJZGpCV4mYXSnlrazGbdflQG9wZqyNKR9-4Ae4vDBibSIonHAtwpiXzQbAlFbjtXUHeLjwWMcDxmj_0ez8NLR4lF_zO_hfbbYSbelfEDTcqkg6xWwrLkN30o2HN7Y6GYC5fwL7r2oAMs8AV7iHE31q4l0aXg-DH7RE1ywoku1EBD5tXGa60F-sUqnuEYsIaVdlzJYqt8HQNh_2-Zei7HO_EhYS_ttNNgx3FplBcDo26ZIidNA1ck1b_NxLNzIzt4YT8FOYPEfgnzsR0M4MLWEF48psEQ0BUpOAZgBiENrwmIyy3Ep1Gy3410lDXzLrrzusZJnk0KzKQFtPqf_AcM49kRQHz8qtw97pPu7GJGWevjE8MNgiSG3nPRzkU0uQnaPUjlHneh0ByDHg1o8ovQQK5bsyu2WRf9ZSb_PiO_pOAYAvInCvum_U6N3lF9OUILAikunoJ6IO3ROukG3-ErLSd0kDCRMtSt38GSribbBDQpRd5EBmqfHDElJkZjEfJODH5yyY_ZRZRBLjAtfg16TsJLHhPyKS0WGYy3yDnVpSaOpJxaI7kQPHycjCLS5wGNEACzd0DVnFT3Jrsg72eM-GHEr75XqlPslyKzWaFu5Mivj57q53GpzrLABnidVulH2hXdXFaT5RMaA3AWEb0L-A0cqp2RE4WRMgG89KSMhtDRVfQhauhqENR1SQKnkUF2z5uaa7Bqc1N8g03rCiDp9-5F9txN6jqWfEcXlvjYDNKtT7pQYGZza9JGFLk8wX_QNAMIiJllQBMLlLBA0goHvqRJf-FLIZAbRbgPlaYmQGd56WkbpKbwUgnekkTntmDDwnPVmo101fWjoTazt-iNHj2tPG2ckBUiT1BH10-szi2NzExjUv41pOP9oBpJsz7hVg75kKx4XjquioSjYUMUucvQ40pxgWBPfd1kk24WUDa7ztG8ydi6AgRoUvk6SXr31exWE1q3v0G8NPFImBZWqdiuYH0QB845ARee6-jtMylL9J9RMM8W53onP-Zq5UgvLi0nDBmhji9dFWpyyQ4ZMKf-JVlU4lD8PruUo3I5ZEm9uvIoCm2HTMwFDPjoftvL7jDlFhS26c3k_0dL0ROo0uWS75ksDgqeDVz6JU7F1MwJINE0V49JsSsXLVZPTmAiBzm2gdiMtD1ylRwaop8MlEtES4mHcfeo2_cNHJ02i1Yhv2ZFwJIJuim-uxMsC9j2w0APF4AZB4UcD0DR0Sb9u2WL7Ox4roIFNSJMmRG1rHt1yhXrg1HCgHSRe2yg26eOoTd6FGzfoH-ttiuQoWON0tl_ys5c-hoEcSywOCSOwLTd-niXCqB6B9YYlbRxLhUi33QEY0x96RzXN3jLiR4LHaVg7-1llZFA2bOgTGbMbKezvAnjb-YTsFRZE3lNEWvtl2g2F_uoYKV0PEk1CjuqaxDPN5fhkN6k-sbkWpknsELk0wkfGiX0PEhd1Qur9chHj-Q5iDlK4M3-z1rJ4-lPj7T5dAJ0cGBw9KPi2J6jq-CHOvszWpIAtInMeJWmwYAvR3RQm02JoLYA8JgtQ_vujX-NibiBTOgZY9fwPStk45Fu97ktIyWn-o07aRPtwR4NK7qzk1CuUbeTtWbT8M2m0cg4ps6F6mqneJsoYeVF67ikzFXZ84mqaRrp-FJv02qEBOaKdYE2huRxB4RR551XQJfdExbAxJyXbOqWXoSSM0mn2NYvCvXYOMl-I-Ee7Eqqi096JfaCXThgx1xRxCj7_kv0HkJVk_BWcLiT8j7tvlgzpTx5w5H2F1hsvHdOHQtM6WR0F366OvoLvCU_b2HBYQuGF-JCdlxpYKIWoJ2nEIFUUoZ61j2HZ9d7nC0ZNQ-MC0i91SzD41zaAYia_B5aGWiAOtStxFRhjHV4cR7_L35fvUWI6epovXY4jOSjII29eGVoMJNSWqI9kPa8ID8YvjeHJXwydfJNBp9yOtBEdb3OWVGKNlv9I3vEJHpQDjO1-HBJQCnIyvWbITAWGWsiXza_9AgD-hwgnTwiGLa_7AvIHenvpfEZDvWEwFb4ZrwC6CBoYXeHIFnMEm9ExoexSMX3Bz1dU-wfzLQk3c7DkMbzQeqeke2iNh5G8uuJaZtWA8-Dl0cLX4dQC94ZmpETOErJ04vSjLzbBrJGurP3prnt97zd0-HW4zqHzOT0LgunhlJrhvq7YtvroN0Ar9XAustd0moaaz9Qtk0MY8h-J3Xf8hsJWBAZp-7q0uH7sFD8Hmek9Y5fgaCiGupxCnrEgwnEjzSfzWTQ7QJPsgUQU1b8PYCm__2g1NpjBbsluVd_WOs6DGXFgTjNuNKOtBr4_tIcy-AeElPVb5wY95sVddYKTx-3H4ts5hUHYywALKvtY3RGjWYxGCHh4_bh8Okl31wgjYVQU5GF02Pg6N1NXcN1p-X0iaxoiYv1XB8m7iBmdhEUaryYsovkcYW--Yl-IylqOil1patir9Rj1ZaQ_hGjWFL9IgpHRXHYw8R__-U68iWVHcuAMADd28nL4TU5Nsya6PkzoZA4WmYi3kO0DxAfsFquS8-pTX2dBlTqlIevlYcHFWEYpz-KMPS9ajkyOr5qomOwS4mBDcSrx8LDh51jxk1b1Mh9ZooE1bODjGZxXX_a_5-pMMKrRGScmZiwIxCSx6AZWgLggRMChnKYg1_TCBuXaFZgZazyrJAVMMi3oA2GfL5t4n3sRgJ_SkZpLVThG9yKBNPMLITx2QewRnP-gRlkP1_fZZyA16OabjsS5oG-BxuIu3ZmxUbk0=",
+      "summary": []
+    },
+    {
+      "id": "msg_03a0fb997e13d56f006a5b73c6a8c08199bdc6a90fe5321c87",
+      "type": "message",
+      "status": "completed",
+      "content": [
+        {
+          "type": "output_text",
+          "annotations": [
+            {
+              "type": "url_citation",
+              "end_index": 409,
+              "start_index": 322,
+              "title": "Buy Bulk Lollies Online | Lolly Shop | Small Lolly Bags Australia",
+              "url": "https://www.goodygoodygumdrops.com.au/?utm_source=openai"
+            },
+            {
+              "type": "url_citation",
+              "end_index": 654,
+              "start_index": 571,
+              "title": "Wholesale lollies Sydney Melbourne & Brisbane - The Lolly Shop",
+              "url": "https://lollyshop.com.au/wholesale-lollies/?utm_source=openai"
+            },
+            {
+              "type": "url_citation",
+              "end_index": 887,
+              "start_index": 808,
+              "title": "Wholesale Lollies Australia | Bulk Lollies Online | UK & Aussie Brands",
+              "url": "https://wholesalelollies.com.au/?utm_source=openai"
+            },
+            {
+              "type": "url_citation",
+              "end_index": 1165,
+              "start_index": 1082,
+              "title": "Home - Global Confectionery",
+              "url": "https://www.globalconfectionery.com/?utm_source=openai"
+            },
+            {
+              "type": "url_citation",
+              "end_index": 1442,
+              "start_index": 1345,
+              "title": "ADELAIDE CANDY",
+              "url": "https://www.adelaidecandy.com.au/Bulk%20Pricelist.pdf?utm_source=openai"
+            },
+            {
+              "type": "url_citation",
+              "end_index": 1685,
+              "start_index": 1588,
+              "title": "ADELAIDE CANDY",
+              "url": "https://www.adelaidecandy.com.au/Bulk%20Pricelist.pdf?utm_source=openai"
+            },
+            {
+              "type": "url_citation",
+              "end_index": 1888,
+              "start_index": 1791,
+              "title": "ADELAIDE CANDY",
+              "url": "https://www.adelaidecandy.com.au/Bulk%20Pricelist.pdf?utm_source=openai"
+            }
+          ],
+          "logprobs": [],
+          "text": "Short answer: it depends on what you prioritise (lowest price, biggest selection, business/retail quantities, or special diets). Top places to check right away:\n\n- Goody Goody Gumdrops — wide consumer-friendly range, easy small-to-large orders and party packs (good if you want ready-made mixes and fast online ordering). ([goodygoodygumdrops.com.au](https://www.goodygoodygumdrops.com.au/?utm_source=openai))  \n- The Lolly Shop — a long-running wholesale/warehouse supplier that sells 1 kg bulk bags and small party bags; good for parties and candy-buffet style orders. ([lollyshop.com.au](https://lollyshop.com.au/wholesale-lollies/?utm_source=openai))  \n- WholesaleLollies.com.au — positions itself as a low-cost, bulk/wholesale destination for classic Aussie & UK sweets (good to compare per‑kg prices). ([wholesalelollies.com.au](https://wholesalelollies.com.au/?utm_source=openai))  \n- Global Confectionery — geared to businesses and large orders, advertises one of Australia’s largest wholesale confectionery ranges (best if you need hundreds of kilograms or unusual lines). ([globalconfectionery.com](https://www.globalconfectionery.com/?utm_source=openai))  \n- Adelaide Candy (example price list) — a good example of a wholesaler that publishes per‑kg prices so you can compare actual costs; useful when shopping for best price-per-kg. ([adelaidecandy.com.au](https://www.adelaidecandy.com.au/Bulk%20Pricelist.pdf?utm_source=openai))\n\nQuick buying tips\n- Decide quantity first (party 5–20 people vs. event 100+); suppliers and per‑kg pricing change at carton/full‑carton levels. ([adelaidecandy.com.au](https://www.adelaidecandy.com.au/Bulk%20Pricelist.pdf?utm_source=openai))  \n- Check minimum orders, shipping costs and whether prices include GST—these affect the true unit cost. ([adelaidecandy.com.au](https://www.adelaidecandy.com.au/Bulk%20Pricelist.pdf?utm_source=openai))  \n- If you need vegan/halal/allergen‑free lollies, search supplier pages or contact them — not all lines are suitable.  \n- Ask about samples if you’re ordering a new supplier for a large event.\n\nIf you tell me: (a) approx quantity (kg or people), (b) when you need them, (c) any dietary needs (vegan/halal/nut‑free), and (d) whether you want branded/novelty sweets or generic bulk mixes, I’ll pick the 2–3 best stores for your exact needs and compare price estimates and delivery."
+        }
+      ],
+      "role": "assistant"
+    }
+  ],
+  "parallel_tool_calls": true,
+  "presence_penalty": 0.0,
+  "previous_response_id": null,
+  "prompt_cache_key": null,
+  "prompt_cache_retention": "in_memory",
+  "reasoning": {
+    "context": "current_turn",
+    "effort": "medium",
+    "mode": "standard",
+    "summary": null
+  },
+  "safety_identifier": null,
+  "service_tier": "default",
+  "store": true,
+  "temperature": 1.0,
+  "text": {
+    "format": {
+      "type": "text"
+    },
+    "verbosity": "medium"
+  },
+  "tool_choice": "auto",
+  "tool_usage": {
+    "image_gen": {
+      "input_tokens": 0,
+      "input_tokens_details": {
+        "image_tokens": 0,
+        "text_tokens": 0
+      },
+      "output_tokens": 0,
+      "output_tokens_details": {
+        "image_tokens": 0,
+        "text_tokens": 0
+      },
+      "total_tokens": 0
+    },
+    "web_search": {
+      "num_requests": 1
+    }
+  },
+  "tools": [
+    {
+      "type": "web_search",
+      "return_token_budget": "default",
+      "search_content_types": [
+        "text"
+      ],
+      "search_context_size": "medium",
+      "user_location": {
+        "type": "approximate",
+        "city": "Sydney",
+        "country": "AU",
+        "region": "New South Wales",
+        "timezone": "Australia/Sydney"
+      }
+    }
+  ],
+  "top_logprobs": 0,
+  "top_p": 1.0,
+  "truncation": "disabled",
+  "usage": {
+    "input_tokens": 8776,
+    "input_tokens_details": {
+      "cache_write_tokens": 0,
+      "cached_tokens": 3584
+    },
+    "output_tokens": 1352,
+    "output_tokens_details": {
+      "reasoning_tokens": 832
+    },
+    "total_tokens": 10128
+  },
+  "user": null,
+  "metadata": {}
+}

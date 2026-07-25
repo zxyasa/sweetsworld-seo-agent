@@ -1,0 +1,159 @@
+{
+  "brief_id": "lemon-candy-australia-brief-v1",
+  "slug": "lemon-candy-australia",
+  "keyword": "lemon candy australia",
+  "search_intent": "Commercial category intent",
+  "page_type": "category_page",
+  "title": "Lemon Candy Australia: Buy Lemon Lollies and Sour Lemon Sweets",
+  "meta_description": "Lemon Candy Australia: Buy Lemon Lollies and Sour Lemon Sweets. Compare stock options, buying factors, and the best next steps for lemon candy in...",
+  "intro": "This page explains the lemon candy range, the main product formats to compare, and the next collection or product pages worth opening before you buy.",
+  "outline": [
+    "What defines the lemon candy range",
+    "How to shop Sour Candy more confidently"
+  ],
+  "sections": [
+    {
+      "heading": "What defines the lemon candy range",
+      "paragraphs": [
+        "A category page for lemon candy should explain flavour profile, product format, and the most recognisable options in the range.",
+        "That helps search engines and shoppers understand the scope of the page before they move deeper into the catalogue."
+      ],
+      "bullets": [
+        "Mega Sour Lemon 100g",
+        "Haribo Sweet & Sour Bears 140g",
+        "Jelly Belly Chewy Sours Lemon & Orange 60g",
+        "Sweet and Sour Banana 165g"
+      ]
+    },
+    {
+      "heading": "How to shop Sour Candy more confidently",
+      "paragraphs": [
+        "Category pages should guide users through format, suitability, and value instead of listing products without context.",
+        "This is the section that turns a collection page into a useful SEO landing surface."
+      ],
+      "bullets": [
+        "Show best sellers before long-tail variants.",
+        "Explain when bundles make more sense than single items.",
+        "Link into adjacent collections and product pages."
+      ]
+    }
+  ],
+  "faq_items": [
+    {
+      "question": "What should I look for when choosing lemon candy?",
+      "answer": "Focus on suitability for the use case, flavour profile, pack size, and delivery timing rather than assuming every popular candy is the right fit."
+    },
+    {
+      "question": "What is the best next step after reading this page?",
+      "answer": "Use the linked category or product pages to compare live stock, range depth, and practical buying options."
+    },
+    {
+      "question": "Can this page help me compare sour candy options?",
+      "answer": "Yes. It should clarify which products or collections are the best fit instead of leaving the reader with generic advice."
+    }
+  ],
+  "faq_questions": [
+    "What should I look for when choosing lemon candy?",
+    "What is the best next step after reading this page?",
+    "Can this page help me compare sour candy options?"
+  ],
+  "internal_links": [
+    {
+      "url": "https://sweetsworld.com.au/products/mint-chocolate-australia/",
+      "label": "Mint Chocolate Australia",
+      "anchor_text": "Explore Mint Chocolate Australia",
+      "link_kind": "collection"
+    },
+    {
+      "url": "https://sweetsworld.com.au/candy/",
+      "label": "Candy",
+      "anchor_text": "Browse Candy",
+      "link_kind": "category"
+    },
+    {
+      "url": "https://sweetsworld.com.au/candy/sour-lollies/megasourlemon100g/",
+      "label": "Megasourlemon100g",
+      "anchor_text": "View Megasourlemon100g",
+      "link_kind": "product"
+    }
+  ],
+  "selected_products": [
+    {
+      "product_name": "Mega Sour Lemon 100g",
+      "category": "Candy",
+      "description": "",
+      "price": "5.99",
+      "url": "https://sweetsworld.com.au/candy/sour-lollies/megasourlemon100g/",
+      "image_url": "https://sweetsworld.com.au/wp-content/uploads/2025/01/Mega-Sour-Lemon.webp",
+      "matched_tokens": [
+        "sour",
+        "lemon",
+        "sweet"
+      ],
+      "matched_phrases": [],
+      "selection_reason": "direct_match"
+    },
+    {
+      "product_name": "Haribo Sweet & Sour Bears 140g",
+      "category": "British Lollies",
+      "description": "",
+      "price": "5.99",
+      "url": "https://sweetsworld.com.au/candy/sour-lollies/haribosweetsourbears140g/",
+      "image_url": "https://sweetsworld.com.au/wp-content/uploads/2024/08/7a2741b4b39b5f6ed15fcbbb6af3624bb082c1fe.jpeg",
+      "matched_tokens": [
+        "sour",
+        "sweet"
+      ],
+      "matched_phrases": [],
+      "selection_reason": "direct_match"
+    },
+    {
+      "product_name": "Jelly Belly Chewy Sours Lemon & Orange 60g",
+      "category": "American Candy Box",
+      "description": "Jelly Belly Chewy Sours Lemon & Orange 60g Soft, chewy candy pieces in two delightfully sour flavours that will leave lips puckered and mouths watering. Net weight: 60g Sour lemon, sour orange, flavours Jelly Belly...",
+      "price": "3.3",
+      "url": "https://sweetsworld.com.au/candy/american-candy/jelly-belly-chewy-sours-lemon-orange-60g/",
+      "image_url": "https://sweetsworld.com.au/wp-content/uploads/2021/08/73327002b650e47862d251c0faeeb2e38b7b6d3c.jpeg",
+      "matched_tokens": [
+        "sour",
+        "lemon"
+      ],
+      "matched_phrases": [],
+      "selection_reason": "direct_match"
+    },
+    {
+      "product_name": "Sweet and Sour Banana 165g",
+      "category": "Candy",
+      "description": "Sweet and Sour Banana 165g",
+      "price": "5.99",
+      "url": "https://sweetsworld.com.au/candy/sweetandsourbanana165g/",
+      "image_url": "",
+      "matched_tokens": [
+        "sour",
+        "sweet"
+      ],
+      "matched_phrases": [],
+      "selection_reason": "direct_match"
+    }
+  ],
+  "related_keywords": [
+    "sweetsworld",
+    "white knight chocolate",
+    "sweets world",
+    "fantales lollies",
+    "clinkers chocolate",
+    "darrell lea kotara"
+  ],
+  "cta": {
+    "heading": "Use this page as a shortlist for lemon candy",
+    "body": "Review the key options, then move into the linked collection or product pages when you are ready to compare live stock and pricing.",
+    "button_text": "Browse Collection"
+  },
+  "distribution_channels": [
+    "pinterest",
+    "facebook"
+  ],
+  "schema_types": [
+    "BreadcrumbList"
+  ]
+}

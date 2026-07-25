@@ -1,0 +1,564 @@
+{
+  "id": "resp_0da0c51c70232fec006a5b7433adf8819bb4e275d16cf9d6aa",
+  "object": "response",
+  "created_at": 1784378419,
+  "status": "completed",
+  "background": false,
+  "billing": {
+    "payer": "developer"
+  },
+  "completed_at": 1784378442,
+  "error": null,
+  "frequency_penalty": 0.0,
+  "incomplete_details": null,
+  "instructions": null,
+  "max_output_tokens": null,
+  "max_tool_calls": null,
+  "model": "gpt-5-mini-2025-08-07",
+  "moderation": null,
+  "output": [
+    {
+      "id": "rs_0da0c51c70232fec006a5b74343070819b9b4053397c8c077c",
+      "type": "reasoning",
+      "content": [],
+      "encrypted_content": "gAAAAABqW3RKettv12OHtIB5xTlN5iwKdzk-1ZXRdilG5VxM_Ziapmz_6JBobBLES1pJBMpwAiApFuEt9ssSWk08URqrQkixwlwmHAY7slEgmXTHQ5UiXgcvFB1Mf8M66WKE3JafuUIfnUDO2TJylnIzxk0hzSlWmjPHFiNycNpyIghfKGDARAQMNKmMGb4ZNQhJb_RKnqW1lHPXL94d2XRG2q307E_NmQv-1Irg5yL-5-C03YXvB0TL3sfcncK55qNVO9rAY8MRVoTmFu7e0nxz3ap5-7UvPUiafynex1Ejhtto1hGBHZKPc3EGjAWrFATT4osALW2Ow__bEgdDnMU3TOuYUqp0nycrOBfIgtJjlS35ZD9am8aCkXbvTVjzEz8iuqBPCfNTjIJzwDvu75KUeAXPh3AUKLv61LQrCJQUWZH_5TtmqQMk3hHymLOYpr47QG0vLw874LF5u1Pa0poJQ9YtPl81U2lFrxwqKLEPkr33JFy-ciI20JHbkr4ZiU7w7cLP4wzyVvP-nDlNclAaCtzLMW7O5cfziy_FXP_SWqt6e5bQRcwAeZDI9rvwerh9OLxAzfvCyfPZlvyWVkxF5kkLHGhxV7uUW48JpeMiQZQoh8pLb29t22A45i8bQ5jiZiHzq1R61mGwCayzJqWWvOqtwFegNUZ2MiLCXDr5yF_0nMaK_SPLtrxau9BM7_H1IbKweWQ7y2cfLCLNng2WwjnTY6FwmmoDRGatdPV-hHmZOL_9OFNt3pbBvYd9iKCSievcVUjYWmV3TNcyo4yW39eq1hGlWaNWx0Y7i2_XYUNhCU8nIXnjW6D1o4l9OnVUXrgySQIFqko8G6JYkI_DM1fx874e19QfwhWaQdnG7ZJRB_3872YGeKRl9JXmT3I1PLne0Gen1aa4mDtUY7yZiOeKxkYFDn56tuaYoFBJ0P_oSKhOMsQRi4_eEqEpUijlM-M1T-edG00_AOKPHi7i-pEv9jJ6Ixh5Nyb69kHRiQkpYJi95dR8bZxzn3xxsC8IrkxZcw--uHchEA8HE_raxa_VVxNPKPIHyke591mz3PBIHwDhfbE7t24YLdSVr13KvTM29yxbcjpUhClZvrcnF3OUyL5sGaWLmAzKMWbr6kNDaIdjXrEF1aTi2E8dLVX9_A9BQZTJ_q_fjMqY07-edYfvvhkNUa-Af0D6yLpQvq2wwdG97X1jehuBtyfCSBxLwNaWScm2UizK7DIJfx5HqQPhnvKluu76yAHRFPlmlIWKewasGgmTr61-Zr4KG7josxONWC8nZvvtdI7FmrraenaK7gTBp1wA4VqyjiPNv5OY-AmyMW634tVinaxIlDLIFD-sad8g-gF-Q2GBkQBZ_9ANvDOWiSuco0cyv5wJ_AXuGH4fMR45kJb7H3OW8gAumDmaBydiKro3pBYBuiO-Gdq6lD1x3h7enarTsyd9voU9mS2H6gwZkCxYgBr4k4ZywhCrcr-YZinRo2X9130ifxffSnKOwrc61Dt9HMpG24B2m9Cy1vjVG9mNdCju5DlBz6aDGJ0uxHgj5Gqs4YyZQaotOXg-FaLm33xmrarnZL6HHO-rFgT_fdK892IUK2Ofw7zarNHy6BCTxqKGnUUlNyQQu3cCcAhonFZXLLktaWbvNuqHrUnMhmwD--kJxCyY3sLqXKJ8az-3Kawp9jlndYi3BlF3-2hxyRBOPC3Z3DB7Z8hVK8b6RqNaSOjtG8xU_uRErDvb2K_Hi-dvU3JXRyhbZeetSZmEOPCDBzTK7X8zO63DKZqSt_olf9UGgGZz1k6l3jpdL3qTPIl9khpdLf1GGqRj33ZlaS0au3wFf-tXQhA3z5Tux1von60ShcKNi2wytl00NYr6R-QZG4z9Or_HR-ZrV4GDbtki0tQrLZtZSUZXp2-Nh_nseCOKFYsvJ1gm07j4L1-KXm1MZ9LAzWzt9LLJ_2JyrNV_DYEBvH_nsxYA31OX2k_t_ruyTDyIB6Zc0GBYQyex06FIuutWzhH-lNRc8oCCsJ8NSwJz-v3m-8lQvZanq5E3CcXOa0rACQ8FkwtWKuwIj3QhvKiCVR_ma1R5MalLAgUc5kD_4CtDAsLyUMM3r3kw3ObGlPhmMYTg96qAX5C3efxneUhhpjTsNWzdRNSXVX3zZVKIcLcn4mQEGiZqF4ZrnHoStodcVEQkSRxtpYHYgqfJ-VFEFlQsTJOcUprVXJUSaJxm9A1SfkIdGebluridlT2FrBG6FFnsFYABlSFZSLnw0277hBaA7UKUSRFC_q8xFuXou6h6a0BKzmoCVBDjsBkc9Bk-7VQi4XrPOIOww-p3HnVP7KL2mKZKxIaQXfvsEKrb4mrOpPScrPml7PHZtKcklnaaSWc7CH_1QQ_CFhkqeD4Sw6533O3PRHphTHQkH3ul9ALMnhBM-beolEA4N_orRmTM2Dy-o1XZOIqkVnt_7uEMVfqMmr5Pv3uJBcWzzMC4zjwDV1845BvK3Jo4xDVqfz8Sj2Ja3-9S",
+      "summary": []
+    },
+    {
+      "id": "ws_0da0c51c70232fec006a5b74364ddc819b83dbb6ea8fbe7562",
+      "type": "web_search_call",
+      "status": "completed",
+      "action": {
+        "type": "search",
+        "queries": [
+          "best lolly shops deliver to Sydney",
+          "online lolly shop delivers to Sydney Australia",
+          "The Lolly Shop Australia delivery Sydney",
+          "Aussie Lollies delivery Sydney 'lollies' online shop Australia",
+          "Lollyworld online delivery Australia 'Sydney'"
+        ],
+        "query": "best lolly shops deliver to Sydney",
+        "sources": [
+          {
+            "type": "url",
+            "url": "https://www.goodygoodygumdrops.com.au/pages/sydney-nsw"
+          },
+          {
+            "type": "url",
+            "url": "https://www.localsearch.com.au/find/lolly-shops/sydney-nsw"
+          },
+          {
+            "type": "url",
+            "url": "https://lollyworld.com.au/terms-and-conditions/"
+          },
+          {
+            "type": "url",
+            "url": "https://wickedsweets.com.au/"
+          },
+          {
+            "type": "url",
+            "url": "https://www.lollylicious.com.au/shop/lollies"
+          },
+          {
+            "type": "url",
+            "url": "https://mylollies.com.au/"
+          },
+          {
+            "type": "url",
+            "url": "https://sugarstation.com.au/"
+          },
+          {
+            "type": "url",
+            "url": "https://www.goodygoodygumdrops.com.au/"
+          },
+          {
+            "type": "url",
+            "url": "https://www.sweetenmeupcandy.au/"
+          },
+          {
+            "type": "url",
+            "url": "https://mylollies.com.au/lolly-shop-online/australia-wide-lollies/"
+          },
+          {
+            "type": "url",
+            "url": "https://www.joysdelights.com.au/collections/all-products"
+          },
+          {
+            "type": "url",
+            "url": "https://www.lollywarehouse.com.au/product-category/international/australian-lollies/"
+          },
+          {
+            "type": "url",
+            "url": "https://www.reddit.com/r/AskAnAustralian/comments/1pcrnfw/question_about_lollies/"
+          },
+          {
+            "type": "url",
+            "url": "https://www.reddit.com/r/AskAnAustralian/comments/1ucavpz/artisanal_sweet_treats_or_family_owned_lolly/"
+          },
+          {
+            "type": "url",
+            "url": "https://belle-esca.com.au/wp-content/uploads/2026/06/CATALOGUE_Belle_Esca_2026_V6.pdf"
+          },
+          {
+            "type": "url",
+            "url": "https://www.reddit.com/r/foodies_sydney/comments/1i8jyic"
+          },
+          {
+            "type": "url",
+            "url": "https://www.reddit.com/r/AustralianNostalgia/comments/1tbi2ca/lollies_lollies_lollies/"
+          },
+          {
+            "type": "url",
+            "url": "https://www.adelaidecandy.com.au/Bulk%20Pricelist.pdf"
+          },
+          {
+            "type": "url",
+            "url": "https://www.reddit.com/r/AskAnAustralian/comments/1tl1m7n/what_aussie_sweetslollies_can_you_absolutely_not/"
+          },
+          {
+            "type": "url",
+            "url": "https://www.plateaufoods.com.au/uploads/product%20list.pdf"
+          },
+          {
+            "type": "url",
+            "url": "https://cdnc.heyzine.com/files/uploaded/b733f61e1edfc187d0723338290e52eff3884927-5.pdf"
+          },
+          {
+            "type": "url",
+            "url": "https://www.reddit.com/r/AskAnAustralian/comments/1pedhbi/gift_pack_of_aussie_goods/"
+          },
+          {
+            "type": "url",
+            "url": "https://www.reddit.com/r/AskAnAustralian/comments/1b5470t"
+          },
+          {
+            "type": "url",
+            "url": "https://www.reddit.com/r/sydney/comments/nowplt"
+          },
+          {
+            "type": "url",
+            "url": "https://www.reddit.com/r/AskAnAustralian/comments/1c5zvfp"
+          },
+          {
+            "type": "url",
+            "url": "https://www.reddit.com/r/AustralianNostalgia/comments/1lsxctq/lollies/"
+          },
+          {
+            "type": "url",
+            "url": "https://www.reddit.com/r/sydney/comments/1oo1rjr"
+          }
+        ]
+      }
+    },
+    {
+      "id": "rs_0da0c51c70232fec006a5b743aaa2c819b867e2899accaaca9",
+      "type": "reasoning",
+      "content": [],
+      "encrypted_content": "gAAAAABqW3RK9XorbLYiT3vhu9kFq5v3O19wdCYUl6uLzFh_HCsMmBmFPzcWXv17wWi4Vjt7svkOeviVId39WxdSfJaYckWgZpOaMOIc6R-TzbxD3UdbbeqknSKTSG4OO0_NWGbpwMXpace2wBpVsd1H1wKkxs0aeIWU3u56Bk4GXAgXkhiOOFy-lmZacwXbCVi8fjNYTwzGkTQIGDSfK5mpbrodNoryeiTzhQ4Kl64yFPdA0ZhwBz827jImwzHqBTcJs0iudFaXbxa-Y3M1XHhdhtzrcq_Fl7QLcJSdJGTUIu0Ivb3IQQ7V8GIiJBG9oq8LaLNePfKTe2ZABO6vLyCoOF6f9p8sZxzAUKGNJuTNBoeamwX-2E3J_JBx34veR3A8c1OMocPT6eDrByiYrehqJgsmDLRfN4VGLFIsiwN-G8neHwBFYVMDOZOctYLhOYoUimBtDGqfxQOSF2U0cQVc5u6x2NFPTnHAjhD_Hz_CGt26W0MoCMFiVRC8fPBtxOqTEkBfS2e1KMSFHrI9PoPwTn3wQNPrtW7ugWnAPV_TqoXUmS6YsBf9aaQgthtm-YtPqFYNVhMTZV-DGe7zWBhm7M5Y5FQcJENknrlQjwxOPvzJ9oRLG2IRHFK-p8-YqkCWSTkZXJKzukmnPKQm5CLbMKhqC86gNN2cWTCQj42XIOup7nJ37IK046k8TmNF7UvnPFBY-PZ9f0_hyU0sUdym9EYedX0Z39yVyDHbTAU-trvYt1JXSgWHOyx9ACfYzioOlTf_3S1JsVJn-mHW_TZihXcNGx77bk-9YNeA9fPu8pR37RhB-_oObRa4SdcWmy8k52IjnKSd64VkVkkLFxjJssDPtjZEy8i2uHH6IHWztyKoypHSf3X2IMZQAPLgFxOR8pY9iv5HzrTBD60WQKULDaAH2ykFMNrAf1GzG9yu4aauRJ7aTmGUwIisBG-wmxrf7gUsFDbLZUdajzs68iholCT9DLxtx1tRfYJgleh3H1CUoz147z5_37FHHmDjaxxvD7CHB2aSJb-s1vqVUD1mJpcwdiCwwIdi09voZVBcN8zF1sEZS-wzY6HPcNiRwjfP31LvpUE63FHRRPFqcOxBIUS0eCnEP9-E5wHeUQzeX2OE-gPE62sFru1GW6Q3L8OTmBF6Us-hfBpS5hpCahSi6DBOuxTTRisGIzgmc2PQFry54L8r7rYXhOEqiHJVKlbxkynVP8soMxGjWk-D5rCNb2ggYwWoY6EwuyDLFVR-gEbXFh8ORW13xV8TDpg-t1jbtAE5_aV-IyWCJ6pRJiXTUGnjTVWGk4a90n_Zph_zL3m0PmZFYs29ffZAUghLS4xm_ymM1gJ-YVdCG56GoYz0KG1WDE9Hpxo0fGJQWWTs-Tp4uRqY0nGGfCDSB-LjVA6UiYAZCNGdYXU92ZK6JKPSHf3XQn9V9MQ-yvTw1APgA_B6fylVehQ3KaIfHcgkbGPOWuu26Jg8aW-EkrcS9DHkHrMm8f6LFrFV1tGwASde-zisNpH_IW9DVKNEkMRWh5evOxhhPIHXunWgq19ejyPRLOoQ2B1Upqs48lHtRxgkTFu2H_v7Ey0yOdBgfMci2gCJYZwPNSa-MGJfbyl6bXzsvR3zgdavxTCsLNkHoBLD9RnV9SZOaqfSVezFrsDagjtELx7E_qxj8o4UG7ABVhTLe6uQ_0C98jDOi1OBujt8hNU8TJcm4ZhNtq9ltGVHJaFFVd5ClzPlp4H21AP68xNWIWnwi6muUGvj9J_OktyQQZ10kmbP9lGa5H9u4VwQSNaFdJrI4IvLg7YJ_yMkaXY9LR9H6Memjhv-OY-3bcehuj6P-sCMtY7mpTDz-70VH3NT15KPSoUWVP--fR3lWMNuySxJ9U2kCGHBkNV95uxaqsIODzyQhi6imfFW6k6SvtL6_rHyWQZ5ad0SG1Tg8xpAv73Wgg81BfkQ9Jrw7IeiPJQxzyHFKp72Ykox-pbSR9uZxBWtfIbzXmevsyiL1Rt9nUZQ4kK5npg_-V3ng8Qm8G4FRmyGhxxjNIgZBUe_T4Ety28pGxfwICUh8KyD3StYiO9z67kia3LK8qaeSHm3QYM7rVWMB3EqXfe7-Zt_Jg8aqGwFNGQOQtaqVS8HrJEs4fLYGmxO7X3z_frkDRveJNjhbnQ6S6glXuv46ZO-PFfEbHCprQBfA-av6mkTpOsNY_e8FUd6CdeBia_Ci_RHHXLyKa_kxvSpPVkaiFdwOKJJrkKxxyBcMVx0mJFms6_TMRxKAfgRFtM5k8VkEaPeqJ8UNcmYh5tKbZ2siwVt0hgmyW5DFID6tlu-WNKSRq46fvbwd2Lc2uFlt1sTrzqrpuymrT5JoT_tlybjIBVd3UEx9S0RS1K7RzTVEHoUyn8J0aQxuiot3jArw1qculUB0z0kO7CIyiwbfi40WUqSjRStTBnn8JuJpwsmQYPdu1HAa8rjCI3xDo6v0lsHY6J0UBhA1xyJMtmbDdnKcUHBfGtv8MXhvCcKMUC8o9Dxi9EIoYL4HLcaGHdzuagRsiGGleUtPp2zOJLNlLm-gk4fwjCxvgAJDdoJdtAa0fey5h15A4ukFe-iQANbi0pbTDHC7oHui3cDiLJvwdNFiGtqk3q7nq7YyQ1MS0-_qpmjPXdpiJF_xHqhxIGb7OUELa0GXBCoZYMLMBrCj5hUXx4UWI7jCQ4iQFZz7-ok_Jcsxq73s2pBigFqG2Xc9wCFq7uxGleAisNbXAk=",
+      "summary": []
+    },
+    {
+      "id": "ws_0da0c51c70232fec006a5b743beb40819b9aef51e318b2e91e",
+      "type": "web_search_call",
+      "status": "completed",
+      "action": {
+        "type": "search",
+        "queries": [
+          "Sticky Lolly Sydney The Rocks delivery 'Sticky Lolly' 'Sticky' candy shop Sydney",
+          "Sticky The Lolly Shop Sydney online delivery 'Sticky' 'lolly' 'the rocks'"
+        ],
+        "query": "Sticky Lolly Sydney The Rocks delivery 'Sticky Lolly' 'Sticky' candy shop Sydney",
+        "sources": [
+          {
+            "type": "url",
+            "url": "https://www.localsearch.com.au/find/lolly-shops/sydney-nsw"
+          },
+          {
+            "type": "url",
+            "url": "https://sticky.com.au/news/sticky-lollies-draw-a-thon"
+          },
+          {
+            "type": "url",
+            "url": "https://whatson.cityofsydney.nsw.gov.au/events/free-traditional-candy-making-demonstration"
+          },
+          {
+            "type": "url",
+            "url": "https://www.ellaslist.com.au/articles/the-best-lolly-shops-in-sydney"
+          },
+          {
+            "type": "url",
+            "url": "https://sticky.com.au/candy-galleries"
+          },
+          {
+            "type": "url",
+            "url": "https://sticky.com.au/index.php/custom-candy"
+          },
+          {
+            "type": "url",
+            "url": "https://www.localbusinessguide.com.au/listing/sticky-n3ax8k/"
+          },
+          {
+            "type": "url",
+            "url": "https://wanderlog.com/place/details/3406857/sticky"
+          },
+          {
+            "type": "url",
+            "url": "https://sticky.com.au/news/billie-eilish-visits-sticky"
+          },
+          {
+            "type": "url",
+            "url": "https://www.wordofmouth.com.au/nsw/the-rocks/specialty-foods"
+          },
+          {
+            "type": "url",
+            "url": "https://sticky.com.au/index.php/news"
+          },
+          {
+            "type": "url",
+            "url": "https://www.weekendnotes.com/best-lolly-shops-sydney/"
+          },
+          {
+            "type": "url",
+            "url": "https://www.reddit.com/r/sydney/comments/1oo1rjr"
+          },
+          {
+            "type": "url",
+            "url": "https://www.reddit.com/r/sydney/comments/1kagvhg"
+          },
+          {
+            "type": "url",
+            "url": "https://www.reddit.com/r/AskAnAustralian/comments/1c5zvfp"
+          },
+          {
+            "type": "url",
+            "url": "https://www.reddit.com/r/sydney/comments/1kbweoo/does_anyone_remember_the_name_of_the_american/"
+          },
+          {
+            "type": "url",
+            "url": "https://www.reddit.com/r/foodies_sydney/comments/1i8jyic"
+          },
+          {
+            "type": "url",
+            "url": "https://s3-ap-southeast-2.amazonaws.com/aacta-org-assets/Uploads/Short-Form-Entertainment-Handbook.pdf"
+          },
+          {
+            "type": "url",
+            "url": "https://sticky.com.au/uploads/media/Drawyourownstickylollycolouringpage-1750724905.pdf"
+          },
+          {
+            "type": "url",
+            "url": "https://insidesmallbusiness.com.au/wp-content/uploads/2024/07/inside-small-business-winter-2024.pdf"
+          },
+          {
+            "type": "url",
+            "url": "https://www.reddit.com/r/sydney/comments/nowplt"
+          },
+          {
+            "type": "url",
+            "url": "https://www.murrumbidgee.nsw.gov.au/files/assets/public/v/1/publications/tourism-temporary/explore-murrumbidgee-council-2022-update-%5Blres%5D.pdf"
+          },
+          {
+            "type": "url",
+            "url": "https://www.reddit.com/r/AustralianNostalgia/comments/1uqmaxl/does_anyone_remember_this_place_any_fond/"
+          },
+          {
+            "type": "url",
+            "url": "https://www.unsw.edu.au/content/dam/pdfs/planning-assurance/records-and-archives/student-publications/2024-05-blitz-2005-s2w5.pdf"
+          },
+          {
+            "type": "url",
+            "url": "https://magiclifeuk.com/wp-content/uploads/2024/07/Magic-Life-Magazine-July-Web.pdf"
+          },
+          {
+            "type": "url",
+            "url": "https://www.reddit.com/r/CasualUK/comments/1bzna8c"
+          }
+        ]
+      }
+    },
+    {
+      "id": "rs_0da0c51c70232fec006a5b743e1b54819ba24d9ecf09e7ec25",
+      "type": "reasoning",
+      "content": [],
+      "encrypted_content": "gAAAAABqW3RKgPFk5kT3LjB6Kq4jrNGNnQ-6Ak6B515a6-RJVZpQEcUSJE8L4WQbewoNGX2BJxvlVB8VUkujDLhGpDXFl1gSJr4MzrmpJPGQBWv3qKFo3BBhVfkt5rLvIFMt_kqmBs7WzX-oz7J8OXvmHGDFI8aDT6nlSExFxwlmYqb6aFVKi3hh9K_DG_asqpPmi602-2PduTL6u29zSd9xZB_DpqWZXGZ064TBwqfZPBimU2xx-K94uH3ZVdMDHAI2kWbh9AsE8xP1l08b_F_Sq-p9HI-POjmoK9Bwo89k8dQuuUVR7rfjTbdtbcLJCdFOVk79H9fxSX6Ak_FROmu3VhNakE2Zy2c4gy7oOxpJUJjKXHfwfwrX8DfZU2n-US-_i_r_OGq1S2XcQ8p6JJSmJNr3Fd2UQ2z9sfZJLkALsFUDjMv4K9wkknfM5u6i_7Ioih3NTAnb_av2J9sDA6ml0Jq5P7w3mGWZ83oP_iZyzJr7v5NEfgk8f_GaVKLRxBfVtnoE79_8_HFB8UP-dTEPN-Lnvw60yPwkqwaLEb9vENAflg5vRcQn9ouskRQm2l2CaIOp9mWcFx7TLLxefAJALtaZOS34NjrwUcOQbNb2WWG-24afxwuRl9tsFzqGZaVyRQ5zblK5uqoPvAToB_x73yyXfQ4B9Fesr2PHMRmJJoo6n2DBMT6Ne-F8rC13R3_RmuJq86ADPvT0gDJbiPNJWm7KLfDH2mZkr-MI7ikYOYb-Omej6UReKUEO_7T0GB36L0qQtV-oVAgvTlh7DqUffTNMalGq9bEUolh_PQpjf3FIMIVhxFEKd-Wco6rMrP7XjmHF8Z5iDS7JiERnbqLqOHynOYdMv6mrqEeffxNGtm0EzvGkHeHzDbczD0vPu5fgcnA3YkBTwUGMcAV79gO1kSiwbSNI2v63KPehILa5ZarqnyHVTlM7OvnhvDTrlJZ_AKlq-Y7YxY-EZg7Ch5JHaBwWjLjEEHgEuKdKezBPHW1Pq7G34H_tPQ9Ke9-KAwvzu3wsl9vgdDU2ybNAanUFkyKai7iuQw0g3hRisauPseFKLFgPH26b2C08cEfbcDhRrvAA3kD2VW3WnmsooZb1NKobys5cL_1SV2nrNzFjBnJxInNSMvjesL-hp-hD0cnZnjAos3rGxjJHYlpkwM7684Jw2Njz_vN9e20a6yF4-t9CuMGVi-jLo7RC2Ju_KSAHY8IBHfGa-ebeEkVxTXxiYzp2wDNPZOk3xueTSBQMYBHWqVtDBK-r9_mXHRx4wBj4UJZDF0vnqRPXUxkDYzejKAKoK5vN2jaTHbJzgWWTe187JXmn0NeMDYpeb-6uOLOUp61vt4s8qMadWIiwVEjNuQEe5sJA9InAwqjSoQ4feWwswODPiztIRx2JW0yjpmfXJ0BKfU4toGon6B4CUspHQBnvj-nJcQGu3uX06FTxCPCp5ifL6GF6Y7o2c5ps25bAArrL3LZZmoyjcQA_m8N418wfAWyR3n0NgWb3go67ZBtldUN6ZMTQsr6omU1QfDuoTnoildevWDQ87mmJBFX9houLDFVHDwNILgmnOZ2W1XjydSW-WzvTdZXIl1dU8o3lX0cf4mGiUNBaElmm0oPWbuRCoZzA-9e3dJ0kVt8z91JVc3OraPZ5imqu7lcekibLQz-7ozaY_IQuKjIoz4r_Bdm2Ow92OiwxA0TsHUqzfC0RfMYwJWNbKmBveFqnoIYIYE0vCQR2WncalpCV9tF-ozlIZbV-XC398kZ44rHYeP0-AolBK5_iryDAR_-T0c3rbtP5m7yG541S7ceXHrQsjaDbIKmV7wkxon1tzWw7hxtq_h7oCjFGgYbUG7SgiIL8am3hGMgpN5U8nCu8z-B4vJnXrYhQhNdgcbQhgO4fjyTNGa5HIV4=",
+      "summary": []
+    },
+    {
+      "id": "ws_0da0c51c70232fec006a5b743ecb98819ba7e373274b83d846",
+      "type": "web_search_call",
+      "status": "completed",
+      "action": {
+        "type": "search",
+        "queries": [
+          "same day lolly delivery Sydney 'same day' 'lollies' 'delivery'",
+          "pick 'n' mix delivery Sydney 'pick and mix' Australia 'Sydney' 'delivery'"
+        ],
+        "query": "same day lolly delivery Sydney 'same day' 'lollies' 'delivery'",
+        "sources": [
+          {
+            "type": "url",
+            "url": "https://dessertboxes.com.au/collections/sydney-same-day-delivery"
+          },
+          {
+            "type": "url",
+            "url": "https://www.edibleblooms.com.au/products/lollies-sweets-9-pack"
+          },
+          {
+            "type": "url",
+            "url": "https://www.mandyscandygiftboxes.com.au/about-us"
+          },
+          {
+            "type": "url",
+            "url": "https://www.lollymail.com.au/pages/lolly-box-delivery"
+          },
+          {
+            "type": "url",
+            "url": "https://www.edibleblooms.com.au/collections/lollies-crunch-6-pack"
+          },
+          {
+            "type": "url",
+            "url": "https://dessertboxes.com.au/blogs/news/delivery-locations-australia-wide"
+          },
+          {
+            "type": "url",
+            "url": "https://mylollies.com.au/lolly-shop-online/australia-wide-lollies/"
+          },
+          {
+            "type": "url",
+            "url": "https://www.sugarbabylollyjars.com.au/a/faq"
+          },
+          {
+            "type": "url",
+            "url": "https://sugarstation.com.au/"
+          },
+          {
+            "type": "url",
+            "url": "https://www.edibleblooms.com.au/"
+          },
+          {
+            "type": "url",
+            "url": "https://nz.trustpilot.com/review/lollylicious.com.au"
+          },
+          {
+            "type": "url",
+            "url": "https://www.armidalemarketfresh.com.au/lollies-candy"
+          },
+          {
+            "type": "url",
+            "url": "https://pub-mediabox-storage.rxweb-prd.com/exhibitor/document/exh-24b29a45-3853-441c-82d8-96682cd0e1d2/472b2539-e22b-49ab-8687-47f876f0eb37.pdf"
+          },
+          {
+            "type": "url",
+            "url": "https://2361723.fs1.hubspotusercontent-na1.net/hubfs/2361723/Catalogue%20Assets/2023/July%202024/Primepac%20Catalogue%20Cover%20August%202024-digital%20version.pdf"
+          },
+          {
+            "type": "url",
+            "url": "https://www.reddit.com/r/australia/comments/1e66xnp"
+          },
+          {
+            "type": "url",
+            "url": "https://sticky.com.au/index.php/custom-candy?utm_source=openai"
+          },
+          {
+            "type": "url",
+            "url": "https://www.goodygoodygumdrops.com.au/?utm_source=openai"
+          },
+          {
+            "type": "url",
+            "url": "https://mylollies.com.au/lolly-shop-online/australia-wide-lollies/?utm_source=openai"
+          },
+          {
+            "type": "url",
+            "url": "https://sugarstation.com.au/?utm_source=openai"
+          },
+          {
+            "type": "url",
+            "url": "https://wickedsweets.com.au/?utm_source=openai"
+          },
+          {
+            "type": "url",
+            "url": "https://www.lollylicious.com.au/shop/lollies?utm_source=openai"
+          },
+          {
+            "type": "url",
+            "url": "https://www.lollywarehouse.com.au/product-category/international/australian-lollies/?utm_source=openai"
+          },
+          {
+            "type": "url",
+            "url": "https://www.edibleblooms.com.au/?utm_source=openai"
+          },
+          {
+            "type": "url",
+            "url": "https://sticky.com.au/candy-galleries?utm_source=openai"
+          }
+        ]
+      }
+    },
+    {
+      "id": "rs_0da0c51c70232fec006a5b74409518819ba3ab0ea5979dacfa",
+      "type": "reasoning",
+      "content": [],
+      "encrypted_content": "gAAAAABqW3RK-_jpbJdaL6GT486rXGP1rhb1bnO1DP6L5TFbZ2_vI3-OQtYQDeQZYW9Ni1MpSQxhF0HKk2S3KOpe0xPq7M_I2ziFnH58Z9gg9nwVmNAMH1BnbgsPx3j-zhlIOksi53QMD5WMnPATGIFSb6DHUOwi_1RqPptNrpOdAs2oBIINC1A85kbDWb3whcgvMTkDRh4ssXbeu11GmvOQCPwB-rAID9VDtmu6lAY_zsAa2GwJKIjapIjVgsIKCEoKOZBMPZmRzIp3U1QgvbjF4P6Qv3V4L-zmTIG4937f_FrX4OAIgO2M3IyHgaFi92BXFeZG9j2SAUkb08FTAUwYO3HXgiaw0x0FHW5CMFgXQS3Bx9_iU-2RQ93lamTl2ig4OSMYfMKhzDpDVPnB4OcRD0M-eTkLTVvw_VWFBtpC1ZJJrbARNX8HFA8n1Nq0eutjJ08A9lZfxLO-deQFu_rACxrC2DuPSPsGxIpUx_cvrWd0UYFyV54-MDzNztBAwxVz4CRxeU7BSgh57qOsVSJFuAvLyv6L1iM6191ByHy_ZJZjN3ya1kTNNDsJL_jSIT1qPCS8bqXhHI0dk7SBwCFLUL_Zvhu2llkMklj2qYdtEOJhdr2IQ0izNCz-qcqX9YtDrohd8YvkJn67vG03xFOeN0in397S2SaXtqhUi3x03w0aiOaa2ejBvXKe5VHjts3k3Qw5CeqHUpNqet-XvIWv8X2xmeLHXSPQnhLx9br_vYxmgwQReIQAPIJbPWJzmw3nabzUBWgQ1eLc6c6IRRDGPtX5bXHQbfgSbfM0HzotZvvl-s42MrO64CE_JUv0uMi7Cxr0cn4dkjfEXhE35Mh1AP-HYLqlZMa0WDHHo9xUYLDGbRMVocRuaLzMQuirxbwtLUhddyqdGk4_ZehDKS0KCB7YWl59rc6gxWrN5gVaIgjXcLoB3QS76F7D9gmB5nx2ylRFYOLzntmxe1nLYR5sUWlmAqPbea7lj3nvl_cMKylV4-5EGBsO5ONyhHl0lH22b2-8ncdo-NftklklUDsyVe-KXXQU-DCcebbV2AMLi_pHLY1Uy1WBeS5X4FJbelmGIhtf6A_2GVDKGpKBp5GMRId6sxs21of0GLtOVmBLw0xule8nhdPhvwRzYDr2yrbpAzXP0Srd8uwqUOp__z-Wsnnc1PzcdujMouDGGfor7crZwau7K94VVqj6_aeEzs1NjR2m9yYqFozii61lW3qz0ZS4tb35bgdjyMTGXOXcU26pH7R_kzRA9fGKbblqua0pbBnsqs4j0OEZlnOoINhocCk4YOmYb084wS8H9Hvz743Wqm6gLkWQEBDmuh-1nQlEJKeXPJg6Z7_lnNYYWCfM0GMBaoe-6A_ZGCvDvEmZOPF-I4JYduv9I9UTc5ZedNghxLzqajSJPrhsPRN-3LTO2LC8i-jG383VQPDaqsU9_yUON-aEi_wl__CTl4Lait-j1aCYjXUHr1oRxqbtrzTollzuke-gxTe6E4TIgQCEnDyBLps8aDKAGjYQXcLXLWOzTw0tJxEWj2DowUNi9em45PqYeCpqpTUXVyCmwGgef4OcctiWz9_PRoc6AcRqbfuTNunrVcngqQV444UChK2rOI53Gm11wZMqYBJhugVdNXWO_jIqRx5h0lNIwuN_eHS-jz1fKk9oq93y3qUrBA2BmkwSNiXVLTScc-ongXXGU-ReDkPzK3DE3jGLxqEEjxU6K6HtcJ9_KzhkkcbnIr4KxFgotxWfP1flnLjfOLYBxGpo7wdIjrd68pzTVa-MwD8NL3uclgEZuCvqP1k2LSAsWZqFLVjqwfVVFzfV1E0HJg12aSRMkoqZ41U7AhS6mKJlsaHXaXToGbPGFAW9JCz5UgPGO7ch1v0qjBWX5e1IqaXe2qusudKLn1QK_61G_H6ZP3CSK-TohZjxOZdZYy3gaDnUG9KyV1OIpfOdjd-_qtO5MJ-d7Yhwj_Sn9_a_zptm1kYM6KHiXuvEtUacQ32Ca2rClBKfTdZo5_DEozpr0HpIjfOVaWXfzjrFswrQ9YT9YjgiOSxROLAGqCO-Zu1-34V-KVzMbVkeWrCvqhmIv4HLG-nEfKeFKvOcBxrvh2oLS-zjjj-rn1bVlKo8T3VtSfiuEG24oQ9261Sygkvkz6VAw6siTWNee_csHoli73fiCEDVdJAl3R-kN0eXVCLomYCo9fRi7bhTMmJCcC2kxkc0X_Ne0TNct5aMK4ZLv9n_G94bLgUj2HkXM1UewLuQZ_s5Qjpg0uk5tCD_DIIoqWyK12L1pecbNU3Vyyat71CPcwlGIWMOFhBKPf0I239BatYYjGlmt5fJNnhv1FDEtW3ivpSPQGtaJ2S5UEfPcXmDrH0PF2REhB8LIIW9UwES1dTLrF7d2UpRl62uvzA4FW_mkE41S4ati-xgRdbIgQ5_pDuXr51wfjrdoVUKKVYu4YamIRCpS6zxDBRYtukKADrZ9oHoD52_ykkKQbWGA7qsNTo1hJyqngBEjjpFFaA-e3s4P_S5YNjxX07ek6609YW6qJgR0JzyARz502hKrVoiKacwoZS-OuYn55oN7XAMFzHVTihlgin6Sxgg9jcdz0BEfEEMuAREmS67-fXFYnw36z7uZVlyFlFh4B_zJLaHQeob8NVb2kqbBPUiOiSnhOCMX4fCQMknrVMCvLDIVZSCAp_RCfXjGEOWIXpa5qBiuoBECLv2aqaQbocpGdeSZ2yNp51JhxCQkzeDr0MTc86r76YXtIcVo6n43B2Ti53yHFYoVgVfuQOHkLjWZmTphz1XwSkurB_5MZyg4d_TJGIIowS8MGiO4RWnVeSF4mTisdJI5JGDNDS0CyzgzNZkhUFc2vcN7CEk7g1C7DeOOx8TYBUe3OvBlybCCDcEDoXNOI_Vpm7Uz3B-9Dh5v7F4zcmajGO5G7rQOjtdRyPN-Nx4k_CiERDGGsrxgsKB5Ivf9FjKCDrC8hKGf7CGH_k74148_Az-8hT6fCJdc19Ikpr65V8atMHqZyM_ji7WUJFExqJW9gguqIq3DEM0UfMBTxYdvnHbWPuAZs545lxh78wNFOJgXVwdezf2O5-yeeuVIKC_GixP6RmmP0NPu_wxUAhnNY0ctfwogWaU77PUn4KK7kDeqBS310xct_BTc2ctoy9hTIVLfkGCEuOyFIZCu_eDl6dB8MD1eGnIyNLucbwDnGn6lORlN1U1qIH6zC5NwDMTVKBE7qYrRkMOfKO3WXOLzgKQlTzuod3HxgJmAXWpMU9HqzSS0gfjkSdOou8uqbhiuOSvtxFme_qe4PU_FguOCUOUqfiO3coZ3YPcgIAByVjmIG_iT6ap4WxqJ5y9LW5PtywTXgDeyR8lu1k-L9PPTBWij2aAwWCZtccJ-Jy611TToj4t7XNJuO1eMMXkbAy8AMXI6tPp-Y859bVRFiTc76l0W6ovun1iIE_PV_SjuxL6nVwVBSPASrC2eI-Tir9RuUexs49ASC4oXDp0nCdwKR1X5ItDL96Q9M0vYzKa2gnZ7y2wPq-k-Zksp2mPgqSUKHRFh3kPdvBfxGhzNMkNLHT4UIzA1WdWV_GUbpciNOzHCYahOUiSgtKWuCs9_-oUY4wUmA_AeHYqsZ_Fyo_tDS0a1156JXKxf8c2dlyP0UbD2odTy5KQ2VGzCbDboxf1S18aS8bK1CdZKnuJASuyrwD-xYbZF3kVN8CkbQK9HO7sfDQL-IjOgvxGYAIDniwC9-VshvkZHgY84u4mdDTp_MRW2QmuIVryfyaOshGnmmmk8g4GN9aaohnwPoA-NCeiltZRw1jYcLdE0O-cWWcPMhau0OgkLBCqAZaMj1zTDKjm-9if_9Rrnu6-n-Ucpmx-025onGUC9Eu2tVc715wvGDUH8VDc1vFWep5I1j3MB1SMFoJ3DHYgYww42Chug_Kdt_3Q9Db0FryVWNGQUWwGnWaRESOqOKJ08xWAT6WPtdd2ufzf443mBzbJD3XJraPj0k5tmrvnvLCcB92ZOuIG2Ncu8lSQ3DwAcv6FW20z-EX8nrXMl73RMPCi7Onl6V-mNoPE7sxoavFNoaZhdvlEwP0LQHDb-r58YiTWP_12pvqI2rNHYknsBFLr5cHUnZJqWuSIfN9vRnsgQsZi7q2n5VLCT6qEaO4R8hPjqyma1-FMzk5N30vaqTLDXaUVSbB2nJpYfvGw4Z8r87m1PAqr8FEINTtzRBiHhOSs9-oZQ-tmL0oZvJ0Cl_XCDYhJ-9APW5vLVRDv_9tHA1yRaFQvxFbAmxn147lUBlfRlejshsl_IIfxBFuToKRflqUBCAJjTeHD8fkjxb5kThIFmKZn8N3kxAMr5ejgSDhgaLgwghqMijxaRAk2ZlezE-ddmMWhThsfyje9e-ROvgjoov-F7svwUnAZg2X5mDxVHSP8k8BDZvTUH8TNujR9z4yTR5vrr8QTmtUlZuiYjSRIaTYpbbSL_nphahVjzAMpepUU2AsplxDRoi-ftlQpTk5HtJNAputHdVSV_8XY4_XiEG1Wt4qJOBmAwqa9jq0GtQNiloQEXJO73pp-XNhQeiej9vzSV9SvOifsO3Cxfopm3-y-T9lYlwls8SC3Whg5whMHenfmvqdTlyoaQVIB7uKiWH17hH2wz-WanZcSWc6IZkWSSFa8yTskuX3v4RSc_1NuvNfy1rbcN9QXezlU2sxbCIoftnsOUPM-QQIBCgouT_7CKrGikB_HaVVu_KpjVSko1M6p2MtzVEDqdd4H-oF25ywuOmqTsbwLqng0EnWAE48MkKBPkKZOFWzz2ODHn6h-ghO0JPQ_0YJHlEjZOj5Y62COAE2j1mPb-zjed4auNyCCHIJk15YgXwgZv6ydwa6KEVizBu-karKiOM3g-3k1Q8m75t7maliKGTr4p_F9EJMgHCmbMHUdP6SLuIAVcZNq-xDDXG_uNCf9CaLYikAbW3ogU2hOyDg_4dBld-OqR7n2izYi2zwyxYCz6av7Ir3DySb2_Xjz0er8MG2k0yqHP9wMng6FNI_dmvOT77fQ-mDwUEg60-C7qxO7T9ebZLdKrpaRpJyYAzOsWcHrlQYv6UVTw8AYcXaJSlulYLDF1gOy9vKNgAw=",
+      "summary": []
+    },
+    {
+      "id": "msg_0da0c51c70232fec006a5b744537ec819ba55e371aa4ee1f13",
+      "type": "message",
+      "status": "completed",
+      "content": [
+        {
+          "type": "output_text",
+          "annotations": [
+            {
+              "type": "url_citation",
+              "end_index": 429,
+              "start_index": 348,
+              "title": "Custom Candy | Sticky",
+              "url": "https://sticky.com.au/index.php/custom-candy?utm_source=openai"
+            },
+            {
+              "type": "url_citation",
+              "end_index": 641,
+              "start_index": 554,
+              "title": "Buy Bulk Lollies Online | Lolly Shop | Small Lolly Bags Australia",
+              "url": "https://www.goodygoodygumdrops.com.au/?utm_source=openai"
+            },
+            {
+              "type": "url_citation",
+              "end_index": 904,
+              "start_index": 798,
+              "title": "Online Lolly Shop Australia | Buy Lollies Online Australia",
+              "url": "https://mylollies.com.au/lolly-shop-online/australia-wide-lollies/?utm_source=openai"
+            },
+            {
+              "type": "url_citation",
+              "end_index": 1126,
+              "start_index": 1055,
+              "title": "Sugar Station® | Buy Lollies Online Australia · Melbourne Lolly Shop",
+              "url": "https://sugarstation.com.au/?utm_source=openai"
+            },
+            {
+              "type": "url_citation",
+              "end_index": 1307,
+              "start_index": 1236,
+              "title": "Lolly Shop | Candy Store | Wicked Sweets",
+              "url": "https://wickedsweets.com.au/?utm_source=openai"
+            },
+            {
+              "type": "url_citation",
+              "end_index": 1538,
+              "start_index": 1451,
+              "title": "Lollies — Chocolate and Lolly Bouquet Delivery Sydney — Lollylicious",
+              "url": "https://www.lollylicious.com.au/shop/lollies?utm_source=openai"
+            },
+            {
+              "type": "url_citation",
+              "end_index": 1791,
+              "start_index": 1662,
+              "title": "Australian Lollies - Online Lolly Shop - Lolly Warehouse",
+              "url": "https://www.lollywarehouse.com.au/product-category/international/australian-lollies/?utm_source=openai"
+            },
+            {
+              "type": "url_citation",
+              "end_index": 2092,
+              "start_index": 2017,
+              "title": "Hampers & Dessert Boxes | Same Day Delivery | Edible Blooms",
+              "url": "https://www.edibleblooms.com.au/?utm_source=openai"
+            },
+            {
+              "type": "url_citation",
+              "end_index": 2288,
+              "start_index": 2201,
+              "title": "Buy Bulk Lollies Online | Lolly Shop | Small Lolly Bags Australia",
+              "url": "https://www.goodygoodygumdrops.com.au/?utm_source=openai"
+            },
+            {
+              "type": "url_citation",
+              "end_index": 2508,
+              "start_index": 2434,
+              "title": "Sticky's Stunning, Hand-crafted Rock Candy | Sticky",
+              "url": "https://sticky.com.au/candy-galleries?utm_source=openai"
+            }
+          ],
+          "logprobs": [],
+          "text": "Great — here are well-regarded online lolly shops that deliver to Sydney, grouped by what they’re best for and with a quick note about delivery:\n\n- Sticky (The Rocks) — best for handmade rock candy, customised wedding favours and a true Sydney institution; they take online orders and ship (free shipping over threshold / online shipping options). ([sticky.com.au](https://sticky.com.au/index.php/custom-candy?utm_source=openai))  \n- Goody Goody Gumdrops — big selection and wholesale/bulk packs, Australia‑wide delivery including all of Sydney suburbs. ([goodygoodygumdrops.com.au](https://www.goodygoodygumdrops.com.au/?utm_source=openai))  \n- MyLollies (mylollies.com.au) — large warehouse-style pick’n’mix and bulk options; fast Australia‑wide dispatch (same‑day cutoffs from their warehouse). ([mylollies.com.au](https://mylollies.com.au/lolly-shop-online/australia-wide-lollies/?utm_source=openai))  \n- Sugar Station — Melbourne’s large pick‑n‑mix shop that offers same/next‑day dispatch to Sydney for many orders; good for retro & imported sweets. ([sugarstation.com.au](https://sugarstation.com.au/?utm_source=openai))  \n- Wicked Sweets — specialises in international/novelty candy (US/UK imports) with Australia‑wide shipping. ([wickedsweets.com.au](https://wickedsweets.com.au/?utm_source=openai))  \n- Lollylicious / Lollybox / Lollymail — great if you want pre-curated lolly gift boxes, bouquets or same‑/next‑day metro delivery in Sydney. ([lollylicious.com.au](https://www.lollylicious.com.au/shop/lollies?utm_source=openai))  \n- Lolly Warehouse / Lollyworld — big online selections for Aussie classics and imports, with tracked shipping to Sydney. ([lollywarehouse.com.au](https://www.lollywarehouse.com.au/product-category/international/australian-lollies/?utm_source=openai))\n\nQuick ordering tips\n- Many stores offer express/next‑day or same‑day metro delivery but have cut‑off times (check the product checkout page). Examples: same‑day or next‑day options advertised by a number of the shops above. ([edibleblooms.com.au](https://www.edibleblooms.com.au/?utm_source=openai))  \n- If you need bulk party bags, look for “wholesale” or “bulk” pages (Goody Goody, MyLollies, Lollyworld). ([goodygoodygumdrops.com.au](https://www.goodygoodygumdrops.com.au/?utm_source=openai))  \n- For personalised/custom rock lollies or wedding favours, Sticky is a good local option and you can collect in The Rocks or have them posted. ([sticky.com.au](https://sticky.com.au/candy-galleries?utm_source=openai))\n\nIf you’d like, I can:\n- Filter this list for same‑day delivery only (and check current cut‑offs for today), or  \n- Find the cheapest option for a specific order size (e.g., 5kg bulk, 50 lolly bags), or  \n- Pull together direct product links and delivery times for 3–4 of these shops so you can compare.\n\nWhich would you like next?"
+        }
+      ],
+      "role": "assistant"
+    }
+  ],
+  "parallel_tool_calls": true,
+  "presence_penalty": 0.0,
+  "previous_response_id": null,
+  "prompt_cache_key": null,
+  "prompt_cache_retention": "in_memory",
+  "reasoning": {
+    "context": "current_turn",
+    "effort": "medium",
+    "mode": "standard",
+    "summary": null
+  },
+  "safety_identifier": null,
+  "service_tier": "default",
+  "store": true,
+  "temperature": 1.0,
+  "text": {
+    "format": {
+      "type": "text"
+    },
+    "verbosity": "medium"
+  },
+  "tool_choice": "auto",
+  "tool_usage": {
+    "image_gen": {
+      "input_tokens": 0,
+      "input_tokens_details": {
+        "image_tokens": 0,
+        "text_tokens": 0
+      },
+      "output_tokens": 0,
+      "output_tokens_details": {
+        "image_tokens": 0,
+        "text_tokens": 0
+      },
+      "total_tokens": 0
+    },
+    "web_search": {
+      "num_requests": 3
+    }
+  },
+  "tools": [
+    {
+      "type": "web_search",
+      "return_token_budget": "default",
+      "search_content_types": [
+        "text"
+      ],
+      "search_context_size": "medium",
+      "user_location": {
+        "type": "approximate",
+        "city": "Sydney",
+        "country": "AU",
+        "region": "New South Wales",
+        "timezone": "Australia/Sydney"
+      }
+    }
+  ],
+  "top_logprobs": 0,
+  "top_p": 1.0,
+  "truncation": "disabled",
+  "usage": {
+    "input_tokens": 17583,
+    "input_tokens_details": {
+      "cache_write_tokens": 0,
+      "cached_tokens": 3584
+    },
+    "output_tokens": 2358,
+    "output_tokens_details": {
+      "reasoning_tokens": 1600
+    },
+    "total_tokens": 19941
+  },
+  "user": null,
+  "metadata": {}
+}

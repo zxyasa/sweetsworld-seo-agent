@@ -1,0 +1,309 @@
+{
+  "candidates": [
+    {
+      "content": {
+        "parts": [
+          {
+            "text": "As a Sydney shopper with a sweet tooth, you're in luck! There's a fantastic selection of online lolly shops that deliver right to your door, offering everything from classic Aussie favourites to international delights and bulk options for parties.\n\nHere are some of the best lolly shops that deliver to Sydney:\n\n*   **Goody Goody Gum Drops** This family-run online lolly shop, based on the NSW/Victorian border, is a favourite for bulk lollies and delivers across Sydney and all of New South Wales. They boast a huge selection, including many exclusive lollies, at competitive prices. You can find single-coloured lollies for candy buffets, a wide range of boiled lollies, Jelly Belly jelly beans, Australian-made chocolates, retro lollies, and a complete selection of Allen's and Cadbury treats. They also offer gourmet rock candy, custom lollipops, and gluten-free and sugar-free options. Goody Goody Gum Drops provides daily deliveries to Sydney and surrounding suburbs with low delivery costs.\n\n*   **Candy Bar Sydney** If you're planning a party or event, Candy Bar Sydney is your go-to for bulk lollies, chocolates, and even themed party supplies. They deliver to Sydney, Melbourne, and nationally. Their extensive range includes sherbet, sour lollies, Aussie and American lollies (like Hershey's), bulk chocolate, bon bons, and a variety of single-colour lollies perfect for candy bars and weddings. You'll find beloved brands like Allen's, Cadbury, Nestle, and Lifesavers, alongside international and local specialty brands.\n\n*   **Wicked Sweets** For those seeking a diverse range of sweets, Wicked Sweets offers Australia-wide delivery with a focus on Australian, American, and British lollies. They have physical locations in Sydney (Castle Towers and Rouse Hill Town Centre) if you prefer to visit, but also provide convenient delivery to your door. They offer free shipping on orders over $99.\n\n*   **iCandy** iCandy focuses on bringing on-demand treats directly to you, ideal for movie nights, birthdays, or just a spontaneous treat. They pride themselves on selecting high-quality products and offer free next-day delivery within a 10km radius of Stanhope Gardens, NSW. For locations outside this area, a delivery fee is calculated at checkout. They also ship their Pick & Mix Candy Boxes Australia-wide via Australia Post.\n\n*   **Joys Delights** This online lolly shop imports a variety of delicious and exciting candy from around the world, including America, England, Japan, and New Zealand. Beyond lollies, they also sell chips, chocolate, drinks, and chewing gum, with options like Swedish candy, bulk Skittles, pick 'n' mix lollies, and freeze-dried candy. They accept AfterPay and ZipPay.\n\n*   **Lolly Kingdom** As one of Australia's largest online pick 'n' mix lolly stores, Lolly Kingdom offers over 300 lolly options, allowing you to create your perfect custom bag. They ship quickly to your door and provide various themed lolly boxes for occasions like birthdays, Christmas, and thank you gifts, as well as gluten-free and chocolate box options. They also feature unique items like freeze-dried candy.\n\n*   **Lolly Warehouse** For bulk lollies at warehouse prices, Lolly Warehouse delivers Australia-wide. They cater to every occasion, from weddings and birthday parties to corporate functions, and can help you create custom lolly buffets. Their selection includes classic Australian lollies like killer pythons, strawberries and cream, and red frogs, alongside aniseed treats and much more.\n\nWhile several excellent online options deliver across Sydney, some local brick-and-mortar stores were mentioned in a Reddit thread as having a great selection for in-person shopping, such as Sweet Surprises in Penrith and Campbelltown, and Lollies n Stuff in Windsor. However, their delivery services are not explicitly detailed in the search results."
+          }
+        ],
+        "role": "model"
+      },
+      "finishReason": "STOP",
+      "index": 0,
+      "groundingMetadata": {
+        "searchEntryPoint": {
+          "renderedContent": "<style>\n.container {\n  align-items: center;\n  border-radius: 8px;\n  display: flex;\n  font-family: Google Sans, Roboto, sans-serif;\n  font-size: 14px;\n  line-height: 20px;\n  padding: 8px 12px;\n}\n.chip {\n  display: inline-block;\n  border: solid 1px;\n  border-radius: 16px;\n  min-width: 14px;\n  padding: 5px 16px;\n  text-align: center;\n  user-select: none;\n  margin: 0 8px;\n  -webkit-tap-highlight-color: transparent;\n}\n.carousel {\n  overflow: auto;\n  scrollbar-width: none;\n  white-space: nowrap;\n  margin-right: -12px;\n}\n.headline {\n  display: flex;\n  margin-right: 4px;\n}\n.gradient-container {\n  position: relative;\n}\n.gradient {\n  position: absolute;\n  transform: translate(3px, -9px);\n  height: 36px;\n  width: 9px;\n}\n@media (prefers-color-scheme: light) {\n  .container {\n    background-color: #fafafa;\n    box-shadow: 0 0 0 1px #0000000f;\n  }\n  .headline-label {\n    color: #1f1f1f;\n  }\n  .chip {\n    background-color: #ffffff;\n    border-color: #d2d2d2;\n    color: #5e5e5e;\n    text-decoration: none;\n  }\n  .chip:hover {\n    background-color: #f2f2f2;\n  }\n  .chip:focus {\n    background-color: #f2f2f2;\n  }\n  .chip:active {\n    background-color: #d8d8d8;\n    border-color: #b6b6b6;\n  }\n  .logo-dark {\n    display: none;\n  }\n  .gradient {\n    background: linear-gradient(90deg, #fafafa 15%, #fafafa00 100%);\n  }\n}\n@media (prefers-color-scheme: dark) {\n  .container {\n    background-color: #1f1f1f;\n    box-shadow: 0 0 0 1px #ffffff26;\n  }\n  .headline-label {\n    color: #fff;\n  }\n  .chip {\n    background-color: #2c2c2c;\n    border-color: #3c4043;\n    color: #fff;\n    text-decoration: none;\n  }\n  .chip:hover {\n    background-color: #353536;\n  }\n  .chip:focus {\n    background-color: #353536;\n  }\n  .chip:active {\n    background-color: #464849;\n    border-color: #53575b;\n  }\n  .logo-light {\n    display: none;\n  }\n  .gradient {\n    background: linear-gradient(90deg, #1f1f1f 15%, #1f1f1f00 100%);\n  }\n}\n</style>\n<div class=\"container\">\n  <div class=\"headline\">\n    <svg class=\"logo-light\" width=\"18\" height=\"18\" viewBox=\"9 9 35 35\" fill=\"none\" xmlns=\"http://www.w3.org/2000/svg\">\n      <path fill-rule=\"evenodd\" clip-rule=\"evenodd\" d=\"M42.8622 27.0064C42.8622 25.7839 42.7525 24.6084 42.5487 23.4799H26.3109V30.1568H35.5897C35.1821 32.3041 33.9596 34.1222 32.1258 35.3448V39.6864H37.7213C40.9814 36.677 42.8622 32.2571 42.8622 27.0064V27.0064Z\" fill=\"#4285F4\"/>\n      <path fill-rule=\"evenodd\" clip-rule=\"evenodd\" d=\"M26.3109 43.8555C30.9659 43.8555 34.8687 42.3195 37.7213 39.6863L32.1258 35.3447C30.5898 36.3792 28.6306 37.0061 26.3109 37.0061C21.8282 37.0061 18.0195 33.9811 16.6559 29.906H10.9194V34.3573C13.7563 39.9841 19.5712 43.8555 26.3109 43.8555V43.8555Z\" fill=\"#34A853\"/>\n      <path fill-rule=\"evenodd\" clip-rule=\"evenodd\" d=\"M16.6559 29.8904C16.3111 28.8559 16.1074 27.7588 16.1074 26.6146C16.1074 25.4704 16.3111 24.3733 16.6559 23.3388V18.8875H10.9194C9.74388 21.2072 9.06992 23.8247 9.06992 26.6146C9.06992 29.4045 9.74388 32.022 10.9194 34.3417L15.3864 30.8621L16.6559 29.8904V29.8904Z\" fill=\"#FBBC05\"/>\n      <path fill-rule=\"evenodd\" clip-rule=\"evenodd\" d=\"M26.3109 16.2386C28.85 16.2386 31.107 17.1164 32.9095 18.8091L37.8466 13.8719C34.853 11.082 30.9659 9.3736 26.3109 9.3736C19.5712 9.3736 13.7563 13.245 10.9194 18.8875L16.6559 23.3388C18.0195 19.2636 21.8282 16.2386 26.3109 16.2386V16.2386Z\" fill=\"#EA4335\"/>\n    </svg>\n    <svg class=\"logo-dark\" width=\"18\" height=\"18\" viewBox=\"0 0 48 48\" xmlns=\"http://www.w3.org/2000/svg\">\n      <circle cx=\"24\" cy=\"23\" fill=\"#FFF\" r=\"22\"/>\n      <path d=\"M33.76 34.26c2.75-2.56 4.49-6.37 4.49-11.26 0-.89-.08-1.84-.29-3H24.01v5.99h8.03c-.4 2.02-1.5 3.56-3.07 4.56v.75l3.91 2.97h.88z\" fill=\"#4285F4\"/>\n      <path d=\"M15.58 25.77A8.845 8.845 0 0 0 24 31.86c1.92 0 3.62-.46 4.97-1.31l4.79 3.71C31.14 36.7 27.65 38 24 38c-5.93 0-11.01-3.4-13.45-8.36l.17-1.01 4.06-2.85h.8z\" fill=\"#34A853\"/>\n      <path d=\"M15.59 20.21a8.864 8.864 0 0 0 0 5.58l-5.03 3.86c-.98-2-1.53-4.25-1.53-6.64 0-2.39.55-4.64 1.53-6.64l1-.22 3.81 2.98.22 1.08z\" fill=\"#FBBC05\"/>\n      <path d=\"M24 14.14c2.11 0 4.02.75 5.52 1.98l4.36-4.36C31.22 9.43 27.81 8 24 8c-5.93 0-11.01 3.4-13.45 8.36l5.03 3.85A8.86 8.86 0 0 1 24 14.14z\" fill=\"#EA4335\"/>\n    </svg>\n    <div class=\"gradient-container\"><div class=\"gradient\"></div></div>\n  </div>\n  <div class=\"carousel\">\n    <a class=\"chip\" href=\"https://vertexaisearch.cloud.google.com/grounding-api-redirect/AUZIYQHvDSUD_QsZtAAwO_FZ-e8os2nyPl1I9kKtO33yWikQ5tn95iE12sg66_31WaQRFdRITIWUwegEy98cn13PfNuwO76zMjrfaQn5c0pBbv1aaDrkRukozgkgWbKIUYKrbY1v5iZRLlFb4Br6_Ext8LBFVzhGqzFyfhGS66yzHOrQpa-6QbBoSAb4ESjJdn5knFgjfUhoNVnSGCFgcEYdrZ-vUizJ\">best lolly shops Sydney delivery</a>\n    <a class=\"chip\" href=\"https://vertexaisearch.cloud.google.com/grounding-api-redirect/AUZIYQHR21K2ZhRZhH9QrSNWS5xTdlYXJ8VOLm4BRAiKWWkV1mMHRAp7vQKuWI6qJuyYdJSolKCg78MbYZlTRmh-UZ-cFJyHCeYYtAGwmYmwTuOxZ_rTV-imv63MbSzTqs3-IyJKZlCvhmaFj1p-ZwN_GBj7UwzhJSH-2vsX8xPBwGPel0dFz89sb90YnFr_uG9aidPHqCo8qG7BJlNQFzs=\">online lolly shops Sydney</a>\n  </div>\n</div>\n"
+        },
+        "groundingChunks": [
+          {
+            "web": {
+              "uri": "https://vertexaisearch.cloud.google.com/grounding-api-redirect/AUZIYQGG3vwhjL95qj19zIga1z9id5yOmx4bQKn_Zq1qy_N7bgNkfQACZf2TvYfw3GKKRJe7Rh0ME7AstxZch07a30LqNqDn99VC-Cp-lHXQRZ12kuzusBEKqPJ6ibcC-AZku0XcAyPgpK1hMzFlVL-kRBqymw==",
+              "title": "goodygoodygumdrops.com.au"
+            }
+          },
+          {
+            "web": {
+              "uri": "https://vertexaisearch.cloud.google.com/grounding-api-redirect/AUZIYQEzYlI-iU1_aSXGH_jfrT4xQPHjvdLfACQX5wdcdealxuyVdRFJFAkAnVx_lK521z-djRs0zDv6HUg9rNxXLfGLD8UC1BNkOQxfwu6pw-vFICt8OtNiXl36mQ==",
+              "title": "candybarsydney.com.au"
+            }
+          },
+          {
+            "web": {
+              "uri": "https://vertexaisearch.cloud.google.com/grounding-api-redirect/AUZIYQEtZXt96K-79wpLebJibzDwjnk_i-77aX-wgP6Bi_g01bV7zd_0i9ZVi1U1xiAap092ATYolJHLb9HsC_zT3oj2xuMJaxfCfF1KUZIZdeCqN90rrB_yVGk=",
+              "title": "wickedsweets.com.au"
+            }
+          },
+          {
+            "web": {
+              "uri": "https://vertexaisearch.cloud.google.com/grounding-api-redirect/AUZIYQGFzwZrfCRW1eIq8AFLNOdmrhKru0Z5Cd8yse6uNmd18uYrpYHAUhT-j_X4WPb3KJ7xs0rD3NzO2c0rObxoWTV36dhB-MmHBDlR-wWzHAz0bgl-Z4k=",
+              "title": "icandysydney.com"
+            }
+          },
+          {
+            "web": {
+              "uri": "https://vertexaisearch.cloud.google.com/grounding-api-redirect/AUZIYQG35Uo40e_NTRLeG_ciJ6Yptroq8vRsK3iTb5Dwp8Jyn9_yBtwFjwscYJqnERA0ZVDWKTM7NRCkukjn3OSvHy9C3V-oIzK-1_VVjvlDIj5xGf98c1G7DAEhZxcp",
+              "title": "joysdelights.com.au"
+            }
+          },
+          {
+            "web": {
+              "uri": "https://vertexaisearch.cloud.google.com/grounding-api-redirect/AUZIYQF480q9prTbu0XVID3NwFq7rOjPZRuRey2x1Ttn5SnwnV8eDGhTicIKB0yhhSEakZxHdd6nyKDQpaA6DFX4_AXZHhs0J36aSSGjYra4RcLfTuW_3RAMLazc",
+              "title": "lolly-kingdom.com.au"
+            }
+          },
+          {
+            "web": {
+              "uri": "https://vertexaisearch.cloud.google.com/grounding-api-redirect/AUZIYQEJZmyaZ75ozn7wBSYn3f-ZeHtvCX1voABdrvgp44K_64BqauC16GpkTaNDJ0nta-W68JBn1rKJPMGmbnMGlBldeBE4LFQhx5aMDgK6fhs6smJckOWd9aCwGp5vhOY=",
+              "title": "lollywarehouse.com.au"
+            }
+          },
+          {
+            "web": {
+              "uri": "https://vertexaisearch.cloud.google.com/grounding-api-redirect/AUZIYQGj80SPdFLxukYyft6Fu-cNHU8rpRFawduQiK84jfL2CGElyFf8YOsWxSlOajpLIvJQNFmzRTqhIamXd68AOTxCmrJvw2oe5orEW8iC25ANrpYHNLTsf7wGks87HZPYbaXGnMck7yiJ6bWC-BbM3jZixvFSkg_7OBLuOda2K-KzYQ_A6JvlZAW4II75txH3QfHjHt71GHyiJRqPEiHwTfiZRozvL_s8SA==",
+              "title": "reddit.com"
+            }
+          }
+        ],
+        "groundingSupports": [
+          {
+            "segment": {
+              "startIndex": 312,
+              "endIndex": 497,
+              "text": "*   **Goody Goody Gum Drops** This family-run online lolly shop, based on the NSW/Victorian border, is a favourite for bulk lollies and delivers across Sydney and all of New South Wales"
+            },
+            "groundingChunkIndices": [
+              0
+            ]
+          },
+          {
+            "segment": {
+              "startIndex": 797,
+              "endIndex": 889,
+              "text": "They also offer gourmet rock candy, custom lollipops, and gluten-free and sugar-free options"
+            },
+            "groundingChunkIndices": [
+              0
+            ]
+          },
+          {
+            "segment": {
+              "startIndex": 891,
+              "endIndex": 996,
+              "text": "Goody Goody Gum Drops provides daily deliveries to Sydney and surrounding suburbs with low delivery costs"
+            },
+            "groundingChunkIndices": [
+              0
+            ]
+          },
+          {
+            "segment": {
+              "startIndex": 1154,
+              "endIndex": 1203,
+              "text": "They deliver to Sydney, Melbourne, and nationally"
+            },
+            "groundingChunkIndices": [
+              1
+            ]
+          },
+          {
+            "segment": {
+              "startIndex": 1205,
+              "endIndex": 1405,
+              "text": "Their extensive range includes sherbet, sour lollies, Aussie and American lollies (like Hershey's), bulk chocolate, bon bons, and a variety of single-colour lollies perfect for candy bars and weddings"
+            },
+            "groundingChunkIndices": [
+              1
+            ]
+          },
+          {
+            "segment": {
+              "startIndex": 1407,
+              "endIndex": 1531,
+              "text": "You'll find beloved brands like Allen's, Cadbury, Nestle, and Lifesavers, alongside international and local specialty brands"
+            },
+            "groundingChunkIndices": [
+              1
+            ]
+          },
+          {
+            "segment": {
+              "startIndex": 1534,
+              "endIndex": 1703,
+              "text": "*   **Wicked Sweets** For those seeking a diverse range of sweets, Wicked Sweets offers Australia-wide delivery with a focus on Australian, American, and British lollies"
+            },
+            "groundingChunkIndices": [
+              2
+            ]
+          },
+          {
+            "segment": {
+              "startIndex": 1705,
+              "endIndex": 1860,
+              "text": "They have physical locations in Sydney (Castle Towers and Rouse Hill Town Centre) if you prefer to visit, but also provide convenient delivery to your door"
+            },
+            "groundingChunkIndices": [
+              2
+            ]
+          },
+          {
+            "segment": {
+              "startIndex": 1862,
+              "endIndex": 1905,
+              "text": "They offer free shipping on orders over $99"
+            },
+            "groundingChunkIndices": [
+              2
+            ]
+          },
+          {
+            "segment": {
+              "startIndex": 1908,
+              "endIndex": 2046,
+              "text": "*   **iCandy** iCandy focuses on bringing on-demand treats directly to you, ideal for movie nights, birthdays, or just a spontaneous treat"
+            },
+            "groundingChunkIndices": [
+              3
+            ]
+          },
+          {
+            "segment": {
+              "startIndex": 2260,
+              "endIndex": 2337,
+              "text": "They also ship their Pick & Mix Candy Boxes Australia-wide via Australia Post"
+            },
+            "groundingChunkIndices": [
+              3
+            ]
+          },
+          {
+            "segment": {
+              "startIndex": 2340,
+              "endIndex": 2508,
+              "text": "*   **Joys Delights** This online lolly shop imports a variety of delicious and exciting candy from around the world, including America, England, Japan, and New Zealand"
+            },
+            "groundingChunkIndices": [
+              4
+            ]
+          },
+          {
+            "segment": {
+              "startIndex": 2510,
+              "endIndex": 2676,
+              "text": "Beyond lollies, they also sell chips, chocolate, drinks, and chewing gum, with options like Swedish candy, bulk Skittles, pick 'n' mix lollies, and freeze-dried candy"
+            },
+            "groundingChunkIndices": [
+              4
+            ]
+          },
+          {
+            "segment": {
+              "startIndex": 2678,
+              "endIndex": 2709,
+              "text": "They accept AfterPay and ZipPay"
+            },
+            "groundingChunkIndices": [
+              4
+            ]
+          },
+          {
+            "segment": {
+              "startIndex": 2712,
+              "endIndex": 2889,
+              "text": "*   **Lolly Kingdom** As one of Australia's largest online pick 'n' mix lolly stores, Lolly Kingdom offers over 300 lolly options, allowing you to create your perfect custom bag"
+            },
+            "groundingChunkIndices": [
+              5
+            ]
+          },
+          {
+            "segment": {
+              "startIndex": 2891,
+              "endIndex": 3071,
+              "text": "They ship quickly to your door and provide various themed lolly boxes for occasions like birthdays, Christmas, and thank you gifts, as well as gluten-free and chocolate box options"
+            },
+            "groundingChunkIndices": [
+              5
+            ]
+          },
+          {
+            "segment": {
+              "startIndex": 3073,
+              "endIndex": 3127,
+              "text": "They also feature unique items like freeze-dried candy"
+            },
+            "groundingChunkIndices": [
+              5
+            ]
+          },
+          {
+            "segment": {
+              "startIndex": 3130,
+              "endIndex": 3231,
+              "text": "*   **Lolly Warehouse** For bulk lollies at warehouse prices, Lolly Warehouse delivers Australia-wide"
+            },
+            "groundingChunkIndices": [
+              6
+            ]
+          },
+          {
+            "segment": {
+              "startIndex": 3233,
+              "endIndex": 3366,
+              "text": "They cater to every occasion, from weddings and birthday parties to corporate functions, and can help you create custom lolly buffets"
+            },
+            "groundingChunkIndices": [
+              6
+            ]
+          },
+          {
+            "segment": {
+              "startIndex": 3368,
+              "endIndex": 3518,
+              "text": "Their selection includes classic Australian lollies like killer pythons, strawberries and cream, and red frogs, alongside aniseed treats and much more"
+            },
+            "groundingChunkIndices": [
+              6
+            ]
+          },
+          {
+            "segment": {
+              "startIndex": 3521,
+              "endIndex": 3787,
+              "text": "While several excellent online options deliver across Sydney, some local brick-and-mortar stores were mentioned in a Reddit thread as having a great selection for in-person shopping, such as Sweet Surprises in Penrith and Campbelltown, and Lollies n Stuff in Windsor"
+            },
+            "groundingChunkIndices": [
+              7
+            ]
+          }
+        ],
+        "webSearchQueries": [
+          "best lolly shops Sydney delivery",
+          "online lolly shops Sydney"
+        ]
+      }
+    }
+  ],
+  "usageMetadata": {
+    "promptTokenCount": 30,
+    "candidatesTokenCount": 878,
+    "totalTokenCount": 1453,
+    "promptTokensDetails": [
+      {
+        "modality": "TEXT",
+        "tokenCount": 30
+      }
+    ],
+    "toolUsePromptTokenCount": 161,
+    "toolUsePromptTokensDetails": [
+      {
+        "modality": "TEXT",
+        "tokenCount": 161
+      }
+    ],
+    "thoughtsTokenCount": 384,
+    "serviceTier": "standard"
+  },
+  "modelVersion": "gemini-2.5-flash",
+  "responseId": "aXRbaprgM5at4-EP7dv2oQU"
+}

@@ -1,0 +1,165 @@
+{
+  "brief_id": "twix-buy-australia-brief-v1",
+  "slug": "twix-buy-australia",
+  "keyword": "twix australia",
+  "search_intent": "Transactional with commercial intent",
+  "page_type": "landing_page",
+  "title": "Twix Australia: Where to Buy Bulk Twix and Gift Packs Online",
+  "meta_description": "Twix Australia: Where to Buy Bulk Twix and Gift Packs Online. Compare stock options, buying factors, and the best next steps for twix in Australia.",
+  "intro": "Use this page to compare where to buy twix in Australia, what to check before ordering, and which chocolate bars options are the best fit for your basket.",
+  "outline": [
+    "Where to buy twix with less guesswork",
+    "How to compare Chocolate Bars options before ordering"
+  ],
+  "sections": [
+    {
+      "heading": "Where to buy twix with less guesswork",
+      "paragraphs": [
+        "Landing pages for twix need to show real commercial value quickly, including price context, stock clarity, and relevant product paths.",
+        "The goal is to reduce purchase friction rather than publish a thin page that repeats the keyword."
+      ],
+      "bullets": [
+        "2026 Davies Dark Chocolate Strawberry Creams Easter Egg Pack",
+        "Darrell Lea Giftting Box Pack (Peppermint Nougat)",
+        "V-Day Darrell Lea Giftting Box Pack",
+        "Chocolatier 6 Pack Hearts Pink & Mocha 45g"
+      ]
+    },
+    {
+      "heading": "How to compare Chocolate Bars options before ordering",
+      "paragraphs": [
+        "A stronger landing page explains the trade-offs between pack size, flavour range, stock depth, and delivery timing.",
+        "That gives the page a conversion job as well as a ranking job."
+      ],
+      "bullets": [
+        "Compare unit price instead of headline price alone.",
+        "Check stock, bundle size, and delivery timing together.",
+        "Keep the call to action aligned with the buying task."
+      ]
+    }
+  ],
+  "faq_items": [
+    {
+      "question": "Where can I buy twix online in Australia?",
+      "answer": "Start with Australian stores that show live stock, delivery windows, and product range depth for twix before checkout."
+    },
+    {
+      "question": "How should I compare twix prices?",
+      "answer": "Compare unit price, pack size, shipping cost, and bundle options together instead of looking at the headline price only."
+    },
+    {
+      "question": "Are there other chocolate bars options worth comparing?",
+      "answer": "Yes. Nearby collections or substitute products can be useful when twix is out of stock or only available in limited pack sizes."
+    }
+  ],
+  "faq_questions": [
+    "Where can I buy twix online in Australia?",
+    "How should I compare twix prices?",
+    "Are there other chocolate bars options worth comparing?"
+  ],
+  "internal_links": [
+    {
+      "url": "https://sweetsworld.com.au/where-to-buy/haribo-australia/",
+      "label": "Haribo Australia",
+      "anchor_text": "Shop Haribo Australia",
+      "link_kind": "commercial"
+    },
+    {
+      "url": "https://sweetsworld.com.au/candy-types/pez-australia/",
+      "label": "Pez Australia",
+      "anchor_text": "Compare Pez Australia",
+      "link_kind": "collection"
+    },
+    {
+      "url": "https://sweetsworld.com.au/where-to-buy/reeses-australia/",
+      "label": "Reeses Australia",
+      "anchor_text": "Browse Reeses Australia",
+      "link_kind": "commercial"
+    }
+  ],
+  "selected_products": [
+    {
+      "product_name": "2026 Davies Dark Chocolate Strawberry Creams Easter Egg Pack",
+      "category": "Easter",
+      "description": "The Strawberry Creams Easter Egg Pack from Sweetsworld is more than just an Easter candy. It’s a delightful blend of fresh strawberry cream and smooth chocolate, a symbol of Easter’s joy and a testament to quality...",
+      "price": "27.99",
+      "url": "https://sweetsworld.com.au/easterchocolate/strawberry-creams-easter-egg-pack/",
+      "image_url": "https://sweetsworld.com.au/wp-content/uploads/2024/03/Davies-Dark-Chocolate-Strawberry-Creams-Easter-Egg-Pack.png",
+      "matched_tokens": [
+        "chocolate",
+        "gift",
+        "pack"
+      ],
+      "matched_phrases": [],
+      "selection_reason": "direct_match"
+    },
+    {
+      "product_name": "Darrell Lea Giftting Box Pack (Peppermint Nougat)",
+      "category": "Australian Chocolate",
+      "description": "Looking for the perfect present for a sweet lover? The Darrell Lea Giftting Box Pack (Peppermint Nougat) is a wonderful choice! Packed with a delicious selection of Darrell Lea’s most-loved treats, this box is made...",
+      "price": "14.99",
+      "url": "https://sweetsworld.com.au/chocolate/australian-chocolate/darrell-lea-giftting-box-pack/",
+      "image_url": "https://sweetsworld.com.au/wp-content/uploads/2020/04/29cf6a8a52fc619cbf9d8b32c66b70f86de5c02a.png",
+      "matched_tokens": [
+        "chocolate",
+        "gift",
+        "pack"
+      ],
+      "matched_phrases": [],
+      "selection_reason": "direct_match"
+    },
+    {
+      "product_name": "V-Day Darrell Lea Giftting Box Pack",
+      "category": "Australian Chocolate",
+      "description": "V-Day Darrell Lea Giftting Box Pack",
+      "price": "25",
+      "url": "https://sweetsworld.com.au/chocolate/australian-chocolate/kkv-daydlgifttingboxpack/",
+      "image_url": "https://sweetsworld.com.au/wp-content/uploads/2020/04/0c85fbfe6d8fd79d231e72a32bf5efada9a0d1ad.png",
+      "matched_tokens": [
+        "chocolate",
+        "gift",
+        "pack"
+      ],
+      "matched_phrases": [],
+      "selection_reason": "direct_match"
+    },
+    {
+      "product_name": "Chocolatier 6 Pack Hearts Pink & Mocha 45g",
+      "category": "Australian Chocolate",
+      "description": "",
+      "price": "8.99",
+      "url": "https://sweetsworld.com.au/chocolate/australian-chocolate/chocolatier6packheartspinkmocha45g/",
+      "image_url": "https://sweetsworld.com.au/wp-content/uploads/2023/09/3be95013cd373b644176af435d0ecedc1c4d4eeb.jpeg",
+      "matched_tokens": [
+        "chocolate",
+        "gift",
+        "pack"
+      ],
+      "matched_phrases": [],
+      "selection_reason": "direct_match"
+    }
+  ],
+  "related_keywords": [
+    "sweetsworld",
+    "white knight chocolate",
+    "sweets world",
+    "clinkers chocolate",
+    "fantales lollies",
+    "darrell lea kotara"
+  ],
+  "cta": {
+    "heading": "Move from twix research into a purchase",
+    "body": "Compare the shortlist, then click through to the most relevant collection or product page to check live stock and delivery details.",
+    "button_text": "Browse Related Collection"
+  },
+  "distribution_channels": [
+    "facebook",
+    "instagram",
+    "gbp",
+    "pinterest"
+  ],
+  "schema_types": [
+    "BreadcrumbList",
+    "ItemList"
+  ]
+}

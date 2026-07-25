@@ -1,0 +1,159 @@
+{
+  "brief_id": "hot-candy-australia-brief-v1",
+  "slug": "hot-candy-australia",
+  "keyword": "hot candy australia",
+  "search_intent": "Commercial category intent",
+  "page_type": "category_page",
+  "title": "Hot Candy Australia: Spicy Lollies and Chilli Sweets Online",
+  "meta_description": "Hot Candy Australia: Spicy Lollies and Chilli Sweets Online. Compare stock options, buying factors, and the best next steps for hot candy in Australia.",
+  "intro": "This page explains the hot candy range, the main product formats to compare, and the next collection or product pages worth opening before you buy.",
+  "outline": [
+    "What defines the hot candy range",
+    "How to shop Novelty Candy more confidently"
+  ],
+  "sections": [
+    {
+      "heading": "What defines the hot candy range",
+      "paragraphs": [
+        "A category page for hot candy should explain flavour profile, product format, and the most recognisable options in the range.",
+        "That helps search engines and shoppers understand the scope of the page before they move deeper into the catalogue."
+      ],
+      "bullets": [
+        "DORITOS SPICY SWEET CHILLI- 276.4g",
+        "Jack Daniel's Barbecue Sauce Sweet & Spicy 539g",
+        "Kelly's Crunchy Hot Spicy Chilli Peanut Brittle 180g (VEGAN)",
+        "Sweet 'n Spicy Barbecue Sauce 425g"
+      ]
+    },
+    {
+      "heading": "How to shop Novelty Candy more confidently",
+      "paragraphs": [
+        "Category pages should guide users through format, suitability, and value instead of listing products without context.",
+        "This is the section that turns a collection page into a useful SEO landing surface."
+      ],
+      "bullets": [
+        "Show best sellers before long-tail variants.",
+        "Explain when bundles make more sense than single items.",
+        "Link into adjacent collections and product pages."
+      ]
+    }
+  ],
+  "faq_items": [
+    {
+      "question": "What should I look for when choosing hot candy?",
+      "answer": "Focus on suitability for the use case, flavour profile, pack size, and delivery timing rather than assuming every popular candy is the right fit."
+    },
+    {
+      "question": "What is the best next step after reading this page?",
+      "answer": "Use the linked category or product pages to compare live stock, range depth, and practical buying options."
+    },
+    {
+      "question": "Can this page help me compare novelty candy options?",
+      "answer": "Yes. It should clarify which products or collections are the best fit instead of leaving the reader with generic advice."
+    }
+  ],
+  "faq_questions": [
+    "What should I look for when choosing hot candy?",
+    "What is the best next step after reading this page?",
+    "Can this page help me compare novelty candy options?"
+  ],
+  "internal_links": [
+    {
+      "url": "https://sweetsworld.com.au/products/mint-chocolate-australia/",
+      "label": "Mint Chocolate Australia",
+      "anchor_text": "Explore Mint Chocolate Australia",
+      "link_kind": "collection"
+    },
+    {
+      "url": "https://sweetsworld.com.au/products/caramel-chocolate-australia/",
+      "label": "Caramel Chocolate Australia",
+      "anchor_text": "Browse Caramel Chocolate Australia",
+      "link_kind": "collection"
+    },
+    {
+      "url": "https://sweetsworld.com.au/candy-categories/coconut-chocolate-australia/",
+      "label": "Coconut Chocolate Australia",
+      "anchor_text": "See Coconut Chocolate Australia",
+      "link_kind": "collection"
+    }
+  ],
+  "selected_products": [
+    {
+      "product_name": "DORITOS SPICY SWEET CHILLI- 276.4g",
+      "category": "Grocery",
+      "description": "DORITOS SPICY SWEET CHILLI- 276.4g Product Description: Get ready to turn up the flavor with DORITOS Spicy Sweet Chilli – the perfect chip for those who like a little heat with a touch of sweet! These bold tortilla...",
+      "price": "9.99",
+      "url": "https://sweetsworld.com.au/grocery/doritos-spicy-sweet-chilli/",
+      "image_url": "https://sweetsworld.com.au/wp-content/uploads/2021/06/71fb9edde75e5666e0019f1470e2c434d37c176a.png",
+      "matched_tokens": [
+        "spicy",
+        "chilli",
+        "sweet"
+      ],
+      "matched_phrases": [],
+      "selection_reason": "direct_match"
+    },
+    {
+      "product_name": "Jack Daniel's Barbecue Sauce Sweet & Spicy 539g",
+      "category": "Sauce",
+      "description": "Jack Daniel's Barbecue Sauce Sweet & Spicy 539g Product Description: Smooth, Rich mouthwatering BBQ Sauce Made with Real Jack Daniel's Tennesee Whiskey Perfectly crafted blend of vinegar, sugar, tomatoes, and spices...",
+      "price": "11.99",
+      "url": "https://sweetsworld.com.au/grocery/sauce/jackdanielsbarbecuesaucesweetspicy539g/",
+      "image_url": "https://sweetsworld.com.au/wp-content/uploads/2020/05/eeb2732821d4fd8ec39e46d0c032c4f7515ac03a.jpg",
+      "matched_tokens": [
+        "spicy",
+        "sweet"
+      ],
+      "matched_phrases": [],
+      "selection_reason": "direct_match"
+    },
+    {
+      "product_name": "Kelly's Crunchy Hot Spicy Chilli Peanut Brittle 180g (VEGAN)",
+      "category": "Uncategorized",
+      "description": "",
+      "price": "11.99",
+      "url": "https://sweetsworld.com.au/uncategorized/kellys-crunchy-hot-spicy-chilli-peanut-brittle-180g/",
+      "image_url": "https://sweetsworld.com.au/wp-content/uploads/2023/10/Kelly-s-Crunchy-Hot-Spicy-Chilli-Peanut-Brittle-180g.png",
+      "matched_tokens": [
+        "spicy",
+        "chilli"
+      ],
+      "matched_phrases": [],
+      "selection_reason": "direct_match"
+    },
+    {
+      "product_name": "Sweet 'n Spicy Barbecue Sauce 425g",
+      "category": "Candy",
+      "description": "Sweet 'n Spicy Barbecue Sauce: The Perfect Balance of Flavor and Heat Sweet 'n Spicy Barbecue Sauce combines the richness of sweet molasses with a hint of fiery spice. This versatile sauce delivers a smooth, smoky...",
+      "price": "11.99",
+      "url": "https://sweetsworld.com.au/candy/sweet-n-spicy-barbecue-sauce-425g/",
+      "image_url": "https://sweetsworld.com.au/wp-content/uploads/2024/10/Sweet-n-Spicy-Barbecue-Sauce-425g.png",
+      "matched_tokens": [
+        "spicy",
+        "sweet"
+      ],
+      "matched_phrases": [],
+      "selection_reason": "direct_match"
+    }
+  ],
+  "related_keywords": [
+    "sweetsworld",
+    "white knight chocolate",
+    "sweets world",
+    "clinkers chocolate",
+    "fantales lollies",
+    "darrell lea kotara"
+  ],
+  "cta": {
+    "heading": "Use this page as a shortlist for hot candy",
+    "body": "Review the key options, then move into the linked collection or product pages when you are ready to compare live stock and pricing.",
+    "button_text": "Browse Collection"
+  },
+  "distribution_channels": [
+    "pinterest",
+    "facebook"
+  ],
+  "schema_types": [
+    "BreadcrumbList"
+  ]
+}

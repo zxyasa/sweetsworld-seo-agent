@@ -1,0 +1,227 @@
+[
+  {
+    "slug": "allens-snakes-alive-australia",
+    "expected_title": "Allen's Snakes Alive Australia: Buy 1kg Bulk Online",
+    "expected_meta": "Shop Allen's Snakes Alive lollies in 1kg bulk bags online. Chewy fruity gummy snakes for parties, lolly buffets & events. Free Shipping over $80.",
+    "live_title": "Allen&#039;s Snakes Alive Australia: Buy 1kg Bulk Online",
+    "live_meta": "Shop Allen&#039;s Snakes Alive lollies in 1kg bulk bags online. Chewy fruity gummy snakes for parties, lolly buffets &amp; events. Free Shipping over $80.",
+    "title_ok": true,
+    "meta_ok": true
+  },
+  {
+    "slug": "are-jolly-ranchers-halal",
+    "expected_title": "Are Jolly Ranchers Halal? Ingredients Checked 2026",
+    "expected_meta": "Are Jolly Ranchers halal? Yes — they contain no gelatine. We break down ingredients, sourcing & what Aussie Muslim shoppers should check in 2026.",
+    "live_title": "Are Jolly Ranchers Halal? Ingredients Checked 2026",
+    "live_meta": "Are Jolly Ranchers halal? Yes — they contain no gelatine. We break down ingredients, sourcing &amp; what Aussie Muslim shoppers should check in 2026.",
+    "title_ok": true,
+    "meta_ok": true
+  },
+  {
+    "slug": "baby-shower-candy-australia",
+    "expected_title": "Baby Shower Candy Australia: 15 Cute Lolly Ideas",
+    "expected_meta": "15 cute baby shower candy ideas for Australian parties — pastel lollies, marshmallows & favour bag picks. Free Shipping over $80, fast delivery.",
+    "live_title": "Baby Shower Candy Australia: 15 Cute Lolly Ideas",
+    "live_meta": "15 cute baby shower candy ideas for Australian parties — pastel lollies, marshmallows &amp; favour bag picks. Free Shipping over $80, fast delivery.",
+    "title_ok": true,
+    "meta_ok": true
+  },
+  {
+    "slug": "belgian-chocolate-australia",
+    "expected_title": "Belgian Chocolate Australia: Buy Authentic Online",
+    "expected_meta": "Shop authentic Belgian chocolate in Australia — Guylian, Côte d'Or & Godiva favourites delivered fast. Free Shipping over $80 on gift boxes & blocks.",
+    "live_title": "Belgian Chocolate Australia: Buy Authentic Online",
+    "live_meta": "Shop authentic Belgian chocolate in Australia — Guylian, Côte d&#039;Or &amp; Godiva favourites delivered fast. Free Shipping over $80 on gift boxes &amp; blocks.",
+    "title_ok": true,
+    "meta_ok": true
+  },
+  {
+    "slug": "best-candy-australia-2026",
+    "expected_title": "20 Best Candy & Lollies in Australia 2026 Ranked",
+    "expected_meta": "The 20 best candy and lollies in Australia for 2026 — Allen's, Pascall, Kit Kat & imported favourites ranked. Free Shipping over $80 sitewide.",
+    "live_title": "20 Best Candy &amp; Lollies in Australia 2026 Ranked",
+    "live_meta": "The 20 best candy and lollies in Australia for 2026 — Allen&#039;s, Pascall, Kit Kat &amp; imported favourites ranked. Free Shipping over $80 sitewide.",
+    "title_ok": true,
+    "meta_ok": true
+  },
+  {
+    "slug": "best-candy-for-kids-australia",
+    "expected_title": "12 Best Candy for Kids Australia: Safe Lolly Picks",
+    "expected_meta": "12 best candy picks for Aussie kids — nut-free, allergen-aware lollies from Allen's, Pascall & Chupa Chups. Parent-approved. Free Shipping over $80.",
+    "live_title": "12 Best Candy for Kids Australia: Safe Lolly Picks",
+    "live_meta": "12 best candy picks for Aussie kids — nut-free, allergen-aware lollies from Allen&#039;s, Pascall &amp; Chupa Chups. Parent-approved. Free Shipping over $80.",
+    "title_ok": true,
+    "meta_ok": true
+  },
+  {
+    "slug": "bulk-lollies-australia",
+    "expected_title": "Bulk Lollies Australia: 1kg-10kg Wholesale Online",
+    "expected_meta": "Bulk lollies Australia — 1kg, 5kg & 10kg wholesale bags for parties, weddings & lolly buffets. 500+ varieties. Free Shipping over $80 sitewide.",
+    "live_title": "Bulk Lollies Australia: 1kg-10kg Wholesale Online",
+    "live_meta": "Bulk lollies Australia — 1kg, 5kg &amp; 10kg wholesale bags for parties, weddings &amp; lolly buffets. 500+ varieties. Free Shipping over $80 sitewide.",
+    "title_ok": true,
+    "meta_ok": true
+  },
+  {
+    "slug": "candy-australia-guide-2026",
+    "expected_title": "Candy Australia Guide 2026: Top Lollies to Buy Now",
+    "expected_meta": "Your 2026 guide to candy in Australia — trending lollies, imported treats & must-try chocolate from 1000s of sweets online. Free Shipping over $80.",
+    "live_title": "Online Lolly Shop Australia | Sweetsworld",
+    "live_meta": "Sweetsworld is Australia&#039;s online lolly shop. Browse 1000s of Australian &amp; international sweets, chocolates and candy. Fast shipping Australia-wide.",
+    "title_ok": false,
+    "meta_ok": false
+  },
+  {
+    "slug": "candy-gift-box-australia",
+    "expected_title": "Candy Gift Box Australia: Curated Sweet Hampers",
+    "expected_meta": "Curated candy gift boxes & lolly hampers delivered Australia-wide — Aussie classics & imported treats for birthdays, thanks & corporate. Free Ship $80+.",
+    "live_title": "Candy Gift Box Australia: Curated Sweet Hampers",
+    "live_meta": "Curated candy gift boxes &amp; lolly hampers delivered Australia-wide — Aussie classics &amp; imported treats for birthdays, thanks &amp; corporate. Free Ship $80+.",
+    "title_ok": true,
+    "meta_ok": true
+  },
+  {
+    "slug": "chocolate-bars-australia",
+    "expected_title": "Chocolate Bars Australia: 100+ Bars to Buy Online",
+    "expected_meta": "Shop 100+ chocolate bars online in Australia — Cadbury, Hershey's, Kit Kat, Toblerone & rare imports. Enjoy Free Shipping over $80 on all orders.",
+    "live_title": "Chocolate Bars Australia: 100+ Bars to Buy Online",
+    "live_meta": "Shop 100+ chocolate bars online in Australia — Cadbury, Hershey&#039;s, Kit Kat, Toblerone &amp; rare imports. Enjoy Free Shipping over $80 on all orders.",
+    "title_ok": true,
+    "meta_ok": true
+  },
+  {
+    "slug": "engagement-party-lollies",
+    "expected_title": "Engagement Party Lollies: 10 Sweet Ideas for 2026",
+    "expected_meta": "10 engagement party lolly ideas for 2026 — elegant candy buffets, favour bags & pastel sweets to impress guests. Free Shipping over $80 Australia-wide.",
+    "live_title": "Engagement Party Lollies: 10 Sweet Ideas for 2026",
+    "live_meta": "10 engagement party lolly ideas for 2026 — elegant candy buffets, favour bags &amp; pastel sweets to impress guests. Free Shipping over $80 Australia-wide.",
+    "title_ok": true,
+    "meta_ok": true
+  },
+  {
+    "slug": "european-chocolate-australia",
+    "expected_title": "European Chocolate Australia: Belgian & Swiss Online",
+    "expected_meta": "Shop European chocolate in Australia — Lindt, Milka, Toblerone, Guylian & Ritter Sport delivered fast. Free Shipping over $80 on every order.",
+    "live_title": "European Chocolate Australia: Belgian &amp; Swiss Online",
+    "live_meta": "Shop European chocolate in Australia — Lindt, Milka, Toblerone, Guylian &amp; Ritter Sport delivered fast. Free Shipping over $80 on every order.",
+    "title_ok": true,
+    "meta_ok": true
+  },
+  {
+    "slug": "fantales-lollies-buying-guide",
+    "expected_title": "Fantales Australia: Where to Buy + 1kg Bulk in 2026",
+    "expected_meta": "Where to buy Fantales in Australia after the Nestlé discontinuation — 1kg bulk stock, genuine boxes & best alternatives. Free Shipping over $80.",
+    "live_title": "Fantales Australia: Where to Buy + 1kg Bulk in 2026",
+    "live_meta": "Where to buy Fantales in Australia after the Nestlé discontinuation — 1kg bulk stock, genuine boxes &amp; best alternatives. Free Shipping over $80.",
+    "title_ok": true,
+    "meta_ok": true
+  },
+  {
+    "slug": "fathers-day-candy-australia",
+    "expected_title": "Father's Day Candy Australia: 12 Gift Picks for 2026",
+    "expected_meta": "12 Father's Day candy & chocolate gift picks for 2026 — retro lollies, premium chocs & hampers Dad will love. Free Shipping over $80 Australia-wide.",
+    "live_title": "Father&#039;s Day Candy Australia: 12 Gift Picks for 2026",
+    "live_meta": "12 Father&#039;s Day candy &amp; chocolate gift picks for 2026 — retro lollies, premium chocs &amp; hampers Dad will love. Free Shipping over $80 Australia-wide.",
+    "title_ok": true,
+    "meta_ok": true
+  },
+  {
+    "slug": "ferrero-rocher-australia",
+    "expected_title": "Ferrero Rocher Australia: Buy Genuine Boxes Online",
+    "expected_meta": "Buy genuine Ferrero Rocher in Australia — 16pc, 24pc & 30pc gift boxes plus Raffaello & Rondnoir in stock. Free Shipping over $80, fast delivery.",
+    "live_title": "Ferrero Rocher Australia: Buy Genuine Boxes Online",
+    "live_meta": "Buy genuine Ferrero Rocher in Australia — 16pc, 24pc &amp; 30pc gift boxes plus Raffaello &amp; Rondnoir in stock. Free Shipping over $80, fast delivery.",
+    "title_ok": true,
+    "meta_ok": true
+  },
+  {
+    "slug": "halal-candy-australia",
+    "expected_title": "Halal Candy Australia: Gelatine-Free Lollies Online",
+    "expected_meta": "Halal candy Australia — gelatine-free lollies from Skittles, Starburst, Jolly Rancher & Push Pops. All vegetarian-safe. Free Shipping over $80.",
+    "live_title": "Halal Candy Australia: Gelatine-Free Lollies Online",
+    "live_meta": "Halal candy Australia — gelatine-free lollies from Skittles, Starburst, Jolly Rancher &amp; Push Pops. All vegetarian-safe. Free Shipping over $80.",
+    "title_ok": true,
+    "meta_ok": true
+  },
+  {
+    "slug": "kit-kat-australia",
+    "expected_title": "Kit Kat Australia: Buy Japanese Flavours Online 2026",
+    "expected_meta": "Buy Japanese Kit Kat flavours in Australia — Matcha, Strawberry, Sakura & limited editions in stock. Genuine imports, Free Shipping over $80.",
+    "live_title": "Kit Kat Australia: Buy Japanese Flavours Online 2026",
+    "live_meta": "Buy Japanese Kit Kat flavours in Australia — Matcha, Strawberry, Sakura &amp; limited editions in stock. Genuine imports, Free Shipping over $80.",
+    "title_ok": true,
+    "meta_ok": true
+  },
+  {
+    "slug": "mothers-day-chocolate-australia",
+    "expected_title": "Mother's Day Chocolate Australia: 15 Gifts Mum Loves",
+    "expected_meta": "15 Mother's Day chocolate gifts delivered Australia-wide — Ferrero, Lindt, Cadbury hampers & luxe boxes Mum will love. Free Shipping over $80.",
+    "live_title": "Mother&#039;s Day Chocolate Australia: 15 Gifts Mum Loves",
+    "live_meta": "15 Mother&#039;s Day chocolate gifts delivered Australia-wide — Ferrero, Lindt, Cadbury hampers &amp; luxe boxes Mum will love. Free Shipping over $80.",
+    "title_ok": true,
+    "meta_ok": true
+  },
+  {
+    "slug": "no-artificial-colours-lollies",
+    "expected_title": "Natural Lollies Australia: No Artificial Colours 2026",
+    "expected_meta": "Natural lollies Australia — no artificial colours or flavours. Shop clean-label gummies, jellies & chocolate for kids. Free Shipping over $80.",
+    "live_title": "Natural Lollies Australia: No Artificial Colours 2026",
+    "live_meta": "Natural lollies Australia — no artificial colours or flavours. Shop clean-label gummies, jellies &amp; chocolate for kids. Free Shipping over $80.",
+    "title_ok": true,
+    "meta_ok": true
+  },
+  {
+    "slug": "nut-free-candy-australia",
+    "expected_title": "Nut Free Candy Australia: Safe Lollies for Allergies",
+    "expected_meta": "Nut free candy Australia — safe lollies from Allen's, Skittles, Starburst & Haribo for allergy kids & schools. Free Shipping over $80 sitewide.",
+    "live_title": "Nut Free Candy Australia: Safe Lollies for Allergies",
+    "live_meta": "Nut free candy Australia — safe lollies from Allen&#039;s, Skittles, Starburst &amp; Haribo for allergy kids &amp; schools. Free Shipping over $80 sitewide.",
+    "title_ok": true,
+    "meta_ok": true
+  },
+  {
+    "slug": "pick-and-mix-lollies-online",
+    "expected_title": "Pick & Mix Lollies Online Australia: Build a Lolly Bag",
+    "expected_meta": "Build your own pick & mix lolly bag online in Australia — 200+ sweets from gummies to chocolate, you choose. Free Shipping over $80 Australia-wide.",
+    "live_title": "Pick &amp; Mix Lollies Online Australia: Build a Lolly Bag",
+    "live_meta": "Build your own pick &amp; mix lolly bag online in Australia — 200+ sweets from gummies to chocolate, you choose. Free Shipping over $80 Australia-wide.",
+    "title_ok": true,
+    "meta_ok": true
+  },
+  {
+    "slug": "pop-tarts-australia",
+    "expected_title": "Pop Tarts Australia: Buy All Flavours Online In Stock",
+    "expected_meta": "Buy genuine Pop-Tarts in Australia — Frosted Strawberry, Brown Sugar, Hot Fudge Sundae & more real US imports in stock. Free Shipping over $80.",
+    "live_title": "Pop Tarts Australia: Buy All Flavours Online In Stock",
+    "live_meta": "Buy genuine Pop-Tarts in Australia — Frosted Strawberry, Brown Sugar, Hot Fudge Sundae &amp; more real US imports in stock. Free Shipping over $80.",
+    "title_ok": true,
+    "meta_ok": true
+  },
+  {
+    "slug": "rocky-road-australia",
+    "expected_title": "Rocky Road Australia: Buy Chocolate Blocks Online",
+    "expected_meta": "Buy Rocky Road chocolate blocks in Australia — Cadbury, Darrell Lea & gourmet slabs with marshmallow & cherry. Free Shipping over $80 sitewide.",
+    "live_title": "Rocky Road Australia: Buy Chocolate Blocks Online",
+    "live_meta": "Buy Rocky Road chocolate blocks in Australia — Cadbury, Darrell Lea &amp; gourmet slabs with marshmallow &amp; cherry. Free Shipping over $80 sitewide.",
+    "title_ok": true,
+    "meta_ok": true
+  },
+  {
+    "slug": "takis-australia",
+    "expected_title": "Takis Australia: Buy Fuego & All Flavours In Stock",
+    "expected_meta": "Buy genuine Takis in Australia — Fuego, Blue Heat, Nitro & Zombie flavours all in stock now. Authentic Mexican imports, Free Shipping over $80.",
+    "live_title": "Takis Australia: Buy Fuego &amp; All Flavours In Stock",
+    "live_meta": "Buy genuine Takis in Australia — Fuego, Blue Heat, Nitro &amp; Zombie flavours all in stock now. Authentic Mexican imports, Free Shipping over $80.",
+    "title_ok": true,
+    "meta_ok": true
+  },
+  {
+    "slug": "wedding-candy-australia",
+    "expected_title": "Wedding Candy Australia: Lolly Buffets & Bonbonniere",
+    "expected_meta": "Wedding candy Australia — lolly buffet setups, bonbonniere favours & bulk pastel sweets for your big day. Free Shipping over $80 Australia-wide.",
+    "live_title": "Wedding Candy Australia: Lolly Buffets &amp; Bonbonniere",
+    "live_meta": "Wedding candy Australia — lolly buffet setups, bonbonniere favours &amp; bulk pastel sweets for your big day. Free Shipping over $80 Australia-wide.",
+    "title_ok": true,
+    "meta_ok": true
+  }
+]

@@ -1,0 +1,9 @@
+[ux_banner height="350px" height__sm="180px" height__md="230px" bg="22946" bg_overlay="rgba(0,0,0,.5)"]
+
+[text_box position_x="50" position_y="50"]
+
+<h3 class="uppercase"><strong>British lollies</strong></h3>
+
+[/text_box]
+
+[/ux_banner]

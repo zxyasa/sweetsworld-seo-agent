@@ -1,0 +1,84 @@
+{
+  "run": {
+    "run_id": "d6b57023-d56e-43aa-bd85-1389459bac75",
+    "site_id": "sweetsworld",
+    "basket_version": "2026-07-18.v1",
+    "trigger": "central-key-smoke-citation-fix",
+    "status": "completed",
+    "started_at": "2026-07-18T12:32:02.849626+00:00",
+    "completed_at": "2026-07-18T12:32:18.444293+00:00",
+    "notes": "successes=2; errors=0"
+  },
+  "methodology": {
+    "unit": "one provider response to one prompt replicate",
+    "surface_separation": true,
+    "recommendation_detection": "conservative deterministic text-window heuristic",
+    "confidence_interval": "Wilson score interval, 95%",
+    "important_limit": "API search surfaces are not the ChatGPT UI or Google AI Overviews"
+  },
+  "basket": {
+    "observed_prompts": 2,
+    "configured_prompts": 30
+  },
+  "surfaces": {
+    "google/gemini_grounding_api": {
+      "observations": 2,
+      "valid_observations": 2,
+      "errors": 0,
+      "brand_mention": {
+        "successes": 0,
+        "total": 2,
+        "rate": 0.0,
+        "ci95_low": 0.0,
+        "ci95_high": 0.6576280471103807
+      },
+      "brand_recommendation": {
+        "successes": 0,
+        "total": 2,
+        "rate": 0.0,
+        "ci95_low": 0.0,
+        "ci95_high": 0.6576280471103807
+      },
+      "domain_citation": {
+        "successes": 0,
+        "total": 2,
+        "rate": 0.0,
+        "ci95_low": 0.0,
+        "ci95_high": 0.6576280471103807
+      },
+      "product_citation": {
+        "successes": 0,
+        "total": 2,
+        "rate": 0.0,
+        "ci95_low": 0.0,
+        "ci95_high": 0.6576280471103807
+      },
+      "query_domain_coverage": {
+        "successes": 0,
+        "total": 2,
+        "rate": 0.0,
+        "ci95_low": 0.0,
+        "ci95_high": 0.6576280471103807
+      },
+      "mean_recommendation_position": null,
+      "mention_share_of_voice": {
+        "Sweetsworld": 0.0,
+        "Lollylicious": 0.5,
+        "The Lolli Shop": 0.25,
+        "The Sweet Giftorium": 0.25
+      },
+      "competitor_mentions": 4
+    }
+  },
+  "comparison": {
+    "prior_run_id": "fb103fcc-f8f7-4ef4-8723-83b638a078d6",
+    "rate_deltas": {
+      "google/gemini_grounding_api": {
+        "brand_mention": -0.5,
+        "brand_recommendation": 0.0,
+        "domain_citation": 0.0,
+        "product_citation": 0.0
+      }
+    }
+  }
+}

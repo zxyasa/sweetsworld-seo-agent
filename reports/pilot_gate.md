@@ -1,17 +1,17 @@
 # Pilot Gate
 
-- Generated at: `2026-07-23T00:01:55+00:00`
+- Generated at: `2026-07-25T00:01:49+00:00`
 - Decision: **`hold`**
-- Next action: Resolve blocking reasons listed above before expanding. 57 page(s) are content upgrade candidates (low CTR or stuck at positions 5-10) — consider regenerating content.
+- Next action: Resolve blocking reasons listed above before expanding. 55 page(s) are content upgrade candidates (low CTR or stuck at positions 5-10) — consider regenerating content.
 - Dashboard source: `live`
 
 - Published pilot pages: `89`
 - Approved but unpublished pages: `120`
 - QA pass rate: `1.0`
-- GSC impressions: `4872` | clicks: `124` | avg CTR: `2.55%` | avg position: `8.79`
-- Pages with impressions: `79`
-- Pages stuck at positions 5-10: `49`
-- Content upgrade candidates: `57`
+- GSC impressions: `5209` | clicks: `120` | avg CTR: `2.3%` | avg position: `8.76`
+- Pages with impressions: `77`
+- Pages stuck at positions 5-10: `48`
+- Content upgrade candidates: `55`
 - GA4 sessions: `0` | avg bounce: `0%` | avg duration: `0.0s`
 - GA4 pages with data: `0` | high bounce: `0` | low duration: `0`
 - Technical blockers: `82`
@@ -42,82 +42,76 @@
 
 ## GSC Performance Analysis
 
-- Average CTR: `2.55%` (threshold: `1.0%`; check active)
-- Average position: `8.79`
+- Average CTR: `2.3%` (threshold: `1.0%`; check active)
+- Average position: `8.76`
 
 ### Pages Stuck at Positions 5-10 (content upgrade priority)
 
 - `belgian-chocolate-australia` | pos `5.0` | CTR `50.0%` | impressions `2` | clicks `1`
-- `fantales-lollies-buying-guide` | pos `5.46` | CTR `3.0%` | impressions `1501` | clicks `45`
-- `white-knight-chocolate-where-to-buy-australia` | pos `5.49` | CTR `6.78%` | impressions `354` | clicks `24`
-- `christmas-candy-australia` | pos `5.5` | CTR `0.0%` | impressions `2` | clicks `0`
-- `wedding-candy-australia` | pos `5.5` | CTR `0.0%` | impressions `2` | clicks `0`
-- `are-jolly-ranchers-halal` | pos `5.82` | CTR `0.0%` | impressions `17` | clicks `0`
-- `pick-and-mix-lollies-online` | pos `6.0` | CTR `0.0%` | impressions `2` | clicks `0`
-- `lolly-shop-online-australia` | pos `6.0` | CTR `0.0%` | impressions `1` | clicks `0`
-- `american-candy-guide` | pos `6.4` | CTR `0.0%` | impressions `5` | clicks `0`
-- `are-nerds-vegan` | pos `6.62` | CTR `0.37%` | impressions `539` | clicks `2`
-- `cheetos-australia` | pos `6.81` | CTR `2.13%` | impressions `47` | clicks `1`
-- `best-candy-for-movie-night` | pos `6.92` | CTR `2.08%` | impressions `48` | clicks `1`
+- `nut-free-candy-australia` | pos `5.0` | CTR `0.0%` | impressions `5` | clicks `0`
+- `white-knight-chocolate-where-to-buy-australia` | pos `5.38` | CTR `5.34%` | impressions `356` | clicks `19`
+- `lindt-chocolate-australia` | pos `5.67` | CTR `0.0%` | impressions `6` | clicks `0`
+- `fantales-lollies-buying-guide` | pos `5.96` | CTR `3.16%` | impressions `1519` | clicks `48`
+- `lolly-shop-online-australia` | pos `6.5` | CTR `0.0%` | impressions `2` | clicks `0`
+- `tnt-sour-candy-australia` | pos `6.67` | CTR `0.0%` | impressions `3` | clicks `0`
+- `kinder-chocolate-australia` | pos `6.7` | CTR `0.0%` | impressions `20` | clicks `0`
+- `are-nerds-vegan` | pos `6.73` | CTR `0.4%` | impressions `502` | clicks `2`
+- `takis-australia` | pos `6.75` | CTR `0.0%` | impressions `4` | clicks `0`
+- `best-candy-for-movie-night` | pos `6.93` | CTR `2.22%` | impressions `45` | clicks `1`
+- `candy-subscription-box-australia` | pos `6.94` | CTR `0.0%` | impressions `32` | clicks `0`
 - `bulk-candy-for-events-australia` | pos `7.0` | CTR `0.0%` | impressions `1` | clicks `0`
-- `jelly-beans-australia` | pos `7.17` | CTR `0.0%` | impressions `6` | clicks `0`
-- `candy-subscription-box-australia` | pos `7.32` | CTR `0.0%` | impressions `37` | clicks `0`
-- `no-artificial-colours-lollies` | pos `7.6` | CTR `20.0%` | impressions `5` | clicks `1`
-- `lolly-buffet-ideas-australia` | pos `7.89` | CTR `0.0%` | impressions `9` | clicks `0`
-- `tnt-sour-candy-australia` | pos `8.0` | CTR `0.0%` | impressions `2` | clicks `0`
-- `fathers-day-candy-australia` | pos `8.0` | CTR `0.0%` | impressions `9` | clicks `0`
-- `baby-shower-candy-australia` | pos `8.12` | CTR `0.0%` | impressions `8` | clicks `0`
-- `lolly-bag-ideas-kids` | pos `8.37` | CTR `0.44%` | impressions `227` | clicks `1`
-- `kinder-chocolate-australia` | pos `8.38` | CTR `0.0%` | impressions `8` | clicks `0`
-- `sugar-free-lollies-australia` | pos `8.45` | CTR `0.0%` | impressions `20` | clicks `0`
-- `how-to-set-up-candy-bar` | pos `8.5` | CTR `0.0%` | impressions `4` | clicks `0`
-- `vegan-lollies-australia` | pos `8.6` | CTR `0.0%` | impressions `5` | clicks `0`
-- `lindt-chocolate-australia` | pos `8.67` | CTR `0.0%` | impressions `3` | clicks `0`
-- `gummy-bears-australia` | pos `8.68` | CTR `0.83%` | impressions `121` | clicks `1`
-- `sour-lollies-australia` | pos `8.8` | CTR `0.0%` | impressions `10` | clicks `0`
-- `best-candy-for-kids-australia` | pos `8.87` | CTR `2.22%` | impressions `90` | clicks `2`
-- `no-gelatine-candy-australia` | pos `9.0` | CTR `0.0%` | impressions `1` | clicks `0`
-- `american-soda-australia` | pos `9.05` | CTR `0.0%` | impressions `19` | clicks `0`
-- `wholesale-candy-australia` | pos `9.12` | CTR `0.0%` | impressions `34` | clicks `0`
-- `best-lollies-for-party-bags` | pos `9.16` | CTR `0.0%` | impressions `32` | clicks `0`
-- `allens-red-frogs-australia` | pos `9.17` | CTR `0.0%` | impressions `6` | clicks `0`
-- `pop-tarts-australia` | pos `9.25` | CTR `0.0%` | impressions `12` | clicks `0`
-- `stocking-fillers-australia` | pos `9.4` | CTR `0.0%` | impressions `5` | clicks `0`
-- `british-chocolate-australia` | pos `9.43` | CTR `0.0%` | impressions `7` | clicks `0`
-- `allens-snakes-alive-australia` | pos `9.45` | CTR `0.0%` | impressions `11` | clicks `0`
-- `caramel-chocolate-australia` | pos `9.5` | CTR `0.0%` | impressions `6` | clicks `0`
-- `mothers-day-chocolate-australia` | pos `9.5` | CTR `0.0%` | impressions `2` | clicks `0`
-- `lollipops-australia` | pos `9.6` | CTR `0.0%` | impressions `5` | clicks `0`
-- `reeses-australia` | pos `9.81` | CTR `2.01%` | impressions `149` | clicks `3`
-- `most-popular-candy-australia` | pos `9.83` | CTR `1.2%` | impressions `166` | clicks `2`
-- `sour-patch-kids-australia` | pos `9.9` | CTR `0.0%` | impressions `10` | clicks `0`
-- `best-candy-australia-2026` | pos `10.0` | CTR `0.0%` | impressions `1` | clicks `0`
-- `candy-australia-guide-2026` | pos `10.0` | CTR `0.0%` | impressions `1` | clicks `0`
-- `skittles-australia` | pos `10.1` | CTR `0.0%` | impressions `21` | clicks `0`
-- `allens-lollies-australia` | pos `10.38` | CTR `0.0%` | impressions `16` | clicks `0`
-- `darrell-lea-liquorice-australia` | pos `10.38` | CTR `0.0%` | impressions `8` | clicks `0`
+- `baby-shower-candy-australia` | pos `7.0` | CTR `0.0%` | impressions `8` | clicks `0`
+- `no-artificial-colours-lollies` | pos `7.33` | CTR `16.67%` | impressions `6` | clicks `1`
+- `american-candy-guide` | pos `7.4` | CTR `0.0%` | impressions `5` | clicks `0`
+- `wedding-candy-australia` | pos `7.5` | CTR `0.0%` | impressions `2` | clicks `0`
+- `vegan-lollies-australia` | pos `7.6` | CTR `0.0%` | impressions `5` | clicks `0`
+- `lolly-buffet-ideas-australia` | pos `7.69` | CTR `0.0%` | impressions `13` | clicks `0`
+- `cheetos-australia` | pos `7.77` | CTR `0.0%` | impressions `48` | clicks `0`
+- `sour-lollies-australia` | pos `7.89` | CTR `0.0%` | impressions `9` | clicks `0`
+- `christmas-candy-australia` | pos `8.0` | CTR `0.0%` | impressions `1` | clicks `0`
+- `licorice-australia` | pos `8.0` | CTR `0.0%` | impressions `2` | clicks `0`
+- `no-gelatine-candy-australia` | pos `8.0` | CTR `0.0%` | impressions `2` | clicks `0`
+- `how-to-set-up-candy-bar` | pos `8.0` | CTR `0.0%` | impressions `2` | clicks `0`
+- `pop-tarts-australia` | pos `8.29` | CTR `0.0%` | impressions `14` | clicks `0`
+- `lolly-bag-ideas-kids` | pos `8.35` | CTR `0.88%` | impressions `228` | clicks `2`
+- `best-candy-australia-2026` | pos `8.5` | CTR `0.0%` | impressions `2` | clicks `0`
+- `candy-australia-guide-2026` | pos `8.5` | CTR `0.0%` | impressions `2` | clicks `0`
+- `best-lollies-for-party-bags` | pos `8.81` | CTR `0.0%` | impressions `27` | clicks `0`
+- `gummy-bears-australia` | pos `8.84` | CTR `0.72%` | impressions `138` | clicks `1`
+- `sugar-free-lollies-australia` | pos `8.86` | CTR `0.0%` | impressions `22` | clicks `0`
+- `wholesale-candy-australia` | pos `8.98` | CTR `0.0%` | impressions `44` | clicks `0`
+- `chupa-chups-australia` | pos `9.13` | CTR `6.67%` | impressions `15` | clicks `1`
+- `best-candy-for-kids-australia` | pos `9.15` | CTR `2.2%` | impressions `91` | clicks `2`
+- `fathers-day-candy-australia` | pos `9.17` | CTR `0.0%` | impressions `6` | clicks `0`
+- `allens-snakes-alive-australia` | pos `9.38` | CTR `0.0%` | impressions `13` | clicks `0`
+- `jelly-belly-australia` | pos `9.5` | CTR `0.0%` | impressions `2` | clicks `0`
+- `american-soda-australia` | pos `9.7` | CTR `0.0%` | impressions `20` | clicks `0`
+- `most-popular-candy-australia` | pos `9.71` | CTR `1.6%` | impressions `187` | clicks `3`
+- `cadbury-favourites-australia` | pos `9.81` | CTR `0.0%` | impressions `16` | clicks `0`
+- `reeses-australia` | pos `9.94` | CTR `1.8%` | impressions `167` | clicks `3`
+- `skittles-australia` | pos `9.94` | CTR `0.0%` | impressions `18` | clicks `0`
+- `halal-candy-australia` | pos `10.0` | CTR `0.0%` | impressions `1` | clicks `0`
+- `lollipops-australia` | pos `10.29` | CTR `0.0%` | impressions `7` | clicks `0`
+- `sour-patch-kids-australia` | pos `10.62` | CTR `0.0%` | impressions `8` | clicks `0`
+- `caramel-chocolate-australia` | pos `10.67` | CTR `0.0%` | impressions `3` | clicks `0`
+- `darrell-lea-liquorice-australia` | pos `10.9` | CTR `0.0%` | impressions `10` | clicks `0`
 
 ### Low CTR Pages (≥20 impressions, CTR below threshold)
 
-- `halloween-candy-australia` | CTR `0.0%` | pos `11.69` | impressions `72`
-- `gluten-free-lollies-australia` | CTR `0.0%` | pos `53.48` | impressions `54`
-- `haribo-australia` | CTR `0.0%` | pos `30.65` | impressions `46`
-- `m-and-ms-australia` | CTR `0.0%` | pos `17.89` | impressions `84`
-- `chocolate-bars-australia` | CTR `0.0%` | pos `23.07` | impressions `107`
-- `australian-made-chocolate` | CTR `0.0%` | pos `40.44` | impressions `55`
-- `australian-candy-brands` | CTR `0.0%` | pos `18.62` | impressions `29`
-- `healthy-candy-alternatives-australia` | CTR `0.0%` | pos `15.72` | impressions `40`
+- `halloween-candy-australia` | CTR `0.0%` | pos `13.16` | impressions `89`
+- `gluten-free-lollies-australia` | CTR `0.0%` | pos `49.45` | impressions `47`
+- `haribo-australia` | CTR `0.0%` | pos `28.86` | impressions `51`
+- `m-and-ms-australia` | CTR `0.0%` | pos `13.99` | impressions `104`
+- `chocolate-bars-australia` | CTR `0.0%` | pos `11.35` | impressions `360`
+- `australian-made-chocolate` | CTR `0.0%` | pos `26.93` | impressions `85`
+- `healthy-candy-alternatives-australia` | CTR `0.0%` | pos `19.19` | impressions `37`
 
 ### All Content Upgrade Candidates
 
-- `allens-lollies-australia`
-- `allens-red-frogs-australia`
 - `allens-snakes-alive-australia`
 - `american-candy-guide`
 - `american-soda-australia`
-- `are-jolly-ranchers-halal`
 - `are-nerds-vegan`
-- `australian-candy-brands`
 - `australian-made-chocolate`
 - `baby-shower-candy-australia`
 - `belgian-chocolate-australia`
@@ -125,25 +119,28 @@
 - `best-candy-for-kids-australia`
 - `best-candy-for-movie-night`
 - `best-lollies-for-party-bags`
-- `british-chocolate-australia`
 - `bulk-candy-for-events-australia`
+- `cadbury-favourites-australia`
 - `candy-australia-guide-2026`
 - `candy-subscription-box-australia`
 - `caramel-chocolate-australia`
 - `cheetos-australia`
 - `chocolate-bars-australia`
 - `christmas-candy-australia`
+- `chupa-chups-australia`
 - `darrell-lea-liquorice-australia`
 - `fantales-lollies-buying-guide`
 - `fathers-day-candy-australia`
 - `gluten-free-lollies-australia`
 - `gummy-bears-australia`
+- `halal-candy-australia`
 - `halloween-candy-australia`
 - `haribo-australia`
 - `healthy-candy-alternatives-australia`
 - `how-to-set-up-candy-bar`
-- `jelly-beans-australia`
+- `jelly-belly-australia`
 - `kinder-chocolate-australia`
+- `licorice-australia`
 - `lindt-chocolate-australia`
 - `lollipops-australia`
 - `lolly-bag-ideas-kids`
@@ -151,17 +148,16 @@
 - `lolly-shop-online-australia`
 - `m-and-ms-australia`
 - `most-popular-candy-australia`
-- `mothers-day-chocolate-australia`
 - `no-artificial-colours-lollies`
 - `no-gelatine-candy-australia`
-- `pick-and-mix-lollies-online`
+- `nut-free-candy-australia`
 - `pop-tarts-australia`
 - `reeses-australia`
 - `skittles-australia`
 - `sour-lollies-australia`
 - `sour-patch-kids-australia`
-- `stocking-fillers-australia`
 - `sugar-free-lollies-australia`
+- `takis-australia`
 - `tnt-sour-candy-australia`
 - `vegan-lollies-australia`
 - `wedding-candy-australia`

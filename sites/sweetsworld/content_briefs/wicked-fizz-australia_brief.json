@@ -1,0 +1,119 @@
+{
+  "brief_id": "wicked-fizz-australia-brief-v1",
+  "slug": "wicked-fizz-australia",
+  "keyword": "wicked fizz australia",
+  "search_intent": "Transactional with commercial intent",
+  "page_type": "landing_page",
+  "title": "Wicked Fizz Australia: Buy Wicked Fizz Chews Online",
+  "meta_description": "Wicked Fizz Australia: Buy Wicked Fizz Chews Online. Compare stock options, buying factors, and the best next steps for wicked fizz in Australia.",
+  "intro": "Use this page to compare where to buy wicked fizz in Australia, what to check before ordering, and which candy & lollies options are the best fit for your basket.",
+  "outline": [
+    "Where to buy wicked fizz with less guesswork",
+    "How to compare Candy & Lollies options before ordering"
+  ],
+  "sections": [
+    {
+      "heading": "Where to buy wicked fizz with less guesswork",
+      "paragraphs": [
+        "Landing pages for wicked fizz need to show real commercial value quickly, including price context, stock clarity, and relevant product paths.",
+        "The goal is to reduce purchase friction rather than publish a thin page that repeats the keyword."
+      ],
+      "bullets": [
+        "Wicked Fizz Sour Chewy Box- 105g"
+      ]
+    },
+    {
+      "heading": "How to compare Candy & Lollies options before ordering",
+      "paragraphs": [
+        "A stronger landing page explains the trade-offs between pack size, flavour range, stock depth, and delivery timing.",
+        "That gives the page a conversion job as well as a ranking job."
+      ],
+      "bullets": [
+        "Compare unit price instead of headline price alone.",
+        "Check stock, bundle size, and delivery timing together.",
+        "Keep the call to action aligned with the buying task."
+      ]
+    }
+  ],
+  "faq_items": [
+    {
+      "question": "Where can I buy wicked fizz online in Australia?",
+      "answer": "Start with Australian stores that show live stock, delivery windows, and product range depth for wicked fizz before checkout."
+    },
+    {
+      "question": "How should I compare wicked fizz prices?",
+      "answer": "Compare unit price, pack size, shipping cost, and bundle options together instead of looking at the headline price only."
+    },
+    {
+      "question": "Are there other candy & lollies options worth comparing?",
+      "answer": "Yes. Nearby collections or substitute products can be useful when wicked fizz is out of stock or only available in limited pack sizes."
+    }
+  ],
+  "faq_questions": [
+    "Where can I buy wicked fizz online in Australia?",
+    "How should I compare wicked fizz prices?",
+    "Are there other candy & lollies options worth comparing?"
+  ],
+  "internal_links": [
+    {
+      "url": "https://sweetsworld.com.au/where-to-buy/haribo-australia/",
+      "label": "Haribo Australia",
+      "anchor_text": "Shop Haribo Australia",
+      "link_kind": "commercial"
+    },
+    {
+      "url": "https://sweetsworld.com.au/candy-types/butlers-chocolate-ireland/",
+      "label": "Butlers Chocolate Ireland",
+      "anchor_text": "Compare Butlers Chocolate Ireland",
+      "link_kind": "collection"
+    },
+    {
+      "url": "https://sweetsworld.com.au/where-to-buy/reeses-australia/",
+      "label": "Reeses Australia",
+      "anchor_text": "Browse Reeses Australia",
+      "link_kind": "commercial"
+    }
+  ],
+  "selected_products": [
+    {
+      "product_name": "Wicked Fizz Sour Chewy Box- 105g",
+      "category": "Candy",
+      "description": "In summary, Wicked Fizz Sour Chewy Box delivers intense sour flavors in a chewy candy form. The convenient box makes it easy to share and enjoy these tangy treats anytime. Treat yourself and your loved ones to the...",
+      "price": "5.99",
+      "url": "https://sweetsworld.com.au/candy/sour-lollies/wicked-fizz-sour-chewy-box-105g/",
+      "image_url": "https://sweetsworld.com.au/wp-content/uploads/2024/06/IMG_1857.jpg",
+      "matched_tokens": [
+        "wicked",
+        "fizz",
+        "chew"
+      ],
+      "matched_phrases": [
+        "wicked fizz"
+      ],
+      "selection_reason": "direct_match"
+    }
+  ],
+  "related_keywords": [
+    "sweetsworld",
+    "white knight chocolate",
+    "sweets world",
+    "fantales lollies",
+    "clinkers chocolate",
+    "darrell lea kotara"
+  ],
+  "cta": {
+    "heading": "Move from wicked fizz research into a purchase",
+    "body": "Compare the shortlist, then click through to the most relevant collection or product page to check live stock and delivery details.",
+    "button_text": "Browse Related Collection"
+  },
+  "distribution_channels": [
+    "facebook",
+    "instagram",
+    "gbp",
+    "pinterest"
+  ],
+  "schema_types": [
+    "BreadcrumbList",
+    "ItemList"
+  ]
+}

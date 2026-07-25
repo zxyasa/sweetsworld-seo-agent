@@ -1,0 +1,159 @@
+{
+  "brief_id": "grape-candy-australia-brief-v1",
+  "slug": "grape-candy-australia",
+  "keyword": "grape candy australia",
+  "search_intent": "Commercial category intent",
+  "page_type": "category_page",
+  "title": "Grape Candy Australia: Buy Grape Lollies and Grape Flavoured Sweets",
+  "meta_description": "Grape Candy Australia: Buy Grape Lollies and Grape Flavoured Sweets. Compare stock options, buying factors, and the best next steps for grape candy in...",
+  "intro": "This page explains the grape candy range, the main product formats to compare, and the next collection or product pages worth opening before you buy.",
+  "outline": [
+    "What defines the grape candy range",
+    "How to shop Candy & Lollies more confidently"
+  ],
+  "sections": [
+    {
+      "heading": "What defines the grape candy range",
+      "paragraphs": [
+        "A category page for grape candy should explain flavour profile, product format, and the most recognisable options in the range.",
+        "That helps search engines and shoppers understand the scope of the page before they move deeper into the catalogue."
+      ],
+      "bullets": [
+        "Rip Rolls Grape 40g Gluten Free",
+        "FIZZLERZ GRAPE 10G",
+        "Grape Laces 100g",
+        "Gustaf's Grape Laces 907g"
+      ]
+    },
+    {
+      "heading": "How to shop Candy & Lollies more confidently",
+      "paragraphs": [
+        "Category pages should guide users through format, suitability, and value instead of listing products without context.",
+        "This is the section that turns a collection page into a useful SEO landing surface."
+      ],
+      "bullets": [
+        "Show best sellers before long-tail variants.",
+        "Explain when bundles make more sense than single items.",
+        "Link into adjacent collections and product pages."
+      ]
+    }
+  ],
+  "faq_items": [
+    {
+      "question": "What should I look for when choosing grape candy?",
+      "answer": "Focus on suitability for the use case, flavour profile, pack size, and delivery timing rather than assuming every popular candy is the right fit."
+    },
+    {
+      "question": "What is the best next step after reading this page?",
+      "answer": "Use the linked category or product pages to compare live stock, range depth, and practical buying options."
+    },
+    {
+      "question": "Can this page help me compare candy & lollies options?",
+      "answer": "Yes. It should clarify which products or collections are the best fit instead of leaving the reader with generic advice."
+    }
+  ],
+  "faq_questions": [
+    "What should I look for when choosing grape candy?",
+    "What is the best next step after reading this page?",
+    "Can this page help me compare candy & lollies options?"
+  ],
+  "internal_links": [
+    {
+      "url": "https://sweetsworld.com.au/products/mint-chocolate-australia/",
+      "label": "Mint Chocolate Australia",
+      "anchor_text": "Explore Mint Chocolate Australia",
+      "link_kind": "collection"
+    },
+    {
+      "url": "https://sweetsworld.com.au/products/caramel-chocolate-australia/",
+      "label": "Caramel Chocolate Australia",
+      "anchor_text": "Browse Caramel Chocolate Australia",
+      "link_kind": "collection"
+    },
+    {
+      "url": "https://sweetsworld.com.au/candy-types/spicy-chocolate-australia/",
+      "label": "Spicy Chocolate Australia",
+      "anchor_text": "See Spicy Chocolate Australia",
+      "link_kind": "collection"
+    }
+  ],
+  "selected_products": [
+    {
+      "product_name": "Rip Rolls Grape 40g Gluten Free",
+      "category": "Uncategorized",
+      "description": "Product Name: Rip Rolls Grape 40g Gluten Free Brand: Sweets World Category: Lollies / Candy Gluten Free: Yes Product Description: Enjoy a burst of bold grape flavour with Rip Rolls Grape 40g Gluten Free ! This tasty...",
+      "price": "3",
+      "url": "https://sweetsworld.com.au/uncategorized/rip-rolls-grape-40g-gluten-free/",
+      "image_url": "https://sweetsworld.com.au/wp-content/uploads/2022/07/Rip-Rolls-Grape-40.jpg",
+      "matched_tokens": [
+        "grape",
+        "sweet",
+        "category"
+      ],
+      "matched_phrases": [],
+      "selection_reason": "direct_match"
+    },
+    {
+      "product_name": "FIZZLERZ GRAPE 10G",
+      "category": "Candy",
+      "description": "Fizzlerz Grape offers a fun and fizzy candy experience with intense grape flavor. Perfect for any occasion, it’s a treat that combines sweetness with a delightful effervescence. Enjoy and share with friends for a...",
+      "price": "1.5",
+      "url": "https://sweetsworld.com.au/candy/fizzlerz-grape-10g/",
+      "image_url": "https://sweetsworld.com.au/wp-content/uploads/2024/05/IMG_1777.jpg",
+      "matched_tokens": [
+        "grape",
+        "sweet"
+      ],
+      "matched_phrases": [],
+      "selection_reason": "direct_match"
+    },
+    {
+      "product_name": "Grape Laces 100g",
+      "category": "Candy",
+      "description": "Classic Grape Taste in Every Grape Laces Strand Grape Laces deliver juicy grape flavour in soft, chewy candy strands. They offer the perfect balance of fruity sweetness and fun texture. These purple laces brighten up...",
+      "price": "4.99",
+      "url": "https://sweetsworld.com.au/candy/grape-laces-100g/",
+      "image_url": "https://sweetsworld.com.au/wp-content/uploads/2025/04/Grape-Laces.webp",
+      "matched_tokens": [
+        "grape",
+        "sweet"
+      ],
+      "matched_phrases": [],
+      "selection_reason": "direct_match"
+    },
+    {
+      "product_name": "Gustaf's Grape Laces 907g",
+      "category": "Candy",
+      "description": "Gustaf's Grape Laces 907g Treat yourself to a classic candy favorite with Gustaf's Grape Laces ! These long, chewy laces are bursting with sweet grape flavor and bring fun and nostalgia in every bite. Whether you're...",
+      "price": "45",
+      "url": "https://sweetsworld.com.au/candy/gustafs-grape-laces-907g/",
+      "image_url": "https://sweetsworld.com.au/wp-content/uploads/2024/10/Gustaf-s-Grape-Laces.jpg",
+      "matched_tokens": [
+        "grape",
+        "sweet"
+      ],
+      "matched_phrases": [],
+      "selection_reason": "direct_match"
+    }
+  ],
+  "related_keywords": [
+    "sweetsworld",
+    "white knight chocolate",
+    "sweets world",
+    "clinkers chocolate",
+    "fantales lollies",
+    "darrell lea kotara"
+  ],
+  "cta": {
+    "heading": "Use this page as a shortlist for grape candy",
+    "body": "Review the key options, then move into the linked collection or product pages when you are ready to compare live stock and pricing.",
+    "button_text": "Browse Collection"
+  },
+  "distribution_channels": [
+    "pinterest",
+    "facebook"
+  ],
+  "schema_types": [
+    "BreadcrumbList"
+  ]
+}

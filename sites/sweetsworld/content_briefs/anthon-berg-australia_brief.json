@@ -1,0 +1,131 @@
+{
+  "brief_id": "anthon-berg-australia-brief-v1",
+  "slug": "anthon-berg-australia",
+  "keyword": "anthon berg australia",
+  "search_intent": "Transactional with commercial intent",
+  "page_type": "landing_page",
+  "title": "Anthon Berg Australia: Buy Chocolate Liqueurs Online",
+  "meta_description": "Anthon Berg Australia: Buy Chocolate Liqueurs Online. Compare stock options, buying factors, and the best next steps for anthon berg in Australia.",
+  "intro": "Use this page to compare where to buy anthon berg in Australia, what to check before ordering, and which european chocolate options are the best fit for your basket.",
+  "outline": [
+    "Where to buy anthon berg with less guesswork",
+    "How to compare European Chocolate options before ordering"
+  ],
+  "sections": [
+    {
+      "heading": "Where to buy anthon berg with less guesswork",
+      "paragraphs": [
+        "Landing pages for anthon berg need to show real commercial value quickly, including price context, stock clarity, and relevant product paths.",
+        "The goal is to reduce purchase friction rather than publish a thin page that repeats the keyword."
+      ],
+      "bullets": [
+        "Cherry Liqueur 1kg",
+        "Chocolatier Bundaberg Rum&Raisin 110g"
+      ]
+    },
+    {
+      "heading": "How to compare European Chocolate options before ordering",
+      "paragraphs": [
+        "A stronger landing page explains the trade-offs between pack size, flavour range, stock depth, and delivery timing.",
+        "That gives the page a conversion job as well as a ranking job."
+      ],
+      "bullets": [
+        "Compare unit price instead of headline price alone.",
+        "Check stock, bundle size, and delivery timing together.",
+        "Keep the call to action aligned with the buying task."
+      ]
+    }
+  ],
+  "faq_items": [
+    {
+      "question": "Where can I buy anthon berg online in Australia?",
+      "answer": "Start with Australian stores that show live stock, delivery windows, and product range depth for anthon berg before checkout."
+    },
+    {
+      "question": "How should I compare anthon berg prices?",
+      "answer": "Compare unit price, pack size, shipping cost, and bundle options together instead of looking at the headline price only."
+    },
+    {
+      "question": "Are there other european chocolate options worth comparing?",
+      "answer": "Yes. Nearby collections or substitute products can be useful when anthon berg is out of stock or only available in limited pack sizes."
+    }
+  ],
+  "faq_questions": [
+    "Where can I buy anthon berg online in Australia?",
+    "How should I compare anthon berg prices?",
+    "Are there other european chocolate options worth comparing?"
+  ],
+  "internal_links": [
+    {
+      "url": "https://sweetsworld.com.au/where-to-buy/haribo-australia/",
+      "label": "Haribo Australia",
+      "anchor_text": "Shop Haribo Australia",
+      "link_kind": "commercial"
+    },
+    {
+      "url": "https://sweetsworld.com.au/candy-types/swedish-fish-australia/",
+      "label": "Swedish Fish Australia",
+      "anchor_text": "Compare Swedish Fish Australia",
+      "link_kind": "collection"
+    },
+    {
+      "url": "https://sweetsworld.com.au/chocolate/",
+      "label": "Chocolate",
+      "anchor_text": "Shop Chocolate",
+      "link_kind": "category"
+    }
+  ],
+  "selected_products": [
+    {
+      "product_name": "Cherry Liqueur 1kg",
+      "category": "British Lollies",
+      "description": "",
+      "price": "89.99",
+      "url": "https://sweetsworld.com.au/british-lollies/uk-chocolate/cherry-liqueur-1kg/",
+      "image_url": "https://sweetsworld.com.au/wp-content/uploads/2025/03/e0701a9175dd51918ed79b5e9a0c984c397da551.jpg",
+      "matched_tokens": [
+        "chocolate",
+        "liqueur"
+      ],
+      "matched_phrases": [],
+      "selection_reason": "direct_match"
+    },
+    {
+      "product_name": "Chocolatier Bundaberg Rum&Raisin 110g",
+      "category": "Uncategorized",
+      "description": "Ingredients include dark chocolate, soy, sugar, milk, fruit mince and rum . Contains no more than 0.5% alcohol by volume. Presented in themed packaging. Contains milk, soy & may contain peanut, almond, hazelnut...",
+      "price": "14.99",
+      "url": "https://sweetsworld.com.au/uncategorized/chocolatier-bundaberg-rumraisin-110g/",
+      "image_url": "https://sweetsworld.com.au/wp-content/uploads/2025/12/Chocolatier-Bundaberg-Rum-Raisin-110g.jpeg",
+      "matched_tokens": [
+        "chocolate",
+        "berg"
+      ],
+      "matched_phrases": [],
+      "selection_reason": "direct_match"
+    }
+  ],
+  "related_keywords": [
+    "sweetsworld",
+    "white knight chocolate",
+    "sweets world",
+    "fantales lollies",
+    "clinkers chocolate",
+    "darrell lea kotara"
+  ],
+  "cta": {
+    "heading": "Move from anthon berg research into a purchase",
+    "body": "Compare the shortlist, then click through to the most relevant collection or product page to check live stock and delivery details.",
+    "button_text": "Browse Related Collection"
+  },
+  "distribution_channels": [
+    "facebook",
+    "instagram",
+    "gbp",
+    "pinterest"
+  ],
+  "schema_types": [
+    "BreadcrumbList",
+    "ItemList"
+  ]
+}

@@ -1,0 +1,324 @@
+{
+  "candidates": [
+    {
+      "content": {
+        "parts": [
+          {
+            "text": "When looking for the best online lolly shops in Australia for a birthday gift, especially from Sydney, you'll want to consider options that offer a good selection, appealing presentation, and reliable delivery to your location. Here are some excellent choices: \n\n **1. Lollylicious** \n\n Lollylicious specializes in unique chocolate and lolly bouquets, arrangements, and hampers, making them a great alternative to traditional flowers. They use high-quality chocolates from brands like Ferrero, Lindt, Cadbury, Nestle, and Mars. They offer delivery to Sydney and other major Australian cities, with free delivery Australia-wide and even same-day delivery in Sydney if you order before 9:30 am AEDT. Customers have praised their quick delivery and the fun, delicious nature of their arrangements. \n\n **2. Hampers.com.au (Lollies & Candy Gifts Collection)** \n\n Hampers.com.au provides a \"Lollies & Candy Gifts\" collection with colorful, fun, and delicious options perfect for birthdays and other celebrations. Their candy gift boxes are designed to impress and often include an assortment of chewy lollies, sour treats, chocolates, and crunchy snacks. They offer same-day delivery across major metro areas, including Sydney, if you order before the daily cut-off time. \n\n **3. The Old Lolly Shop** \n\n For a touch of nostalgia, The Old Lolly Shop offers hand-packed lolly gift boxes filled with childhood classics and Aussie favorites. Their \"Childhood Classics Box\" and \"Ol' Favs Choc Lovers Box\" are popular choices, and they also have themed boxes like \"Best of the UK Box\" and \"Best of the US Box\". They ship Australia-wide and offer free shipping on orders over $100. \n\n **4. Lolly Kingdom** \n\n Lolly Kingdom boasts a huge range of lollies, chocolates, and candy, with over 300 options available. They are known for being Australia's largest online pick-and-mix lolly store, allowing you to customize your gift with all your favorite varieties. They offer specific \"Birthday Box – Pick n Mix 1kg\" options, making it easy to create a personalized birthday gift. \n\n **5. Wicked Sweets** \n\n Wicked Sweets is a go-to online lolly shop for international candies, sweets, and treats, alongside Australian favorites. While their \"Gift Boxes\" section is listed as \"Coming Soon,\" they offer a wide selection of individual lollies that you could curate into a personalized gift. They have a flat rate shipping of $15 Australia-wide (excluding drinks) and offer online secure payment. They also have physical locations across Sydney if you prefer to pick something up in person. \n\n **6. The Lolli Shop** \n\n The Lolli Shop offers a wide selection of lollies, chocolates, and candy, with fast delivery across Australia. They are a great option for expanding your confectionery palette with different tastes and flavors, offering a large selection of gummy lollies, for example. \n\n **7. iCandy Sydney** \n\n iCandy Sydney provides a candy delivery service in the Hills District of Sydney and now offers Australia-wide shipping via Aus Post. They specialize in \"Pick & Mix Candy Boxes\" and offer free next-day delivery within a 10km radius of Stanhope Gardens, NSW. \n\n **8. The Sweet Giftorium** \n\n The Sweet Giftorium offers a range of lollies, candy, and gifts, including freeze-dried lollies, pick 'n' mix options, lolly grazing boxes, and lolly gift boxes. They have a dedicated \"Birthday Box - Lollies & Candy\" and deliver to Sydney and other areas. \n\n When making your final decision, consider the recipient's preferences (e.g., classic Australian lollies, international treats, chocolate focus), your budget, and the desired presentation style (e.g., bouquet, hamper, pick-and-mix box)."
+          }
+        ],
+        "role": "model"
+      },
+      "finishReason": "STOP",
+      "index": 0,
+      "groundingMetadata": {
+        "searchEntryPoint": {
+          "renderedContent": "<style>\n.container {\n  align-items: center;\n  border-radius: 8px;\n  display: flex;\n  font-family: Google Sans, Roboto, sans-serif;\n  font-size: 14px;\n  line-height: 20px;\n  padding: 8px 12px;\n}\n.chip {\n  display: inline-block;\n  border: solid 1px;\n  border-radius: 16px;\n  min-width: 14px;\n  padding: 5px 16px;\n  text-align: center;\n  user-select: none;\n  margin: 0 8px;\n  -webkit-tap-highlight-color: transparent;\n}\n.carousel {\n  overflow: auto;\n  scrollbar-width: none;\n  white-space: nowrap;\n  margin-right: -12px;\n}\n.headline {\n  display: flex;\n  margin-right: 4px;\n}\n.gradient-container {\n  position: relative;\n}\n.gradient {\n  position: absolute;\n  transform: translate(3px, -9px);\n  height: 36px;\n  width: 9px;\n}\n@media (prefers-color-scheme: light) {\n  .container {\n    background-color: #fafafa;\n    box-shadow: 0 0 0 1px #0000000f;\n  }\n  .headline-label {\n    color: #1f1f1f;\n  }\n  .chip {\n    background-color: #ffffff;\n    border-color: #d2d2d2;\n    color: #5e5e5e;\n    text-decoration: none;\n  }\n  .chip:hover {\n    background-color: #f2f2f2;\n  }\n  .chip:focus {\n    background-color: #f2f2f2;\n  }\n  .chip:active {\n    background-color: #d8d8d8;\n    border-color: #b6b6b6;\n  }\n  .logo-dark {\n    display: none;\n  }\n  .gradient {\n    background: linear-gradient(90deg, #fafafa 15%, #fafafa00 100%);\n  }\n}\n@media (prefers-color-scheme: dark) {\n  .container {\n    background-color: #1f1f1f;\n    box-shadow: 0 0 0 1px #ffffff26;\n  }\n  .headline-label {\n    color: #fff;\n  }\n  .chip {\n    background-color: #2c2c2c;\n    border-color: #3c4043;\n    color: #fff;\n    text-decoration: none;\n  }\n  .chip:hover {\n    background-color: #353536;\n  }\n  .chip:focus {\n    background-color: #353536;\n  }\n  .chip:active {\n    background-color: #464849;\n    border-color: #53575b;\n  }\n  .logo-light {\n    display: none;\n  }\n  .gradient {\n    background: linear-gradient(90deg, #1f1f1f 15%, #1f1f1f00 100%);\n  }\n}\n</style>\n<div class=\"container\">\n  <div class=\"headline\">\n    <svg class=\"logo-light\" width=\"18\" height=\"18\" viewBox=\"9 9 35 35\" fill=\"none\" xmlns=\"http://www.w3.org/2000/svg\">\n      <path fill-rule=\"evenodd\" clip-rule=\"evenodd\" d=\"M42.8622 27.0064C42.8622 25.7839 42.7525 24.6084 42.5487 23.4799H26.3109V30.1568H35.5897C35.1821 32.3041 33.9596 34.1222 32.1258 35.3448V39.6864H37.7213C40.9814 36.677 42.8622 32.2571 42.8622 27.0064V27.0064Z\" fill=\"#4285F4\"/>\n      <path fill-rule=\"evenodd\" clip-rule=\"evenodd\" d=\"M26.3109 43.8555C30.9659 43.8555 34.8687 42.3195 37.7213 39.6863L32.1258 35.3447C30.5898 36.3792 28.6306 37.0061 26.3109 37.0061C21.8282 37.0061 18.0195 33.9811 16.6559 29.906H10.9194V34.3573C13.7563 39.9841 19.5712 43.8555 26.3109 43.8555V43.8555Z\" fill=\"#34A853\"/>\n      <path fill-rule=\"evenodd\" clip-rule=\"evenodd\" d=\"M16.6559 29.8904C16.3111 28.8559 16.1074 27.7588 16.1074 26.6146C16.1074 25.4704 16.3111 24.3733 16.6559 23.3388V18.8875H10.9194C9.74388 21.2072 9.06992 23.8247 9.06992 26.6146C9.06992 29.4045 9.74388 32.022 10.9194 34.3417L15.3864 30.8621L16.6559 29.8904V29.8904Z\" fill=\"#FBBC05\"/>\n      <path fill-rule=\"evenodd\" clip-rule=\"evenodd\" d=\"M26.3109 16.2386C28.85 16.2386 31.107 17.1164 32.9095 18.8091L37.8466 13.8719C34.853 11.082 30.9659 9.3736 26.3109 9.3736C19.5712 9.3736 13.7563 13.245 10.9194 18.8875L16.6559 23.3388C18.0195 19.2636 21.8282 16.2386 26.3109 16.2386V16.2386Z\" fill=\"#EA4335\"/>\n    </svg>\n    <svg class=\"logo-dark\" width=\"18\" height=\"18\" viewBox=\"0 0 48 48\" xmlns=\"http://www.w3.org/2000/svg\">\n      <circle cx=\"24\" cy=\"23\" fill=\"#FFF\" r=\"22\"/>\n      <path d=\"M33.76 34.26c2.75-2.56 4.49-6.37 4.49-11.26 0-.89-.08-1.84-.29-3H24.01v5.99h8.03c-.4 2.02-1.5 3.56-3.07 4.56v.75l3.91 2.97h.88z\" fill=\"#4285F4\"/>\n      <path d=\"M15.58 25.77A8.845 8.845 0 0 0 24 31.86c1.92 0 3.62-.46 4.97-1.31l4.79 3.71C31.14 36.7 27.65 38 24 38c-5.93 0-11.01-3.4-13.45-8.36l.17-1.01 4.06-2.85h.8z\" fill=\"#34A853\"/>\n      <path d=\"M15.59 20.21a8.864 8.864 0 0 0 0 5.58l-5.03 3.86c-.98-2-1.53-4.25-1.53-6.64 0-2.39.55-4.64 1.53-6.64l1-.22 3.81 2.98.22 1.08z\" fill=\"#FBBC05\"/>\n      <path d=\"M24 14.14c2.11 0 4.02.75 5.52 1.98l4.36-4.36C31.22 9.43 27.81 8 24 8c-5.93 0-11.01 3.4-13.45 8.36l5.03 3.85A8.86 8.86 0 0 1 24 14.14z\" fill=\"#EA4335\"/>\n    </svg>\n    <div class=\"gradient-container\"><div class=\"gradient\"></div></div>\n  </div>\n  <div class=\"carousel\">\n    <a class=\"chip\" href=\"https://vertexaisearch.cloud.google.com/grounding-api-redirect/AUZIYQFSjS6BG9YjVaE4mxcs9m5u0BIY7Umx5RaHsp-IjIrhZkhZnEmpIVXHggOWctwVYCnsQUpvVMfe8pAeMdA7fDNoG4GBAVf9qMxu-g6iubNcKSduZ1qEk_eH00KEOdGlIO90MmjeOAtHHcqyqSN0PCPBRSlZFA91dyBWlAbtGHBRaaUxyDNk1CGR7_UqMyjb2Bx8luY9QA5RBXynryJA5bSBvJLT3ntPsA1ecvdZgaM4S2G3\">Australian lolly delivery birthday gift reviews</a>\n    <a class=\"chip\" href=\"https://vertexaisearch.cloud.google.com/grounding-api-redirect/AUZIYQERwXFHVQWPe0gG_eM3eEv_IF3Fr2UQzsSW2HDhZJlhlTCDAjSO2yWXCPj4B36-ZZI8yuuFVY-A7ly-QVuXQQhbM7aIBy2UTFYVs4v339DtW_ED_yRLfo_lxsGS6vkDX4yXKGASNuGQFPHtnVCvtSAYE0lWLgRZJ6bL-YJMWKVke5bPIw8jkOGZtq-IRDkUzBYHtgD9IAVzm1vbchIrgDNaclDWIAb4qhCMXNiBZTIBcZfpaa0UVQ==\">online candy stores Australia delivery Sydney gift</a>\n    <a class=\"chip\" href=\"https://vertexaisearch.cloud.google.com/grounding-api-redirect/AUZIYQHUfpDTcOnZnuLwQUi8HDn0WEeuKavJVQb_QapCWK4M7IXYW9vOikVFBY0OigqLUyegrThenCnb0uZ_UkMqvi9-pyBcHhCyv5-J8Yv8Dsv85xaB6XMncx_Odb0ElFrgbKmnhBOSXjLP3_WTG50ly5MXy_WTmhRnLlgxXyAXyT_FxTcb7vyBAE2MTU8P_mMpJaNQVCXDQtW4jE4UBpTpvfvZf84XFA1CUxRy-VhwcAerX6iCc65zNqNNLyA=\">best online lolly shops Australia birthday gift Sydney</a>\n    <a class=\"chip\" href=\"https://vertexaisearch.cloud.google.com/grounding-api-redirect/AUZIYQFPW9PZz672wCVWgrL94sQ59uK8eIi8Hf6Xc3EKpvaAajYZWAwjXg9mVxrs2qzLAJR_U9GNe3XqY_8XpIsudAJKTnjoW33H4O4eisjYgMDkNy1-Gvtjowe13InjFyTaey8g0pzOtkfRi-6LY2whxLKYBPzgSPubYh8o2vCcXkJO10c1HpqQiSI17zdmUbnKpzsh-tawby0Lg8kw4KcMQhKJpIml3lXZObs4oVwVn3OKyA==\">gourmet lolly shops Australia online birthday</a>\n  </div>\n</div>\n"
+        },
+        "groundingChunks": [
+          {
+            "web": {
+              "uri": "https://vertexaisearch.cloud.google.com/grounding-api-redirect/AUZIYQE-qWDnXl2MkBh8dw9TtwEuJ4duyM8ZVLvsCDA--W80f5ipMxEAzgE1K7Ejlq9y8lLd_xHyHfvW0d9IYZNOQz2j9zD0pWqXqLqNfzGe2MlU7Zg264XwmTcg2JLv",
+              "title": "lollylicious.com.au"
+            }
+          },
+          {
+            "web": {
+              "uri": "https://vertexaisearch.cloud.google.com/grounding-api-redirect/AUZIYQEwF2Ez3Wv6R9XlyqgFMXOrkUwRBHIQWU0IKgZJPoJEZMAUIeREQP37me8krZmblEHsvX8N9uECDisT5U44FDlFpzxL6xGe0SrSeHukwGYfr7Z3950BrbaUIsMLrdH_MXjieYSVtVDDrsyf_-LBxJE=",
+              "title": "trustpilot.com"
+            }
+          },
+          {
+            "web": {
+              "uri": "https://vertexaisearch.cloud.google.com/grounding-api-redirect/AUZIYQG45dm-8ukn2zX9S5d6PSG_dXOwfrNweFuJ_19o0zw9S6zDqPIMpBai16GQO5DNNu2FKhEuO0HpD42VJ-sEejVa3JovAOxYuzNaC63NwvouZ13HP6sT7Q05mjY8McaqMMzhRw==",
+              "title": "lollylicious.com.au"
+            }
+          },
+          {
+            "web": {
+              "uri": "https://vertexaisearch.cloud.google.com/grounding-api-redirect/AUZIYQGWPheYx7Rb0JkbG4xdrQ5dRDjXPsRe9QyEFjw-0lBaNKZUPp0WjY_NetYCKyNZ9NnjTYo_qtH1ujaWrwfgHrpdJFMnB6NZjGYlrxLDPMuROg7Lvvt8IGFW6_SQEuudrKnrwM11a-slYTj04x_JuoYk6Snbzh_zFzXCpRs=",
+              "title": "hampers.com.au"
+            }
+          },
+          {
+            "web": {
+              "uri": "https://vertexaisearch.cloud.google.com/grounding-api-redirect/AUZIYQGt3gHFmSh_ECVReAhQR_VoenCkHa_eVeQUXoUSW32LwftCuOqpWekicio8EFZ2acJkb62Y-zyyrmVorn-oHmUF3eLA72F7VdIAp59ijA7FPTgXJT1-sl8q6GqyM2VnTaoPY4femooznp3CF5Rf5i-J",
+              "title": "theoldlollyshop.com.au"
+            }
+          },
+          {
+            "web": {
+              "uri": "https://vertexaisearch.cloud.google.com/grounding-api-redirect/AUZIYQGz5W-fBGncMX_S_GjWNwap_TXW8v78xLrVryqizHhB2XEyjFBqFmqNAID4N6OhK8Nhj4ZE5BUqReJ08ObH_yOg7uXzrUdAeYM5bqhPhW8KGtupiu9PbKS1",
+              "title": "lolly-kingdom.com.au"
+            }
+          },
+          {
+            "web": {
+              "uri": "https://vertexaisearch.cloud.google.com/grounding-api-redirect/AUZIYQECGXUNhwB4DmqmarSVx2ozcYdCJZwxTynp-AiP1SA4Am_lIIqjqmXSHIBVQweGh3XhsTVMX5_725-8KLad06o5dfRudmBE-HROZz73oBl66KyJna15S1A=",
+              "title": "wickedsweets.com.au"
+            }
+          },
+          {
+            "web": {
+              "uri": "https://vertexaisearch.cloud.google.com/grounding-api-redirect/AUZIYQEDpUGQ3W0OZGzuqAsQmeykaraETtQHQqFOcnLzcoD9laz1Q80BCjhsft7hlte14JA311D0KpkPzwCo62sqc8B2C3F1h8yghD5c2Y7mVLFWEIQ0Ao4rHg5I2N5L",
+              "title": "thelollishop.com.au"
+            }
+          },
+          {
+            "web": {
+              "uri": "https://vertexaisearch.cloud.google.com/grounding-api-redirect/AUZIYQHnjUeSzAnfQAVd8iv2CZ4CR_m_sj9oUw2EJDUxBgs6iSI85BBhTTCYnIl4EQYM6UCeekK2eT5tZFNgzyNiglNh6B8XsRtYroCMmmULNaa2mwskLWY=",
+              "title": "icandysydney.com"
+            }
+          },
+          {
+            "web": {
+              "uri": "https://vertexaisearch.cloud.google.com/grounding-api-redirect/AUZIYQH31ZiRyf1vKLe1v1WYw0Zc5wlcbi38nDl3CbGqfhs77xD2xqECUhO3A0iCPVirmgW6qZq9gRd0ezSQFApzotXZFJCRoBEIo6c9U-saznjzS7MjVoz-_VuRlsDaCQ==",
+              "title": "thesweetgiftorium.com.au"
+            }
+          }
+        ],
+        "groundingSupports": [
+          {
+            "segment": {
+              "startIndex": 287,
+              "endIndex": 433,
+              "text": "Lollylicious specializes in unique chocolate and lolly bouquets, arrangements, and hampers, making them a great alternative to traditional flowers"
+            },
+            "groundingChunkIndices": [
+              0
+            ]
+          },
+          {
+            "segment": {
+              "startIndex": 528,
+              "endIndex": 696,
+              "text": "They offer delivery to Sydney and other major Australian cities, with free delivery Australia-wide and even same-day delivery in Sydney if you order before 9:30 am AEDT"
+            },
+            "groundingChunkIndices": [
+              0,
+              1
+            ]
+          },
+          {
+            "segment": {
+              "startIndex": 698,
+              "endIndex": 793,
+              "text": "Customers have praised their quick delivery and the fun, delicious nature of their arrangements"
+            },
+            "groundingChunkIndices": [
+              2
+            ]
+          },
+          {
+            "segment": {
+              "startIndex": 858,
+              "endIndex": 1005,
+              "text": "Hampers.com.au provides a \"Lollies & Candy Gifts\" collection with colorful, fun, and delicious options perfect for birthdays and other celebrations"
+            },
+            "groundingChunkIndices": [
+              3
+            ]
+          },
+          {
+            "segment": {
+              "startIndex": 1007,
+              "endIndex": 1147,
+              "text": "Their candy gift boxes are designed to impress and often include an assortment of chewy lollies, sour treats, chocolates, and crunchy snacks"
+            },
+            "groundingChunkIndices": [
+              3
+            ]
+          },
+          {
+            "segment": {
+              "startIndex": 1149,
+              "endIndex": 1264,
+              "text": "They offer same-day delivery across major metro areas, including Sydney, if you order before the daily cut-off time"
+            },
+            "groundingChunkIndices": [
+              3
+            ]
+          },
+          {
+            "segment": {
+              "startIndex": 1298,
+              "endIndex": 1430,
+              "text": "For a touch of nostalgia, The Old Lolly Shop offers hand-packed lolly gift boxes filled with childhood classics and Aussie favorites"
+            },
+            "groundingChunkIndices": [
+              4
+            ]
+          },
+          {
+            "segment": {
+              "startIndex": 1432,
+              "endIndex": 1597,
+              "text": "Their \"Childhood Classics Box\" and \"Ol' Favs Choc Lovers Box\" are popular choices, and they also have themed boxes like \"Best of the UK Box\" and \"Best of the US Box\""
+            },
+            "groundingChunkIndices": [
+              4
+            ]
+          },
+          {
+            "segment": {
+              "startIndex": 1599,
+              "endIndex": 1667,
+              "text": "They ship Australia-wide and offer free shipping on orders over $100"
+            },
+            "groundingChunkIndices": [
+              4
+            ]
+          },
+          {
+            "segment": {
+              "startIndex": 1696,
+              "endIndex": 1796,
+              "text": "Lolly Kingdom boasts a huge range of lollies, chocolates, and candy, with over 300 options available"
+            },
+            "groundingChunkIndices": [
+              5
+            ]
+          },
+          {
+            "segment": {
+              "startIndex": 1798,
+              "endIndex": 1944,
+              "text": "They are known for being Australia's largest online pick-and-mix lolly store, allowing you to customize your gift with all your favorite varieties"
+            },
+            "groundingChunkIndices": [
+              5
+            ]
+          },
+          {
+            "segment": {
+              "startIndex": 1946,
+              "endIndex": 2062,
+              "text": "They offer specific \"Birthday Box – Pick n Mix 1kg\" options, making it easy to create a personalized birthday gift"
+            },
+            "groundingChunkIndices": [
+              5
+            ]
+          },
+          {
+            "segment": {
+              "startIndex": 2091,
+              "endIndex": 2211,
+              "text": "Wicked Sweets is a go-to online lolly shop for international candies, sweets, and treats, alongside Australian favorites"
+            },
+            "groundingChunkIndices": [
+              6
+            ]
+          },
+          {
+            "segment": {
+              "startIndex": 2372,
+              "endIndex": 2475,
+              "text": "They have a flat rate shipping of $15 Australia-wide (excluding drinks) and offer online secure payment"
+            },
+            "groundingChunkIndices": [
+              6
+            ]
+          },
+          {
+            "segment": {
+              "startIndex": 2477,
+              "endIndex": 2569,
+              "text": "They also have physical locations across Sydney if you prefer to pick something up in person"
+            },
+            "groundingChunkIndices": [
+              6
+            ]
+          },
+          {
+            "segment": {
+              "startIndex": 2599,
+              "endIndex": 2708,
+              "text": "The Lolli Shop offers a wide selection of lollies, chocolates, and candy, with fast delivery across Australia"
+            },
+            "groundingChunkIndices": [
+              7
+            ]
+          },
+          {
+            "segment": {
+              "startIndex": 2710,
+              "endIndex": 2866,
+              "text": "They are a great option for expanding your confectionery palette with different tastes and flavors, offering a large selection of gummy lollies, for example"
+            },
+            "groundingChunkIndices": [
+              7
+            ]
+          },
+          {
+            "segment": {
+              "startIndex": 2895,
+              "endIndex": 3026,
+              "text": "iCandy Sydney provides a candy delivery service in the Hills District of Sydney and now offers Australia-wide shipping via Aus Post"
+            },
+            "groundingChunkIndices": [
+              8
+            ]
+          },
+          {
+            "segment": {
+              "startIndex": 3028,
+              "endIndex": 3150,
+              "text": "They specialize in \"Pick & Mix Candy Boxes\" and offer free next-day delivery within a 10km radius of Stanhope Gardens, NSW"
+            },
+            "groundingChunkIndices": [
+              8
+            ]
+          },
+          {
+            "segment": {
+              "startIndex": 3185,
+              "endIndex": 3345,
+              "text": "The Sweet Giftorium offers a range of lollies, candy, and gifts, including freeze-dried lollies, pick 'n' mix options, lolly grazing boxes, and lolly gift boxes"
+            },
+            "groundingChunkIndices": [
+              9
+            ]
+          },
+          {
+            "segment": {
+              "startIndex": 3347,
+              "endIndex": 3439,
+              "text": "They have a dedicated \"Birthday Box - Lollies & Candy\" and deliver to Sydney and other areas"
+            },
+            "groundingChunkIndices": [
+              9
+            ]
+          }
+        ],
+        "webSearchQueries": [
+          "best online lolly shops Australia birthday gift Sydney",
+          "online candy stores Australia delivery Sydney gift",
+          "gourmet lolly shops Australia online birthday",
+          "Australian lolly delivery birthday gift reviews"
+        ]
+      }
+    }
+  ],
+  "usageMetadata": {
+    "promptTokenCount": 33,
+    "candidatesTokenCount": 889,
+    "totalTokenCount": 1148,
+    "promptTokensDetails": [
+      {
+        "modality": "TEXT",
+        "tokenCount": 33
+      }
+    ],
+    "toolUsePromptTokenCount": 154,
+    "toolUsePromptTokensDetails": [
+      {
+        "modality": "TEXT",
+        "tokenCount": 154
+      }
+    ],
+    "thoughtsTokenCount": 72,
+    "serviceTier": "standard"
+  },
+  "modelVersion": "gemini-2.5-flash",
+  "responseId": "Q3Jbaoa3KvCajuMPkvDPqAg"
+}

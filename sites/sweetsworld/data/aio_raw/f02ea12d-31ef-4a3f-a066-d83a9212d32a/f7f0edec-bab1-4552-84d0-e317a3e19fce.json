@@ -1,0 +1,322 @@
+{
+  "id": "resp_0d48d115727c8c82006a5b70733b10819ab9b91bb52d8d0573",
+  "object": "response",
+  "created_at": 1784377459,
+  "status": "completed",
+  "background": false,
+  "billing": {
+    "payer": "developer"
+  },
+  "completed_at": 1784377480,
+  "error": null,
+  "frequency_penalty": 0.0,
+  "incomplete_details": null,
+  "instructions": null,
+  "max_output_tokens": null,
+  "max_tool_calls": null,
+  "model": "gpt-5-mini-2025-08-07",
+  "moderation": null,
+  "output": [
+    {
+      "id": "rs_0d48d115727c8c82006a5b7073de30819a90adc1c0970ca992",
+      "type": "reasoning",
+      "content": [],
+      "encrypted_content": "gAAAAABqW3CIqP-VpcZ9Mns7eT0fqLqv6twzvCNES5dOMAWAENofQI3TN4bThqOXSDhUjtekg_7fvbkiFcB2p3OUpULH_Xr_S5i-qPnMcnEk9_TX3u6rE33yUiHoHw9a-TcybGshk6WKSVIKUGDPkg440QhzCEUfzlMsaFeyaI9yKgdgzOUm2zcl380cpm3SoWWytI40TDSZyz-n5I-dIUYnz3PAzFi7yk3zxkmigyzX-1WXHd3-h6-FW_0leMYa8ELcbYYJCm6r_NYFHIOsbZnksyyG0ii7U_d3JRU7jJ9882WFSJ9Vi8eumbPlNPM_GwKhC2F9mCeUD58uJDyug_dFDhNbl3SkoNGXgauYBdUvelnmyS0pbS8HMuoOnlgv_rAGOh5sUrnWW-2VHd9kEbawm6MEgEPMIeubWBGz5Hd90Zy-FtOnwAFbDGh5RpyuQUFU7zi0V32OhpR09fia23jdRMv7feOb7BEcf-EkBufkaOjJvHTxQSKcdU340r4KiEPTNBspu6qod81z-gm18fmpC-GklIGwslQfHxb90I_fTkqjqwPK98WUb18ddzqBhhESTVVoGnGxjTpYQQDM4tFt2ZUMmFgG28GD_o56emQSos1gaLv8_lX1iiP4p8SfrUxnbuSGG3SU730URveufjyuS9OYHuk6ud9d9zmcvF1i9Dz5q-ODGAdEdcBCoL6XUMkFF5CpcfmIPirmzSnX_i6hzMxHVPFWFLYG4QmsKXENkSIOh8tyeoKzvzaWORKiLVQbAqJnKybnxzNvbF5BwA-innb64_51AlXxsg-STjYBnAkpo5T7Hn7wz6LE9n4a9pkIGurF-_AY4sBN5rGSwvtoPNLc6AV5As-xYkpjAgGehAEXCiYagutz8SuNLdbYBC5VM2M7s3NDc74iGVpBAvsglRiaR2_g6WewZohV_Wp3zlFtbKapCxVSrHD6i3VlFVl8oJItse002dlM-pbYwXJ0HSShY70UEiDwkDZ_94FzPLPkwFXBvKmdMw6_mnL8fgmsiPXQWGv7oDSugrKVGfwKU8GVPSCsq48pClhcwUTx6Qjz1EAATX2D6aWc6pWDqYy2bwpTZjwhLdggKGDhRyZkhqLkL9SBGW-HCpt6xO-0iQRy5FU9tsZT4ugo8X0UR_FBKlOWv6sK7vGUYPBiT1RA4eH7eTbOAe3i8-CYZfjfKhNZH_m5aOJIC9QWTRGEMunU5L0G8Gbj2MVRMp6zuIEJpl3kxI3wqd333vpxqGLBg-_uSfQpijhoq_vR02KpPAD6ig2dE9lPOsRBnW6dOkUnNBddlP4vLML3WeUgT2tQG5B57KneqccPjpXyVibRVQ4NpUuAspODneFFegowQ3X_-9Yi_1EdJi3vm8Yw_Xzoku01dLAXyVZP-tplkFwLyjNBoAaaNZE8jxwwD0j7T7XYsS3BGqoqYXPrEFemAaeTFW5OPCdjkq_6e1XbhoUng6NalI5g9CyxSN4FUt1W3uurJ7vsMKLqaREGuWhpRP3VTr3zC3-XblrV0PDDmMKVmI6fRtK7zTNXKLqjE_JVVdRpJL48CBArrSJAo9DwEnS7UJqLkfmhtJOacQX0Qdod1eDjgFccNJwP8uPyi9TnFNiuX9dKp2_SsdT7-drj8IImsX_NvK_mCbX34QAqmJKZe13J4AIlrOODD_cNyJhSJkwn60kmxszBnKfWgHCotRI-NiUz-bBk1wP61XhUz_QBtVAQnBzQXn9GmjoPX2tugU4DoyHydL0s8MXBI51w2K8UY6cIVVXikEiz2WRusxE2du3dBQbKr1DShU3nuzlqRv6cKFwZgVAw8_bHIwXY_8Qcilk2vu5L4KWyQoI-SF9eLf5aZ_-ckIouDtr0vyXynx4qsdTDlUWZHXwQUVFTjRJHgoDlaJ3psnNiZvRN83QmYK3XR7os42FiFEavBKnnT3X6hG0jSx2BBKz4RnbGPCzF2HVvau4OX0Q2FkCv-EZdhPdIat6im3D14rqnJ7zCoQWoyw9a4ypN6A==",
+      "summary": []
+    },
+    {
+      "id": "ws_0d48d115727c8c82006a5b70750da8819a95eb0255fd28ef8b",
+      "type": "web_search_call",
+      "status": "completed",
+      "action": {
+        "type": "search",
+        "queries": [
+          "Australian candy gift box delivery Sydney 'Australian candy gift box' 'gift box' 'deliver to Sydney' 2026",
+          "The Hamper Emporium candy gift box Australia 'candy' 'delivery to Sydney' 'lollies' 'sweet'",
+          "Aussie Sweets gift box 'lollies' 'Australia' 'gift box' delivery Sydney 'lolly box' 'lollies'",
+          "Aussie Candy Company gift box delivery Sydney 'Australian sweets' 'lollies'"
+        ],
+        "query": "Australian candy gift box delivery Sydney 'Australian candy gift box' 'gift box' 'deliver to Sydney' 2026",
+        "sources": [
+          {
+            "type": "url",
+            "url": "https://www.edibleblooms.com.au/products/lollies-sweets-9-pack"
+          },
+          {
+            "type": "url",
+            "url": "https://yummybox.com.au/products/mixed-lolly-box"
+          },
+          {
+            "type": "url",
+            "url": "https://wickedsweets.com.au/"
+          },
+          {
+            "type": "url",
+            "url": "https://www.edibleblooms.com.au/products/candy-lollies-9-pack"
+          },
+          {
+            "type": "url",
+            "url": "https://snackboxhampers.com.au/product/lolly-box-gift-hamper-fun-size/"
+          },
+          {
+            "type": "url",
+            "url": "https://www.sweetas.net.au/products/the-showbag-gift-box-600g"
+          },
+          {
+            "type": "url",
+            "url": "https://snackboxhampers.com.au/product-category/lolly-gift-box-hampers/"
+          },
+          {
+            "type": "url",
+            "url": "https://theoldlollyshop.com.au/products/the-golden-years-box"
+          },
+          {
+            "type": "url",
+            "url": "https://www.australiansweetco.com.au/"
+          },
+          {
+            "type": "url",
+            "url": "https://www.joysdelights.com.au/collections/australian-lollies"
+          },
+          {
+            "type": "url",
+            "url": "https://gingerandivy.com.au/products/jawbreakerbox"
+          },
+          {
+            "type": "url",
+            "url": "https://thesweetgiftorium.com.au/"
+          },
+          {
+            "type": "url",
+            "url": "https://www.nutcrackersweet.com.au/resources/Nutcracker%20Sweet%20Product%20List.pdf"
+          },
+          {
+            "type": "url",
+            "url": "https://nutcrackersweet.com.au/resources/Warehouse%20Retail%20Pricelist%202020.pdf"
+          },
+          {
+            "type": "url",
+            "url": "https://www.reddit.com/r/AskAnAustralian/comments/1dyq2tz"
+          },
+          {
+            "type": "url",
+            "url": "https://en.wikipedia.org/wiki/Allen%27s"
+          },
+          {
+            "type": "url",
+            "url": "https://www.loscam.com.cn/uploadfiles/2022/05/20220523113552836.pdf"
+          },
+          {
+            "type": "url",
+            "url": "https://en.wikipedia.org/wiki/Musk_stick"
+          },
+          {
+            "type": "url",
+            "url": "https://en.wikipedia.org/wiki/Jaffas"
+          },
+          {
+            "type": "url",
+            "url": "https://www.mrsc.uk/files/Paper%202%20Nov%202021%20Insert%20-%20Sweets.pdf"
+          },
+          {
+            "type": "url",
+            "url": "https://nbhsoba.net/oldsite/images/Miscellanea/Sorensen/Hamilton%20Primary%20School%20Days_rev12.pdf"
+          },
+          {
+            "type": "url",
+            "url": "https://www.betreatwise.info/images/BTW-Style-Guide-Aug-2023.pdf"
+          },
+          {
+            "type": "url",
+            "url": "https://en.wikipedia.org/wiki/Cheekies"
+          },
+          {
+            "type": "url",
+            "url": "https://en.wikipedia.org/wiki/Choo_Choo_Bar"
+          },
+          {
+            "type": "url",
+            "url": "https://en.wikipedia.org/wiki/Minties"
+          },
+          {
+            "type": "url",
+            "url": "https://www.reddit.com/r/newzealand/comments/1g76i0q"
+          }
+        ]
+      }
+    },
+    {
+      "id": "rs_0d48d115727c8c82006a5b7077bb00819a8950f05eea169d17",
+      "type": "reasoning",
+      "content": [],
+      "encrypted_content": "gAAAAABqW3CIawAWEXl3L7oR-A6347c8nbXlMQptmAC2DBdEMyxkGQCoZpNwc7zVJBUPb94S_1yMHtH5H3JEcY5beNBzhbKqI_HfOUZL317ZhY5iiiKHU7AVR1719L5iW4I9dzrhH899y8U36oDwil85lN_NcLkOyQrZg_tOSTpjQL_l2vfEC-stFlSIwI9A67mB5SLF7MpuDiCncqoysAd7BKanbo9STXrMYh5z6Jr2OMxvKzXkVjNY-z6WbDiqOrA_5e98OTCHHtNL_48bNiSKH9_gZMVn6ZVc4OBF9dp5aaK_FitJkQauuT1q4iC5O1uwwQiqTFWfN8YzyYnj5YxviVXRFpW_cjaeVz30A-CPUbVcsEieQpWeaX9jQ-uzRikc03xF7jVSgIOvPAcB-kBZJ9p_S7iZDWdY2BSHzicckf8BC8K1bVZxo7_CJ8cuqNy4KpOowgp_IrW9eptFHbs-2E0iOn7aInnT-1kcoIjeENwvncAqyMSNp5tZ7QmjVdRO7v7kmPo1bWWxPRBCdsuTgIVjT0cknHe3Riloe0VLnlL_KxkS_0cFgaOAtoW9GRro6MY5sZczSkl3vtU3swwz6vpbGkCKZhJqcDBqFIOmnat8H-xiw99gZFNVI_ISQGL18tpKawyYfbJ9uo8iDswwU92KeP70dSqdbM70c6tvYKl0-81q1-_ec3Xsm8NINMV9kie1TVZXIZUmwNAvieethBdHebqKB9osuqp-fBxCFZiLf9GY6g3-ZFdrNZjAPRK5IfNyeAhb1aPcDhqO7vllzxTbEDUOC-xK_CDNLiB26KEYbs_oqWq-EdOA28-w76a24q2nLcHx4nrvlWXgnNMq5_xf4KT36LxK0bMoJRaxwMntcHYCnwtrtTa22Q6hPIlR98ccWEBMRZLAV8zJ2vxB_U28C670hebmR1PyVhTT6U5hQarHPU2QVLIj3qJ7vT5pk3Plf1f6vFKUZV9sDLJmB_VnKOFyrvVldi54voenx9gdNfsih3DDLamX9o5ntoWqrF5PGEt0Co232mDM34kjDa8-bpxZqg7U5SsSEMh9PLV7fQV3CAoW6j7FKTUUla1y15_iPN_CYfxm8JP8kbsYEcHoAohebz5231MZtEOici9jGEoV41MupHqkeOvVUKO_BFhFSnYLJsL7nMG3LETpm2K7LGVo2naaaNycnTLExb3vXQz5TYqFq8hp2VGo4bti1vD724mIbFOE8wU7_RxhuoRX_UN_LrHYaf2wfUuCduA4pBXxAyg9OSR_l2FIAlukQb-lirIwI3R1rdu_QtuJ1SbJLy_RRygysHGQAy6c5a2uU9HKqBhkTrJlC_ISt-oeshRPfeeOrJKw955f9nyT9cCJoKX3KsqwRqNzT7PTFpGFK4p96UcPO5hq8ag5kLKRherCrS4drbyAeLadgRZXASsQjW4rDdr9VCcQ9yLdwxbwEI20PKlQTnSO3VkRd6yOKImdkK3Hyj_nQTe-VJG5hZ9qhUc5BiamO4nhbgctpB2118yLj00zWVV4jyG70fsqvdqcM0H6GxSlD5mHmXJf7pW-9_M6D3Cgnp4sFmRUJwUEvLRJjLjIHZsn9mHe1pQTPGmgbYAVDufSsc95KVzuVvjlZj3KkBnk3fmU8hiqRwi4hg0t-q57NepED3nmCyTlC6EbXPyiE4JtWTMvjLYCgiy0G6s4szvYtHDHGKswhvRyCxcFzIm4FbUtHEJf44oDH17ZAzTdYKWy7Luj5papkbz2DFIVd0vY5PwUFyEgOQjRpWin9vrmpPfVczo5qjbHUATCKjM0gCNmD4bvcEugHRa8Rzt_2w==",
+      "summary": []
+    },
+    {
+      "id": "ws_0d48d115727c8c82006a5b707838cc819ab9f719817dd5752f",
+      "type": "web_search_call",
+      "status": "completed",
+      "action": {
+        "type": "open_page",
+        "url": "https://www.edibleblooms.com.au/products/lollies-sweets-9-pack"
+      }
+    },
+    {
+      "id": "rs_0d48d115727c8c82006a5b707af0dc819a9515b1b3d872e129",
+      "type": "reasoning",
+      "content": [],
+      "encrypted_content": "gAAAAABqW3CIcngLVWlgw24mauYcx5bGeofLV-9RuJrCTnI2WsGzltaHKP_9QQ1ed0-V57DMDBbGbEWnvjFiyPCE1LSu5tBGnsWRuRBeiQvXyWjcYtgD60EhdIzHV8864r3__yUJocB1wFylL3Qj4X-ZHW8P_N34NGXfL_QnlUA3RUjKpClFFyLQ6W1tptl7KBN1P4vfrIQnUxNcmU2VDa5-ioM-eNTwDYaS3TY-z-dZZCIogZnr1-RBL7hebYqGSz378Hx1pVSMbk9x7iT5TBw_3QzlClZoZUoIp4f9pTg9An5CkUGvPX8NI9O4uqa4EC73NT_Qa0pJJO1jY8a9jOx2xy8FUR1tK3bPCuonSRM207lkxmKAdrPNK9CYAUomDVGPRhoCeBGdtsrMq1FfxH3r2sH--D4XUoY702Ltvi_1uFgk-zOd3bUoUb1l_vk7FBB75nnKDD7Yig992WJHKN0AlaAKrSw2OfBOomCo7g9-47xZd7DknqFlJ4GrYXQHUyK4uJoM4Qdlmu8PiwR4EaqmFRqlZi3-Pa1IZ5DOHqdz_Sr9XQYe8SUYyqvGIWqN-vc2DnDF1a0fkRvEHtDLw2cRzlG5f56cjr0PG_bCkTk3-S-AggW6H7Z3a9EcNBZ25pg3L0iscy1YF7mzIpZRpglGCeL0OmErrJFjKPHvMRcaVYuoYfGWBT6T0kC62fa6bs5sPZ7k_97h053XGEoy9-Mf-hpaAzlUW5cOp_EYRrZoKqg5Fu6Zeypo5Mj9CWc_hHAF7OnwvEtvhG95PVW1XAUGkT8rkSubG4UFcs_pnDwABme4wpiFEVTVfmVxk_9q7lOLwRw_poOjkJZ9vTqeXmpCAWqeCZssr0wv2oxLvX684LpODxg8X3y9mxhQGkkmwL4JsP5atmkAa8qJL8MfQBWfsuqO68aEv05AcJV_3I3QQ2dHkR3PyroZozftd_xF8ZYs8UMKZr8f44PWErLQQlz9YgK4e5ABZpo1WLDBGn3FQnEdyzsVYErOgeSuRT8-BVyS1hmkfklNfmSWNB6VF2iJlHcez12wovuonzPB7AIr2N7q0OcEKfq2SPeeb-tKyodiw9lj7KTBlAQaisjgQRBT3cIU6Dm6FVzsEGzw6pj5MFYqDo0T8OxijwxgRCfA6zT81OiKaD3Pp5majRIKycKjW6zZ6RG-NSzLJQN5ZGlJTX-KVWnXSzq1_Ke-l4QgutQXGC9noTVTuq7psbG23al3HS5Y1FVxkXRRXJ2i7kMWECAg4ZjSVcqHlx6ZKQIiLqPOtK05WlYgcTDjdqJ588Xf1dEp3X7y4L-S5XAltjMZv0qwVPukFLQRZQk76vCO-3yn0T9stoIjMAiYCKYb1pq1-tRNBcknZw==",
+      "summary": []
+    },
+    {
+      "id": "ws_0d48d115727c8c82006a5b707ba0a4819aafbc9a99a5ba3ac7",
+      "type": "web_search_call",
+      "status": "completed",
+      "action": {
+        "type": "open_page",
+        "url": "https://yummybox.com.au/products/mixed-lolly-box"
+      }
+    },
+    {
+      "id": "rs_0d48d115727c8c82006a5b707c87d4819a8cdf6272500947ab",
+      "type": "reasoning",
+      "content": [],
+      "encrypted_content": "gAAAAABqW3CI4RpLVhVXKqlZcdXyB0Rl7ZB2AJ46bDbHktBmlDB7OTDtOQcccNGh15hD9IhSHaerMTOam0KdNp3HkMk3YiD4wuwUCyG79tMfWw3urnKnyXr-k2WEmnkToqtwqQ_H3giLdmBgG-yrG3Ms2OyxmNNn45DH6L_3zekF2YtepCM-g_H0FTRg6A9iA1zjyhaWM8JBwpYZhzf8iLZTe-tNSTBLmN_buxovLTE3dA-Y4EqqyD_ntXkJmJLYMWow29abKVR5Fipzuu3OKqegXB-TfAR5LIIJqMk1a1kqYNHCzTROQvDZjLqzPukLR72Ln9Whv52083jqOqKSn_Qa1oYFUl7s3t6KHV05e3ubBBpdF-FHmXIHpUdFqFhbCf1WfTs_eOhMLT9gt6vbtJomX5Hr6fMixO-YgIGYsNKOKorspIsgXMCTUy5vYgqewzOBhSgCZcNdqjdq3y6Ay6PZYysJ7ixdpL4FKJsZmGAERuRf8Sfsd_c0Q4PDQPulNCswlVCga16nZUrTr7CIyUJ0J3wiSjyR8dhmaczg7Za0XfbzBHRE00wNqlWA4HPvWDLxYe9_8zPhmXjer5z2JBvqew0aX-9TH8-fivX7AJyHvOtExM0y5HEFWomNf_fAqllemNbjjOXeOwPHIlpHDhid0gqwVw7YLk8ivoGIbLWzo5COaejnChfdJg8IildZ4Rkq4Fs1I4iRVPC9cQQIU37aji-KQt3KRzY4-52JXf6FNPmNfdLv4QoP1qR8Vf_Lfji7gSIVOM2DK47wtptO8l7esBUf2cTkfOTFJUD4JrLwxZz8wv-z-gSJ96zpNKa3Bj9nDyOdqd8htCsNtUnVWzIiuOc1M4D0-G9aDYa2UXQmcJNS1CdF-v2J4rRUYt5v0fpKNLitNEm1D6LDNN3eexJXvy4ELLJBMBDce86HzBLqiDleZFukbzahB7g2-Do2lzHltTTB1IpDWhbAPvX-uaxw8cB8SQh-Hut6xvsTT9jOzbzxByk7vvTGzsSYTPZ17jGDkyW-CXzzEwI0g6vrPsNCtfqMB6C1u1_e11y9D0_zdN3PQOFnC5pmc_8o8W_3j19q-4QgC9Whqswxdzjit2Ije0bCzq8g3ZEKjSBQGXMqUPTKHs8gGko0igVJE5B4-_VlPO-yis4IYUJc1UwztjVNLBD-GrVTLXV7GE2JeLpV4ClW9WRYNfW274Vs8hmopGPB9CdIjKyCz8YRdb_an6eiqSdhUh1nJbu1FfEf9jTILAdqWYqYPew4e2U4qMego7yrurKWvfrDXDm-zU32We0mLsyy3V-qTRQJuLWJ6Xwbode7o8dhJYqwL3SpNOlTy0n3haCCRBOY3Vw4geK4HNMVEXQXBX143fIRpQozhh1fOmGF94hSGbZcMvRbk11UInUDstpZxScK947BG7R_oh6SM-b-43PQBAx-DQtSk21RK3aSC3qbNAcMOIW6e7B3WTrlYGQEruSL-H_Oq9xtPUoADS2kp3JddRgESeqTq8WjZG2lrqllBqASRM9Riz7VykuI62-WawhaeH5VEWaYpisMk59rJ8OWCZNjJTypHmxVZ8DLfCHRb-5LvPYCk5HxKD6XXwYrEOssJNrc8t8c6Nwwwx2agMSi5MxuAaB9EpkpYr2rPxSDuozxD5GJY9Qcm9zHCbh4A45gKtBG5x7pZQDhooxsOaw5faBZyCsqo0XVL9KJFDnK74z0DDT4rmOqsbdhzHYHebg9QD13jur0hjSh9eP7EpR9ss5ZPROI2yHZj9IdediiIvfRyTiJ3bdOPpx-bPD9saCNmNx_LEDLpb3NJBptTuZeC1z4orAf3yoltd4SvEJR7E71KkEDZfv_FpsNGqOU7XWreG4fpzQyOattpbO3AJSwNcKzQGUj9Rz79z9SsIofi1x5Km6MJckj3-OmGwH-pXk7JZjo93VT0C7lpFoLEp7uObXcJB4c7HTnH6vJGinw2b6NJ5g-EYPuHqNMSWpdi3fjKQwXNV1DrKV61E1wCJJ_pQOYwYJrsNtpUbh5xMgp6mHONzWS7MKN9W3Z1ni_xXDctyjT8UotZFtnHxcaRP_H25C2LN--46MSxlFRuk_MVPWD_jAw5SrUfayBHJPJEDlktfPXO-Qo5qKLELooxWZk7ZlRkxkslm1uu2vMTZ1mmXKPme-TohNtX-ABGUz1c0F6sxNsj94lfLEggftUrk_goKrH9eiqevD4AnqaQrk3yTdRiozqjcUaPa_m1Zs5VVdD2wYpTZWviUZ9bEJAIEGvyQhVKY9hW18j6x3rBcsEG9HuE6BceZXsXbqTFCiDa0aGQLaQtNeNL4M0Rd0wyOHfNPbshjQaLO8x5Y0shLkgkj5Izn5R3P3Bt1qt97qSZeQTPz7k2Zh03uW1VTPpvZqeRVDfgGnOE5h9VebYKiqrzg_j_QadYxNsHJvwM6v24vZQLVRhJQXyQj0N_QDHe3ikmISl6HbwXN8y6sQ_L1GlzgvXzMjMGsGBDfxC_Yo2oyWAjS-NP8PNry7YMYe1M8KSbPrTnm7QY7cR5HpxIT6cQ1_6igaYsmKJAaX92o0Cbi2-q3ekYRbxo8SFsWwpMwWUnvwnxOadEjnk4D8_9Kx3goxs3JtMkgMCAgzqZur6lIlgWAVYquzszMU2ql3fjJeoQkZqBUlOGbfodDXEbR4Ct2FYBnhqK5qcp-jCjLPmsjmA",
+      "summary": []
+    },
+    {
+      "id": "ws_0d48d115727c8c82006a5b707ec4b4819a9c439db5b65ee639",
+      "type": "web_search_call",
+      "status": "completed",
+      "action": {
+        "type": "find_in_page",
+        "pattern": "shipping",
+        "url": "https://theoldlollyshop.com.au/products/the-golden-years-box"
+      }
+    },
+    {
+      "id": "rs_0d48d115727c8c82006a5b707ff340819abec50c15fbd41edd",
+      "type": "reasoning",
+      "content": [],
+      "encrypted_content": "gAAAAABqW3CIQ4-1PW5Uo9pJ7-ddVgCC3K9a0oJ-fsUEt5b4y76Sm4GrnsHSehh-aZLZxyyWXRrvmsEoRUx0SXZpQq8BAkmipS6jfVjS4weTn567QShecXMvcpvd-LJxRNvKFli7iRCJUo_WXk6h-3KOY5MrjlkQminpI1OpgfMfuSwnb4jRfzmVYKxXBTn8qd8Cr6jK5wsXDgEJ9bwubisWUvCO8xsVDbU67_LEFasBH9dvETgkM3i-QoBEiOv0dmGugVOX4tAdVDRaVY7aPHhpuST2XdFGWM7XPua_JVO1daA0hP6MAJjX1R0O0iWnZO3E3VYvccPl86meb13DZY1ona2sdrhXUxqvjQenKRvDpN3aOc4u6Pi46VQhiBVLl7KsL3-6dv7obDHyu3rG4EALug7H6poVJSlFpjuVDRfNA1JtIV1L9a7GVwO8zzjtHdXuMmX7JT8i8rnENmLHWxNPqdXKyLgiIA_tGtzc0knnyCSt7W2DjIQ_1P6qf36omWz8BM7tR9tcLOJy8_s16UYuh2rCnJKU_QwDhLoXtq01KIjYSmrXtMfdAg-N0KS9TP4NbdZAtWrdzL_yPc6TXFSUcOmXgBN1g7S75hHgbk2_yvuLSk8iUix0TUt-aHtyAl5JJjRk-J02UOQIo0eEqd80OcbEslRYujFbmJi7_qiBfDlhPbS09G8KG0Djldto4sIlvsZwhpVXo8ybh-yfiWzVRP_c_hNz5BM4t9XPG5LO2zztZSKDeYNaWZFkfC4WfowOTwF6ygQR93hzBcxBFPKiyk87tEFeB_3G7IcII05JiNmmeyIHfoA5F555pscymLK6hPrDal04EVgAdYmqFAPQON8QvqXx1AQbtYGouoqR_hjHEf9lFGc5L3Ed-Lo5hHUC5TKdSKkm59cQ961w1u2CSf3s8qVYeYwcIRTG5m7Kr16NM6oxul6d_UF1Mg45xjKPDWYR7XLbmQiLTVT0M6kD1KdrSY7HbWPMHpjtYgfnxt7SGZEI2RkH2YKv-hhy-DUrZFVyllk9XoljH7yzHtl5HQSzwpr1PWXl-7nPJyIuX6bp7DYU4-wZfzRlWJlclD0OEWsOTIoUFPWBEa3soHLfj2_P2jpIWVpccNfiKOzdz2zbqADkWjDQbE_mLDIIpe1-7x-TsgKz3BSp4o6HUFPgFf12GRcrWJu4vMP2zUPgVxPGO8G2auGZLfVmITp-XK72PklJB-Z1A-JfwkDRivakRRoh5VotJ7fPPr3aFF9JkKu9tIDpvXAMBo5pwR_6kFuQJ0DwSna-iry2Xg1A6GghynzxmzA2KiZ7Hml6TfxZTpZPVPXdDOXfIZzqmKRfjAa8dYfKqkqXu81GgDM6znrooVUMZpEWClA4k4AsS4A4iPIS5aHl-_dY5TtXQcdz0cVE3hWaQgxWlpZzAapaUkhkgNCIOt1enVMzFiz-BKtMtRRSHVosyIT9CBHIg6qNRwyq_89G8lRZ6XhqHDjUwJzRUDU1FRxXj17NAZYXqDsbMrn8JAtv-Nken4i8uiGj5mTDRtc6HDoFLIC3jJg5nPclmSiE7yk4KBODiA_mf4qwgJAGlnPi3XghrgCNw-mRgsrc_draDJJmiSBXNdIyRGfbYBtWd3uUHBYMpApk1QHMOWVqMsttNDeH0prMOxT2OXLZMWng0zvZ0BDQYzEJhITG-rjCWMhjk0V4IfuwSNwA0chbopJY68XYG8Va1YpPxeKFWsnEDl42sPYU35izija5YrNgqGnxp4sirzmtagpNQ5WKeORZlFYxwiN0ZJnQ4G3xDcVn-xGUejGHoe7xinoUlvf6wOHGVMUXFqTa4KiBCp2H_jJC6Q1d4-SpNJZr--wS_ibEkFTmqwbHPbC9EZzuBqF2_moslpOr6pRepzQWrHjqKYa_pFIm3TzQX19-FM4ZT4syXQ8aj0TAHWO2mq_A3PmDWkFuwJ_iF2XpI1ohQnC0BIm83EGXTs3EUYrjZ30Ep-bfdyvUF2MRzOyHEYQ0vRzbfffy1QmgzFF6nuTKPdgAQAj1INx6f4i_FgDbwRMaO7N7Ehhf41ofz5BKX9Iv_S6us4OKr_4AYiiaOu6fu270V5ppGI64dwJsgFCf5OeWiqRbGGodayokUrW02x3XfE8aU-RwGyQ_HXKOp6S4P2gNe0-g4YAD7vgbBeTOVp9m3MpnVB1bUSx4uYNauhbRul3uu1oMiuSsOBrxi_a5OY_g49V9wQr6qgNnjp0Q2ZLlwckRveQLiI7uDQE0MKObjjPJBLr17A3Qjo6eT7EXexAhHJSTRxcFU7_VuHbpdkyr7MqQK9gKaHZ2u3Ge1YNcx9sFYHDEdoOjOAKN2triV7nU68cuIRSkFWQcCOJgQ_q4C_aW4LP00sDkQMTFTtTvRoHw_SqvM3ee-2aGTKrKWHSrisxBdSBB8v6v9rwnMjQ5N71qoMc5tdeYvJrBexJM-PThJo5FQARUPLthaSSHwNRMPtGLJIvkVBgDCeVgGLvmJ1kQ6hbzS2G5bpMVForPz0sRaN-b2fEK_FPuBMsoRs5v2ZscdDzLlxWVtbynWtnVMA1uiMdUqU6Was8YHGpK-MOP6T7sBOZ9Jvmq0BowNsJj8zfZMjsKTK8AY9Zj0rdKKnTeurU6m7waK4PDzkLXickOzn8n30LeVPUlnkEGFfbV6CgtUlGX23vC3XK_Z_h1EPQldZ3D4CFeNT3aa4EgxMUBRzgc5XMdhoNDhKtjpNdQFIdX6JOur1aWjHIjSZANaihle3oh3L9W4fpcjgysQ1AU2_RLCmHOTwh37dnxV72pJApARNf0Sb5KwdjfPVdhWjRgCIx1KWivWBlzjGpB2mp-sFDsLBGI7JAUmf46qmUhanBSFKJVGIADwyPSSYTUGtx59ynBSTgPiedHS6cvVUYCC8ADu5FPAAi4nSg16xXKs1DJ9VwDTm0qLpXXMKi2nxA1dahf-ZSwLqF7M45GzNh9KtT_vl_z_ymzAaJ1SOnyWrt5De4WL6LbtoMPgvxffd1k-xiSg6EiEu0DjXEwFI4ItaxSeN4rA6swRn5Kqs4uf5icGbMp1PkN3ollyeIiVoUpTnxG10FUyi4vOx0cxQ3d8Vwpan9-_mTJt5nz859prL_Z574XwjB3F2CMXwdawiSs8ydkLkYXiOmcaOFbPHMIGCv3aM56O7TkwT1DVLD_JFYeSl_KLwXzU0XRKq6Ot2EUbCoI7QqJfczA9yzC9EQSqMkTsl85LAcWnLc7CvDJTS4u3oQIeRfEm0YXEkiwiJq00Pet0_V4OhBa-lg1hIuC2FtFcWj2GVWLziiTiAC7iZL8pw6PHxITzOWvV3GYrfS-VHqTDynSEkMR6ah5iLDxZrJU-fw8pQ_-N367qGIz3cU4GkhK4c9oTqgAv5RATdNLsHHMBKqX9sx1GlwPV41Se171NESpbPLHIZnrXwZ9z2SiesGIM9WzFUlvsYjLocg3r4uZ0QY4AmjTplI3NP3D0l5RXh0zbFT9NZmGYJOFpourchQQG-kHuZ6svZbbpPQH7Qt_nNkCpPpODaPHgoG3XW3Lk9Y8281W91XbYLiMd5VoaFH6ACjY5jwkURZ92313vbinZ6bLBkS9HcajJz8A6nv8MpiaxOyUWRpbSJ_zhF4puOgWCHr7sLTc7dJkqb_o9MBUEz767hxj7_8JXT-FcN01k7BBICZ0dY8RfXRFCiATM6OFHOJxULuaOwpw4aFJ9rBzf9ZHKn8DsJFt-zztX1AtuL_oncjxpomWKqGQ6OpbyQokdO9BXyFRkbLp3dDKVSs85ISMZCrUbEJSCxPMXMJGc-NUgOD-vSZkUt69acuY3sbUWBBrTiv_msjSmVf9eAHL2TBrhKGEJkd4E3Bq2RYLLYw1s_NC59R2k7XeBIGMYL-hVkRM5XtGaZj0SzlA_Q_LjwKysw_jsypkloT3I-y3BYkuE5TXRqO5tp5O08W1YnDJsFLNcErCozQG8MtTJmQqIp2df1KSVfdhoF80D7lLy323Dgy-GkCIq_-ZD8WI0yJrtDGnRInoj6vKqOo2Bh-DM_3YZBYLAAUR_FgWYgPRbSTovW0SVdMbQKac22t_nLu-ssPkO8gYn7W6FVY8lsc1WeZNTbIwvgYepFOrMFQgoOu5yZT4AUIfisDjOmSY-1XAUxGdz7XCmO5xz2rhEVG5R3xF1Pc_7ZMkpDOZ_hbDnV3ZVnzJ84v2Bt0SV668NU7kbo0Tdtif-sKHWzZq1OVQWOvFaOixuHTGmc4n4tKmltoLYTrvPb92rcMtOb8c2b2vkwzAC3Li7_kOfXGgtOgzlRRfiDdEG47aRmoXXVlCts45lBwcQ7QWh8bIweUBuGNDSPJZqvZGyerbsTHNVSK_f16u0S0o6sNTfZW6Pi6koaLqxUvCiFd_hkcTCg6owd617SGZYW4jQ3wWol3VNJYXuO0kCx9zK8I7njKb0_CJm1PLM461Sbx_FFZDVcgLtkxuokMMYBIn5873NHXRZ3LjsZ5vGuIr2jGqhUuyD780Gw==",
+      "summary": []
+    },
+    {
+      "id": "msg_0d48d115727c8c82006a5b70847330819a810f8a30fd6ab143",
+      "type": "message",
+      "status": "completed",
+      "content": [
+        {
+          "type": "output_text",
+          "annotations": [
+            {
+              "type": "url_citation",
+              "end_index": 430,
+              "start_index": 343,
+              "title": "\n  Lollies & Sweets (9 Pack) | Lollies & Crunch\n  \n  \n  \n    – Edible Blooms\n  \n",
+              "url": "https://www.edibleblooms.com.au/products/lollies-sweets-9-pack"
+            },
+            {
+              "type": "url_citation",
+              "end_index": 770,
+              "start_index": 672,
+              "title": "Mega Zest Lolly Box Gift Hamper – Fun Size - Snack Box Hampers",
+              "url": "https://snackboxhampers.com.au/product/lolly-box-gift-hamper-fun-size/"
+            },
+            {
+              "type": "url_citation",
+              "end_index": 1123,
+              "start_index": 1035,
+              "title": "\n      The Golden Years Gift Box | Classic Aussie Treats\n – The Old Lolly Shop",
+              "url": "https://theoldlollyshop.com.au/products/the-golden-years-box"
+            },
+            {
+              "type": "url_citation",
+              "end_index": 1451,
+              "start_index": 1388,
+              "title": "\n  The Sweet Giftorium\n",
+              "url": "https://thesweetgiftorium.com.au/"
+            }
+          ],
+          "logprobs": [],
+          "text": "Great — here are four Australian candy gift-box options that will deliver to Sydney, with a short note on price and delivery for each so you can pick what suits best.\n\n- Edible Blooms — \"Lollies & Sweets (9 Pack)\": same‑day delivery available in Sydney (hand‑packed gift box). Price shown $85 and same‑day/express options on the product page. ([edibleblooms.com.au](https://www.edibleblooms.com.au/products/lollies-sweets-9-pack))\n\n- Snack Box Hampers — \"Mega Zest Lolly Box (Fun Size)\": nostalgic Aussie favourites (Allen’s, Wizz Fizz, Minties, etc.), budget option around $55 with Australia‑wide shipping (free shipping noted on the page). Good value for a classic mix. ([snackboxhampers.com.au](https://snackboxhampers.com.au/product/lolly-box-gift-hamper-fun-size/))\n\n- The Old Lolly Shop — \"The Golden Years Box\": a premium, nostalgic curated box (classic/retro sweets), price $60; the shop ships Australia‑wide (free shipping over $100; dispatch 1–2 business days). Nice choice if you want a more nostalgic/premium presentation. ([theoldlollyshop.com.au](https://theoldlollyshop.com.au/products/the-golden-years-box))\n\n- The Sweet Giftorium — custom Pick‑n‑Mix / Premium Lolly Gift Boxes: build your own or choose pre‑made boxes (options from ~ $28–$120 depending on size); they ship Australia‑wide and offer personalised packing. Good if you want to tailor for allergies/flavours. ([thesweetgiftorium.com.au](https://thesweetgiftorium.com.au/))\n\nIf you tell me:\n- Your budget, and\n- Whether you want same‑day delivery to Sydney and/or any dietary/allergy needs (gluten‑free, nut‑free, vegetarian), and\n- Who the gift is for (kid, adult, nostalgic touch, corporate),\n\nI’ll pick the best single box for your needs and can include the exact checkout link and delivery estimate for your chosen delivery date."
+        }
+      ],
+      "role": "assistant"
+    }
+  ],
+  "parallel_tool_calls": true,
+  "presence_penalty": 0.0,
+  "previous_response_id": null,
+  "prompt_cache_key": null,
+  "prompt_cache_retention": "in_memory",
+  "reasoning": {
+    "context": "current_turn",
+    "effort": "medium",
+    "mode": "standard",
+    "summary": null
+  },
+  "safety_identifier": null,
+  "service_tier": "default",
+  "store": true,
+  "temperature": 1.0,
+  "text": {
+    "format": {
+      "type": "text"
+    },
+    "verbosity": "medium"
+  },
+  "tool_choice": "auto",
+  "tool_usage": {
+    "image_gen": {
+      "input_tokens": 0,
+      "input_tokens_details": {
+        "image_tokens": 0,
+        "text_tokens": 0
+      },
+      "output_tokens": 0,
+      "output_tokens_details": {
+        "image_tokens": 0,
+        "text_tokens": 0
+      },
+      "total_tokens": 0
+    },
+    "web_search": {
+      "num_requests": 1
+    }
+  },
+  "tools": [
+    {
+      "type": "web_search",
+      "return_token_budget": "default",
+      "search_content_types": [
+        "text"
+      ],
+      "search_context_size": "medium",
+      "user_location": {
+        "type": "approximate",
+        "city": "Sydney",
+        "country": "AU",
+        "region": "New South Wales",
+        "timezone": "Australia/Sydney"
+      }
+    }
+  ],
+  "top_logprobs": 0,
+  "top_p": 1.0,
+  "truncation": "disabled",
+  "usage": {
+    "input_tokens": 23456,
+    "input_tokens_details": {
+      "cache_write_tokens": 0,
+      "cached_tokens": 3584
+    },
+    "output_tokens": 1880,
+    "output_tokens_details": {
+      "reasoning_tokens": 1344
+    },
+    "total_tokens": 25336
+  },
+  "user": null,
+  "metadata": {}
+}

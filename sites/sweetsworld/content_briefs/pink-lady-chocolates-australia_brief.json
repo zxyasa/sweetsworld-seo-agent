@@ -1,0 +1,180 @@
+{
+  "brief_id": "pink-lady-chocolates-australia-brief-v1",
+  "slug": "pink-lady-chocolates-australia",
+  "keyword": "pink lady chocolates australia",
+  "search_intent": "Transactional with commercial intent",
+  "page_type": "landing_page",
+  "title": "Pink Lady Chocolates Australia: Buy Pink Lady Foil Chocolates Online",
+  "meta_description": "Pink Lady Chocolates Australia: Buy Pink Lady Foil Chocolates Online. Compare stock options, buying factors, and the best next steps for pink lady...",
+  "intro": "Use this page to compare where to buy pink lady chocolates in Australia, what to check before ordering, and which australian chocolate options are the best fit for your basket.",
+  "outline": [
+    "Where to buy pink lady chocolates with less guesswork",
+    "How to compare Australian Chocolate options before ordering"
+  ],
+  "sections": [
+    {
+      "heading": "Where to buy pink lady chocolates with less guesswork",
+      "paragraphs": [
+        "Landing pages for pink lady chocolates need to show real commercial value quickly, including price context, stock clarity, and relevant product paths.",
+        "The goal is to reduce purchase friction rather than publish a thin page that repeats the keyword."
+      ],
+      "bullets": [
+        "Pink Lady Milk Chocolate Foiled Bilby 150g",
+        "Pink Lady Foiled Bilby 60g",
+        "Pink Lady Milk Chocolate Foiled Koala- 125g",
+        "Pink Lady Milk Chocolate Foiled Wombat 100g"
+      ]
+    },
+    {
+      "heading": "How to compare Australian Chocolate options before ordering",
+      "paragraphs": [
+        "A stronger landing page explains the trade-offs between pack size, flavour range, stock depth, and delivery timing.",
+        "That gives the page a conversion job as well as a ranking job."
+      ],
+      "bullets": [
+        "Compare unit price instead of headline price alone.",
+        "Check stock, bundle size, and delivery timing together.",
+        "Keep the call to action aligned with the buying task."
+      ]
+    }
+  ],
+  "faq_items": [
+    {
+      "question": "Where can I buy pink lady chocolates online in Australia?",
+      "answer": "Start with Australian stores that show live stock, delivery windows, and product range depth for pink lady chocolates before checkout."
+    },
+    {
+      "question": "How should I compare pink lady chocolates prices?",
+      "answer": "Compare unit price, pack size, shipping cost, and bundle options together instead of looking at the headline price only."
+    },
+    {
+      "question": "Are there other australian chocolate options worth comparing?",
+      "answer": "Yes. Nearby collections or substitute products can be useful when pink lady chocolates is out of stock or only available in limited pack sizes."
+    }
+  ],
+  "faq_questions": [
+    "Where can I buy pink lady chocolates online in Australia?",
+    "How should I compare pink lady chocolates prices?",
+    "Are there other australian chocolate options worth comparing?"
+  ],
+  "internal_links": [
+    {
+      "url": "https://sweetsworld.com.au/where-to-buy/haribo-australia/",
+      "label": "Haribo Australia",
+      "anchor_text": "Shop Haribo Australia",
+      "link_kind": "commercial"
+    },
+    {
+      "url": "https://sweetsworld.com.au/candy-types/kool-aid-australia/",
+      "label": "Kool Aid Australia",
+      "anchor_text": "Compare Kool Aid Australia",
+      "link_kind": "collection"
+    },
+    {
+      "url": "https://sweetsworld.com.au/where-to-buy/reeses-australia/",
+      "label": "Reeses Australia",
+      "anchor_text": "Browse Reeses Australia",
+      "link_kind": "commercial"
+    }
+  ],
+  "selected_products": [
+    {
+      "product_name": "Pink Lady Milk Chocolate Foiled Bilby 150g",
+      "category": "Australian Chocolate",
+      "description": "",
+      "price": "19.99",
+      "url": "https://sweetsworld.com.au/chocolate/australian-chocolate/pinkladymilkchocfoiledbilby150g/",
+      "image_url": "https://sweetsworld.com.au/wp-content/uploads/2025/02/cb79f19e58e2798531f1299287e05c23e3f41d6e.jpg",
+      "matched_tokens": [
+        "chocolate",
+        "pink",
+        "lady",
+        "foil",
+        "australian"
+      ],
+      "matched_phrases": [
+        "pink lady"
+      ],
+      "selection_reason": "direct_match"
+    },
+    {
+      "product_name": "Pink Lady Foiled Bilby 60g",
+      "category": "Australian Chocolate",
+      "description": "Pink Lady Foiled Bilby 60g Product Description: Large Foiled Bilbies are made from superfine milk chocolate. Wrapped in bright foil, this popular native creature is ideal to give anytime of the year.",
+      "price": "9.99",
+      "url": "https://sweetsworld.com.au/chocolate/australian-chocolate/pinkladygoldbilby-foiled60g/",
+      "image_url": "https://sweetsworld.com.au/wp-content/uploads/2020/04/3281aca2710f4e798b9ae2bbc9bccdbe4cce47a6.jpg",
+      "matched_tokens": [
+        "chocolate",
+        "pink",
+        "lady",
+        "foil",
+        "australian"
+      ],
+      "matched_phrases": [
+        "pink lady"
+      ],
+      "selection_reason": "direct_match"
+    },
+    {
+      "product_name": "Pink Lady Milk Chocolate Foiled Koala- 125g",
+      "category": "Easter",
+      "description": "Pink Lady Milk Chocolate Foiled Koala- 125g Introducing our delightful Pink Lady Milk Chocolate Foiled Koala - the perfect Easter treat to bring a touch of Australian charm to your celebrations! Lovingly crafted from...",
+      "price": "14.99",
+      "url": "https://sweetsworld.com.au/easterchocolate/pink-lady-milk-chocolate-foiled-koala/",
+      "image_url": "https://sweetsworld.com.au/wp-content/uploads/2025/03/Pink-Lady-Foiled-Koala-125g.png",
+      "matched_tokens": [
+        "chocolate",
+        "pink",
+        "lady",
+        "foil",
+        "australian"
+      ],
+      "matched_phrases": [
+        "pink lady"
+      ],
+      "selection_reason": "direct_match"
+    },
+    {
+      "product_name": "Pink Lady Milk Chocolate Foiled Wombat 100g",
+      "category": "Uncategorized",
+      "description": "Pink Lady Milk Chocolate Foiled Wombat 100g Add some Aussie charm to your treat time with the Pink Lady Milk Chocolate Foiled Wombat , now at Sweets World ! This adorable chocolate is shaped like a cute wombat and...",
+      "price": "14.99",
+      "url": "https://sweetsworld.com.au/uncategorized/pink-lady-milk-chocolate-foiled-wombat/",
+      "image_url": "https://sweetsworld.com.au/wp-content/uploads/2025/02/Pink-Lady-Milk-Chocolate-Foiled-Wombat-100g.jpeg",
+      "matched_tokens": [
+        "chocolate",
+        "pink",
+        "lady",
+        "foil"
+      ],
+      "matched_phrases": [
+        "pink lady"
+      ],
+      "selection_reason": "direct_match"
+    }
+  ],
+  "related_keywords": [
+    "sweetsworld",
+    "white knight chocolate",
+    "sweets world",
+    "clinkers chocolate",
+    "fantales lollies",
+    "darrell lea kotara"
+  ],
+  "cta": {
+    "heading": "Move from pink lady chocolates research into a purchase",
+    "body": "Compare the shortlist, then click through to the most relevant collection or product page to check live stock and delivery details.",
+    "button_text": "Browse Related Collection"
+  },
+  "distribution_channels": [
+    "facebook",
+    "instagram",
+    "gbp",
+    "pinterest"
+  ],
+  "schema_types": [
+    "BreadcrumbList",
+    "ItemList"
+  ]
+}

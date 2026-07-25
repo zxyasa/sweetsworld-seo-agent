@@ -1,9 +1,9 @@
 # SEO Dashboard
 
-- Generated at: `2026-07-23T00:30:19+00:00`
+- Generated at: `2026-07-25T00:30:23+00:00`
 - Window: last `7` days
-- Published pilot pages: `60`
-- Pages with blocking issues: `58`
+- Published pilot pages: `62`
+- Pages with blocking issues: `60`
 - GSC enabled: `False`
 - GSC note: `USE_GSC_DATA=false`
 
@@ -900,6 +900,36 @@
 - HTTP status: `200`
 - Final URL: `https://newcastlehub.info/top-10-sour-lollies-australia-2026/`
 - Canonical: `https://newcastlehub.info/top-10-sour-lollies-australia-2026/`
+- Noindex: `False`
+- H1 count: `1`
+- Title present: `True`
+- Meta description present: `True`
+- Issues:
+  - `missing_from_post_sitemap`
+
+### sour-lollies-christmas-gift-guide-2026
+- Page type: `landing_page`
+- URL: https://newcastlehub.info/sour-lollies-christmas-gift-guide-2026/
+- Published at: `2026-07-23T01:00:32`
+- In post sitemap: `False`
+- HTTP status: `200`
+- Final URL: `https://newcastlehub.info/sour-lollies-christmas-gift-guide-2026/`
+- Canonical: `https://newcastlehub.info/sour-lollies-christmas-gift-guide-2026/`
+- Noindex: `False`
+- H1 count: `1`
+- Title present: `True`
+- Meta description present: `True`
+- Issues:
+  - `missing_from_post_sitemap`
+
+### australian-sour-lollies-local-vs-international-2026
+- Page type: `landing_page`
+- URL: https://newcastlehub.info/australian-sour-lollies-local-vs-international-2026/
+- Published at: `2026-07-24T01:00:37`
+- In post sitemap: `False`
+- HTTP status: `200`
+- Final URL: `https://newcastlehub.info/australian-sour-lollies-local-vs-international-2026/`
+- Canonical: `https://newcastlehub.info/australian-sour-lollies-local-vs-international-2026/`
 - Noindex: `False`
 - H1 count: `1`
 - Title present: `True`

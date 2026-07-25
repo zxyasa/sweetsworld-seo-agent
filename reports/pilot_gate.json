@@ -1,8 +1,8 @@
 {
-  "generated_at": "2026-07-23T00:01:55+00:00",
+  "generated_at": "2026-07-25T00:01:49+00:00",
   "days": 7,
   "decision": "hold",
-  "next_action": "Resolve blocking reasons listed above before expanding. 57 page(s) are content upgrade candidates (low CTR or stuck at positions 5-10) \u2014 consider regenerating content.",
+  "next_action": "Resolve blocking reasons listed above before expanding. 55 page(s) are content upgrade candidates (low CTR or stuck at positions 5-10) \u2014 consider regenerating content.",
   "dashboard_report_source": "live",
   "summary": {
     "published_count": 89,
@@ -10,13 +10,13 @@
     "reviewed_count": 209,
     "qa_pass_rate": 1.0,
     "review_window_days": 14,
-    "total_impressions": 4872,
-    "total_clicks": 124,
-    "avg_ctr": 2.55,
-    "avg_position": 8.79,
-    "pages_with_impressions": 79,
-    "pages_stuck_in_positions_5_to_10": 49,
-    "content_upgrade_count": 57,
+    "total_impressions": 5209,
+    "total_clicks": 120,
+    "avg_ctr": 2.3,
+    "avg_position": 8.76,
+    "pages_with_impressions": 77,
+    "pages_stuck_in_positions_5_to_10": 48,
+    "content_upgrade_count": 55,
     "ga4_total_sessions": 0,
     "ga4_avg_bounce_rate": 0.0,
     "ga4_avg_session_duration_s": 0.0,
@@ -1174,42 +1174,34 @@
     "warning_pages": []
   },
   "gsc_performance": {
-    "avg_ctr": 2.55,
-    "avg_position": 8.79,
+    "avg_ctr": 2.3,
+    "avg_position": 8.76,
     "ctr_check_applicable": true,
     "min_ctr_pct": 1.0,
     "pages_stuck_detail": [
       {
         "slug": "white-knight-chocolate-where-to-buy-australia",
         "page_type": "landing_page",
-        "impressions": 354,
-        "clicks": 24,
-        "ctr": 6.78,
-        "position": 5.49
+        "impressions": 356,
+        "clicks": 19,
+        "ctr": 5.34,
+        "position": 5.38
       },
       {
         "slug": "fantales-lollies-buying-guide",
         "page_type": "guide_page",
-        "impressions": 1501,
-        "clicks": 45,
-        "ctr": 3.0,
-        "position": 5.46
-      },
-      {
-        "slug": "are-jolly-ranchers-halal",
-        "page_type": "guide_page",
-        "impressions": 17,
-        "clicks": 0,
-        "ctr": 0.0,
-        "position": 5.82
+        "impressions": 1519,
+        "clicks": 48,
+        "ctr": 3.16,
+        "position": 5.96
       },
       {
         "slug": "are-nerds-vegan",
         "page_type": "guide_page",
-        "impressions": 539,
+        "impressions": 502,
         "clicks": 2,
-        "ctr": 0.37,
-        "position": 6.62
+        "ctr": 0.4,
+        "position": 6.73
       },
       {
         "slug": "american-candy-guide",
@@ -1217,47 +1209,47 @@
         "impressions": 5,
         "clicks": 0,
         "ctr": 0.0,
-        "position": 6.4
+        "position": 7.4
       },
       {
         "slug": "sour-lollies-australia",
         "page_type": "category_page",
-        "impressions": 10,
+        "impressions": 9,
         "clicks": 0,
         "ctr": 0.0,
-        "position": 8.8
+        "position": 7.89
       },
       {
         "slug": "best-candy-for-kids-australia",
         "page_type": "occasion_page",
-        "impressions": 90,
+        "impressions": 91,
         "clicks": 2,
-        "ctr": 2.22,
-        "position": 8.87
+        "ctr": 2.2,
+        "position": 9.15
       },
       {
         "slug": "best-lollies-for-party-bags",
         "page_type": "occasion_page",
-        "impressions": 32,
+        "impressions": 27,
         "clicks": 0,
         "ctr": 0.0,
-        "position": 9.16
+        "position": 8.81
       },
       {
         "slug": "best-candy-for-movie-night",
         "page_type": "occasion_page",
-        "impressions": 48,
+        "impressions": 45,
         "clicks": 1,
-        "ctr": 2.08,
-        "position": 6.92
+        "ctr": 2.22,
+        "position": 6.93
       },
       {
         "slug": "christmas-candy-australia",
         "page_type": "occasion_page",
-        "impressions": 2,
+        "impressions": 1,
         "clicks": 0,
         "ctr": 0.0,
-        "position": 5.5
+        "position": 8.0
       },
       {
         "slug": "wedding-candy-australia",
@@ -1265,7 +1257,15 @@
         "impressions": 2,
         "clicks": 0,
         "ctr": 0.0,
-        "position": 5.5
+        "position": 7.5
+      },
+      {
+        "slug": "halal-candy-australia",
+        "page_type": "landing_page",
+        "impressions": 1,
+        "clicks": 0,
+        "ctr": 0.0,
+        "position": 10.0
       },
       {
         "slug": "vegan-lollies-australia",
@@ -1273,15 +1273,15 @@
         "impressions": 5,
         "clicks": 0,
         "ctr": 0.0,
-        "position": 8.6
+        "position": 7.6
       },
       {
         "slug": "lolly-buffet-ideas-australia",
         "page_type": "guide_page",
-        "impressions": 9,
+        "impressions": 13,
         "clicks": 0,
         "ctr": 0.0,
-        "position": 7.89
+        "position": 7.69
       },
       {
         "slug": "belgian-chocolate-australia",
@@ -1294,178 +1294,178 @@
       {
         "slug": "reeses-australia",
         "page_type": "landing_page",
-        "impressions": 149,
+        "impressions": 167,
         "clicks": 3,
-        "ctr": 2.01,
-        "position": 9.81
+        "ctr": 1.8,
+        "position": 9.94
       },
       {
         "slug": "skittles-australia",
         "page_type": "landing_page",
-        "impressions": 21,
+        "impressions": 18,
         "clicks": 0,
         "ctr": 0.0,
-        "position": 10.1
+        "position": 9.94
+      },
+      {
+        "slug": "jelly-belly-australia",
+        "page_type": "landing_page",
+        "impressions": 2,
+        "clicks": 0,
+        "ctr": 0.0,
+        "position": 9.5
       },
       {
         "slug": "lolly-bag-ideas-kids",
         "page_type": "guide_page",
-        "impressions": 227,
-        "clicks": 1,
-        "ctr": 0.44,
-        "position": 8.37
+        "impressions": 228,
+        "clicks": 2,
+        "ctr": 0.88,
+        "position": 8.35
+      },
+      {
+        "slug": "cadbury-favourites-australia",
+        "page_type": "landing_page",
+        "impressions": 16,
+        "clicks": 0,
+        "ctr": 0.0,
+        "position": 9.81
       },
       {
         "slug": "lindt-chocolate-australia",
         "page_type": "landing_page",
-        "impressions": 3,
+        "impressions": 6,
         "clicks": 0,
         "ctr": 0.0,
-        "position": 8.67
+        "position": 5.67
       },
       {
         "slug": "sour-patch-kids-australia",
         "page_type": "landing_page",
-        "impressions": 10,
+        "impressions": 8,
         "clicks": 0,
         "ctr": 0.0,
-        "position": 9.9
+        "position": 10.62
       },
       {
         "slug": "kinder-chocolate-australia",
         "page_type": "landing_page",
-        "impressions": 8,
+        "impressions": 20,
         "clicks": 0,
         "ctr": 0.0,
-        "position": 8.38
+        "position": 6.7
+      },
+      {
+        "slug": "takis-australia",
+        "page_type": "landing_page",
+        "impressions": 4,
+        "clicks": 0,
+        "ctr": 0.0,
+        "position": 6.75
       },
       {
         "slug": "tnt-sour-candy-australia",
         "page_type": "landing_page",
+        "impressions": 3,
+        "clicks": 0,
+        "ctr": 0.0,
+        "position": 6.67
+      },
+      {
+        "slug": "pop-tarts-australia",
+        "page_type": "landing_page",
+        "impressions": 14,
+        "clicks": 0,
+        "ctr": 0.0,
+        "position": 8.29
+      },
+      {
+        "slug": "cheetos-australia",
+        "page_type": "landing_page",
+        "impressions": 48,
+        "clicks": 0,
+        "ctr": 0.0,
+        "position": 7.77
+      },
+      {
+        "slug": "allens-snakes-alive-australia",
+        "page_type": "landing_page",
+        "impressions": 13,
+        "clicks": 0,
+        "ctr": 0.0,
+        "position": 9.38
+      },
+      {
+        "slug": "chupa-chups-australia",
+        "page_type": "landing_page",
+        "impressions": 15,
+        "clicks": 1,
+        "ctr": 6.67,
+        "position": 9.13
+      },
+      {
+        "slug": "caramel-chocolate-australia",
+        "page_type": "category_page",
+        "impressions": 3,
+        "clicks": 0,
+        "ctr": 0.0,
+        "position": 10.67
+      },
+      {
+        "slug": "lollipops-australia",
+        "page_type": "category_page",
+        "impressions": 7,
+        "clicks": 0,
+        "ctr": 0.0,
+        "position": 10.29
+      },
+      {
+        "slug": "gummy-bears-australia",
+        "page_type": "landing_page",
+        "impressions": 138,
+        "clicks": 1,
+        "ctr": 0.72,
+        "position": 8.84
+      },
+      {
+        "slug": "licorice-australia",
+        "page_type": "category_page",
         "impressions": 2,
         "clicks": 0,
         "ctr": 0.0,
         "position": 8.0
       },
       {
-        "slug": "allens-lollies-australia",
-        "page_type": "landing_page",
-        "impressions": 16,
-        "clicks": 0,
-        "ctr": 0.0,
-        "position": 10.38
-      },
-      {
-        "slug": "pop-tarts-australia",
-        "page_type": "landing_page",
-        "impressions": 12,
-        "clicks": 0,
-        "ctr": 0.0,
-        "position": 9.25
-      },
-      {
-        "slug": "cheetos-australia",
-        "page_type": "landing_page",
-        "impressions": 47,
-        "clicks": 1,
-        "ctr": 2.13,
-        "position": 6.81
-      },
-      {
-        "slug": "allens-red-frogs-australia",
-        "page_type": "landing_page",
-        "impressions": 6,
-        "clicks": 0,
-        "ctr": 0.0,
-        "position": 9.17
-      },
-      {
-        "slug": "allens-snakes-alive-australia",
-        "page_type": "landing_page",
-        "impressions": 11,
-        "clicks": 0,
-        "ctr": 0.0,
-        "position": 9.45
-      },
-      {
-        "slug": "caramel-chocolate-australia",
-        "page_type": "category_page",
-        "impressions": 6,
-        "clicks": 0,
-        "ctr": 0.0,
-        "position": 9.5
-      },
-      {
-        "slug": "lollipops-australia",
-        "page_type": "category_page",
-        "impressions": 5,
-        "clicks": 0,
-        "ctr": 0.0,
-        "position": 9.6
-      },
-      {
-        "slug": "gummy-bears-australia",
-        "page_type": "landing_page",
-        "impressions": 121,
-        "clicks": 1,
-        "ctr": 0.83,
-        "position": 8.68
-      },
-      {
-        "slug": "pick-and-mix-lollies-online",
-        "page_type": "landing_page",
-        "impressions": 2,
-        "clicks": 0,
-        "ctr": 0.0,
-        "position": 6.0
-      },
-      {
         "slug": "candy-subscription-box-australia",
         "page_type": "landing_page",
-        "impressions": 37,
+        "impressions": 32,
         "clicks": 0,
         "ctr": 0.0,
-        "position": 7.32
+        "position": 6.94
       },
       {
         "slug": "lolly-shop-online-australia",
         "page_type": "landing_page",
-        "impressions": 1,
+        "impressions": 2,
         "clicks": 0,
         "ctr": 0.0,
-        "position": 6.0
+        "position": 6.5
       },
       {
         "slug": "american-soda-australia",
         "page_type": "category_page",
-        "impressions": 19,
+        "impressions": 20,
         "clicks": 0,
         "ctr": 0.0,
-        "position": 9.05
-      },
-      {
-        "slug": "stocking-fillers-australia",
-        "page_type": "occasion_page",
-        "impressions": 5,
-        "clicks": 0,
-        "ctr": 0.0,
-        "position": 9.4
-      },
-      {
-        "slug": "jelly-beans-australia",
-        "page_type": "landing_page",
-        "impressions": 6,
-        "clicks": 0,
-        "ctr": 0.0,
-        "position": 7.17
+        "position": 9.7
       },
       {
         "slug": "wholesale-candy-australia",
         "page_type": "landing_page",
-        "impressions": 34,
+        "impressions": 44,
         "clicks": 0,
         "ctr": 0.0,
-        "position": 9.12
+        "position": 8.98
       },
       {
         "slug": "bulk-candy-for-events-australia",
@@ -1478,50 +1478,42 @@
       {
         "slug": "no-gelatine-candy-australia",
         "page_type": "landing_page",
-        "impressions": 1,
+        "impressions": 2,
         "clicks": 0,
         "ctr": 0.0,
-        "position": 9.0
+        "position": 8.0
       },
       {
         "slug": "most-popular-candy-australia",
         "page_type": "guide_page",
-        "impressions": 166,
-        "clicks": 2,
-        "ctr": 1.2,
-        "position": 9.83
+        "impressions": 187,
+        "clicks": 3,
+        "ctr": 1.6,
+        "position": 9.71
       },
       {
         "slug": "how-to-set-up-candy-bar",
         "page_type": "guide_page",
-        "impressions": 4,
+        "impressions": 2,
         "clicks": 0,
         "ctr": 0.0,
-        "position": 8.5
+        "position": 8.0
       },
       {
         "slug": "darrell-lea-liquorice-australia",
         "page_type": "landing_page",
-        "impressions": 8,
+        "impressions": 10,
         "clicks": 0,
         "ctr": 0.0,
-        "position": 10.38
-      },
-      {
-        "slug": "mothers-day-chocolate-australia",
-        "page_type": "occasion_page",
-        "impressions": 2,
-        "clicks": 0,
-        "ctr": 0.0,
-        "position": 9.5
+        "position": 10.9
       },
       {
         "slug": "fathers-day-candy-australia",
         "page_type": "occasion_page",
-        "impressions": 9,
+        "impressions": 6,
         "clicks": 0,
         "ctr": 0.0,
-        "position": 8.0
+        "position": 9.17
       },
       {
         "slug": "baby-shower-candy-australia",
@@ -1529,188 +1521,192 @@
         "impressions": 8,
         "clicks": 0,
         "ctr": 0.0,
-        "position": 8.12
-      },
-      {
-        "slug": "british-chocolate-australia",
-        "page_type": "landing_page",
-        "impressions": 7,
-        "clicks": 0,
-        "ctr": 0.0,
-        "position": 9.43
+        "position": 7.0
       },
       {
         "slug": "sugar-free-lollies-australia",
         "page_type": "landing_page",
-        "impressions": 20,
+        "impressions": 22,
         "clicks": 0,
         "ctr": 0.0,
-        "position": 8.45
+        "position": 8.86
       },
       {
         "slug": "no-artificial-colours-lollies",
         "page_type": "landing_page",
-        "impressions": 5,
+        "impressions": 6,
         "clicks": 1,
-        "ctr": 20.0,
-        "position": 7.6
+        "ctr": 16.67,
+        "position": 7.33
+      },
+      {
+        "slug": "nut-free-candy-australia",
+        "page_type": "landing_page",
+        "impressions": 5,
+        "clicks": 0,
+        "ctr": 0.0,
+        "position": 5.0
       },
       {
         "slug": "best-candy-australia-2026",
         "page_type": "guide_page",
-        "impressions": 1,
+        "impressions": 2,
         "clicks": 0,
         "ctr": 0.0,
-        "position": 10.0
+        "position": 8.5
       },
       {
         "slug": "candy-australia-guide-2026",
         "page_type": "guide_page",
-        "impressions": 1,
+        "impressions": 2,
         "clicks": 0,
         "ctr": 0.0,
-        "position": 10.0
+        "position": 8.5
       }
     ],
     "pages_low_ctr_detail": [
       {
         "slug": "are-nerds-vegan",
         "page_type": "guide_page",
-        "impressions": 539,
+        "impressions": 502,
         "clicks": 2,
-        "ctr": 0.37,
-        "position": 6.62
+        "ctr": 0.4,
+        "position": 6.73
       },
       {
         "slug": "best-lollies-for-party-bags",
         "page_type": "occasion_page",
-        "impressions": 32,
+        "impressions": 27,
         "clicks": 0,
         "ctr": 0.0,
-        "position": 9.16
+        "position": 8.81
       },
       {
         "slug": "halloween-candy-australia",
         "page_type": "occasion_page",
-        "impressions": 72,
+        "impressions": 89,
         "clicks": 0,
         "ctr": 0.0,
-        "position": 11.69
+        "position": 13.16
       },
       {
         "slug": "gluten-free-lollies-australia",
         "page_type": "landing_page",
-        "impressions": 54,
+        "impressions": 47,
         "clicks": 0,
         "ctr": 0.0,
-        "position": 53.48
+        "position": 49.45
       },
       {
         "slug": "haribo-australia",
         "page_type": "landing_page",
-        "impressions": 46,
+        "impressions": 51,
         "clicks": 0,
         "ctr": 0.0,
-        "position": 30.65
-      },
-      {
-        "slug": "skittles-australia",
-        "page_type": "landing_page",
-        "impressions": 21,
-        "clicks": 0,
-        "ctr": 0.0,
-        "position": 10.1
+        "position": 28.86
       },
       {
         "slug": "lolly-bag-ideas-kids",
         "page_type": "guide_page",
-        "impressions": 227,
-        "clicks": 1,
-        "ctr": 0.44,
-        "position": 8.37
+        "impressions": 228,
+        "clicks": 2,
+        "ctr": 0.88,
+        "position": 8.35
       },
       {
         "slug": "m-and-ms-australia",
         "page_type": "landing_page",
-        "impressions": 84,
+        "impressions": 104,
         "clicks": 0,
         "ctr": 0.0,
-        "position": 17.89
+        "position": 13.99
       },
       {
-        "slug": "gummy-bears-australia",
-        "page_type": "landing_page",
-        "impressions": 121,
-        "clicks": 1,
-        "ctr": 0.83,
-        "position": 8.68
-      },
-      {
-        "slug": "chocolate-bars-australia",
-        "page_type": "category_page",
-        "impressions": 107,
-        "clicks": 0,
-        "ctr": 0.0,
-        "position": 23.07
-      },
-      {
-        "slug": "candy-subscription-box-australia",
-        "page_type": "landing_page",
-        "impressions": 37,
-        "clicks": 0,
-        "ctr": 0.0,
-        "position": 7.32
-      },
-      {
-        "slug": "australian-made-chocolate",
-        "page_type": "category_page",
-        "impressions": 55,
-        "clicks": 0,
-        "ctr": 0.0,
-        "position": 40.44
-      },
-      {
-        "slug": "australian-candy-brands",
-        "page_type": "category_page",
-        "impressions": 29,
-        "clicks": 0,
-        "ctr": 0.0,
-        "position": 18.62
-      },
-      {
-        "slug": "wholesale-candy-australia",
-        "page_type": "landing_page",
-        "impressions": 34,
-        "clicks": 0,
-        "ctr": 0.0,
-        "position": 9.12
-      },
-      {
-        "slug": "sugar-free-lollies-australia",
+        "slug": "kinder-chocolate-australia",
         "page_type": "landing_page",
         "impressions": 20,
         "clicks": 0,
         "ctr": 0.0,
-        "position": 8.45
+        "position": 6.7
+      },
+      {
+        "slug": "cheetos-australia",
+        "page_type": "landing_page",
+        "impressions": 48,
+        "clicks": 0,
+        "ctr": 0.0,
+        "position": 7.77
+      },
+      {
+        "slug": "gummy-bears-australia",
+        "page_type": "landing_page",
+        "impressions": 138,
+        "clicks": 1,
+        "ctr": 0.72,
+        "position": 8.84
+      },
+      {
+        "slug": "chocolate-bars-australia",
+        "page_type": "category_page",
+        "impressions": 360,
+        "clicks": 0,
+        "ctr": 0.0,
+        "position": 11.35
+      },
+      {
+        "slug": "candy-subscription-box-australia",
+        "page_type": "landing_page",
+        "impressions": 32,
+        "clicks": 0,
+        "ctr": 0.0,
+        "position": 6.94
+      },
+      {
+        "slug": "australian-made-chocolate",
+        "page_type": "category_page",
+        "impressions": 85,
+        "clicks": 0,
+        "ctr": 0.0,
+        "position": 26.93
+      },
+      {
+        "slug": "american-soda-australia",
+        "page_type": "category_page",
+        "impressions": 20,
+        "clicks": 0,
+        "ctr": 0.0,
+        "position": 9.7
+      },
+      {
+        "slug": "wholesale-candy-australia",
+        "page_type": "landing_page",
+        "impressions": 44,
+        "clicks": 0,
+        "ctr": 0.0,
+        "position": 8.98
+      },
+      {
+        "slug": "sugar-free-lollies-australia",
+        "page_type": "landing_page",
+        "impressions": 22,
+        "clicks": 0,
+        "ctr": 0.0,
+        "position": 8.86
       },
       {
         "slug": "healthy-candy-alternatives-australia",
         "page_type": "landing_page",
-        "impressions": 40,
+        "impressions": 37,
         "clicks": 0,
         "ctr": 0.0,
-        "position": 15.72
+        "position": 19.19
       }
     ],
     "content_upgrade_candidates": [
-      "allens-lollies-australia",
-      "allens-red-frogs-australia",
       "allens-snakes-alive-australia",
       "american-candy-guide",
       "american-soda-australia",
-      "are-jolly-ranchers-halal",
       "are-nerds-vegan",
-      "australian-candy-brands",
       "australian-made-chocolate",
       "baby-shower-candy-australia",
       "belgian-chocolate-australia",
@@ -1718,25 +1714,28 @@
       "best-candy-for-kids-australia",
       "best-candy-for-movie-night",
       "best-lollies-for-party-bags",
-      "british-chocolate-australia",
       "bulk-candy-for-events-australia",
+      "cadbury-favourites-australia",
       "candy-australia-guide-2026",
       "candy-subscription-box-australia",
       "caramel-chocolate-australia",
       "cheetos-australia",
       "chocolate-bars-australia",
       "christmas-candy-australia",
+      "chupa-chups-australia",
       "darrell-lea-liquorice-australia",
       "fantales-lollies-buying-guide",
       "fathers-day-candy-australia",
       "gluten-free-lollies-australia",
       "gummy-bears-australia",
+      "halal-candy-australia",
       "halloween-candy-australia",
       "haribo-australia",
       "healthy-candy-alternatives-australia",
       "how-to-set-up-candy-bar",
-      "jelly-beans-australia",
+      "jelly-belly-australia",
       "kinder-chocolate-australia",
+      "licorice-australia",
       "lindt-chocolate-australia",
       "lollipops-australia",
       "lolly-bag-ideas-kids",
@@ -1744,17 +1743,16 @@
       "lolly-shop-online-australia",
       "m-and-ms-australia",
       "most-popular-candy-australia",
-      "mothers-day-chocolate-australia",
       "no-artificial-colours-lollies",
       "no-gelatine-candy-australia",
-      "pick-and-mix-lollies-online",
+      "nut-free-candy-australia",
       "pop-tarts-australia",
       "reeses-australia",
       "skittles-australia",
       "sour-lollies-australia",
       "sour-patch-kids-australia",
-      "stocking-fillers-australia",
       "sugar-free-lollies-australia",
+      "takis-australia",
       "tnt-sour-candy-australia",
       "vegan-lollies-australia",
       "wedding-candy-australia",
@@ -2496,7 +2494,7 @@
     }
   ],
   "dashboard_report": {
-    "generated_at": "2026-07-23T00:01:55+00:00",
+    "generated_at": "2026-07-25T00:01:49+00:00",
     "days": 7,
     "published_count": 89,
     "blocking_issue_count": 82,
@@ -2524,52 +2522,45 @@
         },
         "in_post_sitemap": false,
         "gsc": {
-          "clicks": 24,
-          "impressions": 354,
-          "ctr": 6.78,
-          "position": 5.49,
+          "clicks": 19,
+          "impressions": 356,
+          "ctr": 5.34,
+          "position": 5.38,
           "top_queries": [
             {
               "query": "white knight chocolate",
-              "clicks": 7,
-              "impressions": 160,
-              "ctr": 4.38,
-              "position": 5.67
-            },
-            {
-              "query": "white knight chocolate bar",
-              "clicks": 2,
-              "impressions": 8,
-              "ctr": 25.0,
-              "position": 4.0
+              "clicks": 6,
+              "impressions": 159,
+              "ctr": 3.77,
+              "position": 5.85
             },
             {
               "query": "white knight bar",
               "clicks": 1,
-              "impressions": 7,
-              "ctr": 14.29,
-              "position": 5.29
+              "impressions": 11,
+              "ctr": 9.09,
+              "position": 5.09
             },
             {
               "query": "white knight lollies",
               "clicks": 1,
-              "impressions": 14,
-              "ctr": 7.14,
-              "position": 7.36
+              "impressions": 13,
+              "ctr": 7.69,
+              "position": 6.54
             },
             {
               "query": "white knights chocolate",
               "clicks": 1,
-              "impressions": 17,
-              "ctr": 5.88,
-              "position": 5.94
+              "impressions": 16,
+              "ctr": 6.25,
+              "position": 6.31
             },
             {
               "query": "white night chocolate",
               "clicks": 1,
               "impressions": 14,
               "ctr": 7.14,
-              "position": 4.0
+              "position": 3.93
             },
             {
               "query": "knight chocolate",
@@ -2579,25 +2570,32 @@
               "position": 9.0
             },
             {
-              "query": "white knight chocolate where to buy",
+              "query": "sex chocolate tabs near me",
               "clicks": 0,
-              "impressions": 12,
+              "impressions": 1,
               "ctr": 0.0,
               "position": 2.0
+            },
+            {
+              "query": "white knight chocolate bar",
+              "clicks": 0,
+              "impressions": 6,
+              "ctr": 0.0,
+              "position": 4.17
+            },
+            {
+              "query": "white knight chocolate where to buy",
+              "clicks": 0,
+              "impressions": 11,
+              "ctr": 0.0,
+              "position": 1.55
             },
             {
               "query": "white knight chocolate woolworths",
               "clicks": 0,
               "impressions": 3,
               "ctr": 0.0,
-              "position": 5.33
-            },
-            {
-              "query": "white knight confectionery",
-              "clicks": 0,
-              "impressions": 2,
-              "ctr": 0.0,
-              "position": 5.0
+              "position": 4.0
             },
             {
               "query": "white knight lolly",
@@ -2609,9 +2607,9 @@
             {
               "query": "white knights lollies",
               "clicks": 0,
-              "impressions": 5,
+              "impressions": 4,
               "ctr": 0.0,
-              "position": 12.8
+              "position": 12.0
             }
           ]
         },
@@ -2638,73 +2636,52 @@
         },
         "in_post_sitemap": false,
         "gsc": {
-          "clicks": 45,
-          "impressions": 1501,
-          "ctr": 3.0,
-          "position": 5.46,
+          "clicks": 48,
+          "impressions": 1519,
+          "ctr": 3.16,
+          "position": 5.96,
           "top_queries": [
             {
               "query": "fantales",
-              "clicks": 20,
-              "impressions": 491,
-              "ctr": 4.07,
-              "position": 4.77
+              "clicks": 22,
+              "impressions": 523,
+              "ctr": 4.21,
+              "position": 5.1
             },
             {
               "query": "fantails lolly",
-              "clicks": 8,
-              "impressions": 214,
-              "ctr": 3.74,
-              "position": 5.25
+              "clicks": 6,
+              "impressions": 187,
+              "ctr": 3.21,
+              "position": 5.45
             },
             {
               "query": "fantales lollies",
-              "clicks": 2,
-              "impressions": 173,
-              "ctr": 1.16,
-              "position": 4.97
+              "clicks": 5,
+              "impressions": 162,
+              "ctr": 3.09,
+              "position": 5.33
             },
             {
-              "query": "can you still buy fantales",
+              "query": "buy fantales",
               "clicks": 1,
-              "impressions": 12,
-              "ctr": 8.33,
-              "position": 2.75
+              "impressions": 5,
+              "ctr": 20.0,
+              "position": 5.4
             },
             {
               "query": "fantail lollies",
               "clicks": 1,
-              "impressions": 10,
-              "ctr": 10.0,
-              "position": 7.1
+              "impressions": 24,
+              "ctr": 4.17,
+              "position": 7.79
             },
             {
-              "query": "fantails australia lollies",
+              "query": "fantales australia",
               "clicks": 1,
-              "impressions": 2,
-              "ctr": 50.0,
-              "position": 5.0
-            },
-            {
-              "query": "fantales chocolate",
-              "clicks": 1,
-              "impressions": 37,
-              "ctr": 2.7,
-              "position": 6.08
-            },
-            {
-              "query": "fantales chocolate where to buy",
-              "clicks": 1,
-              "impressions": 7,
-              "ctr": 14.29,
-              "position": 3.71
-            },
-            {
-              "query": "\"fantales\" \"shannon sauro\"",
-              "clicks": 0,
-              "impressions": 1,
-              "ctr": 0.0,
-              "position": 9.0
+              "impressions": 8,
+              "ctr": 12.5,
+              "position": 6.0
             },
             {
               "query": "are fantales coming back",
@@ -2721,21 +2698,28 @@
               "position": 2.0
             },
             {
-              "query": "buy fantales",
+              "query": "australian fantail sweets",
               "clicks": 0,
-              "impressions": 4,
+              "impressions": 1,
               "ctr": 0.0,
-              "position": 5.25
+              "position": 3.0
+            },
+            {
+              "query": "can you still buy fantales",
+              "clicks": 0,
+              "impressions": 5,
+              "ctr": 0.0,
+              "position": 5.0
             },
             {
               "query": "can you still buy fantales in australia",
               "clicks": 0,
               "impressions": 9,
               "ctr": 0.0,
-              "position": 4.78
+              "position": 6.56
             },
             {
-              "query": "cobbers lollies",
+              "query": "columbines lollies",
               "clicks": 0,
               "impressions": 1,
               "ctr": 0.0,
@@ -2744,44 +2728,44 @@
             {
               "query": "do fantales still exist",
               "clicks": 0,
-              "impressions": 2,
+              "impressions": 1,
               "ctr": 0.0,
-              "position": 5.5
+              "position": 8.0
             },
             {
               "query": "do they still make fantales",
               "clicks": 0,
-              "impressions": 4,
+              "impressions": 3,
               "ctr": 0.0,
-              "position": 6.5
+              "position": 12.33
             },
             {
-              "query": "fan tales",
-              "clicks": 0,
-              "impressions": 11,
-              "ctr": 0.0,
-              "position": 7.64
-            },
-            {
-              "query": "fantaes",
+              "query": "famtales",
               "clicks": 0,
               "impressions": 1,
               "ctr": 0.0,
               "position": 6.0
             },
             {
+              "query": "fan tales",
+              "clicks": 0,
+              "impressions": 18,
+              "ctr": 0.0,
+              "position": 8.72
+            },
+            {
               "query": "fantail chocolate",
               "clicks": 0,
-              "impressions": 10,
+              "impressions": 15,
               "ctr": 0.0,
-              "position": 9.5
+              "position": 9.0
             },
             {
               "query": "fantail lolly",
               "clicks": 0,
-              "impressions": 8,
+              "impressions": 5,
               "ctr": 0.0,
-              "position": 3.75
+              "position": 5.8
             },
             {
               "query": "fantail sweets australia",
@@ -2793,93 +2777,107 @@
             {
               "query": "fantails",
               "clicks": 0,
-              "impressions": 11,
+              "impressions": 12,
               "ctr": 0.0,
-              "position": 2.55
+              "position": 7.42
+            },
+            {
+              "query": "fantails australia lollies",
+              "clicks": 0,
+              "impressions": 3,
+              "ctr": 0.0,
+              "position": 6.0
             },
             {
               "query": "fantails candy",
               "clicks": 0,
-              "impressions": 4,
+              "impressions": 6,
               "ctr": 0.0,
-              "position": 9.5
+              "position": 8.83
             },
             {
               "query": "fantails chocolate",
               "clicks": 0,
-              "impressions": 53,
+              "impressions": 46,
               "ctr": 0.0,
-              "position": 8.32
+              "position": 8.48
+            },
+            {
+              "query": "fantails lollie",
+              "clicks": 0,
+              "impressions": 3,
+              "ctr": 0.0,
+              "position": 10.67
             },
             {
               "query": "fantails lollies",
               "clicks": 0,
-              "impressions": 30,
+              "impressions": 38,
               "ctr": 0.0,
-              "position": 7.73
+              "position": 8.5
             },
             {
               "query": "fantails lolly where to buy",
               "clicks": 0,
-              "impressions": 4,
+              "impressions": 5,
               "ctr": 0.0,
-              "position": 6.25
-            },
-            {
-              "query": "fantails sweets",
-              "clicks": 0,
-              "impressions": 2,
-              "ctr": 0.0,
-              "position": 9.5
+              "position": 6.4
             },
             {
               "query": "fantale",
               "clicks": 0,
-              "impressions": 27,
+              "impressions": 29,
               "ctr": 0.0,
-              "position": 8.11
+              "position": 8.62
             },
             {
               "query": "fantale lollies",
               "clicks": 0,
-              "impressions": 4,
+              "impressions": 8,
               "ctr": 0.0,
-              "position": 8.25
+              "position": 8.38
             },
             {
               "query": "fantalea",
               "clicks": 0,
-              "impressions": 13,
+              "impressions": 16,
               "ctr": 0.0,
-              "position": 5.38
+              "position": 5.75
             },
             {
               "query": "fantales 1kg",
               "clicks": 0,
-              "impressions": 5,
+              "impressions": 8,
               "ctr": 0.0,
-              "position": 3.8
+              "position": 5.0
             },
             {
               "query": "fantales alternative",
               "clicks": 0,
-              "impressions": 10,
+              "impressions": 9,
               "ctr": 0.0,
-              "position": 5.4
-            },
-            {
-              "query": "fantales australia",
-              "clicks": 0,
-              "impressions": 7,
-              "ctr": 0.0,
-              "position": 6.14
+              "position": 5.89
             },
             {
               "query": "fantales candy",
               "clicks": 0,
-              "impressions": 2,
+              "impressions": 1,
               "ctr": 0.0,
-              "position": 4.5
+              "position": 8.0
+            },
+            {
+              "query": "fantales chocolate",
+              "clicks": 0,
+              "impressions": 29,
+              "ctr": 0.0,
+              "position": 5.07
+            },
+            {
+              "query": "fantales chocolate where to buy",
+              "clicks": 0,
+              "impressions": 3,
+              "ctr": 0.0,
+              "position": 3.67
             },
             {
               "query": "fantales discontinued",
@@ -2893,56 +2891,63 @@
               "clicks": 0,
               "impressions": 2,
               "ctr": 0.0,
-              "position": 4.0
+              "position": 6.0
+            },
+            {
+              "query": "fantales ice cream",
+              "clicks": 0,
+              "impressions": 1,
+              "ctr": 0.0,
+              "position": 26.0
             },
             {
               "query": "fantales lollies nz",
               "clicks": 0,
-              "impressions": 2,
+              "impressions": 4,
               "ctr": 0.0,
-              "position": 8.5
+              "position": 7.5
             },
             {
               "query": "fantales lollies where to buy",
               "clicks": 0,
-              "impressions": 2,
+              "impressions": 3,
               "ctr": 0.0,
-              "position": 6.5
+              "position": 5.67
             },
             {
               "query": "fantales lolly",
               "clicks": 0,
-              "impressions": 4,
+              "impressions": 5,
               "ctr": 0.0,
-              "position": 6.5
+              "position": 5.2
             },
             {
               "query": "fantales where to buy",
               "clicks": 0,
-              "impressions": 4,
+              "impressions": 3,
               "ctr": 0.0,
-              "position": 4.5
+              "position": 4.67
             },
             {
               "query": "fantales woolworths",
               "clicks": 0,
-              "impressions": 3,
+              "impressions": 4,
               "ctr": 0.0,
               "position": 2.0
             },
             {
               "query": "fantalrs",
               "clicks": 0,
-              "impressions": 1,
+              "impressions": 2,
               "ctr": 0.0,
-              "position": 6.0
+              "position": 3.5
             },
             {
-              "query": "what happened to fantales",
+              "query": "fantles",
               "clicks": 0,
-              "impressions": 3,
+              "impressions": 1,
               "ctr": 0.0,
-              "position": 2.0
+              "position": 15.0
             },
             {
               "query": "when did fantales get discontinued",
@@ -2961,9 +2966,9 @@
             {
               "query": "where can i buy fantales",
               "clicks": 0,
-              "impressions": 4,
+              "impressions": 3,
               "ctr": 0.0,
-              "position": 3.5
+              "position": 3.0
             },
             {
               "query": "where to buy fantales",
@@ -2974,13 +2979,6 @@
             },
             {
               "query": "why did fantales get discontinued",
-              "clicks": 0,
-              "impressions": 1,
-              "ctr": 0.0,
-              "position": 2.0
-            },
-            {
-              "query": "why were fantales discontinued",
               "clicks": 0,
               "impressions": 1,
               "ctr": 0.0,
@@ -3012,17 +3010,10 @@
         "in_post_sitemap": false,
         "gsc": {
           "clicks": 0,
-          "impressions": 17,
+          "impressions": 12,
           "ctr": 0.0,
-          "position": 5.82,
+          "position": 4.67,
           "top_queries": [
-            {
-              "query": "are jolly ranchers halal",
-              "clicks": 0,
-              "impressions": 1,
-              "ctr": 0.0,
-              "position": 3.0
-            },
             {
               "query": "jolly rancher halal or haram",
               "clicks": 0,
@@ -3087,9 +3078,9 @@
         "in_post_sitemap": false,
         "gsc": {
           "clicks": 0,
-          "impressions": 1,
+          "impressions": 0,
           "ctr": 0.0,
-          "position": 21.0,
+          "position": 0.0,
           "top_queries": []
         },
         "ga4": null,
@@ -3117,16 +3108,16 @@
         "in_post_sitemap": false,
         "gsc": {
           "clicks": 2,
-          "impressions": 539,
-          "ctr": 0.37,
-          "position": 6.62,
+          "impressions": 502,
+          "ctr": 0.4,
+          "position": 6.73,
           "top_queries": [
             {
               "query": "are nerds vegetarian",
               "clicks": 1,
-              "impressions": 8,
-              "ctr": 12.5,
-              "position": 2.62
+              "impressions": 9,
+              "ctr": 11.11,
+              "position": 1.78
             },
             {
               "query": "apakah nerds grape and strawberry halal",
@@ -3138,14 +3129,14 @@
             {
               "query": "are big chewy nerds vegan",
               "clicks": 0,
-              "impressions": 3,
+              "impressions": 2,
               "ctr": 0.0,
-              "position": 10.33
+              "position": 11.5
             },
             {
               "query": "are grape nerds vegan",
               "clicks": 0,
-              "impressions": 3,
+              "impressions": 1,
               "ctr": 0.0,
               "position": 2.0
             },
@@ -3159,16 +3150,16 @@
             {
               "query": "are maynards vegan",
               "clicks": 0,
-              "impressions": 1,
+              "impressions": 2,
               "ctr": 0.0,
               "position": 39.0
             },
             {
               "query": "are nerd clusters vegan",
               "clicks": 0,
-              "impressions": 4,
+              "impressions": 3,
               "ctr": 0.0,
-              "position": 6.5
+              "position": 6.33
             },
             {
               "query": "are nerd gummy clusters halal",
@@ -3180,37 +3171,30 @@
             {
               "query": "are nerd gummy clusters vegan",
               "clicks": 0,
-              "impressions": 2,
+              "impressions": 3,
               "ctr": 0.0,
-              "position": 5.0
+              "position": 2.33
             },
             {
               "query": "are nerd gummy clusters vegetarian",
               "clicks": 0,
-              "impressions": 1,
+              "impressions": 3,
               "ctr": 0.0,
               "position": 11.0
             },
             {
-              "query": "are nerd ropes halal",
+              "query": "are nerds candy vegan",
               "clicks": 0,
               "impressions": 3,
               "ctr": 0.0,
               "position": 2.0
             },
             {
-              "query": "are nerds candy vegan",
-              "clicks": 0,
-              "impressions": 4,
-              "ctr": 0.0,
-              "position": 2.75
-            },
-            {
-              "query": "are nerds clusters vegan",
+              "query": "are nerds dairy free",
               "clicks": 0,
               "impressions": 1,
               "ctr": 0.0,
-              "position": 4.0
+              "position": 8.0
             },
             {
               "query": "are nerds gluten-free",
@@ -3222,37 +3206,23 @@
             {
               "query": "are nerds grape and strawberry halal",
               "clicks": 0,
-              "impressions": 1,
-              "ctr": 0.0,
-              "position": 3.0
-            },
-            {
-              "query": "are nerds gummy clusters halal",
-              "clicks": 0,
-              "impressions": 3,
+              "impressions": 2,
               "ctr": 0.0,
               "position": 2.0
             },
             {
               "query": "are nerds gummy clusters vegan",
               "clicks": 0,
-              "impressions": 5,
+              "impressions": 3,
               "ctr": 0.0,
-              "position": 7.4
+              "position": 6.33
             },
             {
               "query": "are nerds halal",
               "clicks": 0,
-              "impressions": 2,
+              "impressions": 4,
               "ctr": 0.0,
-              "position": 3.0
-            },
-            {
-              "query": "are nerds haram",
-              "clicks": 0,
-              "impressions": 1,
-              "ctr": 0.0,
-              "position": 3.0
+              "position": 2.5
             },
             {
               "query": "are nerds made out of bugs",
@@ -3271,86 +3241,93 @@
             {
               "query": "are nerds peanut free",
               "clicks": 0,
-              "impressions": 2,
+              "impressions": 1,
               "ctr": 0.0,
-              "position": 51.0
+              "position": 50.0
             },
             {
               "query": "are nerds rope vegetarian",
               "clicks": 0,
-              "impressions": 2,
+              "impressions": 1,
               "ctr": 0.0,
-              "position": 7.5
+              "position": 8.0
             },
             {
               "query": "are nerds ropes vegan",
               "clicks": 0,
-              "impressions": 2,
+              "impressions": 3,
               "ctr": 0.0,
-              "position": 3.5
+              "position": 4.33
             },
             {
               "query": "are nerds vegan",
               "clicks": 0,
-              "impressions": 65,
+              "impressions": 43,
               "ctr": 0.0,
-              "position": 2.85
+              "position": 2.93
             },
             {
               "query": "are nerds vegan friendly",
               "clicks": 0,
-              "impressions": 3,
-              "ctr": 0.0,
-              "position": 1.0
-            },
-            {
-              "query": "are nerds vegan?",
-              "clicks": 0,
-              "impressions": 2,
+              "impressions": 1,
               "ctr": 0.0,
               "position": 1.0
             },
             {
               "query": "are nerds vegetarian uk",
               "clicks": 0,
-              "impressions": 2,
+              "impressions": 8,
               "ctr": 0.0,
-              "position": 10.0
+              "position": 10.25
+            },
+            {
+              "query": "are nibs vegan",
+              "clicks": 0,
+              "impressions": 1,
+              "ctr": 0.0,
+              "position": 61.0
             },
             {
               "query": "are rainbow nerds vegetarian",
               "clicks": 0,
               "impressions": 1,
               "ctr": 0.0,
-              "position": 3.0
+              "position": 5.0
+            },
+            {
+              "query": "are these vegan",
+              "clicks": 0,
+              "impressions": 1,
+              "ctr": 0.0,
+              "position": 1.0
             },
             {
               "query": "big chewy nerds vegan",
               "clicks": 0,
-              "impressions": 3,
+              "impressions": 1,
               "ctr": 0.0,
-              "position": 9.67
+              "position": 10.0
             },
             {
-              "query": "crunchy",
+              "query": "do nerd clusters have gelatin",
               "clicks": 0,
               "impressions": 1,
               "ctr": 0.0,
-              "position": 4.0
-            },
-            {
-              "query": "do nerd clusters have pork gelatin",
-              "clicks": 0,
-              "impressions": 1,
-              "ctr": 0.0,
-              "position": 28.0
+              "position": 2.0
             },
             {
               "query": "do nerd gummy clusters have pork gelatin",
               "clicks": 0,
               "impressions": 1,
               "ctr": 0.0,
-              "position": 34.0
+              "position": 2.0
+            },
+            {
+              "query": "do nerds candy have gelatin",
+              "clicks": 0,
+              "impressions": 1,
+              "ctr": 0.0,
+              "position": 1.0
             },
             {
               "query": "do nerds gummy clusters have gelatin",
@@ -3369,14 +3346,14 @@
             {
               "query": "do nerds have gelatin",
               "clicks": 0,
-              "impressions": 1,
+              "impressions": 3,
               "ctr": 0.0,
-              "position": 7.0
+              "position": 4.67
             },
             {
               "query": "do nerds have gelatin in them",
               "clicks": 0,
-              "impressions": 1,
+              "impressions": 3,
               "ctr": 0.0,
               "position": 8.0
             },
@@ -3404,9 +3381,9 @@
             {
               "query": "does nerd gummy clusters have pork",
               "clicks": 0,
-              "impressions": 2,
+              "impressions": 1,
               "ctr": 0.0,
-              "position": 59.0
+              "position": 66.0
             },
             {
               "query": "does nerd gummy clusters have pork gelatin",
@@ -3416,32 +3393,46 @@
               "position": 35.0
             },
             {
+              "query": "does nerds gummy clusters have gelatin",
+              "clicks": 0,
+              "impressions": 1,
+              "ctr": 0.0,
+              "position": 1.0
+            },
+            {
               "query": "does nerds gummy clusters have pork gelatin",
               "clicks": 0,
-              "impressions": 2,
+              "impressions": 1,
               "ctr": 0.0,
-              "position": 36.0
+              "position": 34.0
             },
             {
               "query": "does nerds have gelatin",
               "clicks": 0,
               "impressions": 1,
               "ctr": 0.0,
-              "position": 2.0
+              "position": 7.0
             },
             {
               "query": "does nerds have pork gelatin",
               "clicks": 0,
-              "impressions": 1,
+              "impressions": 2,
               "ctr": 0.0,
-              "position": 2.0
+              "position": 6.0
             },
             {
               "query": "does nerds rope have gelatin",
               "clicks": 0,
-              "impressions": 3,
+              "impressions": 2,
               "ctr": 0.0,
-              "position": 7.67
+              "position": 8.5
+            },
+            {
+              "query": "gummy clusters",
+              "clicks": 0,
+              "impressions": 1,
+              "ctr": 0.0,
+              "position": 2.0
             },
             {
               "query": "gummy clusters lawsuit",
@@ -3458,14 +3449,14 @@
               "position": 3.0
             },
             {
-              "query": "halal nerds rope",
+              "query": "is gummy clusters halal",
               "clicks": 0,
               "impressions": 1,
               "ctr": 0.0,
-              "position": 3.0
+              "position": 2.0
             },
             {
-              "query": "is gummy clusters halal",
+              "query": "is nerds clusters halal",
               "clicks": 0,
               "impressions": 1,
               "ctr": 0.0,
@@ -3497,48 +3488,41 @@
         },
         "in_post_sitemap": false,
         "gsc": {
-          "clicks": 35,
-          "impressions": 539,
-          "ctr": 6.49,
+          "clicks": 32,
+          "impressions": 504,
+          "ctr": 6.35,
           "position": 4.16,
           "top_queries": [
             {
               "query": "nilla wafers",
-              "clicks": 16,
-              "impressions": 172,
-              "ctr": 9.3,
-              "position": 3.38
+              "clicks": 14,
+              "impressions": 171,
+              "ctr": 8.19,
+              "position": 3.17
             },
             {
               "query": "nilla wafers australia",
-              "clicks": 7,
-              "impressions": 51,
-              "ctr": 13.73,
-              "position": 3.06
-            },
-            {
-              "query": "nilla wafer australia",
-              "clicks": 2,
-              "impressions": 5,
-              "ctr": 40.0,
-              "position": 3.4
+              "clicks": 6,
+              "impressions": 40,
+              "ctr": 15.0,
+              "position": 2.92
             },
             {
               "query": "nila wafers",
+              "clicks": 2,
+              "impressions": 20,
+              "ctr": 10.0,
+              "position": 2.95
+            },
+            {
+              "query": "nilla wafer australia",
               "clicks": 1,
-              "impressions": 17,
-              "ctr": 5.88,
-              "position": 2.82
+              "impressions": 4,
+              "ctr": 25.0,
+              "position": 2.75
             },
             {
               "query": "nilla wafers substitute canada",
-              "clicks": 1,
-              "impressions": 2,
-              "ctr": 50.0,
-              "position": 3.0
-            },
-            {
-              "query": "nilla wagers",
               "clicks": 1,
               "impressions": 1,
               "ctr": 100.0,
@@ -3552,18 +3536,18 @@
               "position": 1.0
             },
             {
-              "query": "vanilla wafers australia",
+              "query": "vanilla wafer cookies australia",
               "clicks": 1,
-              "impressions": 5,
-              "ctr": 20.0,
-              "position": 2.6
+              "impressions": 2,
+              "ctr": 50.0,
+              "position": 3.0
             },
             {
               "query": "american vanilla wafers",
               "clicks": 0,
-              "impressions": 2,
+              "impressions": 3,
               "ctr": 0.0,
-              "position": 5.0
+              "position": 4.67
             },
             {
               "query": "american wafers",
@@ -3575,51 +3559,37 @@
             {
               "query": "australian wafers",
               "clicks": 0,
-              "impressions": 1,
-              "ctr": 0.0,
-              "position": 6.0
-            },
-            {
-              "query": "bourbon vanilla sugar",
-              "clicks": 0,
-              "impressions": 1,
-              "ctr": 0.0,
-              "position": 3.0
-            },
-            {
-              "query": "does australia have it",
-              "clicks": 0,
-              "impressions": 1,
-              "ctr": 0.0,
-              "position": 5.0
-            },
-            {
-              "query": "hawaiian sweet rolls australia",
-              "clicks": 0,
-              "impressions": 1,
-              "ctr": 0.0,
-              "position": 3.0
-            },
-            {
-              "query": "lunchables",
-              "clicks": 0,
-              "impressions": 1,
-              "ctr": 0.0,
-              "position": 5.0
-            },
-            {
-              "query": "nabisco nilla wafers",
-              "clicks": 0,
-              "impressions": 1,
+              "impressions": 2,
               "ctr": 0.0,
               "position": 8.0
             },
             {
-              "query": "nila biscuit",
+              "query": "biscoff australia",
+              "clicks": 0,
+              "impressions": 1,
+              "ctr": 0.0,
+              "position": 5.0
+            },
+            {
+              "query": "hawaiian rolls",
+              "clicks": 0,
+              "impressions": 2,
+              "ctr": 0.0,
+              "position": 3.0
+            },
+            {
+              "query": "hawaiian rolls woolworths",
               "clicks": 0,
               "impressions": 1,
               "ctr": 0.0,
               "position": 2.0
+            },
+            {
+              "query": "nabisco nilla wafers",
+              "clicks": 0,
+              "impressions": 2,
+              "ctr": 0.0,
+              "position": 5.0
             },
             {
               "query": "nila biscuits",
@@ -3631,16 +3601,16 @@
             {
               "query": "nila wafer",
               "clicks": 0,
-              "impressions": 7,
+              "impressions": 6,
               "ctr": 0.0,
-              "position": 8.0
+              "position": 9.0
             },
             {
               "query": "nilla",
               "clicks": 0,
-              "impressions": 22,
+              "impressions": 19,
               "ctr": 0.0,
-              "position": 4.14
+              "position": 4.53
             },
             {
               "query": "nilla biscuit",
@@ -3652,75 +3622,82 @@
             {
               "query": "nilla biscuits",
               "clicks": 0,
-              "impressions": 4,
-              "ctr": 0.0,
-              "position": 5.5
-            },
-            {
-              "query": "nilla vanilla wafers",
-              "clicks": 0,
               "impressions": 2,
               "ctr": 0.0,
-              "position": 6.0
+              "position": 7.0
             },
             {
               "query": "nilla wafer",
               "clicks": 0,
-              "impressions": 14,
+              "impressions": 15,
               "ctr": 0.0,
-              "position": 8.0
+              "position": 8.73
             },
             {
-              "query": "nilla wafer substitute",
+              "query": "nilla wafer alternative",
               "clicks": 0,
               "impressions": 2,
               "ctr": 0.0,
-              "position": 6.0
+              "position": 9.5
             },
             {
-              "query": "nilla wafer substitute australia",
-              "clicks": 0,
-              "impressions": 1,
-              "ctr": 0.0,
-              "position": 5.0
-            },
-            {
-              "query": "nilla wafers coles",
+              "query": "nilla wafer substitute",
               "clicks": 0,
               "impressions": 1,
               "ctr": 0.0,
               "position": 2.0
             },
             {
-              "query": "nilla wafers nz",
+              "query": "nilla wafer substitute australia",
               "clicks": 0,
               "impressions": 2,
+              "ctr": 0.0,
+              "position": 3.5
+            },
+            {
+              "query": "nilla wafers alternative",
+              "clicks": 0,
+              "impressions": 1,
+              "ctr": 0.0,
+              "position": 6.0
+            },
+            {
+              "query": "nilla wafers nz",
+              "clicks": 0,
+              "impressions": 1,
               "ctr": 0.0,
               "position": 1.0
             },
             {
+              "query": "nilla wafers official website",
+              "clicks": 0,
+              "impressions": 1,
+              "ctr": 0.0,
+              "position": 8.0
+            },
+            {
               "query": "nilla wafers substitute",
               "clicks": 0,
-              "impressions": 13,
+              "impressions": 9,
               "ctr": 0.0,
-              "position": 6.23
+              "position": 7.56
             },
             {
               "query": "nilla wafers substitute australia",
               "clicks": 0,
-              "impressions": 11,
+              "impressions": 9,
               "ctr": 0.0,
-              "position": 4.64
+              "position": 4.56
             },
             {
               "query": "nilla wafers uk",
               "clicks": 0,
-              "impressions": 3,
+              "impressions": 4,
               "ctr": 0.0,
-              "position": 3.0
+              "position": 2.75
             },
             {
-              "query": "nilla wafers woolworths",
+              "query": "nilla wavers",
               "clicks": 0,
               "impressions": 1,
               "ctr": 0.0,
@@ -3736,37 +3713,37 @@
             {
               "query": "nilla.wafers",
               "clicks": 0,
-              "impressions": 2,
+              "impressions": 1,
               "ctr": 0.0,
               "position": 2.0
             },
             {
-              "query": "nillas",
+              "query": "premium crackers",
               "clicks": 0,
               "impressions": 1,
               "ctr": 0.0,
-              "position": 5.0
+              "position": 3.0
+            },
+            {
+              "query": "substitute for nilla wafers",
+              "clicks": 0,
+              "impressions": 2,
+              "ctr": 0.0,
+              "position": 4.5
+            },
+            {
+              "query": "uncrustables australia",
+              "clicks": 0,
+              "impressions": 1,
+              "ctr": 0.0,
+              "position": 3.0
             },
             {
               "query": "vanilla wafer biscuits",
               "clicks": 0,
-              "impressions": 2,
-              "ctr": 0.0,
-              "position": 10.0
-            },
-            {
-              "query": "vanilla wafer cookies",
-              "clicks": 0,
-              "impressions": 1,
-              "ctr": 0.0,
-              "position": 2.0
-            },
-            {
-              "query": "vanilla wafer cookies australia",
-              "clicks": 0,
               "impressions": 3,
               "ctr": 0.0,
-              "position": 4.67
+              "position": 10.33
             },
             {
               "query": "vanilla wafer substitute",
@@ -3778,9 +3755,16 @@
             {
               "query": "vanilla wafers",
               "clicks": 0,
-              "impressions": 2,
+              "impressions": 3,
               "ctr": 0.0,
-              "position": 5.0
+              "position": 4.0
+            },
+            {
+              "query": "vanilla wafers australia",
+              "clicks": 0,
+              "impressions": 6,
+              "ctr": 0.0,
+              "position": 3.17
             },
             {
               "query": "vanilla wafers for banana pudding",
@@ -3804,18 +3788,18 @@
               "position": 3.0
             },
             {
+              "query": "vanilla waffers",
+              "clicks": 0,
+              "impressions": 1,
+              "ctr": 0.0,
+              "position": 2.0
+            },
+            {
               "query": "villa wafers",
               "clicks": 0,
               "impressions": 1,
               "ctr": 0.0,
               "position": 4.0
-            },
-            {
-              "query": "wafer biscuits australia",
-              "clicks": 0,
-              "impressions": 1,
-              "ctr": 0.0,
-              "position": 9.0
             },
             {
               "query": "wafer nilla",
@@ -3834,16 +3818,16 @@
             {
               "query": "wafers",
               "clicks": 0,
-              "impressions": 6,
+              "impressions": 3,
               "ctr": 0.0,
-              "position": 10.17
+              "position": 9.33
             },
             {
               "query": "what are nilla wafers",
               "clicks": 0,
-              "impressions": 4,
+              "impressions": 5,
               "ctr": 0.0,
-              "position": 6.0
+              "position": 8.0
             },
             {
               "query": "what are nilla wafers in australia",
@@ -3851,6 +3835,13 @@
               "impressions": 1,
               "ctr": 0.0,
               "position": 1.0
+            },
+            {
+              "query": "what does nilla wafers taste like",
+              "clicks": 0,
+              "impressions": 1,
+              "ctr": 0.0,
+              "position": 5.0
             }
           ]
         },
@@ -3881,7 +3872,7 @@
           "clicks": 0,
           "impressions": 5,
           "ctr": 0.0,
-          "position": 6.4,
+          "position": 7.4,
           "top_queries": []
         },
         "ga4": null,
@@ -3906,18 +3897,10 @@
         "in_post_sitemap": true,
         "gsc": {
           "clicks": 0,
-          "impressions": 2,
+          "impressions": 1,
           "ctr": 0.0,
-          "position": 11.0,
-          "top_queries": [
-            {
-              "query": "japanese candy australia",
-              "clicks": 0,
-              "impressions": 1,
-              "ctr": 0.0,
-              "position": 11.0
-            }
-          ]
+          "position": 45.0,
+          "top_queries": []
         },
         "ga4": null,
         "issues": []
@@ -3941,9 +3924,9 @@
         "in_post_sitemap": false,
         "gsc": {
           "clicks": 0,
-          "impressions": 10,
+          "impressions": 9,
           "ctr": 0.0,
-          "position": 8.8,
+          "position": 7.89,
           "top_queries": []
         },
         "ga4": null,
@@ -4001,23 +3984,37 @@
         "in_post_sitemap": false,
         "gsc": {
           "clicks": 2,
-          "impressions": 90,
-          "ctr": 2.22,
-          "position": 8.87,
+          "impressions": 91,
+          "ctr": 2.2,
+          "position": 9.15,
           "top_queries": [
             {
               "query": "best lollies for kids",
               "clicks": 1,
-              "impressions": 4,
-              "ctr": 25.0,
-              "position": 6.0
+              "impressions": 7,
+              "ctr": 14.29,
+              "position": 8.71
+            },
+            {
+              "query": "amazing candy",
+              "clicks": 0,
+              "impressions": 1,
+              "ctr": 0.0,
+              "position": 15.0
+            },
+            {
+              "query": "best candy",
+              "clicks": 0,
+              "impressions": 1,
+              "ctr": 0.0,
+              "position": 46.0
             },
             {
               "query": "candies for kids",
               "clicks": 0,
-              "impressions": 3,
+              "impressions": 2,
               "ctr": 0.0,
-              "position": 9.67
+              "position": 8.5
             },
             {
               "query": "candy for 4 year olds",
@@ -4029,16 +4026,9 @@
             {
               "query": "candy for kids",
               "clicks": 0,
-              "impressions": 9,
+              "impressions": 2,
               "ctr": 0.0,
-              "position": 10.44
-            },
-            {
-              "query": "good candies for kids",
-              "clicks": 0,
-              "impressions": 1,
-              "ctr": 0.0,
-              "position": 8.0
+              "position": 9.5
             },
             {
               "query": "jolly lolly kids",
@@ -4057,16 +4047,30 @@
             {
               "query": "kids lollies",
               "clicks": 0,
-              "impressions": 6,
+              "impressions": 5,
               "ctr": 0.0,
-              "position": 13.0
+              "position": 11.4
+            },
+            {
+              "query": "lollies for kids",
+              "clicks": 0,
+              "impressions": 1,
+              "ctr": 0.0,
+              "position": 12.0
             },
             {
               "query": "what are the top cheap version confectionery options for kids in australia?",
               "clicks": 0,
-              "impressions": 5,
+              "impressions": 6,
               "ctr": 0.0,
-              "position": 10.6
+              "position": 10.5
+            },
+            {
+              "query": "what candy do kids like the most",
+              "clicks": 0,
+              "impressions": 1,
+              "ctr": 0.0,
+              "position": 5.0
             }
           ]
         },
@@ -4095,51 +4099,37 @@
         "in_post_sitemap": true,
         "gsc": {
           "clicks": 0,
-          "impressions": 32,
+          "impressions": 27,
           "ctr": 0.0,
-          "position": 9.16,
+          "position": 8.81,
           "top_queries": [
             {
-              "query": "best lollies for party bags",
-              "clicks": 0,
-              "impressions": 1,
-              "ctr": 0.0,
-              "position": 6.0
-            },
-            {
-              "query": "good lollies",
-              "clicks": 0,
-              "impressions": 2,
-              "ctr": 0.0,
-              "position": 37.5
-            },
-            {
-              "query": "lollies for birthday party",
-              "clicks": 0,
-              "impressions": 4,
-              "ctr": 0.0,
-              "position": 12.0
-            },
-            {
-              "query": "lollies for lolly bags",
-              "clicks": 0,
-              "impressions": 6,
-              "ctr": 0.0,
-              "position": 3.0
-            },
-            {
-              "query": "party bag lollipops 600g x 12",
+              "query": "cheap sweets for party bags",
               "clicks": 0,
               "impressions": 1,
               "ctr": 0.0,
               "position": 9.0
             },
             {
+              "query": "lollies for birthday party",
+              "clicks": 0,
+              "impressions": 4,
+              "ctr": 0.0,
+              "position": 12.25
+            },
+            {
+              "query": "lollies for lolly bags",
+              "clicks": 0,
+              "impressions": 4,
+              "ctr": 0.0,
+              "position": 3.0
+            },
+            {
               "query": "party lollies",
               "clicks": 0,
-              "impressions": 1,
+              "impressions": 2,
               "ctr": 0.0,
-              "position": 12.0
+              "position": 21.0
             }
           ]
         },
@@ -4165,16 +4155,30 @@
         "in_post_sitemap": false,
         "gsc": {
           "clicks": 1,
-          "impressions": 48,
-          "ctr": 2.08,
-          "position": 6.92,
+          "impressions": 45,
+          "ctr": 2.22,
+          "position": 6.93,
           "top_queries": [
+            {
+              "query": "best candy",
+              "clicks": 0,
+              "impressions": 1,
+              "ctr": 0.0,
+              "position": 14.0
+            },
             {
               "query": "best candy in australia",
               "clicks": 0,
               "impressions": 1,
               "ctr": 0.0,
               "position": 15.0
+            },
+            {
+              "query": "best candy to buy",
+              "clicks": 0,
+              "impressions": 1,
+              "ctr": 0.0,
+              "position": 13.0
             },
             {
               "query": "candy best",
@@ -4195,14 +4199,14 @@
               "clicks": 0,
               "impressions": 1,
               "ctr": 0.0,
-              "position": 4.0
+              "position": 5.0
             },
             {
-              "query": "sweet movie snacks",
+              "query": "popular movie candy",
               "clicks": 0,
               "impressions": 1,
               "ctr": 0.0,
-              "position": 8.0
+              "position": 9.0
             },
             {
               "query": "what chocolate candies do people usually pick for movie nights?",
@@ -4237,11 +4241,18 @@
         },
         "in_post_sitemap": true,
         "gsc": {
-          "clicks": 1,
-          "impressions": 94,
-          "ctr": 1.06,
-          "position": 13.74,
+          "clicks": 2,
+          "impressions": 118,
+          "ctr": 1.69,
+          "position": 14.64,
           "top_queries": [
+            {
+              "query": "american twinkies",
+              "clicks": 1,
+              "impressions": 1,
+              "ctr": 100.0,
+              "position": 1.0
+            },
             {
               "query": "allens",
               "clicks": 0,
@@ -4250,25 +4261,18 @@
               "position": 2.0
             },
             {
-              "query": "amarican candy",
-              "clicks": 0,
-              "impressions": 1,
-              "ctr": 0.0,
-              "position": 54.0
-            },
-            {
-              "query": "american candies",
-              "clicks": 0,
-              "impressions": 1,
-              "ctr": 0.0,
-              "position": 70.0
-            },
-            {
               "query": "american candy",
               "clicks": 0,
-              "impressions": 6,
+              "impressions": 7,
               "ctr": 0.0,
-              "position": 54.5
+              "position": 54.86
+            },
+            {
+              "query": "american candy australia",
+              "clicks": 0,
+              "impressions": 1,
+              "ctr": 0.0,
+              "position": 46.0
             },
             {
               "query": "american candy mount gambier",
@@ -4285,18 +4289,25 @@
               "position": 61.0
             },
             {
+              "query": "american halloween candy",
+              "clicks": 0,
+              "impressions": 1,
+              "ctr": 0.0,
+              "position": 49.0
+            },
+            {
+              "query": "american lollys",
+              "clicks": 0,
+              "impressions": 1,
+              "ctr": 0.0,
+              "position": 69.0
+            },
+            {
               "query": "american sweets online",
               "clicks": 0,
               "impressions": 1,
               "ctr": 0.0,
               "position": 2.0
-            },
-            {
-              "query": "are smarties australian",
-              "clicks": 0,
-              "impressions": 1,
-              "ctr": 0.0,
-              "position": 87.0
             },
             {
               "query": "aussie convenience",
@@ -4313,11 +4324,25 @@
               "position": 1.0
             },
             {
+              "query": "candy american",
+              "clicks": 0,
+              "impressions": 1,
+              "ctr": 0.0,
+              "position": 54.0
+            },
+            {
               "query": "disney candy",
               "clicks": 0,
               "impressions": 1,
               "ctr": 0.0,
-              "position": 44.0
+              "position": 48.0
+            },
+            {
+              "query": "hershey bar",
+              "clicks": 0,
+              "impressions": 1,
+              "ctr": 0.0,
+              "position": 4.0
             },
             {
               "query": "hershey chocolate",
@@ -4325,20 +4350,6 @@
               "impressions": 1,
               "ctr": 0.0,
               "position": 5.0
-            },
-            {
-              "query": "hershey's",
-              "clicks": 0,
-              "impressions": 1,
-              "ctr": 0.0,
-              "position": 5.0
-            },
-            {
-              "query": "hershey's chocolate australia",
-              "clicks": 0,
-              "impressions": 1,
-              "ctr": 0.0,
-              "position": 1.0
             },
             {
               "query": "hersheys bar",
@@ -4355,6 +4366,13 @@
               "position": 3.0
             },
             {
+              "query": "jelly belly australia",
+              "clicks": 0,
+              "impressions": 1,
+              "ctr": 0.0,
+              "position": 37.0
+            },
+            {
               "query": "nerd jelly beans discontinued",
               "clicks": 0,
               "impressions": 1,
@@ -4369,32 +4387,11 @@
               "position": 1.0
             },
             {
-              "query": "reese's peanut butter chocolate",
+              "query": "usa candy factory",
               "clicks": 0,
               "impressions": 1,
               "ctr": 0.0,
-              "position": 13.0
-            },
-            {
-              "query": "reese's peanut butter cups",
-              "clicks": 0,
-              "impressions": 1,
-              "ctr": 0.0,
-              "position": 4.0
-            },
-            {
-              "query": "sour american candy",
-              "clicks": 0,
-              "impressions": 1,
-              "ctr": 0.0,
-              "position": 45.0
-            },
-            {
-              "query": "usa foods australia",
-              "clicks": 0,
-              "impressions": 1,
-              "ctr": 0.0,
-              "position": 3.0
+              "position": 87.0
             }
           ]
         },
@@ -4420,9 +4417,9 @@
         "in_post_sitemap": false,
         "gsc": {
           "clicks": 0,
-          "impressions": 2,
+          "impressions": 1,
           "ctr": 0.0,
-          "position": 5.5,
+          "position": 8.0,
           "top_queries": []
         },
         "ga4": null,
@@ -4450,30 +4447,65 @@
         "in_post_sitemap": false,
         "gsc": {
           "clicks": 0,
-          "impressions": 72,
+          "impressions": 89,
           "ctr": 0.0,
-          "position": 11.69,
+          "position": 13.16,
           "top_queries": [
             {
               "query": "australian halloween candy",
               "clicks": 0,
               "impressions": 2,
               "ctr": 0.0,
-              "position": 9.0
+              "position": 8.0
+            },
+            {
+              "query": "candy from halloween",
+              "clicks": 0,
+              "impressions": 1,
+              "ctr": 0.0,
+              "position": 19.0
+            },
+            {
+              "query": "candy halloween candy",
+              "clicks": 0,
+              "impressions": 1,
+              "ctr": 0.0,
+              "position": 16.0
+            },
+            {
+              "query": "chocolates for halloween",
+              "clicks": 0,
+              "impressions": 1,
+              "ctr": 0.0,
+              "position": 11.0
+            },
+            {
+              "query": "halloween candies",
+              "clicks": 0,
+              "impressions": 4,
+              "ctr": 0.0,
+              "position": 20.75
             },
             {
               "query": "halloween candy",
               "clicks": 0,
-              "impressions": 12,
+              "impressions": 16,
               "ctr": 0.0,
-              "position": 14.08
+              "position": 13.56
             },
             {
               "query": "halloween candy australia",
               "clicks": 0,
-              "impressions": 2,
+              "impressions": 5,
               "ctr": 0.0,
-              "position": 9.5
+              "position": 10.0
+            },
+            {
+              "query": "halloween candy gifts",
+              "clicks": 0,
+              "impressions": 1,
+              "ctr": 0.0,
+              "position": 13.0
             },
             {
               "query": "halloween candy trick or treat",
@@ -4485,30 +4517,44 @@
             {
               "query": "halloween chocolate",
               "clicks": 0,
-              "impressions": 3,
+              "impressions": 4,
               "ctr": 0.0,
-              "position": 25.0
+              "position": 27.5
+            },
+            {
+              "query": "halloween chocolates",
+              "clicks": 0,
+              "impressions": 1,
+              "ctr": 0.0,
+              "position": 12.0
             },
             {
               "query": "halloween confectionery",
               "clicks": 0,
-              "impressions": 5,
+              "impressions": 6,
               "ctr": 0.0,
-              "position": 17.2
+              "position": 17.33
             },
             {
               "query": "halloween lollies",
               "clicks": 0,
-              "impressions": 14,
+              "impressions": 16,
               "ctr": 0.0,
-              "position": 13.14
+              "position": 12.19
             },
             {
-              "query": "trick or treat candies",
+              "query": "halloween lollies australia",
+              "clicks": 0,
+              "impressions": 3,
+              "ctr": 0.0,
+              "position": 11.67
+            },
+            {
+              "query": "halloween skittles",
               "clicks": 0,
               "impressions": 1,
               "ctr": 0.0,
-              "position": 11.0
+              "position": 35.0
             },
             {
               "query": "trick or treat candy",
@@ -4520,9 +4566,9 @@
             {
               "query": "trick or treat lollies",
               "clicks": 0,
-              "impressions": 21,
+              "impressions": 13,
               "ctr": 0.0,
-              "position": 8.43
+              "position": 8.77
             }
           ]
         },
@@ -4550,9 +4596,9 @@
         "in_post_sitemap": false,
         "gsc": {
           "clicks": 0,
-          "impressions": 1,
+          "impressions": 0,
           "ctr": 0.0,
-          "position": 11.0,
+          "position": 0.0,
           "top_queries": []
         },
         "ga4": null,
@@ -4581,7 +4627,7 @@
           "clicks": 0,
           "impressions": 2,
           "ctr": 0.0,
-          "position": 5.5,
+          "position": 7.5,
           "top_queries": []
         },
         "ga4": null,
@@ -4637,23 +4683,16 @@
         "in_post_sitemap": false,
         "gsc": {
           "clicks": 1,
-          "impressions": 18,
-          "ctr": 5.56,
-          "position": 22.0,
+          "impressions": 11,
+          "ctr": 9.09,
+          "position": 11.18,
           "top_queries": [
             {
               "query": "buy uk confectionery online",
               "clicks": 0,
-              "impressions": 5,
-              "ctr": 0.0,
-              "position": 43.8
-            },
-            {
-              "query": "buy uk treats online",
-              "clicks": 0,
               "impressions": 1,
               "ctr": 0.0,
-              "position": 51.0
+              "position": 22.0
             }
           ]
         },
@@ -4681,9 +4720,9 @@
         "in_post_sitemap": false,
         "gsc": {
           "clicks": 0,
-          "impressions": 0,
+          "impressions": 1,
           "ctr": 0.0,
-          "position": 0.0,
+          "position": 10.0,
           "top_queries": []
         },
         "ga4": null,
@@ -4712,7 +4751,7 @@
           "clicks": 0,
           "impressions": 5,
           "ctr": 0.0,
-          "position": 8.6,
+          "position": 7.6,
           "top_queries": []
         },
         "ga4": null,
@@ -4739,9 +4778,9 @@
         "in_post_sitemap": false,
         "gsc": {
           "clicks": 0,
-          "impressions": 9,
+          "impressions": 13,
           "ctr": 0.0,
-          "position": 7.89,
+          "position": 7.69,
           "top_queries": []
         },
         "ga4": null,
@@ -4797,9 +4836,9 @@
         "in_post_sitemap": false,
         "gsc": {
           "clicks": 0,
-          "impressions": 54,
+          "impressions": 47,
           "ctr": 0.0,
-          "position": 53.48,
+          "position": 49.45,
           "top_queries": [
             {
               "query": "allergen free lollies",
@@ -4813,14 +4852,7 @@
               "clicks": 0,
               "impressions": 1,
               "ctr": 0.0,
-              "position": 62.0
-            },
-            {
-              "query": "are skittles gluten free australia",
-              "clicks": 0,
-              "impressions": 1,
-              "ctr": 0.0,
-              "position": 44.0
+              "position": 64.0
             },
             {
               "query": "chocolate for celiacs",
@@ -4844,11 +4876,18 @@
               "position": 73.0
             },
             {
+              "query": "gluten and dairy free lollies",
+              "clicks": 0,
+              "impressions": 1,
+              "ctr": 0.0,
+              "position": 11.0
+            },
+            {
               "query": "gluten free chocolate",
               "clicks": 0,
-              "impressions": 5,
+              "impressions": 2,
               "ctr": 0.0,
-              "position": 92.8
+              "position": 94.5
             },
             {
               "query": "gluten free chocolates",
@@ -4860,16 +4899,16 @@
             {
               "query": "gluten free lollies",
               "clicks": 0,
-              "impressions": 22,
+              "impressions": 19,
               "ctr": 0.0,
-              "position": 43.5
+              "position": 40.84
             },
             {
               "query": "gluten free lollies australia",
               "clicks": 0,
               "impressions": 6,
               "ctr": 0.0,
-              "position": 41.83
+              "position": 45.67
             },
             {
               "query": "gluten free smarties australia",
@@ -4877,13 +4916,6 @@
               "impressions": 1,
               "ctr": 0.0,
               "position": 29.0
-            },
-            {
-              "query": "is chocolate gluten free australia",
-              "clicks": 0,
-              "impressions": 1,
-              "ctr": 0.0,
-              "position": 58.0
             },
             {
               "query": "what chocolate is gluten free australia",
@@ -4909,9 +4941,16 @@
             {
               "query": "what lollies are gluten free",
               "clicks": 0,
+              "impressions": 2,
+              "ctr": 0.0,
+              "position": 48.5
+            },
+            {
+              "query": "what lollies are gluten free in australia",
+              "clicks": 0,
               "impressions": 1,
               "ctr": 0.0,
-              "position": 45.0
+              "position": 57.0
             },
             {
               "query": "which lollies are gluten free",
@@ -5004,10 +5043,17 @@
         "in_post_sitemap": false,
         "gsc": {
           "clicks": 0,
-          "impressions": 46,
+          "impressions": 51,
           "ctr": 0.0,
-          "position": 30.65,
+          "position": 28.86,
           "top_queries": [
+            {
+              "query": "can you get haribo in australia",
+              "clicks": 0,
+              "impressions": 1,
+              "ctr": 0.0,
+              "position": 1.0
+            },
             {
               "query": "flavors of gummy bears haribo",
               "clicks": 0,
@@ -5016,32 +5062,18 @@
               "position": 48.5
             },
             {
-              "query": "gummy bear flavors haribo",
+              "query": "haribo",
               "clicks": 0,
-              "impressions": 1,
+              "impressions": 3,
               "ctr": 0.0,
-              "position": 35.0
+              "position": 43.67
             },
             {
-              "query": "gummy bear flavours haribo",
+              "query": "haribo australia",
               "clicks": 0,
-              "impressions": 1,
+              "impressions": 2,
               "ctr": 0.0,
-              "position": 44.0
-            },
-            {
-              "query": "gummy bears haribo",
-              "clicks": 0,
-              "impressions": 1,
-              "ctr": 0.0,
-              "position": 29.0
-            },
-            {
-              "query": "gummy bears haribo flavors",
-              "clicks": 0,
-              "impressions": 1,
-              "ctr": 0.0,
-              "position": 47.0
+              "position": 22.0
             },
             {
               "query": "haribo bear gummy",
@@ -5051,39 +5083,32 @@
               "position": 29.0
             },
             {
-              "query": "haribo frogs",
+              "query": "haribo candy",
               "clicks": 0,
               "impressions": 1,
               "ctr": 0.0,
-              "position": 53.0
+              "position": 49.0
+            },
+            {
+              "query": "haribo egg gummies",
+              "clicks": 0,
+              "impressions": 2,
+              "ctr": 0.0,
+              "position": 41.0
             },
             {
               "query": "haribo gummies",
               "clicks": 0,
-              "impressions": 1,
+              "impressions": 2,
               "ctr": 0.0,
               "position": 24.0
             },
             {
-              "query": "haribo gummy bear flavors",
-              "clicks": 0,
-              "impressions": 1,
-              "ctr": 0.0,
-              "position": 46.0
-            },
-            {
-              "query": "haribo gummy bear flavours",
-              "clicks": 0,
-              "impressions": 2,
-              "ctr": 0.0,
-              "position": 50.0
-            },
-            {
               "query": "haribo gummy bears",
               "clicks": 0,
-              "impressions": 2,
+              "impressions": 3,
               "ctr": 0.0,
-              "position": 23.0
+              "position": 21.33
             },
             {
               "query": "haribo gummy bears australia",
@@ -5091,20 +5116,6 @@
               "impressions": 1,
               "ctr": 0.0,
               "position": 22.0
-            },
-            {
-              "query": "haribo gummy bears flavors",
-              "clicks": 0,
-              "impressions": 1,
-              "ctr": 0.0,
-              "position": 37.0
-            },
-            {
-              "query": "haribo gummy bears flavours",
-              "clicks": 0,
-              "impressions": 1,
-              "ctr": 0.0,
-              "position": 32.0
             },
             {
               "query": "haribo gummy candies",
@@ -5116,16 +5127,37 @@
             {
               "query": "haribo lollies",
               "clicks": 0,
-              "impressions": 10,
+              "impressions": 12,
               "ctr": 0.0,
-              "position": 45.6
+              "position": 45.83
             },
             {
               "query": "haribo peaches",
               "clicks": 0,
               "impressions": 1,
               "ctr": 0.0,
-              "position": 54.0
+              "position": 61.0
+            },
+            {
+              "query": "haribo peaches australia",
+              "clicks": 0,
+              "impressions": 1,
+              "ctr": 0.0,
+              "position": 12.0
+            },
+            {
+              "query": "haribo products",
+              "clicks": 0,
+              "impressions": 1,
+              "ctr": 0.0,
+              "position": 40.0
+            },
+            {
+              "query": "haribo store",
+              "clicks": 0,
+              "impressions": 1,
+              "ctr": 0.0,
+              "position": 2.0
             },
             {
               "query": "harribo gummy bears",
@@ -5167,16 +5199,16 @@
         "in_post_sitemap": false,
         "gsc": {
           "clicks": 3,
-          "impressions": 149,
-          "ctr": 2.01,
-          "position": 9.81,
+          "impressions": 167,
+          "ctr": 1.8,
+          "position": 9.94,
           "top_queries": [
             {
-              "query": "reese's white peanut butter cups",
+              "query": "reeses australia",
               "clicks": 1,
-              "impressions": 1,
-              "ctr": 100.0,
-              "position": 4.0
+              "impressions": 6,
+              "ctr": 16.67,
+              "position": 7.17
             },
             {
               "query": "buy reese",
@@ -5190,14 +5222,14 @@
               "clicks": 0,
               "impressions": 9,
               "ctr": 0.0,
-              "position": 7.0
+              "position": 6.44
             },
             {
               "query": "buy reese's peanut butter cups",
               "clicks": 0,
               "impressions": 1,
               "ctr": 0.0,
-              "position": 9.0
+              "position": 11.0
             },
             {
               "query": "does australia have reese's peanut butter cups",
@@ -5230,16 +5262,30 @@
             {
               "query": "reese peanut butter",
               "clicks": 0,
-              "impressions": 5,
+              "impressions": 6,
               "ctr": 0.0,
-              "position": 24.4
+              "position": 22.83
+            },
+            {
+              "query": "reese peanut butter cups",
+              "clicks": 0,
+              "impressions": 1,
+              "ctr": 0.0,
+              "position": 13.0
             },
             {
               "query": "reese's",
               "clicks": 0,
               "impressions": 2,
               "ctr": 0.0,
-              "position": 17.0
+              "position": 14.5
+            },
+            {
+              "query": "reese's australia",
+              "clicks": 0,
+              "impressions": 2,
+              "ctr": 0.0,
+              "position": 8.0
             },
             {
               "query": "reese's candy bar",
@@ -5256,11 +5302,11 @@
               "position": 23.0
             },
             {
-              "query": "reese's chocolate",
+              "query": "reese's cup",
               "clicks": 0,
-              "impressions": 1,
+              "impressions": 2,
               "ctr": 0.0,
-              "position": 33.0
+              "position": 17.5
             },
             {
               "query": "reese's near me",
@@ -5277,11 +5323,18 @@
               "position": 11.5
             },
             {
-              "query": "reese's peanut butter cups",
+              "query": "reese's peanut butter",
               "clicks": 0,
               "impressions": 1,
               "ctr": 0.0,
-              "position": 4.0
+              "position": 22.0
+            },
+            {
+              "query": "reese's peanut butter cups",
+              "clicks": 0,
+              "impressions": 2,
+              "ctr": 0.0,
+              "position": 12.0
             },
             {
               "query": "reese's peanut butter cups australia",
@@ -5296,13 +5349,6 @@
               "impressions": 3,
               "ctr": 0.0,
               "position": 7.33
-            },
-            {
-              "query": "reese's pieces australia",
-              "clicks": 0,
-              "impressions": 1,
-              "ctr": 0.0,
-              "position": 20.0
             },
             {
               "query": "reese's price",
@@ -5321,23 +5367,16 @@
             {
               "query": "reeses",
               "clicks": 0,
-              "impressions": 10,
+              "impressions": 12,
               "ctr": 0.0,
-              "position": 20.1
+              "position": 14.08
             },
             {
-              "query": "reeses australia",
-              "clicks": 0,
-              "impressions": 4,
-              "ctr": 0.0,
-              "position": 7.0
-            },
-            {
-              "query": "reeses bar",
+              "query": "reeses cups",
               "clicks": 0,
               "impressions": 1,
               "ctr": 0.0,
-              "position": 4.0
+              "position": 24.0
             },
             {
               "query": "reeses pieces australia",
@@ -5349,9 +5388,9 @@
             {
               "query": "reeses supplier",
               "clicks": 0,
-              "impressions": 10,
+              "impressions": 9,
               "ctr": 0.0,
-              "position": 12.5
+              "position": 12.56
             }
           ]
         },
@@ -5379,9 +5418,9 @@
         "in_post_sitemap": false,
         "gsc": {
           "clicks": 0,
-          "impressions": 21,
+          "impressions": 18,
           "ctr": 0.0,
-          "position": 10.1,
+          "position": 9.94,
           "top_queries": []
         },
         "ga4": null,
@@ -5408,9 +5447,9 @@
         "in_post_sitemap": false,
         "gsc": {
           "clicks": 0,
-          "impressions": 0,
+          "impressions": 2,
           "ctr": 0.0,
-          "position": 0.0,
+          "position": 9.5,
           "top_queries": []
         },
         "ga4": null,
@@ -5465,52 +5504,66 @@
         },
         "in_post_sitemap": false,
         "gsc": {
-          "clicks": 1,
-          "impressions": 227,
-          "ctr": 0.44,
-          "position": 8.37,
+          "clicks": 2,
+          "impressions": 228,
+          "ctr": 0.88,
+          "position": 8.35,
           "top_queries": [
             {
               "query": "best lollies for party bags",
               "clicks": 0,
-              "impressions": 3,
+              "impressions": 2,
               "ctr": 0.0,
-              "position": 9.33
+              "position": 13.0
+            },
+            {
+              "query": "ideas for lolly bags",
+              "clicks": 0,
+              "impressions": 1,
+              "ctr": 0.0,
+              "position": 7.0
             },
             {
               "query": "kids lolly bag ideas",
               "clicks": 0,
-              "impressions": 5,
+              "impressions": 3,
               "ctr": 0.0,
-              "position": 7.6
+              "position": 7.33
+            },
+            {
+              "query": "kids lolly bags",
+              "clicks": 0,
+              "impressions": 1,
+              "ctr": 0.0,
+              "position": 9.0
             },
             {
               "query": "lollie bag ideas",
               "clicks": 0,
-              "impressions": 3,
+              "impressions": 2,
               "ctr": 0.0,
-              "position": 8.0
+              "position": 8.5
             },
             {
               "query": "lolly bag fillers",
               "clicks": 0,
-              "impressions": 12,
+              "impressions": 14,
               "ctr": 0.0,
-              "position": 10.92
+              "position": 12.0
             },
             {
               "query": "lolly bag ideas",
               "clicks": 0,
-              "impressions": 49,
+              "impressions": 47,
               "ctr": 0.0,
-              "position": 9.29
+              "position": 8.85
             },
             {
               "query": "lolly bags ideas",
               "clicks": 0,
-              "impressions": 2,
+              "impressions": 3,
               "ctr": 0.0,
-              "position": 13.5
+              "position": 8.33
             },
             {
               "query": "lolly party bags",
@@ -5522,9 +5575,9 @@
             {
               "query": "what to put in lolly bags",
               "clicks": 0,
-              "impressions": 3,
+              "impressions": 4,
               "ctr": 0.0,
-              "position": 9.33
+              "position": 7.5
             }
           ]
         },
@@ -5552,30 +5605,23 @@
         "in_post_sitemap": false,
         "gsc": {
           "clicks": 0,
-          "impressions": 84,
+          "impressions": 104,
           "ctr": 0.0,
-          "position": 17.89,
+          "position": 13.99,
           "top_queries": [
-            {
-              "query": "almond m&ms",
-              "clicks": 0,
-              "impressions": 1,
-              "ctr": 0.0,
-              "position": 52.0
-            },
             {
               "query": "are m&ms gluten free australia",
               "clicks": 0,
-              "impressions": 4,
+              "impressions": 2,
               "ctr": 0.0,
-              "position": 9.0
+              "position": 8.0
             },
             {
               "query": "are m&ms gluten free in australia",
               "clicks": 0,
-              "impressions": 7,
+              "impressions": 12,
               "ctr": 0.0,
-              "position": 10.14
+              "position": 10.33
             },
             {
               "query": "australia",
@@ -5585,13 +5631,6 @@
               "position": 7.0
             },
             {
-              "query": "buy chocolate m&m s online",
-              "clicks": 0,
-              "impressions": 1,
-              "ctr": 0.0,
-              "position": 17.0
-            },
-            {
               "query": "buy m&m s online",
               "clicks": 0,
               "impressions": 2,
@@ -5599,18 +5638,11 @@
               "position": 11.0
             },
             {
-              "query": "chocolate m&m",
-              "clicks": 0,
-              "impressions": 1,
-              "ctr": 0.0,
-              "position": 50.0
-            },
-            {
               "query": "custom m&amp;ms australia",
               "clicks": 0,
-              "impressions": 3,
+              "impressions": 4,
               "ctr": 0.0,
-              "position": 43.33
+              "position": 43.25
             },
             {
               "query": "m and ms",
@@ -5629,9 +5661,9 @@
             {
               "query": "m&m australia",
               "clicks": 0,
-              "impressions": 1,
+              "impressions": 2,
               "ctr": 0.0,
-              "position": 22.0
+              "position": 24.0
             },
             {
               "query": "m&m australia wide",
@@ -5643,51 +5675,51 @@
             {
               "query": "m&m flavours australia",
               "clicks": 0,
-              "impressions": 2,
+              "impressions": 1,
               "ctr": 0.0,
               "position": 13.0
             },
             {
-              "query": "m&m store",
-              "clicks": 0,
-              "impressions": 1,
-              "ctr": 0.0,
-              "position": 41.0
-            },
-            {
               "query": "m&m's australia",
               "clicks": 0,
-              "impressions": 1,
+              "impressions": 2,
               "ctr": 0.0,
-              "position": 39.0
-            },
-            {
-              "query": "m&m's store",
-              "clicks": 0,
-              "impressions": 1,
-              "ctr": 0.0,
-              "position": 38.0
+              "position": 41.5
             },
             {
               "query": "m&ms",
               "clicks": 0,
-              "impressions": 6,
+              "impressions": 4,
               "ctr": 0.0,
-              "position": 47.5
+              "position": 46.0
             },
             {
-              "query": "m&ms flavors",
+              "query": "m&ms australia",
+              "clicks": 0,
+              "impressions": 2,
+              "ctr": 0.0,
+              "position": 9.5
+            },
+            {
+              "query": "mint m&ms",
               "clicks": 0,
               "impressions": 1,
               "ctr": 0.0,
-              "position": 37.0
+              "position": 20.0
             },
             {
-              "query": "m&ms store",
+              "query": "mnms",
+              "clicks": 0,
+              "impressions": 18,
+              "ctr": 0.0,
+              "position": 3.72
+            },
+            {
+              "query": "where can i buy m",
               "clicks": 0,
               "impressions": 1,
               "ctr": 0.0,
-              "position": 26.0
+              "position": 8.0
             },
             {
               "query": "where can i buy mint m&ms",
@@ -5722,10 +5754,18 @@
         "in_post_sitemap": false,
         "gsc": {
           "clicks": 0,
-          "impressions": 1,
+          "impressions": 11,
           "ctr": 0.0,
-          "position": 33.0,
-          "top_queries": []
+          "position": 12.09,
+          "top_queries": [
+            {
+              "query": "where can i buy kitkats",
+              "clicks": 0,
+              "impressions": 1,
+              "ctr": 0.0,
+              "position": 25.0
+            }
+          ]
         },
         "ga4": null,
         "issues": [
@@ -5751,16 +5791,16 @@
         "in_post_sitemap": false,
         "gsc": {
           "clicks": 0,
-          "impressions": 9,
+          "impressions": 16,
           "ctr": 0.0,
-          "position": 11.0,
+          "position": 9.81,
           "top_queries": [
             {
               "query": "buy cadbury favourites online",
               "clicks": 0,
               "impressions": 5,
               "ctr": 0.0,
-              "position": 12.0
+              "position": 11.4
             }
           ]
         },
@@ -5788,9 +5828,9 @@
         "in_post_sitemap": false,
         "gsc": {
           "clicks": 0,
-          "impressions": 3,
+          "impressions": 6,
           "ctr": 0.0,
-          "position": 8.67,
+          "position": 5.67,
           "top_queries": []
         },
         "ga4": null,
@@ -5817,18 +5857,10 @@
         "in_post_sitemap": false,
         "gsc": {
           "clicks": 0,
-          "impressions": 10,
+          "impressions": 8,
           "ctr": 0.0,
-          "position": 9.9,
-          "top_queries": [
-            {
-              "query": "buy sour patch kids australia",
-              "clicks": 0,
-              "impressions": 1,
-              "ctr": 0.0,
-              "position": 5.0
-            }
-          ]
+          "position": 10.62,
+          "top_queries": []
         },
         "ga4": null,
         "issues": [
@@ -5854,9 +5886,9 @@
         "in_post_sitemap": false,
         "gsc": {
           "clicks": 0,
-          "impressions": 8,
+          "impressions": 20,
           "ctr": 0.0,
-          "position": 8.38,
+          "position": 6.7,
           "top_queries": []
         },
         "ga4": null,
@@ -5883,16 +5915,16 @@
         "in_post_sitemap": false,
         "gsc": {
           "clicks": 0,
-          "impressions": 3,
+          "impressions": 8,
           "ctr": 0.0,
-          "position": 12.67,
+          "position": 12.25,
           "top_queries": [
             {
               "query": "buy ferroro rocher online",
               "clicks": 0,
               "impressions": 1,
               "ctr": 0.0,
-              "position": 17.0
+              "position": 23.0
             }
           ]
         },
@@ -5920,9 +5952,9 @@
         "in_post_sitemap": false,
         "gsc": {
           "clicks": 0,
-          "impressions": 2,
+          "impressions": 4,
           "ctr": 0.0,
-          "position": 2.5,
+          "position": 6.75,
           "top_queries": []
         },
         "ga4": null,
@@ -5949,9 +5981,9 @@
         "in_post_sitemap": false,
         "gsc": {
           "clicks": 0,
-          "impressions": 2,
+          "impressions": 3,
           "ctr": 0.0,
-          "position": 8.0,
+          "position": 6.67,
           "top_queries": []
         },
         "ga4": null,
@@ -5978,9 +6010,9 @@
         "in_post_sitemap": false,
         "gsc": {
           "clicks": 0,
-          "impressions": 16,
+          "impressions": 12,
           "ctr": 0.0,
-          "position": 10.38,
+          "position": 13.17,
           "top_queries": []
         },
         "ga4": null,
@@ -6007,9 +6039,9 @@
         "in_post_sitemap": false,
         "gsc": {
           "clicks": 0,
-          "impressions": 12,
+          "impressions": 14,
           "ctr": 0.0,
-          "position": 9.25,
+          "position": 8.29,
           "top_queries": []
         },
         "ga4": null,
@@ -6035,10 +6067,10 @@
         },
         "in_post_sitemap": false,
         "gsc": {
-          "clicks": 1,
-          "impressions": 47,
-          "ctr": 2.13,
-          "position": 6.81,
+          "clicks": 0,
+          "impressions": 48,
+          "ctr": 0.0,
+          "position": 7.77,
           "top_queries": []
         },
         "ga4": null,
@@ -6065,9 +6097,9 @@
         "in_post_sitemap": false,
         "gsc": {
           "clicks": 0,
-          "impressions": 1,
+          "impressions": 2,
           "ctr": 0.0,
-          "position": 13.0,
+          "position": 11.5,
           "top_queries": []
         },
         "ga4": null,
@@ -6094,9 +6126,9 @@
         "in_post_sitemap": false,
         "gsc": {
           "clicks": 0,
-          "impressions": 6,
+          "impressions": 5,
           "ctr": 0.0,
-          "position": 9.17,
+          "position": 11.0,
           "top_queries": []
         },
         "ga4": null,
@@ -6123,9 +6155,9 @@
         "in_post_sitemap": false,
         "gsc": {
           "clicks": 0,
-          "impressions": 11,
+          "impressions": 13,
           "ctr": 0.0,
-          "position": 9.45,
+          "position": 9.38,
           "top_queries": []
         },
         "ga4": null,
@@ -6151,10 +6183,10 @@
         },
         "in_post_sitemap": false,
         "gsc": {
-          "clicks": 2,
-          "impressions": 27,
-          "ctr": 7.41,
-          "position": 15.04,
+          "clicks": 1,
+          "impressions": 15,
+          "ctr": 6.67,
+          "position": 9.13,
           "top_queries": []
         },
         "ga4": null,
@@ -6181,9 +6213,9 @@
         "in_post_sitemap": false,
         "gsc": {
           "clicks": 0,
-          "impressions": 8,
+          "impressions": 12,
           "ctr": 0.0,
-          "position": 18.38,
+          "position": 16.08,
           "top_queries": []
         },
         "ga4": null,
@@ -6210,9 +6242,9 @@
         "in_post_sitemap": false,
         "gsc": {
           "clicks": 0,
-          "impressions": 6,
+          "impressions": 3,
           "ctr": 0.0,
-          "position": 9.5,
+          "position": 10.67,
           "top_queries": []
         },
         "ga4": null,
@@ -6268,9 +6300,9 @@
         "in_post_sitemap": false,
         "gsc": {
           "clicks": 0,
-          "impressions": 5,
+          "impressions": 7,
           "ctr": 0.0,
-          "position": 9.6,
+          "position": 10.29,
           "top_queries": []
         },
         "ga4": null,
@@ -6297,10 +6329,17 @@
         "in_post_sitemap": false,
         "gsc": {
           "clicks": 1,
-          "impressions": 121,
-          "ctr": 0.83,
-          "position": 8.68,
+          "impressions": 138,
+          "ctr": 0.72,
+          "position": 8.84,
           "top_queries": [
+            {
+              "query": "australian gummies",
+              "clicks": 0,
+              "impressions": 1,
+              "ctr": 0.0,
+              "position": 17.0
+            },
             {
               "query": "australian gummy bears",
               "clicks": 0,
@@ -6311,16 +6350,9 @@
             {
               "query": "bulk gummy bears",
               "clicks": 0,
-              "impressions": 6,
+              "impressions": 5,
               "ctr": 0.0,
-              "position": 8.83
-            },
-            {
-              "query": "bulk gummy bears near me",
-              "clicks": 0,
-              "impressions": 2,
-              "ctr": 0.0,
-              "position": 9.0
+              "position": 7.8
             },
             {
               "query": "bulk gummy candy",
@@ -6330,39 +6362,39 @@
               "position": 6.8
             },
             {
-              "query": "bulk haribo",
+              "query": "bulk haribo gummy bears",
               "clicks": 0,
-              "impressions": 2,
+              "impressions": 1,
               "ctr": 0.0,
               "position": 8.0
             },
             {
-              "query": "bulk haribo gummy bears",
+              "query": "buy gummy",
               "clicks": 0,
-              "impressions": 5,
+              "impressions": 1,
               "ctr": 0.0,
-              "position": 7.2
+              "position": 9.0
             },
             {
               "query": "buy gummy bears",
               "clicks": 0,
-              "impressions": 2,
+              "impressions": 3,
               "ctr": 0.0,
-              "position": 11.5
+              "position": 10.33
+            },
+            {
+              "query": "buy haribo gummy bears",
+              "clicks": 0,
+              "impressions": 1,
+              "ctr": 0.0,
+              "position": 12.0
             },
             {
               "query": "can you get haribo in australia",
               "clicks": 0,
-              "impressions": 1,
+              "impressions": 2,
               "ctr": 0.0,
-              "position": 8.0
-            },
-            {
-              "query": "cheap gummy bears",
-              "clicks": 0,
-              "impressions": 1,
-              "ctr": 0.0,
-              "position": 11.0
+              "position": 7.0
             },
             {
               "query": "flavors of gummy bears haribo",
@@ -6372,39 +6404,53 @@
               "position": 27.0
             },
             {
-              "query": "gummy australia",
+              "query": "giant gummy bear australia",
               "clicks": 0,
               "impressions": 1,
               "ctr": 0.0,
-              "position": 12.0
+              "position": 7.0
+            },
+            {
+              "query": "gummy australia",
+              "clicks": 0,
+              "impressions": 2,
+              "ctr": 0.0,
+              "position": 13.5
             },
             {
               "query": "gummy bear australia",
               "clicks": 0,
-              "impressions": 2,
+              "impressions": 1,
               "ctr": 0.0,
-              "position": 10.5
+              "position": 10.0
+            },
+            {
+              "query": "gummy bear packets",
+              "clicks": 0,
+              "impressions": 1,
+              "ctr": 0.0,
+              "position": 10.0
             },
             {
               "query": "gummy bears australia",
               "clicks": 0,
-              "impressions": 8,
+              "impressions": 9,
               "ctr": 0.0,
-              "position": 8.88
+              "position": 8.78
             },
             {
               "query": "gummy bears bulk",
               "clicks": 0,
-              "impressions": 4,
+              "impressions": 3,
               "ctr": 0.0,
-              "position": 9.5
+              "position": 10.33
             },
             {
-              "query": "gummy bears haribo flavors",
+              "query": "gummy bears in bulk",
               "clicks": 0,
               "impressions": 1,
               "ctr": 0.0,
-              "position": 32.0
+              "position": 6.0
             },
             {
               "query": "gummy candy australia",
@@ -6421,6 +6467,13 @@
               "position": 5.0
             },
             {
+              "query": "gummy packets",
+              "clicks": 0,
+              "impressions": 1,
+              "ctr": 0.0,
+              "position": 14.0
+            },
+            {
               "query": "haribo",
               "clicks": 0,
               "impressions": 1,
@@ -6428,18 +6481,11 @@
               "position": 6.0
             },
             {
-              "query": "haribo bulk gummy bears",
+              "query": "haribo australia",
               "clicks": 0,
               "impressions": 1,
               "ctr": 0.0,
-              "position": 9.0
-            },
-            {
-              "query": "haribo gummy bear flavours",
-              "clicks": 0,
-              "impressions": 3,
-              "ctr": 0.0,
-              "position": 8.0
+              "position": 19.0
             },
             {
               "query": "haribo gummy bears australia",
@@ -6461,6 +6507,13 @@
               "impressions": 1,
               "ctr": 0.0,
               "position": 15.0
+            },
+            {
+              "query": "where to buy haribo gummy bears",
+              "clicks": 0,
+              "impressions": 1,
+              "ctr": 0.0,
+              "position": 13.0
             }
           ]
         },
@@ -6488,9 +6541,9 @@
         "in_post_sitemap": true,
         "gsc": {
           "clicks": 0,
-          "impressions": 1,
+          "impressions": 2,
           "ctr": 0.0,
-          "position": 2.0,
+          "position": 8.0,
           "top_queries": []
         },
         "ga4": null,
@@ -6515,9 +6568,9 @@
         "in_post_sitemap": false,
         "gsc": {
           "clicks": 0,
-          "impressions": 107,
+          "impressions": 360,
           "ctr": 0.0,
-          "position": 23.07,
+          "position": 11.35,
           "top_queries": [
             {
               "query": "250g chocolate bar",
@@ -6541,13 +6594,6 @@
               "position": 21.0
             },
             {
-              "query": "australia chocolate",
-              "clicks": 0,
-              "impressions": 1,
-              "ctr": 0.0,
-              "position": 73.0
-            },
-            {
               "query": "australia chocolates",
               "clicks": 0,
               "impressions": 1,
@@ -6566,14 +6612,14 @@
               "clicks": 0,
               "impressions": 3,
               "ctr": 0.0,
-              "position": 36.33
+              "position": 33.0
             },
             {
-              "query": "bar of chocolate",
+              "query": "bar chocolate",
               "clicks": 0,
-              "impressions": 1,
+              "impressions": 2,
               "ctr": 0.0,
-              "position": 78.0
+              "position": 38.0
             },
             {
               "query": "bar sweets",
@@ -6592,9 +6638,9 @@
             {
               "query": "best chocolate bars",
               "clicks": 0,
-              "impressions": 2,
+              "impressions": 4,
               "ctr": 0.0,
-              "position": 15.0
+              "position": 14.0
             },
             {
               "query": "best chocolate bars australia",
@@ -6611,18 +6657,11 @@
               "position": 13.0
             },
             {
-              "query": "buzz bar chocolate",
+              "query": "buzz chocolate bar",
               "clicks": 0,
               "impressions": 1,
               "ctr": 0.0,
-              "position": 34.0
-            },
-            {
-              "query": "buzz chocolate bar",
-              "clicks": 0,
-              "impressions": 2,
-              "ctr": 0.0,
-              "position": 9.5
+              "position": 10.0
             },
             {
               "query": "cadbury chocolate bars australia",
@@ -6639,32 +6678,18 @@
               "position": 60.0
             },
             {
-              "query": "chocolate",
-              "clicks": 0,
-              "impressions": 1,
-              "ctr": 0.0,
-              "position": 12.0
-            },
-            {
               "query": "chocolate bar",
               "clicks": 0,
               "impressions": 6,
               "ctr": 0.0,
-              "position": 24.17
+              "position": 19.5
             },
             {
               "query": "chocolate bar australia",
               "clicks": 0,
-              "impressions": 1,
-              "ctr": 0.0,
-              "position": 21.0
-            },
-            {
-              "query": "chocolate bar kinds",
-              "clicks": 0,
               "impressions": 2,
               "ctr": 0.0,
-              "position": 38.0
+              "position": 47.0
             },
             {
               "query": "chocolate bar names",
@@ -6674,25 +6699,18 @@
               "position": 56.0
             },
             {
-              "query": "chocolate bar types",
-              "clicks": 0,
-              "impressions": 2,
-              "ctr": 0.0,
-              "position": 48.0
-            },
-            {
               "query": "chocolate bars",
               "clicks": 0,
-              "impressions": 3,
+              "impressions": 6,
               "ctr": 0.0,
-              "position": 38.0
+              "position": 23.5
             },
             {
               "query": "chocolate bars australia",
               "clicks": 0,
-              "impressions": 14,
+              "impressions": 16,
               "ctr": 0.0,
-              "position": 34.07
+              "position": 27.0
             },
             {
               "query": "chocolate bars best",
@@ -6706,7 +6724,7 @@
               "clicks": 0,
               "impressions": 1,
               "ctr": 0.0,
-              "position": 45.0
+              "position": 48.0
             },
             {
               "query": "chocolate bars online",
@@ -6716,11 +6734,11 @@
               "position": 8.0
             },
             {
-              "query": "chocolate bars types",
+              "query": "chocolate products",
               "clicks": 0,
               "impressions": 1,
               "ctr": 0.0,
-              "position": 49.0
+              "position": 37.0
             },
             {
               "query": "chocolates for tourists australia",
@@ -6746,23 +6764,93 @@
             {
               "query": "flavoured chocolate bars",
               "clicks": 0,
-              "impressions": 1,
+              "impressions": 3,
               "ctr": 0.0,
-              "position": 39.0
+              "position": 20.67
             },
             {
-              "query": "good chocolates",
+              "query": "i live in australia. can you show me some good chocolate options?",
+              "clicks": 0,
+              "impressions": 21,
+              "ctr": 0.0,
+              "position": 9.0
+            },
+            {
+              "query": "i live in australia. find me chocolate options from brands with top reputations.",
+              "clicks": 0,
+              "impressions": 3,
+              "ctr": 0.0,
+              "position": 10.0
+            },
+            {
+              "query": "i live in australia. find me chocolate options that are great value for the price.",
+              "clicks": 0,
+              "impressions": 52,
+              "ctr": 0.0,
+              "position": 7.13
+            },
+            {
+              "query": "i live in australia. find me chocolate options that have great availability in most stores.",
+              "clicks": 0,
+              "impressions": 50,
+              "ctr": 0.0,
+              "position": 5.06
+            },
+            {
+              "query": "i live in australia. find me chocolate options with top-notch packaging.",
+              "clicks": 0,
+              "impressions": 4,
+              "ctr": 0.0,
+              "position": 9.75
+            },
+            {
+              "query": "i live in australia. find me chocolate options with top-quality texture.",
+              "clicks": 0,
+              "impressions": 35,
+              "ctr": 0.0,
+              "position": 7.37
+            },
+            {
+              "query": "i live in australia. find me some chocolate options with top quality.",
+              "clicks": 0,
+              "impressions": 10,
+              "ctr": 0.0,
+              "position": 7.7
+            },
+            {
+              "query": "i live in australia. find me some chocolate options with top-tier taste.",
+              "clicks": 0,
+              "impressions": 36,
+              "ctr": 0.0,
+              "position": 8.64
+            },
+            {
+              "query": "i live in australia. give me a list of chocolates that have the best prices or value.",
               "clicks": 0,
               "impressions": 1,
               "ctr": 0.0,
-              "position": 44.0
+              "position": 12.0
             },
             {
-              "query": "kinds of chocolate bars",
+              "query": "i live in australia. i want chocolate that\u2019s reasonably priced but still good quality.",
               "clicks": 0,
-              "impressions": 1,
+              "impressions": 19,
               "ctr": 0.0,
-              "position": 41.0
+              "position": 9.32
+            },
+            {
+              "query": "i live in australia. i want chocolate that\u2019s widely available and easy to buy locally.",
+              "clicks": 0,
+              "impressions": 7,
+              "ctr": 0.0,
+              "position": 5.14
+            },
+            {
+              "query": "i live in australia. which chocolate offers the best price?",
+              "clicks": 0,
+              "impressions": 2,
+              "ctr": 0.0,
+              "position": 9.0
             },
             {
               "query": "most popular chocolate bar in australia",
@@ -6791,6 +6879,20 @@
               "impressions": 1,
               "ctr": 0.0,
               "position": 12.0
+            },
+            {
+              "query": "top 10 chocolate bars in australia",
+              "clicks": 0,
+              "impressions": 1,
+              "ctr": 0.0,
+              "position": 15.0
+            },
+            {
+              "query": "types of chocolate candy bars",
+              "clicks": 0,
+              "impressions": 1,
+              "ctr": 0.0,
+              "position": 47.0
             }
           ]
         },
@@ -6818,9 +6920,9 @@
         "in_post_sitemap": false,
         "gsc": {
           "clicks": 0,
-          "impressions": 2,
+          "impressions": 1,
           "ctr": 0.0,
-          "position": 6.0,
+          "position": 1.0,
           "top_queries": []
         },
         "ga4": null,
@@ -6876,16 +6978,16 @@
         "in_post_sitemap": false,
         "gsc": {
           "clicks": 0,
-          "impressions": 37,
+          "impressions": 32,
           "ctr": 0.0,
-          "position": 7.32,
+          "position": 6.94,
           "top_queries": [
             {
               "query": "australia candy box",
               "clicks": 0,
-              "impressions": 2,
+              "impressions": 3,
               "ctr": 0.0,
-              "position": 8.0
+              "position": 7.67
             },
             {
               "query": "candy box australia",
@@ -6899,7 +7001,14 @@
               "clicks": 0,
               "impressions": 1,
               "ctr": 0.0,
-              "position": 8.0
+              "position": 7.0
+            },
+            {
+              "query": "candy club",
+              "clicks": 0,
+              "impressions": 1,
+              "ctr": 0.0,
+              "position": 4.0
             },
             {
               "query": "candy subscription box",
@@ -6909,11 +7018,11 @@
               "position": 4.0
             },
             {
-              "query": "chocolate subscription box australia",
+              "query": "dessert subscription box",
               "clicks": 0,
               "impressions": 1,
               "ctr": 0.0,
-              "position": 31.0
+              "position": 6.0
             },
             {
               "query": "sweet treat subscription box",
@@ -6948,9 +7057,9 @@
         "in_post_sitemap": false,
         "gsc": {
           "clicks": 0,
-          "impressions": 1,
+          "impressions": 2,
           "ctr": 0.0,
-          "position": 6.0,
+          "position": 6.5,
           "top_queries": []
         },
         "ga4": null,
@@ -6977,30 +7086,23 @@
         "in_post_sitemap": false,
         "gsc": {
           "clicks": 0,
-          "impressions": 55,
+          "impressions": 85,
           "ctr": 0.0,
-          "position": 40.44,
+          "position": 26.93,
           "top_queries": [
             {
-              "query": "aussie chocolate brands",
+              "query": "australia chocolate brand",
               "clicks": 0,
               "impressions": 1,
               "ctr": 0.0,
-              "position": 36.0
+              "position": 16.0
             },
             {
-              "query": "australia chocolate brands",
-              "clicks": 0,
-              "impressions": 1,
-              "ctr": 0.0,
-              "position": 41.0
-            },
-            {
-              "query": "australian choc",
+              "query": "australian brand chocolate",
               "clicks": 0,
               "impressions": 2,
               "ctr": 0.0,
-              "position": 90.0
+              "position": 30.5
             },
             {
               "query": "australian chocola",
@@ -7012,37 +7114,44 @@
             {
               "query": "australian chocolate",
               "clicks": 0,
-              "impressions": 6,
+              "impressions": 5,
               "ctr": 0.0,
-              "position": 60.5
+              "position": 53.4
             },
             {
               "query": "australian chocolate brand",
               "clicks": 0,
-              "impressions": 1,
+              "impressions": 3,
               "ctr": 0.0,
               "position": 15.0
             },
             {
               "query": "australian chocolate brands",
               "clicks": 0,
-              "impressions": 2,
+              "impressions": 4,
               "ctr": 0.0,
-              "position": 30.5
+              "position": 37.75
+            },
+            {
+              "query": "australian chocolate companies",
+              "clicks": 0,
+              "impressions": 1,
+              "ctr": 0.0,
+              "position": 16.0
             },
             {
               "query": "australian chocolates",
               "clicks": 0,
-              "impressions": 2,
+              "impressions": 1,
               "ctr": 0.0,
-              "position": 57.5
+              "position": 54.0
             },
             {
               "query": "australian made chocolate",
               "clicks": 0,
-              "impressions": 1,
+              "impressions": 2,
               "ctr": 0.0,
-              "position": 35.0
+              "position": 38.0
             },
             {
               "query": "australian made chocolate brands",
@@ -7054,30 +7163,23 @@
             {
               "query": "australian made chocolates",
               "clicks": 0,
-              "impressions": 3,
+              "impressions": 4,
               "ctr": 0.0,
-              "position": 26.67
-            },
-            {
-              "query": "best australian chocolate",
-              "clicks": 0,
-              "impressions": 1,
-              "ctr": 0.0,
-              "position": 40.0
-            },
-            {
-              "query": "best australian chocolates",
-              "clicks": 0,
-              "impressions": 1,
-              "ctr": 0.0,
-              "position": 39.0
+              "position": 23.75
             },
             {
               "query": "best chocolate australia",
               "clicks": 0,
-              "impressions": 2,
+              "impressions": 1,
               "ctr": 0.0,
-              "position": 59.0
+              "position": 54.0
+            },
+            {
+              "query": "best chocolate brand in australia",
+              "clicks": 0,
+              "impressions": 1,
+              "ctr": 0.0,
+              "position": 38.0
             },
             {
               "query": "best chocolate brands in australia",
@@ -7108,25 +7210,39 @@
               "position": 55.0
             },
             {
-              "query": "chocolate aussie",
+              "query": "chocolate australia brand",
               "clicks": 0,
               "impressions": 1,
               "ctr": 0.0,
-              "position": 63.0
+              "position": 48.0
+            },
+            {
+              "query": "chocolate brand australia",
+              "clicks": 0,
+              "impressions": 2,
+              "ctr": 0.0,
+              "position": 15.0
+            },
+            {
+              "query": "chocolate brand in australia",
+              "clicks": 0,
+              "impressions": 1,
+              "ctr": 0.0,
+              "position": 17.0
             },
             {
               "query": "chocolate brands australia",
               "clicks": 0,
               "impressions": 1,
               "ctr": 0.0,
-              "position": 53.0
+              "position": 45.0
             },
             {
               "query": "chocolate brands in australia",
               "clicks": 0,
-              "impressions": 6,
+              "impressions": 7,
               "ctr": 0.0,
-              "position": 43.33
+              "position": 41.43
             },
             {
               "query": "chocolate souvenirs from australia",
@@ -7143,16 +7259,30 @@
               "position": 18.0
             },
             {
-              "query": "famous chocolate in australia",
+              "query": "i live in australia. i want a chocolate that\u2019s made with great ingredients.",
+              "clicks": 0,
+              "impressions": 22,
+              "ctr": 0.0,
+              "position": 9.45
+            },
+            {
+              "query": "i live in australia. i want chocolate that\u2019s widely available and easy to buy locally.",
               "clicks": 0,
               "impressions": 1,
               "ctr": 0.0,
-              "position": 69.0
+              "position": 4.0
+            },
+            {
+              "query": "made in australia chocolate",
+              "clicks": 0,
+              "impressions": 1,
+              "ctr": 0.0,
+              "position": 16.0
             },
             {
               "query": "top popular confectionery brands selection in australia",
               "clicks": 0,
-              "impressions": 2,
+              "impressions": 1,
               "ctr": 0.0,
               "position": 1.0
             }
@@ -7182,30 +7312,23 @@
         "in_post_sitemap": false,
         "gsc": {
           "clicks": 0,
-          "impressions": 29,
+          "impressions": 9,
           "ctr": 0.0,
-          "position": 18.62,
+          "position": 57.33,
           "top_queries": [
             {
-              "query": "allens lollies",
+              "query": "australia sweet",
               "clicks": 0,
               "impressions": 1,
               "ctr": 0.0,
-              "position": 4.0
+              "position": 83.0
             },
             {
               "query": "australian candy",
               "clicks": 0,
-              "impressions": 4,
+              "impressions": 2,
               "ctr": 0.0,
-              "position": 40.0
-            },
-            {
-              "query": "australian candy brands",
-              "clicks": 0,
-              "impressions": 1,
-              "ctr": 0.0,
-              "position": 10.0
+              "position": 53.5
             },
             {
               "query": "australian made sweets",
@@ -7222,46 +7345,18 @@
               "position": 81.0
             },
             {
-              "query": "jolly rancher",
+              "query": "candy in australia",
               "clicks": 0,
               "impressions": 1,
               "ctr": 0.0,
-              "position": 2.0
+              "position": 85.0
             },
             {
-              "query": "junior mints",
+              "query": "sweet australia",
               "clicks": 0,
               "impressions": 1,
               "ctr": 0.0,
-              "position": 2.0
-            },
-            {
-              "query": "popular candies",
-              "clicks": 0,
-              "impressions": 1,
-              "ctr": 0.0,
-              "position": 78.0
-            },
-            {
-              "query": "sweets world",
-              "clicks": 0,
-              "impressions": 1,
-              "ctr": 0.0,
-              "position": 1.0
-            },
-            {
-              "query": "top popular confectionery brands selection in australia",
-              "clicks": 0,
-              "impressions": 1,
-              "ctr": 0.0,
-              "position": 1.0
-            },
-            {
-              "query": "tutti frutti",
-              "clicks": 0,
-              "impressions": 1,
-              "ctr": 0.0,
-              "position": 4.0
+              "position": 86.0
             },
             {
               "query": "united sweets",
@@ -7269,20 +7364,6 @@
               "impressions": 1,
               "ctr": 0.0,
               "position": 4.0
-            },
-            {
-              "query": "what are the most popular confectionery options to buy in retail stores in australia?",
-              "clicks": 0,
-              "impressions": 1,
-              "ctr": 0.0,
-              "position": 7.0
-            },
-            {
-              "query": "what are the top cheap version confectionery options for kids in australia?",
-              "clicks": 0,
-              "impressions": 1,
-              "ctr": 0.0,
-              "position": 10.0
             }
           ]
         },
@@ -7310,9 +7391,9 @@
         "in_post_sitemap": false,
         "gsc": {
           "clicks": 0,
-          "impressions": 19,
+          "impressions": 20,
           "ctr": 0.0,
-          "position": 9.05,
+          "position": 9.7,
           "top_queries": []
         },
         "ga4": null,
@@ -7339,9 +7420,9 @@
         "in_post_sitemap": false,
         "gsc": {
           "clicks": 0,
-          "impressions": 1,
+          "impressions": 2,
           "ctr": 0.0,
-          "position": 49.0,
+          "position": 45.5,
           "top_queries": []
         },
         "ga4": null,
@@ -7370,14 +7451,14 @@
           "clicks": 0,
           "impressions": 5,
           "ctr": 0.0,
-          "position": 9.4,
+          "position": 16.2,
           "top_queries": [
             {
               "query": "stocking fillers australia",
               "clicks": 0,
               "impressions": 3,
               "ctr": 0.0,
-              "position": 8.67
+              "position": 20.0
             }
           ]
         },
@@ -7407,7 +7488,7 @@
           "clicks": 0,
           "impressions": 3,
           "ctr": 0.0,
-          "position": 33.67,
+          "position": 33.33,
           "top_queries": []
         },
         "ga4": null,
@@ -7434,9 +7515,9 @@
         "in_post_sitemap": false,
         "gsc": {
           "clicks": 0,
-          "impressions": 6,
+          "impressions": 2,
           "ctr": 0.0,
-          "position": 7.17,
+          "position": 4.5,
           "top_queries": []
         },
         "ga4": null,
@@ -7492,9 +7573,9 @@
         "in_post_sitemap": false,
         "gsc": {
           "clicks": 0,
-          "impressions": 34,
+          "impressions": 44,
           "ctr": 0.0,
-          "position": 9.12,
+          "position": 8.98,
           "top_queries": [
             {
               "query": "bulk candy",
@@ -7520,9 +7601,9 @@
             {
               "query": "wholesale candy",
               "clicks": 0,
-              "impressions": 1,
+              "impressions": 2,
               "ctr": 0.0,
-              "position": 16.0
+              "position": 14.5
             },
             {
               "query": "wholesale candy australia",
@@ -7586,9 +7667,9 @@
         "in_post_sitemap": false,
         "gsc": {
           "clicks": 0,
-          "impressions": 1,
+          "impressions": 2,
           "ctr": 0.0,
-          "position": 9.0,
+          "position": 8.0,
           "top_queries": []
         },
         "ga4": null,
@@ -7614,10 +7695,10 @@
         },
         "in_post_sitemap": true,
         "gsc": {
-          "clicks": 2,
-          "impressions": 166,
-          "ctr": 1.2,
-          "position": 9.83,
+          "clicks": 3,
+          "impressions": 187,
+          "ctr": 1.6,
+          "position": 9.71,
           "top_queries": [
             {
               "query": "allens lollies",
@@ -7625,6 +7706,34 @@
               "impressions": 1,
               "ctr": 0.0,
               "position": 5.0
+            },
+            {
+              "query": "aussie lollies",
+              "clicks": 0,
+              "impressions": 1,
+              "ctr": 0.0,
+              "position": 3.0
+            },
+            {
+              "query": "australian candies",
+              "clicks": 0,
+              "impressions": 2,
+              "ctr": 0.0,
+              "position": 4.0
+            },
+            {
+              "query": "australian candy",
+              "clicks": 0,
+              "impressions": 1,
+              "ctr": 0.0,
+              "position": 6.0
+            },
+            {
+              "query": "australian kids",
+              "clicks": 0,
+              "impressions": 1,
+              "ctr": 0.0,
+              "position": 3.0
             },
             {
               "query": "best aussie lollies",
@@ -7641,11 +7750,18 @@
               "position": 13.0
             },
             {
+              "query": "best lollies",
+              "clicks": 0,
+              "impressions": 1,
+              "ctr": 0.0,
+              "position": 11.0
+            },
+            {
               "query": "best lollies australia",
               "clicks": 0,
               "impressions": 1,
               "ctr": 0.0,
-              "position": 12.0
+              "position": 10.0
             },
             {
               "query": "best lollies in australia",
@@ -7657,37 +7773,23 @@
             {
               "query": "candy australia",
               "clicks": 0,
-              "impressions": 1,
+              "impressions": 3,
               "ctr": 0.0,
-              "position": 66.0
-            },
-            {
-              "query": "candy brands",
-              "clicks": 0,
-              "impressions": 1,
-              "ctr": 0.0,
-              "position": 1.0
+              "position": 68.0
             },
             {
               "query": "candy in australia",
               "clicks": 0,
-              "impressions": 1,
+              "impressions": 2,
               "ctr": 0.0,
-              "position": 3.0
+              "position": 35.5
             },
             {
-              "query": "candy popular",
+              "query": "candy shop near me",
               "clicks": 0,
               "impressions": 1,
               "ctr": 0.0,
-              "position": 34.0
-            },
-            {
-              "query": "candy woolworths",
-              "clicks": 0,
-              "impressions": 1,
-              "ctr": 0.0,
-              "position": 7.0
+              "position": 5.0
             },
             {
               "query": "famous lollies",
@@ -7697,11 +7799,32 @@
               "position": 17.0
             },
             {
+              "query": "fantales lollies",
+              "clicks": 0,
+              "impressions": 1,
+              "ctr": 0.0,
+              "position": 1.0
+            },
+            {
+              "query": "iconic australian lollies",
+              "clicks": 0,
+              "impressions": 1,
+              "ctr": 0.0,
+              "position": 28.0
+            },
+            {
               "query": "list of australian lollies",
               "clicks": 0,
               "impressions": 1,
               "ctr": 0.0,
               "position": 77.0
+            },
+            {
+              "query": "lollies",
+              "clicks": 0,
+              "impressions": 2,
+              "ctr": 0.0,
+              "position": 6.0
             },
             {
               "query": "lollies from australia",
@@ -7732,25 +7855,25 @@
               "position": 6.5
             },
             {
-              "query": "most popular candy in australia",
+              "query": "most popular lollies",
               "clicks": 0,
               "impressions": 1,
               "ctr": 0.0,
-              "position": 6.0
+              "position": 9.0
             },
             {
               "query": "most popular lollies in australia",
               "clicks": 0,
-              "impressions": 12,
+              "impressions": 13,
               "ctr": 0.0,
-              "position": 6.42
+              "position": 6.54
             },
             {
               "query": "most popular mondelez brand aus",
               "clicks": 0,
-              "impressions": 4,
+              "impressions": 3,
               "ctr": 0.0,
-              "position": 18.5
+              "position": 18.0
             },
             {
               "query": "my chewy milk candy australia",
@@ -7762,33 +7885,26 @@
             {
               "query": "popular australian candy",
               "clicks": 0,
-              "impressions": 1,
+              "impressions": 2,
               "ctr": 0.0,
-              "position": 25.0
-            },
-            {
-              "query": "popular candies",
-              "clicks": 0,
-              "impressions": 1,
-              "ctr": 0.0,
-              "position": 49.0
-            },
-            {
-              "query": "popular candy",
-              "clicks": 0,
-              "impressions": 1,
-              "ctr": 0.0,
-              "position": 36.0
+              "position": 25.5
             },
             {
               "query": "popular lollies",
               "clicks": 0,
               "impressions": 1,
               "ctr": 0.0,
-              "position": 24.0
+              "position": 60.0
             },
             {
               "query": "rocky road",
+              "clicks": 0,
+              "impressions": 1,
+              "ctr": 0.0,
+              "position": 3.0
+            },
+            {
+              "query": "sweets in australia",
               "clicks": 0,
               "impressions": 1,
               "ctr": 0.0,
@@ -7800,13 +7916,6 @@
               "impressions": 1,
               "ctr": 0.0,
               "position": 3.0
-            },
-            {
-              "query": "top 10 lollies",
-              "clicks": 0,
-              "impressions": 1,
-              "ctr": 0.0,
-              "position": 11.0
             },
             {
               "query": "top 10 most popular candy",
@@ -7821,13 +7930,6 @@
               "impressions": 1,
               "ctr": 0.0,
               "position": 9.0
-            },
-            {
-              "query": "what are australian lollies",
-              "clicks": 0,
-              "impressions": 1,
-              "ctr": 0.0,
-              "position": 66.0
             },
             {
               "query": "what are lollies in australia",
@@ -7846,9 +7948,9 @@
             {
               "query": "what are the most popular confectionery options to buy in retail stores in australia?",
               "clicks": 0,
-              "impressions": 1,
+              "impressions": 2,
               "ctr": 0.0,
-              "position": 9.0
+              "position": 5.0
             },
             {
               "query": "what is the most popular candy",
@@ -7860,9 +7962,9 @@
             {
               "query": "what is the most popular candy in australia",
               "clicks": 0,
-              "impressions": 4,
+              "impressions": 5,
               "ctr": 0.0,
-              "position": 5.0
+              "position": 6.0
             },
             {
               "query": "what is the most popular chocolate in australia",
@@ -7876,14 +7978,28 @@
               "clicks": 0,
               "impressions": 1,
               "ctr": 0.0,
-              "position": 9.0
+              "position": 11.0
             },
             {
-              "query": "what is the most sour lolly in the world",
+              "query": "what is the most popular lolly in the world",
               "clicks": 0,
               "impressions": 1,
               "ctr": 0.0,
-              "position": 2.0
+              "position": 1.0
+            },
+            {
+              "query": "what is the most popular sweet",
+              "clicks": 0,
+              "impressions": 2,
+              "ctr": 0.0,
+              "position": 1.0
+            },
+            {
+              "query": "which brand is best?",
+              "clicks": 0,
+              "impressions": 1,
+              "ctr": 0.0,
+              "position": 1.0
             }
           ]
         },
@@ -7909,9 +8025,9 @@
         "in_post_sitemap": false,
         "gsc": {
           "clicks": 0,
-          "impressions": 4,
+          "impressions": 2,
           "ctr": 0.0,
-          "position": 8.5,
+          "position": 8.0,
           "top_queries": []
         },
         "ga4": null,
@@ -7938,9 +8054,9 @@
         "in_post_sitemap": false,
         "gsc": {
           "clicks": 0,
-          "impressions": 8,
+          "impressions": 10,
           "ctr": 0.0,
-          "position": 10.38,
+          "position": 10.9,
           "top_queries": []
         },
         "ga4": null,
@@ -7996,9 +8112,9 @@
         "in_post_sitemap": false,
         "gsc": {
           "clicks": 0,
-          "impressions": 2,
+          "impressions": 0,
           "ctr": 0.0,
-          "position": 9.5,
+          "position": 0.0,
           "top_queries": []
         },
         "ga4": null,
@@ -8025,9 +8141,9 @@
         "in_post_sitemap": false,
         "gsc": {
           "clicks": 0,
-          "impressions": 9,
+          "impressions": 6,
           "ctr": 0.0,
-          "position": 8.0,
+          "position": 9.17,
           "top_queries": [
             {
               "query": "bulk fathers day candy",
@@ -8062,9 +8178,9 @@
         "in_post_sitemap": false,
         "gsc": {
           "clicks": 0,
-          "impressions": 1,
+          "impressions": 0,
           "ctr": 0.0,
-          "position": 12.0,
+          "position": 0.0,
           "top_queries": []
         },
         "ga4": null,
@@ -8093,7 +8209,7 @@
           "clicks": 0,
           "impressions": 8,
           "ctr": 0.0,
-          "position": 8.12,
+          "position": 7.0,
           "top_queries": []
         },
         "ga4": null,
@@ -8118,9 +8234,9 @@
         "in_post_sitemap": false,
         "gsc": {
           "clicks": 0,
-          "impressions": 7,
+          "impressions": 3,
           "ctr": 0.0,
-          "position": 9.43,
+          "position": 4.67,
           "top_queries": []
         },
         "ga4": null,
@@ -8147,9 +8263,9 @@
         "in_post_sitemap": false,
         "gsc": {
           "clicks": 0,
-          "impressions": 4,
+          "impressions": 5,
           "ctr": 0.0,
-          "position": 12.25,
+          "position": 12.0,
           "top_queries": []
         },
         "ga4": null,
@@ -8176,9 +8292,9 @@
         "in_post_sitemap": false,
         "gsc": {
           "clicks": 1,
-          "impressions": 63,
-          "ctr": 1.59,
-          "position": 17.0,
+          "impressions": 67,
+          "ctr": 1.49,
+          "position": 14.54,
           "top_queries": [
             {
               "query": "belgian chocolate australia",
@@ -8190,16 +8306,16 @@
             {
               "query": "buy european confectionery online",
               "clicks": 0,
-              "impressions": 4,
+              "impressions": 1,
               "ctr": 0.0,
-              "position": 11.25
+              "position": 11.0
             },
             {
               "query": "chocolate europe",
               "clicks": 0,
-              "impressions": 7,
+              "impressions": 6,
               "ctr": 0.0,
-              "position": 34.43
+              "position": 34.33
             },
             {
               "query": "chocolate from europe",
@@ -8223,46 +8339,39 @@
               "position": 23.0
             },
             {
-              "query": "europe bars",
-              "clicks": 0,
-              "impressions": 1,
-              "ctr": 0.0,
-              "position": 66.0
-            },
-            {
               "query": "europe chocolate",
               "clicks": 0,
-              "impressions": 5,
+              "impressions": 4,
               "ctr": 0.0,
-              "position": 11.6
+              "position": 11.5
             },
             {
               "query": "european chocolate",
               "clicks": 0,
-              "impressions": 12,
+              "impressions": 14,
               "ctr": 0.0,
-              "position": 12.58
+              "position": 11.86
             },
             {
               "query": "european confectionery",
               "clicks": 0,
-              "impressions": 7,
+              "impressions": 6,
               "ctr": 0.0,
-              "position": 22.57
+              "position": 21.5
             },
             {
-              "query": "swiss choclate",
+              "query": "real belgian chocolate australia",
               "clicks": 0,
               "impressions": 1,
               "ctr": 0.0,
-              "position": 53.0
+              "position": 35.0
             },
             {
               "query": "swiss chocolate australia",
               "clicks": 0,
-              "impressions": 1,
+              "impressions": 4,
               "ctr": 0.0,
-              "position": 10.0
+              "position": 6.0
             }
           ]
         },
@@ -8290,9 +8399,9 @@
         "in_post_sitemap": false,
         "gsc": {
           "clicks": 0,
-          "impressions": 20,
+          "impressions": 22,
           "ctr": 0.0,
-          "position": 8.45,
+          "position": 8.86,
           "top_queries": []
         },
         "ga4": null,
@@ -8319,9 +8428,9 @@
         "in_post_sitemap": false,
         "gsc": {
           "clicks": 1,
-          "impressions": 5,
-          "ctr": 20.0,
-          "position": 7.6,
+          "impressions": 6,
+          "ctr": 16.67,
+          "position": 7.33,
           "top_queries": []
         },
         "ga4": null,
@@ -8348,9 +8457,9 @@
         "in_post_sitemap": false,
         "gsc": {
           "clicks": 0,
-          "impressions": 7,
+          "impressions": 5,
           "ctr": 0.0,
-          "position": 4.57,
+          "position": 5.0,
           "top_queries": []
         },
         "ga4": null,
@@ -8377,9 +8486,9 @@
         "in_post_sitemap": false,
         "gsc": {
           "clicks": 0,
-          "impressions": 1,
+          "impressions": 2,
           "ctr": 0.0,
-          "position": 10.0,
+          "position": 8.5,
           "top_queries": []
         },
         "ga4": null,
@@ -8406,9 +8515,9 @@
         "in_post_sitemap": false,
         "gsc": {
           "clicks": 0,
-          "impressions": 40,
+          "impressions": 37,
           "ctr": 0.0,
-          "position": 15.72,
+          "position": 19.19,
           "top_queries": [
             {
               "query": "candy alternatives",
@@ -8441,16 +8550,16 @@
             {
               "query": "healthy confectionery",
               "clicks": 0,
-              "impressions": 3,
+              "impressions": 8,
               "ctr": 0.0,
-              "position": 19.0
+              "position": 28.12
             },
             {
               "query": "healthy confectionery products",
               "clicks": 0,
               "impressions": 12,
               "ctr": 0.0,
-              "position": 20.92
+              "position": 20.25
             },
             {
               "query": "healthy lollies",
@@ -8458,13 +8567,6 @@
               "impressions": 1,
               "ctr": 0.0,
               "position": 38.0
-            },
-            {
-              "query": "low sugar candy options",
-              "clicks": 0,
-              "impressions": 1,
-              "ctr": 0.0,
-              "position": 10.0
             }
           ]
         },
@@ -8492,9 +8594,9 @@
         "in_post_sitemap": false,
         "gsc": {
           "clicks": 0,
-          "impressions": 1,
+          "impressions": 2,
           "ctr": 0.0,
-          "position": 10.0,
+          "position": 8.5,
           "top_queries": []
         },
         "ga4": null,

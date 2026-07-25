@@ -1,13 +1,13 @@
 {
-  "generated_at": "2026-07-23T00:30:23+00:00",
+  "generated_at": "2026-07-25T00:30:26+00:00",
   "days": 7,
   "decision": "hold",
-  "next_action": "Waiting for GSC impression signal on the 60 live pilot pages. Re-run pilot_gate after 2026-07-24 to check again.",
+  "next_action": "Waiting for GSC impression signal on the 62 live pilot pages. Re-run pilot_gate after 2026-07-26 to check again.",
   "dashboard_report_source": "live",
   "summary": {
-    "published_count": 60,
+    "published_count": 62,
     "approved_count": 0,
-    "reviewed_count": 60,
+    "reviewed_count": 62,
     "qa_pass_rate": 1.0,
     "review_window_days": 14,
     "total_impressions": 0,
@@ -23,9 +23,9 @@
     "ga4_pages_with_data": 0,
     "ga4_pages_high_bounce": 0,
     "ga4_pages_low_duration": 0,
-    "blocking_issue_count": 53,
-    "dashboard_issue_count": 58,
-    "warning_issue_count": 5
+    "blocking_issue_count": 54,
+    "dashboard_issue_count": 60,
+    "warning_issue_count": 6
   },
   "checks": {
     "published_batch_within_expected_range": true,
@@ -47,14 +47,14 @@
     "no GSC click/query-fit signal yet on the published pilot batch"
   ],
   "technical_blockers": {
-    "blocking_issue_count": 53,
-    "dashboard_issue_count": 58,
-    "warning_issue_count": 5,
+    "blocking_issue_count": 54,
+    "dashboard_issue_count": 60,
+    "warning_issue_count": 6,
     "blocking_issue_breakdown": {
-      "missing_from_post_sitemap": 53
+      "missing_from_post_sitemap": 54
     },
     "warning_issue_breakdown": {
-      "missing_from_post_sitemap": 5
+      "missing_from_post_sitemap": 6
     },
     "blocking_pages": [
       {
@@ -745,9 +745,7 @@
           }
         ],
         "warnings": []
-      }
-    ],
-    "warning_pages": [
+      },
       {
         "slug": "best-easter-chocolates-australia-2026",
         "page_type": "landing_page",
@@ -756,10 +754,13 @@
         "issues": [
           {
             "issue": "missing_from_post_sitemap",
-            "note": "fresh publish (6.0d old); allow sitemap propagation"
+            "note": "not in post sitemap after grace window"
           }
-        ]
-      },
+        ],
+        "warnings": []
+      }
+    ],
+    "warning_pages": [
       {
         "slug": "candy-making-classes-australia-2026",
         "page_type": "landing_page",
@@ -768,7 +769,7 @@
         "issues": [
           {
             "issue": "missing_from_post_sitemap",
-            "note": "fresh publish (4.0d old); allow sitemap propagation"
+            "note": "fresh publish (6.0d old); allow sitemap propagation"
           }
         ]
       },
@@ -780,7 +781,7 @@
         "issues": [
           {
             "issue": "missing_from_post_sitemap",
-            "note": "fresh publish (3.0d old); allow sitemap propagation"
+            "note": "fresh publish (5.0d old); allow sitemap propagation"
           }
         ]
       },
@@ -792,7 +793,7 @@
         "issues": [
           {
             "issue": "missing_from_post_sitemap",
-            "note": "fresh publish (2.0d old); allow sitemap propagation"
+            "note": "fresh publish (4.0d old); allow sitemap propagation"
           }
         ]
       },
@@ -801,6 +802,30 @@
         "page_type": "landing_page",
         "post_link": "https://newcastlehub.info/top-10-sour-lollies-australia-2026/",
         "published_at": "2026-07-22T01:00:52",
+        "issues": [
+          {
+            "issue": "missing_from_post_sitemap",
+            "note": "fresh publish (3.0d old); allow sitemap propagation"
+          }
+        ]
+      },
+      {
+        "slug": "sour-lollies-christmas-gift-guide-2026",
+        "page_type": "landing_page",
+        "post_link": "https://newcastlehub.info/sour-lollies-christmas-gift-guide-2026/",
+        "published_at": "2026-07-23T01:00:32",
+        "issues": [
+          {
+            "issue": "missing_from_post_sitemap",
+            "note": "fresh publish (2.0d old); allow sitemap propagation"
+          }
+        ]
+      },
+      {
+        "slug": "australian-sour-lollies-local-vs-international-2026",
+        "page_type": "landing_page",
+        "post_link": "https://newcastlehub.info/australian-sour-lollies-local-vs-international-2026/",
+        "published_at": "2026-07-24T01:00:37",
         "issues": [
           {
             "issue": "missing_from_post_sitemap",
@@ -832,10 +857,10 @@
   },
   "approved_queue": [],
   "dashboard_report": {
-    "generated_at": "2026-07-23T00:30:23+00:00",
+    "generated_at": "2026-07-25T00:30:26+00:00",
     "days": 7,
-    "published_count": 60,
-    "blocking_issue_count": 58,
+    "published_count": 62,
+    "blocking_issue_count": 60,
     "gsc_enabled": false,
     "gsc_error": "USE_GSC_DATA=false",
     "ga4_enabled": false,
@@ -2208,6 +2233,52 @@
           "title": "Top 10 Sour Lollies to Try in Australia 2026 - Newcastle Hub Info",
           "meta_description": "Top 10 Sour Lollies to Try in Australia 2026. Compare stock options, buying factors, and the best next steps for best sour lollies 2026 in Australia.",
           "canonical": "https://newcastlehub.info/top-10-sour-lollies-australia-2026/",
+          "h1_count": 1,
+          "noindex": false
+        },
+        "in_post_sitemap": false,
+        "gsc": null,
+        "ga4": null,
+        "issues": [
+          "missing_from_post_sitemap"
+        ]
+      },
+      {
+        "slug": "sour-lollies-christmas-gift-guide-2026",
+        "keyword": "sour lollies Christmas gifts",
+        "page_type": "landing_page",
+        "post_link": "https://newcastlehub.info/sour-lollies-christmas-gift-guide-2026/",
+        "published_at": "2026-07-23T01:00:32",
+        "wp_modified": "2026-07-23T01:00:32",
+        "health": {
+          "status_code": 200,
+          "final_url": "https://newcastlehub.info/sour-lollies-christmas-gift-guide-2026/",
+          "title": "Sour Lollies for Christmas: The Ultimate 2026 Gift Guide - Newcastle Hub Info",
+          "meta_description": "Sour Lollies for Christmas: The Ultimate 2026 Gift Guide. Compare stock options, buying factors, and the best next steps for sour lollies Christmas...",
+          "canonical": "https://newcastlehub.info/sour-lollies-christmas-gift-guide-2026/",
+          "h1_count": 1,
+          "noindex": false
+        },
+        "in_post_sitemap": false,
+        "gsc": null,
+        "ga4": null,
+        "issues": [
+          "missing_from_post_sitemap"
+        ]
+      },
+      {
+        "slug": "australian-sour-lollies-local-vs-international-2026",
+        "keyword": "Australian sour lollies brands",
+        "page_type": "landing_page",
+        "post_link": "https://newcastlehub.info/australian-sour-lollies-local-vs-international-2026/",
+        "published_at": "2026-07-24T01:00:37",
+        "wp_modified": "2026-07-24T01:00:37",
+        "health": {
+          "status_code": 200,
+          "final_url": "https://newcastlehub.info/australian-sour-lollies-local-vs-international-2026/",
+          "title": "Australian Sour Lollies: Comparing Local and International Brands 2026 - Newcastle Hub Info",
+          "meta_description": "Australian Sour Lollies: Comparing Local and International Brands 2026. Compare stock options, buying factors, and the best next steps for Australian...",
+          "canonical": "https://newcastlehub.info/australian-sour-lollies-local-vs-international-2026/",
           "h1_count": 1,
           "noindex": false
         },

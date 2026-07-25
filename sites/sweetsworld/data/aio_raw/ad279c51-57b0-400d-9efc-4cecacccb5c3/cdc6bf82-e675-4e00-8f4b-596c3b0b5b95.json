@@ -1,0 +1,482 @@
+{
+  "id": "resp_038630e118cfee23006a5b73f87fe08198980ca6d94b60dcdb",
+  "object": "response",
+  "created_at": 1784378360,
+  "status": "completed",
+  "background": false,
+  "billing": {
+    "payer": "developer"
+  },
+  "completed_at": 1784378382,
+  "error": null,
+  "frequency_penalty": 0.0,
+  "incomplete_details": null,
+  "instructions": null,
+  "max_output_tokens": null,
+  "max_tool_calls": null,
+  "model": "gpt-5-mini-2025-08-07",
+  "moderation": null,
+  "output": [
+    {
+      "id": "rs_038630e118cfee23006a5b73f8eb7c819891286058c37b0092",
+      "type": "reasoning",
+      "content": [],
+      "encrypted_content": "gAAAAABqW3QOfrNS40_AdjXz9LeInr6_LLzunWlPMEWyuzelayNWG0vRrJoux_-VZeEi-r_sdySCIYB5PmOKMC9QnTs4VfbWs0Ke7gldz7_OMOhky03GEau5aYm_1W_8R630fcyFjzZnGLGNkA3Ln5C5CIRH_OWJztloban9jces24bqMgVqQh-o03FbEEZxucSbal9H0uUWCgwpH9Ctnnm2Y9wT3PQ9yMMjBBd5bzw39vvWetuBkimRZ3ziqrjfr6lWelwgQNaUdRYzzIMWq-iz4-azGGvINLGzbMyjN_HlmdXS-lHtPWJ3bdL7NU3HmxjBHBi6sv9OTiYJHnFC-IwOMuHc5o8ubX0zSR-h_qJHZu7nHda-jVEp6CcDoMPnLP5crMU9lB51YYTQ9pWGFS-N5-F7rySmkxmM3ydFDFRwJ0zj34Vml30rs0avAKx3mUmxhZ85HLuy3r8Ce1aJOVVEHiEDbnqUcdKPFK-fbgCQB_m7_6T914Dqv_aTbNDNsiXIy9flF3KIeBao1PDcT5evksvlT04CqNiiu247r9lISHBmqRrn90EFUTWEOfCvjBEtvX0WhZEiItVKEN973X9VqSG-NvqOb-1tOlvFSHdv8xF66U8_7h8ars6znu-DfvBiGE9tJyw9TI-7NiTotlXegTR9xoprCrqh_G15SZCy9CwoLqcIEYXLEsqRYhPy-4zDyX4MCT5QFRwljdvz0JPiilbH6A0kBXXvMhBOS9TnHn66uuJuKyG13SjTjFCoiI6jgNyvr3nq-UfW8ocS-jMFJH0hdqFp4uTc7bJuHe-PSHGthBsuTbsyJ7Z0-Vs8GhMvBsYnTB5LBg_9EGTo6YB38LOw2BurzTTnNZlsRsFsovGgv-Y8RyaVU5G-hdupD_EiF0-z_1ruiNlIv5jsefL7ngve_LzxZxJ6T9c1naD8kDIW8PtyPsDEP5_L7Z30yN1dwZvyinugqIVznt1OItZJ-w9jYUMYjGBS6Lb3eHqcZoHJACx5QYHXUqCbDSZd7h_0_ZWP3UnUNjkWAA5ERTxW6OCLoDbv-Rqcuy9Yhn5jHV9mjELrYiNYT1PebRfOT6OcMnsldct7rKNKfoNUc26EV6r08CX71ZzwxNaVFnKxNrM3-X05y9Q0mobxu_Ettn94gNaa1-xKotrP3ZSb7zOXHmPAsIdnuG89BEZvKe2u0JCXdI5qxzE71liQRZ_fWGcCQIEJOB1LcLSz9Y4QKcyrDVxRxAkhYAn3Mjb2lK8eVNqwp0DCuv2QjMqhMGIHXjpBF4u4ArpNuSqL5o-CyqnxRVjXNC8tsYDSSiyXXuAsxOopdbqRvNaGmbgT3WeIE1rOaKYOCI2ecGHc_6LwebomE9x7HZaa56HlYopHeskTMqMxo6XXMPhs0RacGRu9fbbhjlK5_tif6kBB9LjDQAFmdFY_vZuzowkqOm0yLDBnKBwzKDhwWrgwZ55znUL3inA6h7FCSdnsGbwk4PiEBVaT6GM3Gi5wR2T-7Ki9tl62OmuqloiaQhbKdO15Lmi5-wj1I2oeqcluV-Texpwt1LlzPbP6nTaphvWZkOF5n6jS52s2Fc2co7aEgrLfK0qc0kcuAr0seiZpA9i-mUyIrpJLZkUCZcqQxUYd8MgbwxPVKgxubJdTrPG0sgF7cvCwmnKkuG0nm-FdOQF4CXRZ6jYn8zfp8xndRaRJyV4ckkYK5Lp1tqKdOgS9Xt2pLH_xyrxwE2scSfxzrYzWTD4s2y3vlMb4s2a0atEHD7xlaEXNB7bC5GsUiJpWq2cBeZhpxNYksusNeXxne3loA-PmgHEHBHZw_-QHgcONaW5_MzEziIe7CzxWaV3pnvZk6SISRrVbXxt6WlfGIr2Qnu_4bFfNZ_tcVO4l6xN3buPDUH330COQRueOsj4FNQU_u1kcBV-Od92c5GPaeehktIXfHZva0IClrxeCbItbM5tMvmQdliC1uiL7vxFXxiDNS6VJ1q2C8jFbEViErMg3sEzSKt8p5u4iWCy7Qf2PJgyzRMiNog3EfMulv-r20kj3wbyvzQwhGSSsdO7bwLrmiDqfgPuE8GKeQbCCjpAZfjalsUN4Gdb4mkFQFENo_xyEhksjeO_b9OgrVUKm",
+      "summary": []
+    },
+    {
+      "id": "ws_038630e118cfee23006a5b73fa21bc8198b5d7f63b555c579d",
+      "type": "web_search_call",
+      "status": "completed",
+      "action": {
+        "type": "search",
+        "queries": [
+          "buy American candy online Australia",
+          "American candy Australia online store 'American sweets' 'Aussie' 'import' 'USA' 'online'",
+          "US candy shipped to Australia 'buy' 'online' 'imported' 'American candy' 'Australia'"
+        ],
+        "query": "buy American candy online Australia",
+        "sources": [
+          {
+            "type": "url",
+            "url": "https://www.americancandystore.com.au/"
+          },
+          {
+            "type": "url",
+            "url": "https://sweetsworld.com.au/candy/american-candy/"
+          },
+          {
+            "type": "url",
+            "url": "https://www.joysdelights.com.au/collections/usa-candy"
+          },
+          {
+            "type": "url",
+            "url": "https://www.shindigs.com.au/american-candy"
+          },
+          {
+            "type": "url",
+            "url": "https://thelollybarn.com.au/"
+          },
+          {
+            "type": "url",
+            "url": "https://thesugarshack.com.au/collections/american-candy"
+          },
+          {
+            "type": "url",
+            "url": "https://www.sweetsurprises.com.au/"
+          },
+          {
+            "type": "url",
+            "url": "https://sweetsworld.com.au/american-food-australia/"
+          },
+          {
+            "type": "url",
+            "url": "https://indibloghub.in/post/usa-candy-in-australia-a-guide-to-american-sweets-down-under"
+          },
+          {
+            "type": "url",
+            "url": "https://www.lollywarehouse.com.au/product-category/international/usa-candy/"
+          },
+          {
+            "type": "url",
+            "url": "https://buddysonline.com.au/collections/candy-boxes"
+          },
+          {
+            "type": "url",
+            "url": "https://www.sweetas.net.au/products/junior-mints"
+          },
+          {
+            "type": "url",
+            "url": "https://www.reddit.com/r/AskAnAustralian/comments/11zrifl"
+          },
+          {
+            "type": "url",
+            "url": "https://www.reddit.com/r/Ameristralia/comments/1ikg8jl"
+          },
+          {
+            "type": "url",
+            "url": "https://www.reddit.com/r/AskAnAustralian/comments/1up3yz9/american_snacks_foods_ingredients_to_bring_to/"
+          },
+          {
+            "type": "url",
+            "url": "https://www.reddit.com/r/melbourne/comments/drbjgy"
+          },
+          {
+            "type": "url",
+            "url": "https://www.reddit.com/r/AskAnAmerican/comments/1uews19/what_is_your_favourite_lollycandy/"
+          },
+          {
+            "type": "url",
+            "url": "https://www.reddit.com/r/AskAnAustralian/comments/1mmap1p"
+          },
+          {
+            "type": "url",
+            "url": "https://www.adelaidecandy.com.au/Bulk%20Pricelist.pdf"
+          },
+          {
+            "type": "url",
+            "url": "https://www.harcher.com.au/attachment/1125_SS_WA_WEB.pdf"
+          },
+          {
+            "type": "url",
+            "url": "https://www.reddit.com/r/AskAnAustralian/comments/1tugejv/visiting_from_the_us_in_july_what_toys_treats_or/"
+          },
+          {
+            "type": "url",
+            "url": "https://pub.joel.net.au/dumps/myigatas.com.au/volumes/images/News/e-news/Direct_TIR_Scott_Bros._Candy_Catalogue.pdf"
+          },
+          {
+            "type": "url",
+            "url": "https://apnews.com/article/05259b304c8f966f415738a428433f4d"
+          }
+        ]
+      }
+    },
+    {
+      "id": "rs_038630e118cfee23006a5b73fc6d30819880302bd421b091cd",
+      "type": "reasoning",
+      "content": [],
+      "encrypted_content": "gAAAAABqW3QOYSRtcJTYsKRQglGObrfw996vcAamADyrU5qG598DjezwtI5aIpJ-cwJShCbyIQw8bTyb6ZaKp16gKhOyJFKnKfWnj98iE2TGtPG1wU5pixhTHNK_1CEqUl-xvwLcjUT7Yz95qGeJkzvj6BBwoaGEj2v7gRxzNcEMoSswVFQ1CJGtBp9rfqjNq_fzrMvsOYOLiC0apenCDK9zfIk64EBPZzYMxImsT28K4hxVFCpGKsygAxzwSwpJBdhPIlrddPrDY-B8X_gIViXGniKzv86PJMqfR5dymIO_JjVCD_dv6PHZdSu0iBjAMlP88thOewrPM3tMV3uMchqTEoyv38rpKsWRAMRnMcuoC3EoMOv_aT0TxU6eDHsqa5VBdE4y1oEEtHRJH2KdRHnQs3CRbJO2sqfiIUDWicg7IvmqWheVYbTnf5D_HOodHRHlQsuc7r7zfZ-isHE3t6wemMA8SHlHLPMpnuYrxdoWPZiINjvnVjHilUv0tF4p-osjMSZ_MUbevTZAcBNLnWfiHFGxlEwDHw1bN0L1fSqYnnq0yoAxwHga-iCaTixqensqbzv5BK4YKN4HeHzBGlegOa-Vq6bmJ1iACWhWfki7zJ4fNaPeYYvkZWreoIKF-8jJNnFZEhk-IuFgEk9sdNvoiCGTaUbGlgFaxpHo1KdVUE6N-ZvXoCcsfAl_rhtxf0ICBD5V2KbidLf5pwGUqsM1S9vUJh3EA0sBDFBB_-exKWwNwhafTZTwRo2pTaTO4uBVltrdq_bMuNP9nH_dzRFUCBdyZ9MFMAnZWGWttpXl2Jn2jw4wxSYwtULqJAV9cAaxGh_0TX_d8W5ILx_ZK3WTkPK_mjtJhiuue7vlgITXAwW1yg78HiW6FJMBNvMjsNaPe6giDSPKiSPIZP026hLPE1UTdsXuZL7JtoWcM44xiA3IB8CTtic_s7XW0c17sepMkzDJmiMC3q3Kp3gnNHUcI1cbUdQB-bUsK9Bph7KTdffa3KLSde-iHc0tiwF3RXVIoRNAONKVYwfHskonNQLKj6nsxXzW_dt2LmpFwzd32ZVkVVOZeRAyW_6WDDxaohSp7AnJVAk93xMEmV_P9u_sWUNUsY0snQaY5bJjC850pIGwpQ_wO4QOcbXMNlbR-GNtpmg-bvjJQ5jc0Z-WZn2D2cGcJUCFqyJGtWT_YZ0H_F2vSYjdBb0bqGNYhgxLtmkRoDiI8z4n9sqlDrAdVr3rqihS_2w8SBJZc9sNzeCLXk7VDHw_Vw0KY2a1D63yIPZK-eRHmuMmDyPpn3xK3JiQnbWheU04yQ4tqxpgn5kswEQ9tZw_RZ-3mDzDRrnvXfBH2cm9qjo5sfn_GxG1sU86KYiWZR-Nl-UxzM_TVntioXGSpy-2H2OygQeupYNAnooBU3j5DYUzAD4f8R2yQimQXcIwTi-8b9tq9agVvBpJqfG13Rkhp31pX0pxU9L0F8MW27MI8sNGOPBBq2UtV6N8wP4HcZ7qE8QhPmyp8QVN-VHJFN5nGTvbXJEyNkjrPmECGlsFOUGx4vhc8B7P0jskaVweOUSZ5K5kG_3Lqomsk-cHXmncmWY5x6d8JnoC0LrgK5c4uz3raokGHoCGslsLhV36OT3S5v__cTCTpOGYgAc_hg-LIaa-2smYZZrZbsPyDCNDK2bnTCaO418vQB9NVV0q4zj5a3uXxZpHu3vjC50nbBONPQfySV9pJ8c3ettZZjbENs1IMDu6pqmq95GSKuxPTXa3QQPNZ8WUst8DvwbIrWwQAU0sH7SIC0scLWscd872gZQ7Q-gLizwKUwKZTxDN2cBiNncW37yCQO8y7xnwr_Aj1RsPEEdKCZoBpkeA8BUovcvgGE0JEvquV0IB5NDpxui7RiISJh7hVcn-buokEAHxrMKctsKFVx9vIrowyCknZ4W7BxI1fDJAiRnEKUyA9uoFX0oCw2t_wsCFhtJ9Y9KJpxDeZ9RgWTtTWv8w4RJU6aR4xy8HUh0Don4QalIUyZdK5eG5SJx1cu0v2DybyzIJYyuGLobbFctAD_cw2KOXiEeNACgHgQpgu9wV4BFCTnCrybUs61u67gmHet1yjiBnB1G-ovI-GImTGw5n9zhRbcqRmKyq8MiT32Ry7GV5IdFKk0Op-H_rGAOue-DKTURfU60D-NPR2kHG1NQXCCp91UGzyBN3eZcOVflQXOKQueQusUQRoaQj-KFDsnt4_jE704LmWCDebpBIsk1jYHek-vYB8mnP9RCzq8CKDRDoT6RtUy-im4GRRIyqwjszNd7JZh_QwCbLtrqw8JPNJxTAy0Cg3MOJTihuDS8Iv8fE3DYKXun4UQie5mPicTC-CfYLF4N6GZBMParPKoYYdlBSAHPmIpOAzcptuOIacUSP37Hel_H52cjuj4gkNyZ8fmaLhmCy1Ee4UIPYtQbl-WG2DsUH4sMFHWjiXA3d41uNpAIikMLNn6ONJ5eZmRQl2aVW_LqUhezTTyzgNqQQ8llOU8Z7EDfmD6o1MvN06QCJBrDzpO0-cNjsbYZJZiFRYf0duRpMv838uaK5ISGsLaTyc4zibCK9fnrr4STSm0LsTcigvt7TFso3FbScwGeM7Bb3wb7mblzEH9i8PF3D5HDCLcPTg2kvKrBMqJKS79VCCgUbH8MfZ4DWZadK7bxlDwcKCR5khAf2PlKxeq6lreqcdKX4hMTc4nwJiZ2CRhvG-soErnbeZ7f0AQ6nUTXXD8i02ROrzVTkSIgr4dsQCKTlQoxsVivve0L9sxWE-ZXwZnDsbj87QfABqRTbyIvEY1fkO_q9bE-0jHNAjv3SCNh9Mhabk9K3zgzUTDCKXnfPQQv4iLVqh7y9-wvFKrNkg1tvIdTdrVnkCfDW6Wur-nJKi7gfT62QYMfbxThk0l8FX995zIO7McHMjIT-nZBlZ4ajN23dE2ARXU8U31-BGEb7MAhg6KRNsKxq0psX5IDgthPUUUG2KdUaYBIAJjHvP6ZcKRdXp38LbiG2XP-DsUxCtTcpqKEgi6LUXqN8-6yh4hunObdkTXMuSexY2Gkdv9Pq2X_NcDHVWTeCR9yU11zucZ1Vz87ASAmQT5mBtivkJSY205Zhu4An7p6T5iY6TOpjvSa7myUBqyHXmL9PF5a_sdoD8opXaaTCS47h6eS1IS5HKaM5SINWGm3iQ6npDcDGoO3_77zZHnqneqdgg1ApvrKCpEXdhSP7AAZQI4UgMdxyMs3dIh62P_bNt3rXGsyj6aY-E5vbS4WmBn7uVykXlmMRPR3SOTumHye2iGmyOl7DnpXNJq3jXIj8--KkaEPWDnoURvduY8sBMYzH-XqdWS0xjXBV0Y8-Rfxj8NUBjbldKkG6WJ-Jrjaw719m5joxL6mglp4jW7zkhlK977EAcGoFjIbx1gnPUkNLfQzYPRxOO8XrhcQ1okMxP0hnkj4eSmgXEjN462CXS6xsseNMyg_dLX0Idsp0vfl41_DywE5_1GTW65ixZI7a1JPwuyG7x873l76hrK3fRNcJQ_XNJRliHstOpWCvg7JoFRHJZFUjSBFSLt0_JVLlG-wWOR6WZXqZauuN8Lqr6Uhz9KQvFNUuIm6ifDhbCjW166QChKCkIx2CrPPapLSJbB7vN2n4OsxXjGjRT7fnxl6Alll34UYnzMNJTXzW60BMaLrYUh7j86bYZ3OCuA-GF8EEv1KUrec=",
+      "summary": []
+    },
+    {
+      "id": "ws_038630e118cfee23006a5b73ff13c881988a52390ebcc598fe",
+      "type": "web_search_call",
+      "status": "completed",
+      "action": {
+        "type": "search",
+        "queries": [
+          "Costco Australia American candy 'Reese's' 'Costco' 'Australia' 'American candy'",
+          "Amazon Australia American candy 'Reese's' 'Reese' 'Amazon.com.au' 'US candy'"
+        ],
+        "query": "Costco Australia American candy 'Reese's' 'Costco' 'Australia' 'American candy'",
+        "sources": [
+          {
+            "type": "url",
+            "url": "https://honey.nine.com.au/latest/costco-coolest-craziest-buy-buys/c8947325-682e-4ea7-9534-44f3533cf0b2"
+          },
+          {
+            "type": "url",
+            "url": "https://en.wikipedia.org/wiki/Reese%27s_Peanut_Butter_Cups"
+          },
+          {
+            "type": "url",
+            "url": "https://www.reddit.com/r/queensland/comments/177zcod"
+          },
+          {
+            "type": "url",
+            "url": "https://www.reddit.com/r/AskAnAustralian/comments/170m8yg"
+          },
+          {
+            "type": "url",
+            "url": "https://www.disboards.com/threads/the-5-foods-you-miss-when-you-get-home-from-the-usa.2932022/page-4"
+          },
+          {
+            "type": "url",
+            "url": "https://everything.explained.today/Reese%27s_Peanut_Butter_Cups/"
+          },
+          {
+            "type": "url",
+            "url": "https://www.reddit.com/r/AskAnAustralian/comments/10z8j6u"
+          },
+          {
+            "type": "url",
+            "url": "https://www.reddit.com/r/woolworths/comments/1re8nyj/help_me_pls/"
+          },
+          {
+            "type": "url",
+            "url": "https://www.reddit.com/r/AskAnAmerican/comments/117vxrv"
+          },
+          {
+            "type": "url",
+            "url": "https://www.reddit.com/r/melbourne/comments/x1kxjg"
+          },
+          {
+            "type": "url",
+            "url": "https://www.reddit.com/r/melbourne/comments/1tapqjk/why_oh_why_cant_you_buy_peanut_butter_mms_in/"
+          },
+          {
+            "type": "url",
+            "url": "https://www.tapatalk.com/groups/yanksdownunder/where-to-find-american-foodstuffs-in-oz-t73-s40.html"
+          },
+          {
+            "type": "url",
+            "url": "https://selectido.com/american-candy-international"
+          },
+          {
+            "type": "url",
+            "url": "https://www.reddit.com/r/AskAnAustralian/comments/vfabuu"
+          },
+          {
+            "type": "url",
+            "url": "https://www.boredpanda.com/american-aisle-products-around-world/"
+          },
+          {
+            "type": "url",
+            "url": "https://www.shutterstock.com/search/american-candy-stores?page=6"
+          },
+          {
+            "type": "url",
+            "url": "https://www.reddit.com/r/AskTheWorld/comments/1utfj5b/whats_the_most_famous_candy_or_chocolate_from/"
+          },
+          {
+            "type": "url",
+            "url": "https://forums.whirlpool.net.au/archive/2411706"
+          },
+          {
+            "type": "url",
+            "url": "https://www.tripadvisor.in/ShowTopic-g298184-i861-k1803731-Tipping_at_high_end_places-Tokyo_Tokyo_Prefecture_Kanto.html"
+          },
+          {
+            "type": "url",
+            "url": "https://www.studycountry.com/wiki/what-candy-do-they-not-have-in-australia"
+          },
+          {
+            "type": "url",
+            "url": "https://www.reddit.com/r/mildlyinteresting/comments/1eppvqt"
+          },
+          {
+            "type": "url",
+            "url": "https://www.reddit.com/r/Millennials/comments/1r8zxkp/were_we_the_last_generation_to_enjoy_pure_reeses/"
+          },
+          {
+            "type": "url",
+            "url": "https://www.reddit.com/r/mildlyinteresting/comments/17t8qpe"
+          },
+          {
+            "type": "url",
+            "url": "https://www.tripadvisor.ie/ShowTopic-g298184-i861-k1803731-Tipping_at_high_end_places-Tokyo_Tokyo_Prefecture_Kanto.html"
+          },
+          {
+            "type": "url",
+            "url": "https://eathealthy365.com/the-definitive-guide-to-the-worlds-best-selling-chocolates/"
+          }
+        ]
+      }
+    },
+    {
+      "id": "rs_038630e118cfee23006a5b7401900c81989820fbd7db85fafe",
+      "type": "reasoning",
+      "content": [],
+      "encrypted_content": "gAAAAABqW3QOKJ54_Jy-I2mXI4aTrDqvxD06NJaWdzSbM-58JmzyRGxq0ltKdSitLOuuJI-BpPW1QXkrRWNr8GgvTA0v05EeFfWm0qmwMOGedmUkb_wkwL5uM1cmQyPUzd_G66BAd43uk6cxN_xWokfOlk83CMd0KQAdCxz1vA2eS-hvxMQDLKpjoZbniKBK64Z5hlGf-IR3oa3nRR0pA7ED2PC4yXMnsC_po4cXbev6iQs2CM9fMc2m4hyw-QqHgqCTSpBqU32ZzYmmwfAl21Cath_rmPMX6-OvkAROTjjf1qao7-_2XqoCurlo_RnUaOEVlqD8gFhFlBpeqYuD0JHt9cyXT_YddWwEIbAh99w_T6Dd8RAuvFXL6XYxeWWCfZk1vdZ-F5g5DB3ESbmHaeJUnj4avWkIuHlbRateJf8lFRvrpTSEH1X-PdrOSDsMJrfHJv3MyoU11dxztOm3cmjtG0UKfIQCGQlgmRowjnZXPhJiOiRQwbaGMSqTI3wRC0H5M9DmgiV2axd7B-mwgA_zjeim9mgOElPXdh_C_cEevGT7bjB2L2DzZVShfrvoHJwQuZZ805r9FJrNk9htYzFnU20JlSzEn8dHVzmMyHVezWt79wiJBiLOuQkUnkygFso2zpD39BtE-TjrHhY1f9zDKuN2SVw3XRTzHTNEJtaqfxuVQgEt3WB9m4CGxBrG80CZZjUl3W_upF34qYx0gk0G-dYbz6vmb5_Zjc5INlrbx-EZHJ1nPa0zp3sTzjYsQGhBpso04QhXw38B7RrvCnyB9FDBMdcXa4ghHzrcAfq1n_mVrPit1NlsWnnuZHAphAXpu9Iwi6uMJkfYhOrFthVds4XBi4CODEeyxUj6Ki52kptHh58vzq9ycqWWxUSMCxfbCzGkLU8550J8BgZkMQby9Schznunj5Xp5rxCG9tIM_XyRpnaUuehWQjQCGqSS9o8hL-181FljPfuyKlznEXzDE4L1Hi9NlxgNsUQ-nx1kSeo0UGuLszajjfOuEIvoQlKsIhslfPm1nrMu7s6JDVEtvMT4BNI_0IQJklryDF8yAbxh9MtckgDyj-4twTk_7_Xc3zQUPaCOV_XQFi-MK5EGaRkguRTAXdodYvdCYMO9pCQU0aMN8cWtEtmIhCbzPAwoIytW4eu4uGE9UmZTEiGP6nIWh16YxJ-Ejk8dHhDvKnHXOrA6FzP8Fm-sPt9a-DnPpZmsTRRtxipJcwXeVsmUL3bG8kSFlRC0Hr7dc2YW70M2mb5afuj-w5x_nQGslR1MJ61SEiDiH6C6MXxr92f2jEJmK1GDY53ngDX3fUHt6fKYI1kWPcnpxhJGvrY-SUZDIxGPwk080wnEhQ0mc5Sza1Wf9xFRmcWcb9E2o28bqizERSYxnxY4O8MPSBaxTgYVAbKA3c1VbQTiS-BcubkJQhTIQjyJ6PVEx1eqipd4K6l7dbf-YAztRevcYLcj3BLhn7ISgwyt5SVCJQgPyjF-uJmdgBQK3lVDThHRSTmUaufoAf6CcSgWGFq6SijaUNBKz4sFWDZlbJvL7_0R3IVNIA9CMWYfwovo0FjtT5W33BVANtRpsWCbp2-BYdZPAmhi0aKPywY8iGVjvqd-Ql1aGAuP3q1tWZeGPjGCJTxDAXRbUhjuAEXaKGIqfgF73ZWtw4izuW5Wnmv_r1t-Ei3DjYp21cKeyIreLagj14inT2R1NljLwQQ-57xLt4s8jG6JWf8WDXDUDH5CiaGZOMKXPXuashWI_6P8flmvy89rjRCmMx_YRqxX91GpbZm69YasHEgCqme6oRaMlv9s2xyFOpE1jzKT7c_nd71eXTKSQXzzBUELUa5B2EB81Njn-_3bpyKyJI6hjwWDsPnpHadrUG5zV9FCDhwVpxA1o4dxk_aclAtSt99p7ypAx7rir-elKx9o4ZG8QKJcmAo8xx-G1WBr3zRVNO_PVfqP85bG_qblJTfYUJDOtA6OXP7VoaCNdLP5hCupOi1r7WwQgXuTKY_xlTUsO6ASbz8rcg9EfSiH8zJnzZD4H8ilw6nmbPCzzU0T8lymMMZPOOIgXbQf9GItU5PkjJsIdtlCfJnYxDaW7J236AbGGsVLjsHAaWJw9Os1T9CPoUJ43B95bsYiiJJt4jQjjfSqMvHq5i-J1HNCMVFjUuORuIqFqEA9NN-n0o2Ok0KLPzpKuKlyWIX4T_Md99V1By_w4o81Ijlk9IypNwaXRNhRu5qRj-BGk9MhLg7yIdiqb8AJK3ZRdUdB734rfp4wjk1XBfx8oes6PU88aqUHoO4MSIuTEjnIL-ETgdNv8s6OP2OuzFFnzFQotv3RUpXByeBrrPTtOsTjfP6wGaCkzBvuu08U3qQGeSPqKZLtzlTKMfS9DvjqvK-yPxRUFB6apZ0GCKGHfa4krZwtvql5WQiMBHfGACNrbXBjrQpCi4HVKNOoQazdmhYJeUBPKmVPKmcyF8Avkeq8RvfjhqwQn84cJsMND6NJSWOx__vlOt_2VEgdzbKLW5NRxCGZQPs74E4p3R3Kt0_QAc54GdXwSH9SZAxmCIPHAc7Zs85Kj-EN_qsU3vfvLmcTsK9x3ICZO4LZkpjfS-BN2C0k4PpzTVOtWlCkLY5RvAOzhvQjd962n9QsvDwnS1FGo5OikjKu6-t5Wf3BZlGXgyieo6il_4Rl-u5oSJ1nPrHmxiIcWxOpUFmXUEvTZr43e9mgRQ_dMms4nZx-fvEQNKbpA-NeCWDLSfTcNHFH4VuTRv4P6MpPrEXQrUSfwxuUADwBXELYisjS2Dd6Lsj_DKhDAjsuunx53ZERce7SE5Cx3xIY25S8gZsoCjcd6s8BkvGdBCIKK41x-dIWps1hvribFf47CLN8dJMgFNZO4OJIQT6-IbbR_7bsBwXbiSb4FB3_eF2gl0uIY9Ova6sT2Ujaqo9lM0GzkxVD3pa5fwnKbLPAhCOx9C8lt8BAwwc_auJq70RV4l2C5ONLiWKubWlAAK0aDfQsI5_kLjjlk_p85iN3tvxnAdk9Q8-xq-VoflZQJsAGhH4PCc6gbtHJJyVZietYtv3JoRimYDMsgUx0hxAdRWsIQUbkNnRypexZz8r9P0LvRscJl1vs0HwsmAuBVUTb13Vyk1rjFXohOI_Huhy5JFO8gT5vFpShsyiSxft9V9pz4mm2VCc4NfFq4z2zVkn2tqzXDWluSak6BKIEbFw30SXjKu7EQVEBtxN3zo31VuUvDPhN7UPVdVx4FD8rB3bA7E2Xwgn8voK1ieuRJUOliUV0rRHiDfgK0IqWfmkO_fiUdGaeIfuURNX8nogdkWN0pkg05SaNRmsFz8L-UIwWVblVG_Tw_042ZHqmRTvo0TPgjwue6aIuI-WDMW2_14QytjtyZ5jgF1VkPlQhf__3HN7E1Zr4dn88BhW6VJUQ6L0sPHiitAirt1WG-pj8kbqT7tHCjgOo74RyQn0_0qNlkIp_gu-otctW5melgTA5iysYLTLeKY0pc_6VAGTa-M6zH_-pqvWmR8jftGi5h5yIow3goTnwJdwdCjb8nnz3OeFeBXUufFnIcHSCynTolZ_xlkuwN7UsCClBrf1JI04U5rt-hixbaIT6f1Z3yWGlr1DI4QxZDfT7J35WtTQu6gcO4vwv_XVqmCQydHACnbzHHPzXAShFrEnUnLapEf_0KmwzOPZHJdTlI2adFACBSNfgXs=",
+      "summary": []
+    },
+    {
+      "id": "ws_038630e118cfee23006a5b7403937881988a347e6ffe46d8d5",
+      "type": "web_search_call",
+      "status": "completed",
+      "action": {
+        "type": "search",
+        "queries": [
+          "CandyWarehouse international shipping Australia 'CandyWarehouse' 'ship to Australia'",
+          "American Fizz ship to Australia 'American Fizz' 'international shipping' 'Australia' 'US candy'"
+        ],
+        "query": "CandyWarehouse international shipping Australia 'CandyWarehouse' 'ship to Australia'",
+        "sources": [
+          {
+            "type": "url",
+            "url": "https://getbooyah.com/en/places/"
+          },
+          {
+            "type": "url",
+            "url": "https://dokumen.pub/confronting-climate-gridlock-how-diplomacy-technology-and-policy-can-unlock-a-clean-energy-future-9780300265057.html"
+          },
+          {
+            "type": "url",
+            "url": "https://www.americancandystore.com.au/?utm_source=openai"
+          },
+          {
+            "type": "url",
+            "url": "https://sweetsworld.com.au/candy/american-candy/?utm_source=openai"
+          },
+          {
+            "type": "url",
+            "url": "https://www.joysdelights.com.au/collections/usa-candy?utm_source=openai"
+          },
+          {
+            "type": "url",
+            "url": "https://www.lollywarehouse.com.au/product-category/international/usa-candy/?utm_source=openai"
+          },
+          {
+            "type": "url",
+            "url": "https://www.sweetsurprises.com.au/?utm_source=openai"
+          },
+          {
+            "type": "url",
+            "url": "https://honey.nine.com.au/latest/costco-coolest-craziest-buy-buys/c8947325-682e-4ea7-9534-44f3533cf0b2?utm_source=openai"
+          },
+          {
+            "type": "url",
+            "url": "https://selectido.com/american-candy-international?utm_source=openai"
+          }
+        ]
+      }
+    },
+    {
+      "id": "rs_038630e118cfee23006a5b7404d79c8198b547b45ea43a746d",
+      "type": "reasoning",
+      "content": [],
+      "encrypted_content": "gAAAAABqW3QOFn1ck83pIG-FF0Ebe6_KACsjCDQHvPCp2gEiMy7SZU8nuap1pLxZeiMic8F_UmcJUtvQm4XStcQLKlRKXTbygiWH7mT8ClL_e0HvIr5aTjiaIIfYo0HVrEd8zlXV7_O7NN4gzLurClXhyeXLoJobS_eU9hpIOswmuU13RwmcELGs3C5d1EGM8u6e5SbFEysx0inXyyrrSBNIDJLySMCamxZ4xq-LEJiI1xaHTq7JUK02kaK71L7WZeYaEvEhnW-1xTRnLvFjHgtWfeUdFKTNG1n4uUbRCcY7ZXlyekPaOoy_BYagCggPupXPPOT4lzJ0p3tsUKpKJxaVimJjs5GhPHZpdJ7tgFcMuV09DiMKyaPP8ZWs2kiIY-3Knb3sNxcD5jKG4MEKnk1-vOhzDke5554hbtvJCxAI4MzOoPz-ddJhjfSNYqnLICBcFnwhp4ZWakWMNuHAboeTqizfQl0rDoKvG9l1l76v0LbL2PKEQIy84v7OmiCfPTmIz7ycANrVB2Acxc1VTgg4ejycfxFGgdgKZeDHYcO9Hp3MHM5SWbO98hcMFxPgtqnMYlOd53NA4oVLjU4uo63Vo-fP8fYXXFEObmBGyuuZBUv75ONsyZCw5aNbVf-AFmU1l0heP43htcT846I_q2SGWIVl1okDBGljEqLQylVq5UaeBLdzG4HISzjLeyvoZTRUnd11e0yT94qEr-jAeaPg_canOpxXZQYLWLRy7bahv_gIXYe1pH_8VL6Xcf3hlwh7g1V_uSfZ4_geGbi-B31GaaOUevn_aGzXHANLnWtGJdDzLPL2n4bLyOA0SNctiXR0r9TRrD0lxijZDw6spaKuMuL2VFOXkScyVbDduN4FXfxVhg-X8i3mighzxs7c3r9oAuYfjcCWa4L4LFzKQu_B4fO73YPELJ38sv8UsPe2BkO7UxjtWpqAsT_TDFThBjQV2I76bnp6iX1PHeyXuu2IjBUlZJz5MC8O93Ep7VkO1nn2FTqOUNZEkgbxcyCMc2xAwekwibgRsyV2F_HWKo5_268yzw_46fsxlcW5QkhL3kRFYjabxTJ4jXafBOfa8wH3xYyEwbN5UAQMlUHwX0w8LeeenMh82KA0cpjniNmt35lPwbBP1A8A1bkEfEb67mCDp9twEdEUd2EOUYV5dg8QUvELnUIrqmfEBJ5s8yOPb-O2dCdO0wff_dRERlGG4lNyWUWrNSze1LR1E-u65nEtqjR5noDvSjXd_3R07hWP-_Z3mf2Gm5Pp8Jz0TcIVUzjqmrHp5dhKsdKRkh-UqGSptm56RXY5klmxwJA4-a8u1yBdTNc6di20FONvZQsX9rlHTZmq4-XUMrQPGrs_N3MqfTXySIIMYHzNutn4OA5us2A6qlFD-lnZisd8KWuuBcg59i0ENHje-ffbVnY_8YTWE_XLijE50pfz6VeeqExc0YuQb7Dxu5D6ZHla1YGtOpo4-NgWmy9SL4suRAZyixlWo3tLXLWP9rrU-HPV5WPEU9frY0ePyeeysds3iOqVypxm9QFcLBCwXOMwr37S9nxL0gE6Lyl5LbBvmQHyVmhJPmFwRSAHEgm1DOVH4c-WZGuxJlfQGS4p39CG8qvGH_l5H4q1TJWpEaJAIWNDaaqR7APuwH-yNEMVQJeMrSmbIlDbu5KemfM79XQ1NDhFhpoXmXIWVbDBhpGkk7Z2mpXv67IwI3bwXGjZ4G24Aq_myUwHhfWKvKJ6OdMPxuczSsS9j75MN1vyN5L6WHNq4PFZL9HcBCNpo-YY80AmvhoP3rF9ZyigZdGwaI-ywnZdPH05IJrh-gPMytlQA5Y8VMCYfoVZaW9e4lLaXu_wQkyiG8Fom3hcKEiSzWGynhA69VOd838Ln5kf1leIHui__KU780pQ9_20CjlvjSSwuoyl2l1es76Jwjvc8SZxfvXebccWl7ZSQxMimF9E9rDjPVnsfDqlwj35r27pKWAeC4spW26zpfSEhLHbEiqy3BG9rOwjDHPA9I1LTfDnWO6vnRvqjzOdWJrsTn33TrTrdSoujU0hgOZqJmkoIQBD0aBNDgVD3szKs3uVyqJjSaWiFM4VSJ-LNIK2beMrLXAJVCb5N6G7NauMOeufAe-YUHaGZRV0F9PXSDe_RwmzAhReigxdhz8LRjeE6ilsPNKcHf8c2CTY-ujet64u8H_kjAV9HCslLpti5hq6r7S6YgPkYCxPVvRPE0KFpgYlQ79Q7XPbe6x88rKmSou3_zh0qws9knKX-tCxkRPRhJjjOU8PW79YCQrjTM_1TEGokpglN3PTlTU87KeUIuyXxYxHm1esWHCH7VcRhKIsh1DPKm5LfgXD3EUe7bPJBbWi217zLErJQPHN2SSjpiqFQB4jkmKWolp1mU2d3Ofbzdp3u-MgxCq7dpxlYv8zn35zxvDZfCz0UEkoEnBNzvMJu1yawm_dJ4DT_68CJE4JrVA1bsVfjdV92CYdQDEV9aqjwI6BrnqjIFRlTTfnj_jSrGTOAWu_It8jOP2NOpx9C2GZbgylAjfS61Ph--jgZZj7M-KrbYFy_U7Uqjl4E3inOgLzoI7ULJp6JdgAeMi2GbIm6rValfcP-bAL9OTBKzj0AFKqhCEI3yKdOzd2dFF8zBSR7TT03QgXqZ7U7XB_R2FEOIR-hLamlXe4QjFrFaF9eavnn7yEvfbj_FUmA74IO9brVQFcLLhbAB4_sk1wUnG2Z73ciUBhMtQfdzt4ogqIubl5V5qNFz10JRLQHuKYhqyEmR3xGYpEzM3aox6_mRm3RdQm0HgNako1etTi3-Un_ibKJVmq6qF6tX1VWT5BNubStiQeC8yzOyKv62yxD9JR6nOvo7XncIiSavrhxxGQxHvdkjqo0Lp3xNT09K5fZSHFiC6y_g9w8m2gP_PzN2GT3FcGuR7SoWOrO3ufCLUbvdJSTg1ZMoO4qGZ39vfaIkPQdKXCvJ8-05PA-lcfuvzNGWLuMECDPvPW0xXZ9gRMFPC-8R-rYEdEJIidie_g-xUVl7PGYth5NzsiXxx707MhoiNP2FZJH1P70SFYkBOV_gVekgUyQMIz2JWPjzj8lyMl5MiXA5yLXRXXlBat20U5jnt_fJSI0XhsjWz1wv8JIbO8zIVxnGnOktiEIwTHgbxoLqGuFSXd_ZYUAPOm12sLNl55Fu1tNSkNJeTmrt33vmUYufbxFs9Cn3v2MYx_0ukBifpbVi4JgFVHu5ar-TEu9AF8VWFP9n4P1_wfkSmsbmcgq5UhgM0Ew5_EwKMpDUWSFSzGSpHXN3xGYrqddfx8v58hmPTaxb0N_27LBJolKxDtm-WLyPh2b7P0ea4Mze33YVShNvSIJzeNVtPW66xwmwS80bIx5AKI5z5MevrvkHwIUh-Ms9j3t3kAnU-OoRqRiR3EuWAQLkYIEMM9iUDk7TVT9-IjW0YNzg_Tlk8B0QOzqNuV8cURQKq11Bxm65wEKONPZ-4-LMiHmz-aDJBU3NWY59we-XtTcEXv8Ajhgk1E9a57GUQXu-V2aEGve6q48sA74K6vFAxHPcVBEk2lX42HjZrma5Aj8xMSw0exwOYUMtKgexyRM_LqzwCut-nzyX024SvKbRFBuYyrl-ISnZbSdhAJxx2g9l5dRO1tTm3iVmfuI5auMgdNA00Db3Ru1OkVMxak59MWqdWjehSsZKOdLMvA4tkiTVFs3r8087QMelV8uNAOYPXsNiReW_Ubd7AnRawY2hCD8qy0TY0oCdlm3Ro6qbysdMdtBGQeLiFTFEiRmaBmETJv4DI5fRPU8Co07zt4hDVpcVHoaivE43xbeSbvLaXSV38jblUKxP4i5ybOl9A8GTyDmY-5tahKCJeVvN_MfTEyQQ_eXQ0WzKh6ulA8zmV_h0aDrUxYolizNqURc8GK_NnrVjTQM2PssKwtdrWGtK7cCoDl6B8_WzxIM4eqFR19ZgjCvGMQs7RP9cBNng9gWlAJnUo9T_ZbA0wwEfniCjbcKIfQCFCwo1hWIwYaNQkQMq5esl_4xpB2y3I90tiB0uKM1ls540H97CBPSf2EukFJQQgKP8ooiNw3qh8sG0pdUyQBr49d6fD9mKf1Sv4kzk9XD-SoCu6UL34t9bUJEtlMTu2fsw==",
+      "summary": []
+    },
+    {
+      "id": "msg_038630e118cfee23006a5b7409b6c88198a214ce8a7cb64b76",
+      "type": "message",
+      "status": "completed",
+      "content": [
+        {
+          "type": "output_text",
+          "annotations": [
+            {
+              "type": "url_citation",
+              "end_index": 332,
+              "start_index": 245,
+              "title": "American Candy Store in Australia | Buy USA Candy Online",
+              "url": "https://www.americancandystore.com.au/?utm_source=openai"
+            },
+            {
+              "type": "url_citation",
+              "end_index": 523,
+              "start_index": 433,
+              "title": "American Candy Australia | Buy US Sweets Online | SweetsWorld",
+              "url": "https://sweetsworld.com.au/candy/american-candy/?utm_source=openai"
+            },
+            {
+              "type": "url_citation",
+              "end_index": 717,
+              "start_index": 621,
+              "title": "Buy American Candy Online | USA Candy | Joys Delights — Joys Delights Lolly Shop Online",
+              "url": "https://www.joysdelights.com.au/collections/usa-candy?utm_source=openai"
+            },
+            {
+              "type": "url_citation",
+              "end_index": 935,
+              "start_index": 815,
+              "title": "American Candy | Online Lolly Shop - Lolly Warehouse",
+              "url": "https://www.lollywarehouse.com.au/product-category/international/usa-candy/?utm_source=openai"
+            },
+            {
+              "type": "url_citation",
+              "end_index": 1108,
+              "start_index": 1029,
+              "title": "Buy American, UK, AUS, South African Candy & Foods Online - Online Store",
+              "url": "https://www.sweetsurprises.com.au/?utm_source=openai"
+            },
+            {
+              "type": "url_citation",
+              "end_index": 1430,
+              "start_index": 1287,
+              "title": "The craziest and coolest things you can buy in bulk at Costco",
+              "url": "https://honey.nine.com.au/latest/costco-coolest-craziest-buy-buys/c8947325-682e-4ea7-9534-44f3533cf0b2?utm_source=openai"
+            },
+            {
+              "type": "url_citation",
+              "end_index": 1747,
+              "start_index": 1660,
+              "title": "Ship American Candy Internationally — Nerds, Sour Patch, Skittles | Selectido",
+              "url": "https://selectido.com/american-candy-international?utm_source=openai"
+            },
+            {
+              "type": "url_citation",
+              "end_index": 1969,
+              "start_index": 1882,
+              "title": "American Candy Store in Australia | Buy USA Candy Online",
+              "url": "https://www.americancandystore.com.au/?utm_source=openai"
+            },
+            {
+              "type": "url_citation",
+              "end_index": 2178,
+              "start_index": 2091,
+              "title": "Ship American Candy Internationally — Nerds, Sour Patch, Skittles | Selectido",
+              "url": "https://selectido.com/american-candy-international?utm_source=openai"
+            },
+            {
+              "type": "url_citation",
+              "end_index": 2354,
+              "start_index": 2275,
+              "title": "Buy American, UK, AUS, South African Candy & Foods Online - Online Store",
+              "url": "https://www.sweetsurprises.com.au/?utm_source=openai"
+            }
+          ],
+          "logprobs": [],
+          "text": "Short answer: Yes — several Australia-based online stores specialise in importing genuine American candy and ship Australia‑wide. Good places to start are:\n\n- American Candy Store (Melbourne) — large range of US-brands, Australia‑wide shipping. ([americancandystore.com.au](https://www.americancandystore.com.au/?utm_source=openai))  \n- SweetsWorld — a big catalogue of US candy, snacks and drinks sold and shipped inside Australia. ([sweetsworld.com.au](https://sweetsworld.com.au/candy/american-candy/?utm_source=openai))  \n- Joy’s Delights / JoysDelights — Aussie online lolly shop with a dedicated USA candy section. ([joysdelights.com.au](https://www.joysdelights.com.au/collections/usa-candy?utm_source=openai))  \n- Lolly Warehouse — stocks an “International / USA” candy range and delivers around Australia. ([lollywarehouse.com.au](https://www.lollywarehouse.com.au/product-category/international/usa-candy/?utm_source=openai))  \n- Sweet Surprises — Australian importer/supplier of American candy, gifts and snack boxes. ([sweetsurprises.com.au](https://www.sweetsurprises.com.au/?utm_source=openai))\n\nOther options\n- Warehouse clubs (Costco Australia) and some supermarket “international” aisles sometimes carry US candies in bulk or seasonally (good if you have a membership). ([honey.nine.com.au](https://honey.nine.com.au/latest/costco-coolest-craziest-buy-buys/c8947325-682e-4ea7-9534-44f3533cf0b2?utm_source=openai))  \n- If you want very rare items you can order from US sellers, but expect high postage, longer transit and possible temperature/damage issues for chocolate in summer. Buying from Australian importers usually saves cost and time. ([selectido.com](https://selectido.com/american-candy-international?utm_source=openai))\n\nQuick tips when shopping\n- Check the product page for “Made in USA” / country of origin and the expiry date if authenticity matters. ([americancandystore.com.au](https://www.americancandystore.com.au/?utm_source=openai))  \n- For chocolate or heat‑sensitive items, look for stores that note seasonal shipping practices or insulated packaging. ([selectido.com](https://selectido.com/american-candy-international?utm_source=openai))  \n- Compare prices (imported sweets can be marked up) and check delivery times before ordering. ([sweetsurprises.com.au](https://www.sweetsurprises.com.au/?utm_source=openai))\n\nIf you tell me which specific American candies or brands you want (Reese’s, Sour Patch, Twizzlers, Little Debbie, etc.), I can:\n- Check availability and current prices at a few of the shops above, and  \n- Suggest the cheapest/faster option and any shipping warnings. Would you like me to look up a few specific items?"
+        }
+      ],
+      "role": "assistant"
+    }
+  ],
+  "parallel_tool_calls": true,
+  "presence_penalty": 0.0,
+  "previous_response_id": null,
+  "prompt_cache_key": null,
+  "prompt_cache_retention": "in_memory",
+  "reasoning": {
+    "context": "current_turn",
+    "effort": "medium",
+    "mode": "standard",
+    "summary": null
+  },
+  "safety_identifier": null,
+  "service_tier": "default",
+  "store": true,
+  "temperature": 1.0,
+  "text": {
+    "format": {
+      "type": "text"
+    },
+    "verbosity": "medium"
+  },
+  "tool_choice": "auto",
+  "tool_usage": {
+    "image_gen": {
+      "input_tokens": 0,
+      "input_tokens_details": {
+        "image_tokens": 0,
+        "text_tokens": 0
+      },
+      "output_tokens": 0,
+      "output_tokens_details": {
+        "image_tokens": 0,
+        "text_tokens": 0
+      },
+      "total_tokens": 0
+    },
+    "web_search": {
+      "num_requests": 3
+    }
+  },
+  "tools": [
+    {
+      "type": "web_search",
+      "return_token_budget": "default",
+      "search_content_types": [
+        "text"
+      ],
+      "search_context_size": "medium",
+      "user_location": {
+        "type": "approximate",
+        "city": "Sydney",
+        "country": "AU",
+        "region": "New South Wales",
+        "timezone": "Australia/Sydney"
+      }
+    }
+  ],
+  "top_logprobs": 0,
+  "top_p": 1.0,
+  "truncation": "disabled",
+  "usage": {
+    "input_tokens": 17341,
+    "input_tokens_details": {
+      "cache_write_tokens": 0,
+      "cached_tokens": 3584
+    },
+    "output_tokens": 2242,
+    "output_tokens_details": {
+      "reasoning_tokens": 1600
+    },
+    "total_tokens": 19583
+  },
+  "user": null,
+  "metadata": {}
+}

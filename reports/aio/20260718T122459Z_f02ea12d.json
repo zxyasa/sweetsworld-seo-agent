@@ -1,0 +1,72 @@
+{
+  "run": {
+    "run_id": "f02ea12d-31ef-4a3f-a066-d83a9212d32a",
+    "site_id": "sweetsworld",
+    "basket_version": "2026-07-18.v1",
+    "trigger": "manual-smoke-retry",
+    "status": "completed",
+    "started_at": "2026-07-18T12:23:54.982501+00:00",
+    "completed_at": "2026-07-18T12:24:42.378511+00:00",
+    "notes": "successes=2; errors=0"
+  },
+  "methodology": {
+    "unit": "one provider response to one prompt replicate",
+    "surface_separation": true,
+    "recommendation_detection": "conservative deterministic text-window heuristic",
+    "confidence_interval": "Wilson score interval, 95%",
+    "important_limit": "API search surfaces are not the ChatGPT UI or Google AI Overviews"
+  },
+  "basket": {
+    "observed_prompts": 2,
+    "configured_prompts": 30
+  },
+  "surfaces": {
+    "openai/responses_web_search_api": {
+      "observations": 2,
+      "valid_observations": 2,
+      "errors": 0,
+      "brand_mention": {
+        "successes": 0,
+        "total": 2,
+        "rate": 0.0,
+        "ci95_low": 0.0,
+        "ci95_high": 0.6576280471103807
+      },
+      "brand_recommendation": {
+        "successes": 0,
+        "total": 2,
+        "rate": 0.0,
+        "ci95_low": 0.0,
+        "ci95_high": 0.6576280471103807
+      },
+      "domain_citation": {
+        "successes": 0,
+        "total": 2,
+        "rate": 0.0,
+        "ci95_low": 0.0,
+        "ci95_high": 0.6576280471103807
+      },
+      "product_citation": {
+        "successes": 0,
+        "total": 2,
+        "rate": 0.0,
+        "ci95_low": 0.0,
+        "ci95_high": 0.6576280471103807
+      },
+      "query_domain_coverage": {
+        "successes": 0,
+        "total": 2,
+        "rate": 0.0,
+        "ci95_low": 0.0,
+        "ci95_high": 0.6576280471103807
+      },
+      "mean_recommendation_position": null,
+      "mention_share_of_voice": {
+        "Sweetsworld": 0.0,
+        "The Professors": 1.0
+      },
+      "competitor_mentions": 1
+    }
+  },
+  "comparison": null
+}

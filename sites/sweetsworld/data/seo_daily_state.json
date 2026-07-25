@@ -1,96 +1,6 @@
 {
-  "updated_at": "2026-07-23T10:33:17",
+  "updated_at": "2026-07-25T10:34:00",
   "runs": [
-    {
-      "timestamp": "2026-04-17T15:56:40",
-      "slug": "dutch-candy-australia",
-      "title": "Dutch Candy Australia: Buy Holland Sweets and Licorice Online",
-      "status": "exists",
-      "link": "",
-      "post_id": null,
-      "message": "Page registry already marks this page as published"
-    },
-    {
-      "timestamp": "2026-04-17T15:56:40",
-      "slug": "german-candy-australia",
-      "title": "German Candy Australia: Buy Haribo and German Sweets Online",
-      "status": "exists",
-      "link": "",
-      "post_id": null,
-      "message": "Page registry already marks this page as published"
-    },
-    {
-      "timestamp": "2026-04-17T15:56:40",
-      "slug": "turkish-candy-australia",
-      "title": "Turkish Candy Australia: Turkish Delight and Sweet Treats Online",
-      "status": "exists",
-      "link": "",
-      "post_id": null,
-      "message": "Page registry already marks this page as published"
-    },
-    {
-      "timestamp": "2026-04-17T15:56:40",
-      "slug": "mexican-candy-australia",
-      "title": "Mexican Candy Australia: Buy Takis Pulparindo and More Online",
-      "status": "exists",
-      "link": "",
-      "post_id": null,
-      "message": "Page registry already marks this page as published"
-    },
-    {
-      "timestamp": "2026-04-17T15:56:40",
-      "slug": "jolly-rancher-australia",
-      "title": "Jolly Rancher Australia: Buy Hard Candy and Gummies Online",
-      "status": "exists",
-      "link": "",
-      "post_id": null,
-      "message": "Page registry already marks this page as published"
-    },
-    {
-      "timestamp": "2026-04-17T15:56:40",
-      "slug": "twizzlers-australia",
-      "title": "Twizzlers Australia: Where to Buy Red Licorice Twists Online",
-      "status": "exists",
-      "link": "",
-      "post_id": null,
-      "message": "Page registry already marks this page as published"
-    },
-    {
-      "timestamp": "2026-04-17T15:56:40",
-      "slug": "nerds-candy-australia",
-      "title": "Nerds Candy Australia: Buy Nerds Rope and Nerds Clusters Online",
-      "status": "exists",
-      "link": "",
-      "post_id": null,
-      "message": "Page registry already marks this page as published"
-    },
-    {
-      "timestamp": "2026-04-17T15:56:40",
-      "slug": "hersheys-australia",
-      "title": "Hershey's Australia: Buy Hershey's Chocolate and Kisses Online",
-      "status": "exists",
-      "link": "",
-      "post_id": null,
-      "message": "Page registry already marks this page as published"
-    },
-    {
-      "timestamp": "2026-04-17T15:56:40",
-      "slug": "trolli-australia",
-      "title": "Trolli Australia: Buy Trolli Gummies and Sour Worms Online",
-      "status": "exists",
-      "link": "",
-      "post_id": null,
-      "message": "Page registry already marks this page as published"
-    },
-    {
-      "timestamp": "2026-04-17T15:56:40",
-      "slug": "darrell-lea-gift-ideas",
-      "title": "Darrell Lea Gift Ideas: Best Australian Chocolate Gifts",
-      "status": "exists",
-      "link": "",
-      "post_id": null,
-      "message": "Page registry already marks this page as published"
-    },
     {
       "timestamp": "2026-04-17T15:56:40",
       "slug": "warheads-australia",
@@ -1799,6 +1709,96 @@
       "status": "drafted",
       "link": "https://sweetsworld.com.au/?p=74847",
       "post_id": 74847,
+      "message": ""
+    },
+    {
+      "timestamp": "2026-07-24T10:32:05",
+      "slug": "health-conscious-candy-gift-boxes-australia-2026",
+      "title": "Top Health-Conscious Candy Gift Boxes Available in Australia 2026",
+      "status": "drafted",
+      "link": "https://sweetsworld.com.au/?p=74867",
+      "post_id": 74867,
+      "message": ""
+    },
+    {
+      "timestamp": "2026-07-24T10:32:30",
+      "slug": "gummy-candy-hacks-2026",
+      "title": "Gummy Candy Hacks: Creative Ways to Use Gummy Bears in 2026",
+      "status": "drafted",
+      "link": "https://sweetsworld.com.au/?p=74869",
+      "post_id": 74869,
+      "message": ""
+    },
+    {
+      "timestamp": "2026-07-24T10:32:55",
+      "slug": "homemade-australian-lollies-guide-2026",
+      "title": "2026 Guide to Making Homemade Australian Lollies",
+      "status": "drafted",
+      "link": "https://sweetsworld.com.au/?p=74871",
+      "post_id": 74871,
+      "message": ""
+    },
+    {
+      "timestamp": "2026-07-24T10:33:25",
+      "slug": "healthier-aussie-lollies-2026",
+      "title": "Healthier Alternatives to Classic Aussie Lollies in 2026",
+      "status": "drafted",
+      "link": "https://sweetsworld.com.au/?p=74873",
+      "post_id": 74873,
+      "message": ""
+    },
+    {
+      "timestamp": "2026-07-24T10:33:48",
+      "slug": "top-10-bulk-lolly-brands-australia-2026",
+      "title": "Top 10 Bulk Lolly Brands Aussies Love in 2026",
+      "status": "drafted",
+      "link": "https://sweetsworld.com.au/?p=74875",
+      "post_id": 74875,
+      "message": ""
+    },
+    {
+      "timestamp": "2026-07-25T10:32:22",
+      "slug": "aussie-lollies-comeback-2026",
+      "title": "Top 10 Aussie Lollies Making a Comeback in 2026",
+      "status": "drafted",
+      "link": "https://sweetsworld.com.au/?p=74904",
+      "post_id": 74904,
+      "message": ""
+    },
+    {
+      "timestamp": "2026-07-25T10:32:52",
+      "slug": "iconic-australian-lolly-brands-2026",
+      "title": "The Sweet Legacy: Iconic Australian Lolly Brands in 2026",
+      "status": "drafted",
+      "link": "https://sweetsworld.com.au/?p=74906",
+      "post_id": 74906,
+      "message": ""
+    },
+    {
+      "timestamp": "2026-07-25T10:33:13",
+      "slug": "healthy-nostalgic-australian-lollies-2026",
+      "title": "Healthy Twist: Nostalgic Australian Lollies with a Modern Touch in 2026",
+      "status": "drafted",
+      "link": "https://sweetsworld.com.au/?p=74909",
+      "post_id": 74909,
+      "message": ""
+    },
+    {
+      "timestamp": "2026-07-25T10:33:36",
+      "slug": "christmas-lolly-buffet-trends-2026",
+      "title": "Creating a Christmas Lolly Buffet: Trends for 2026",
+      "status": "drafted",
+      "link": "https://sweetsworld.com.au/?p=74911",
+      "post_id": 74911,
+      "message": ""
+    },
+    {
+      "timestamp": "2026-07-25T10:34:00",
+      "slug": "budget-friendly-lolly-buffet-2026",
+      "title": "How to Create a Budget-Friendly Lolly Buffet for Parties in 2026",
+      "status": "drafted",
+      "link": "https://sweetsworld.com.au/?p=74913",
+      "post_id": 74913,
       "message": ""
     }
   ],
@@ -4652,6 +4652,106 @@
       "post_id": 74847,
       "last_error": "",
       "last_success_at": "2026-07-23T10:33:17"
+    },
+    "health-conscious-candy-gift-boxes-australia-2026": {
+      "slug": "health-conscious-candy-gift-boxes-australia-2026",
+      "title": "Top Health-Conscious Candy Gift Boxes Available in Australia 2026",
+      "status": "drafted",
+      "last_attempted_at": "2026-07-24T10:32:05",
+      "post_link": "https://sweetsworld.com.au/?p=74867",
+      "post_id": 74867,
+      "last_error": "",
+      "last_success_at": "2026-07-24T10:32:05"
+    },
+    "gummy-candy-hacks-2026": {
+      "slug": "gummy-candy-hacks-2026",
+      "title": "Gummy Candy Hacks: Creative Ways to Use Gummy Bears in 2026",
+      "status": "drafted",
+      "last_attempted_at": "2026-07-24T10:32:30",
+      "post_link": "https://sweetsworld.com.au/?p=74869",
+      "post_id": 74869,
+      "last_error": "",
+      "last_success_at": "2026-07-24T10:32:30"
+    },
+    "homemade-australian-lollies-guide-2026": {
+      "slug": "homemade-australian-lollies-guide-2026",
+      "title": "2026 Guide to Making Homemade Australian Lollies",
+      "status": "drafted",
+      "last_attempted_at": "2026-07-24T10:32:55",
+      "post_link": "https://sweetsworld.com.au/?p=74871",
+      "post_id": 74871,
+      "last_error": "",
+      "last_success_at": "2026-07-24T10:32:55"
+    },
+    "healthier-aussie-lollies-2026": {
+      "slug": "healthier-aussie-lollies-2026",
+      "title": "Healthier Alternatives to Classic Aussie Lollies in 2026",
+      "status": "drafted",
+      "last_attempted_at": "2026-07-24T10:33:25",
+      "post_link": "https://sweetsworld.com.au/?p=74873",
+      "post_id": 74873,
+      "last_error": "",
+      "last_success_at": "2026-07-24T10:33:25"
+    },
+    "top-10-bulk-lolly-brands-australia-2026": {
+      "slug": "top-10-bulk-lolly-brands-australia-2026",
+      "title": "Top 10 Bulk Lolly Brands Aussies Love in 2026",
+      "status": "drafted",
+      "last_attempted_at": "2026-07-24T10:33:48",
+      "post_link": "https://sweetsworld.com.au/?p=74875",
+      "post_id": 74875,
+      "last_error": "",
+      "last_success_at": "2026-07-24T10:33:48"
+    },
+    "aussie-lollies-comeback-2026": {
+      "slug": "aussie-lollies-comeback-2026",
+      "title": "Top 10 Aussie Lollies Making a Comeback in 2026",
+      "status": "drafted",
+      "last_attempted_at": "2026-07-25T10:32:22",
+      "post_link": "https://sweetsworld.com.au/?p=74904",
+      "post_id": 74904,
+      "last_error": "",
+      "last_success_at": "2026-07-25T10:32:22"
+    },
+    "iconic-australian-lolly-brands-2026": {
+      "slug": "iconic-australian-lolly-brands-2026",
+      "title": "The Sweet Legacy: Iconic Australian Lolly Brands in 2026",
+      "status": "drafted",
+      "last_attempted_at": "2026-07-25T10:32:52",
+      "post_link": "https://sweetsworld.com.au/?p=74906",
+      "post_id": 74906,
+      "last_error": "",
+      "last_success_at": "2026-07-25T10:32:52"
+    },
+    "healthy-nostalgic-australian-lollies-2026": {
+      "slug": "healthy-nostalgic-australian-lollies-2026",
+      "title": "Healthy Twist: Nostalgic Australian Lollies with a Modern Touch in 2026",
+      "status": "drafted",
+      "last_attempted_at": "2026-07-25T10:33:13",
+      "post_link": "https://sweetsworld.com.au/?p=74909",
+      "post_id": 74909,
+      "last_error": "",
+      "last_success_at": "2026-07-25T10:33:13"
+    },
+    "christmas-lolly-buffet-trends-2026": {
+      "slug": "christmas-lolly-buffet-trends-2026",
+      "title": "Creating a Christmas Lolly Buffet: Trends for 2026",
+      "status": "drafted",
+      "last_attempted_at": "2026-07-25T10:33:36",
+      "post_link": "https://sweetsworld.com.au/?p=74911",
+      "post_id": 74911,
+      "last_error": "",
+      "last_success_at": "2026-07-25T10:33:36"
+    },
+    "budget-friendly-lolly-buffet-2026": {
+      "slug": "budget-friendly-lolly-buffet-2026",
+      "title": "How to Create a Budget-Friendly Lolly Buffet for Parties in 2026",
+      "status": "drafted",
+      "last_attempted_at": "2026-07-25T10:34:00",
+      "post_link": "https://sweetsworld.com.au/?p=74913",
+      "post_id": 74913,
+      "last_error": "",
+      "last_success_at": "2026-07-25T10:34:00"
     }
   }
 }

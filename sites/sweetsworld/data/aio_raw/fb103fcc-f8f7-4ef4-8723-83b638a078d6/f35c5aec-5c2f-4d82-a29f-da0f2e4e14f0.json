@@ -1,0 +1,299 @@
+{
+  "candidates": [
+    {
+      "content": {
+        "parts": [
+          {
+            "text": "As a Sydney shopper looking for an Australian candy gift box, you have several excellent options that deliver right to your door. Whether you're after classic Aussie lollies, gourmet treats, or a custom selection, there's a local or Australia-wide service to suit your needs.\n\nHere are some top recommendations:\n\n*   **The Old Lolly Shop** offers \"hand-packed lolly gift boxes\" brimming with \"old-school favourites and Aussie charm.\" Their \"Childhood Classics Box\" is specifically mentioned as being packed with \"classic Australian lollies and chocolate favourites\". They ship Australia-wide, making them a reliable choice for delivering a nostalgic taste of Australia.\n*   **Gift Wrapped Up** provides \"delicious lolly hampers delivered Australia wide,\" including Sydney. Their \"Lollies Hamper\" can include popular Australian lollies such as Frogs, Gummi Teeth, Strawberries & Cream, Jelly Babies, Mixed Jellies, and Snakes. They also offer a 2.5kg \"Australian Lolly Box hamper\" for a generous treat.\n*   **Dessert Boxes** features \"Candy Collection Boxes\" that can be sent anywhere in Australia, with the added benefit of same-day delivery for Sydney metro areas if ordered within specific times. Their candy and lolly boxes can also be customised.\n*   **Edible Blooms** has a range of \"Lolly Hampers\" and offers same-day delivery to Sydney if you order within their specified timeframe. Their hampers are designed to be overflowing with sweet gifts.\n*   **Sweet As** provides a \"same day delivery lolly box\" service, along with other gourmet chocolate and lolly gift hampers available for Australia-wide delivery. They offer various share boxes, including a \"Happy Days Lolly & Chocolate Share Box\" and a \"Party Mix Lolly Gift Box.\"\n*   **Lollygraze**, an Adelaide-based online store, delivers \"Lolly Box Gifts\" to Sydney, focusing on \"simple, affordable and memorable\" options. They put \"lots of love and careful attention into each Lolly Gift Box/Candy Box.\"\n*   **iCandy Sydney** operates a local candy delivery service in the Hills District of Sydney, offering free next-day delivery within a 10km radius of Stanhope Gardens. They also ship their \"Pick & Mix Candy Boxes\" Australia-wide, allowing you to choose your favourite lollies for a personalised gift.\n*   **The Sweet Giftorium** allows you to \"design a custom Lolly Gift Box\" with a selection of classic, imported, and freeze-dried lollies. They also have a \"Birthday Box - Lollies & Candy.\"\n*   **Treats From Home** offers \"Australian Snack Gift Box Mega 29 Pack\" and \"Australian Snack Box – 18 Piece (Medium)\" which contain a variety of Australian treats.\n\nWhile **Sticky** offers an \"Aussie Favourites Gift Box\" with Musk Sticks, Australian Liquorice, Jelly Frogs, and Minties, it appears to be currently sold out. Similarly, **Lollylicious** provides chocolate and lolly bouquets and hampers with delivery to Sydney, and they can tailor orders to your preferences, though their focus is broader than exclusively Australian candy mixes.\n\nWhen choosing, consider if you prefer classic Australian lollies, a mix of international and local treats, or the convenience of same-day delivery. Many of these services also offer personalised messages to make your gift extra special."
+          }
+        ],
+        "role": "model"
+      },
+      "finishReason": "STOP",
+      "index": 0,
+      "groundingMetadata": {
+        "searchEntryPoint": {
+          "renderedContent": "<style>\n.container {\n  align-items: center;\n  border-radius: 8px;\n  display: flex;\n  font-family: Google Sans, Roboto, sans-serif;\n  font-size: 14px;\n  line-height: 20px;\n  padding: 8px 12px;\n}\n.chip {\n  display: inline-block;\n  border: solid 1px;\n  border-radius: 16px;\n  min-width: 14px;\n  padding: 5px 16px;\n  text-align: center;\n  user-select: none;\n  margin: 0 8px;\n  -webkit-tap-highlight-color: transparent;\n}\n.carousel {\n  overflow: auto;\n  scrollbar-width: none;\n  white-space: nowrap;\n  margin-right: -12px;\n}\n.headline {\n  display: flex;\n  margin-right: 4px;\n}\n.gradient-container {\n  position: relative;\n}\n.gradient {\n  position: absolute;\n  transform: translate(3px, -9px);\n  height: 36px;\n  width: 9px;\n}\n@media (prefers-color-scheme: light) {\n  .container {\n    background-color: #fafafa;\n    box-shadow: 0 0 0 1px #0000000f;\n  }\n  .headline-label {\n    color: #1f1f1f;\n  }\n  .chip {\n    background-color: #ffffff;\n    border-color: #d2d2d2;\n    color: #5e5e5e;\n    text-decoration: none;\n  }\n  .chip:hover {\n    background-color: #f2f2f2;\n  }\n  .chip:focus {\n    background-color: #f2f2f2;\n  }\n  .chip:active {\n    background-color: #d8d8d8;\n    border-color: #b6b6b6;\n  }\n  .logo-dark {\n    display: none;\n  }\n  .gradient {\n    background: linear-gradient(90deg, #fafafa 15%, #fafafa00 100%);\n  }\n}\n@media (prefers-color-scheme: dark) {\n  .container {\n    background-color: #1f1f1f;\n    box-shadow: 0 0 0 1px #ffffff26;\n  }\n  .headline-label {\n    color: #fff;\n  }\n  .chip {\n    background-color: #2c2c2c;\n    border-color: #3c4043;\n    color: #fff;\n    text-decoration: none;\n  }\n  .chip:hover {\n    background-color: #353536;\n  }\n  .chip:focus {\n    background-color: #353536;\n  }\n  .chip:active {\n    background-color: #464849;\n    border-color: #53575b;\n  }\n  .logo-light {\n    display: none;\n  }\n  .gradient {\n    background: linear-gradient(90deg, #1f1f1f 15%, #1f1f1f00 100%);\n  }\n}\n</style>\n<div class=\"container\">\n  <div class=\"headline\">\n    <svg class=\"logo-light\" width=\"18\" height=\"18\" viewBox=\"9 9 35 35\" fill=\"none\" xmlns=\"http://www.w3.org/2000/svg\">\n      <path fill-rule=\"evenodd\" clip-rule=\"evenodd\" d=\"M42.8622 27.0064C42.8622 25.7839 42.7525 24.6084 42.5487 23.4799H26.3109V30.1568H35.5897C35.1821 32.3041 33.9596 34.1222 32.1258 35.3448V39.6864H37.7213C40.9814 36.677 42.8622 32.2571 42.8622 27.0064V27.0064Z\" fill=\"#4285F4\"/>\n      <path fill-rule=\"evenodd\" clip-rule=\"evenodd\" d=\"M26.3109 43.8555C30.9659 43.8555 34.8687 42.3195 37.7213 39.6863L32.1258 35.3447C30.5898 36.3792 28.6306 37.0061 26.3109 37.0061C21.8282 37.0061 18.0195 33.9811 16.6559 29.906H10.9194V34.3573C13.7563 39.9841 19.5712 43.8555 26.3109 43.8555V43.8555Z\" fill=\"#34A853\"/>\n      <path fill-rule=\"evenodd\" clip-rule=\"evenodd\" d=\"M16.6559 29.8904C16.3111 28.8559 16.1074 27.7588 16.1074 26.6146C16.1074 25.4704 16.3111 24.3733 16.6559 23.3388V18.8875H10.9194C9.74388 21.2072 9.06992 23.8247 9.06992 26.6146C9.06992 29.4045 9.74388 32.022 10.9194 34.3417L15.3864 30.8621L16.6559 29.8904V29.8904Z\" fill=\"#FBBC05\"/>\n      <path fill-rule=\"evenodd\" clip-rule=\"evenodd\" d=\"M26.3109 16.2386C28.85 16.2386 31.107 17.1164 32.9095 18.8091L37.8466 13.8719C34.853 11.082 30.9659 9.3736 26.3109 9.3736C19.5712 9.3736 13.7563 13.245 10.9194 18.8875L16.6559 23.3388C18.0195 19.2636 21.8282 16.2386 26.3109 16.2386V16.2386Z\" fill=\"#EA4335\"/>\n    </svg>\n    <svg class=\"logo-dark\" width=\"18\" height=\"18\" viewBox=\"0 0 48 48\" xmlns=\"http://www.w3.org/2000/svg\">\n      <circle cx=\"24\" cy=\"23\" fill=\"#FFF\" r=\"22\"/>\n      <path d=\"M33.76 34.26c2.75-2.56 4.49-6.37 4.49-11.26 0-.89-.08-1.84-.29-3H24.01v5.99h8.03c-.4 2.02-1.5 3.56-3.07 4.56v.75l3.91 2.97h.88z\" fill=\"#4285F4\"/>\n      <path d=\"M15.58 25.77A8.845 8.845 0 0 0 24 31.86c1.92 0 3.62-.46 4.97-1.31l4.79 3.71C31.14 36.7 27.65 38 24 38c-5.93 0-11.01-3.4-13.45-8.36l.17-1.01 4.06-2.85h.8z\" fill=\"#34A853\"/>\n      <path d=\"M15.59 20.21a8.864 8.864 0 0 0 0 5.58l-5.03 3.86c-.98-2-1.53-4.25-1.53-6.64 0-2.39.55-4.64 1.53-6.64l1-.22 3.81 2.98.22 1.08z\" fill=\"#FBBC05\"/>\n      <path d=\"M24 14.14c2.11 0 4.02.75 5.52 1.98l4.36-4.36C31.22 9.43 27.81 8 24 8c-5.93 0-11.01 3.4-13.45 8.36l5.03 3.85A8.86 8.86 0 0 1 24 14.14z\" fill=\"#EA4335\"/>\n    </svg>\n    <div class=\"gradient-container\"><div class=\"gradient\"></div></div>\n  </div>\n  <div class=\"carousel\">\n    <a class=\"chip\" href=\"https://vertexaisearch.cloud.google.com/grounding-api-redirect/AUZIYQHAxpsilavwhagqy_n5jHHYyDsMiHeAwcS3dULaj42PFKgFA2c9caLRPU0TP9c4eJm3cBvanY74cnmL18B5146rDyPaQogMWsWMX_-429GVMdMEjNv3xskhdvzl-chCY6VToTkI6lR5BKVfC-QoxNplzRL97MXV5hPKr6A3X6br-14mT8ILiqtqwSv2ePgpRLEOWxBK5BL9dOOxp3LZbj4IYPHHyP0KuuxFOg==\">gourmet Australian lolly hampers Sydney</a>\n    <a class=\"chip\" href=\"https://vertexaisearch.cloud.google.com/grounding-api-redirect/AUZIYQE37j4ky7FHKUe5FjBL_-hMiUvaPJEpDOy6U-SBp0bJ4uQjsc69lxKkq_kgHrcqtdZVVDDkVX1vG9DiyGliSggcjGTcb0UiRe6t9Lh1vgpzHtnU3jvmttdJ_cqEZcSlEdkMrrPXin7ouVLyBtMpCFG5Nb2GQp0BFc-0GhN_3lsyRDnaFU-AO3W9rsL56fnkiCX7glJ-2e9c3nP-9-Fj9z1b6EDE5ftsJ2Vr\">local Sydney Australian candy gift box</a>\n    <a class=\"chip\" href=\"https://vertexaisearch.cloud.google.com/grounding-api-redirect/AUZIYQH-RxM7JrP3g5CirzA9LSLg073mbqhiCpktN4AQ1ED6DdtTeraPfAuZbHWANNm6TCMaXwZclB6eQLEViSwPsqKxzQqu7flQ50bCuVNPFBmePk1WoUsn6bBPBEbS3uWViqRuyW1RPskR1GSR1W-OnRwd_EmpWkuLHKyBlmfIcdwvU_er7t2PZH9ZrpL9YNI5c9hCQKIyJsFmSXF8aqQZL0Sq_w_rY_OzBGPxZTXV\">Australian candy gift box delivery Sydney</a>\n    <a class=\"chip\" href=\"https://vertexaisearch.cloud.google.com/grounding-api-redirect/AUZIYQECnBGOT4L3l6MQtboWAdydv1OHtPM28NphBvAKQCwbqMvptX0P-kYMMqZyJnG_1rulKGQNwv1RGqgXKKAHZIsfhzNZ25jZ4XmkJ1BgvbqwN1PiLeQG5Vk2gUZKdVT1YHhSNQjYdBOKxCkGJh5DoYvc_0zBwnRSdUpR-mQQeI9dBjjSnfbV4bAbHTZk6haSdeA1TVMihMhmJ-IyeXiCzgiKnDaxp4UtBzQ=\">best Australian lolly gift box Sydney</a>\n  </div>\n</div>\n"
+        },
+        "groundingChunks": [
+          {
+            "web": {
+              "uri": "https://vertexaisearch.cloud.google.com/grounding-api-redirect/AUZIYQG3oB4q2EvUZxfCEORLbA94JW3CtYwC1yjP7-R17sapdLQ6tghQM3c7bg5MsIPVy8A72RmM3rKvWywQsV_AuUxerqnifM2QtfL2fgKWQvj7KeRP-IiryKCZ5DUcJKG-MViX-NwbRvJbaTY9RkRxCczI",
+              "title": "theoldlollyshop.com.au"
+            }
+          },
+          {
+            "web": {
+              "uri": "https://vertexaisearch.cloud.google.com/grounding-api-redirect/AUZIYQEv_Trn5TPHYImz6dCi2XPNPc7DTGC2rU7ml7l_OeL1xGeGMmEgqdVAN5ToYDH2rZ4Z858p1xKk-aztGlKSKb_NUbLVf4Ey5Tb1y-rT0ipNOHgQ1Ww1ElTlDvBiCvZHcooRt_YJV--rK3kUqibqgCw=",
+              "title": "giftwrappedup.com.au"
+            }
+          },
+          {
+            "web": {
+              "uri": "https://vertexaisearch.cloud.google.com/grounding-api-redirect/AUZIYQEvNLTX6gfWAb5nCiX39Gn1TXkf-golIXbZ6egQjwpUXX4H4-CmBfAItdJIoV6tSJ-folQhzUh-88RPmwx2OEjDLc0IEJWExAUa5aYy1IV7ogAXTCEgSjRkDt23cn2vhEy7p9jJPwZ41CI_us_J64PutAE0WTr5-3o=",
+              "title": "dessertboxes.com.au"
+            }
+          },
+          {
+            "web": {
+              "uri": "https://vertexaisearch.cloud.google.com/grounding-api-redirect/AUZIYQHLP6o1Jto7u1YNB7nigIkYjAJO3Nhr6rrPMx438E1UM2v8pJqOoN-y_kKlTWDs1jTxpD06nVAuCYmUB4wBDUcxk_Jfd-GakQhQ4PeDLCTx767XWK0_FOlweBEHbJYfJ9_z3sKB-GbP4UPWLofhVR6QRYTvlw==",
+              "title": "edibleblooms.com.au"
+            }
+          },
+          {
+            "web": {
+              "uri": "https://vertexaisearch.cloud.google.com/grounding-api-redirect/AUZIYQH-wkzyPgeC8bBk0_wxV7ZuhM-vKtdM1meiEIqwPtDvgJYCuYKsMIvLABKTEtO9xt0IyMy3ALez_mb2kkY0QyWljQwNyDtbIKzH31DMxgh4AutCrD2XUK1s8S2xsvVVoD48GP7m6Q97L43ikivZ266-ukjJNf8TKT0yu34kHvfEbHdVgA==",
+              "title": "sweetas.net.au"
+            }
+          },
+          {
+            "web": {
+              "uri": "https://vertexaisearch.cloud.google.com/grounding-api-redirect/AUZIYQFMXN3To-2zSMZa3U3lNVNRjb7_5gvLvvX5wtABXXoosVtwMYgnJZBf2cozuatUUNAoGY3uxc07pmHMP30hb7DQTi7Do7UfvTypESIg9OGfIlbOg2qtEmu40ZOdPOFg",
+              "title": "lollygrazeadelaide.com"
+            }
+          },
+          {
+            "web": {
+              "uri": "https://vertexaisearch.cloud.google.com/grounding-api-redirect/AUZIYQF5HvJKwEXFa_WMEWJS1a-P2r3iNRoTJT4rtLi5_pNcU6BKWYXMxsj-EDkSHITmICPEEszSzX6L_WR0Gufjrb8W_1eS3YsjlIZtOJqGcbUZZPsG9bI=",
+              "title": "icandysydney.com"
+            }
+          },
+          {
+            "web": {
+              "uri": "https://vertexaisearch.cloud.google.com/grounding-api-redirect/AUZIYQGDfCCTRjBKZm3UuygFpMisZ4ic8OiAVWGojw0Mzmp5tqyHq76PPW-zGpsxDUZGZeXHMYOWCO2rHBaZzznqcsL4VEr1RhpRalG2QXhUajLd727Xu1nga5P5jYvcQg==",
+              "title": "thesweetgiftorium.com.au"
+            }
+          },
+          {
+            "web": {
+              "uri": "https://vertexaisearch.cloud.google.com/grounding-api-redirect/AUZIYQFzMzqwxbGltqGrMNx_TcmXyrr417iN-pamYReRhhz9XbgyNromfV1l-Cf3rTWlQvwBh7dnPtznbeBWKnk8rSyjBqLYxi_XmH-DhXLkE4EUC91ELyfN5w==",
+              "title": "treatsfromhome.com"
+            }
+          },
+          {
+            "web": {
+              "uri": "https://vertexaisearch.cloud.google.com/grounding-api-redirect/AUZIYQGUSnGG7K63LKhlaXpgVuhYZVByWVUun-HeJJFdj2TZlHCHP5mi-jPp_nlA9UBCpJNnrHK-_4kOh9Dm_LzQnkM_sfEARZ0OZTrsqo7vnOs4Su0D6hZ0n5zpN3LcrOzLt0IfMWOoZsZvU0gimgPR15aK",
+              "title": "sticky.com.au"
+            }
+          },
+          {
+            "web": {
+              "uri": "https://vertexaisearch.cloud.google.com/grounding-api-redirect/AUZIYQHnPCD2DsQTw-thnTPMw6M1mTfZt-0LZS6poSEcN8En5ZicVy0hj2qj4WefUQFoJxtL3fZ6f8XOPQfCqGEx_mJDUhM72e6DVaPdi-W5q0PivtEn-2l8GHEi99N1",
+              "title": "lollylicious.com.au"
+            }
+          }
+        ],
+        "groundingSupports": [
+          {
+            "segment": {
+              "startIndex": 313,
+              "endIndex": 565,
+              "text": "*   **The Old Lolly Shop** offers \"hand-packed lolly gift boxes\" brimming with \"old-school favourites and Aussie charm.\" Their \"Childhood Classics Box\" is specifically mentioned as being packed with \"classic Australian lollies and chocolate favourites\""
+            },
+            "groundingChunkIndices": [
+              0
+            ]
+          },
+          {
+            "segment": {
+              "startIndex": 567,
+              "endIndex": 669,
+              "text": "They ship Australia-wide, making them a reliable choice for delivering a nostalgic taste of Australia."
+            },
+            "groundingChunkIndices": [
+              0
+            ]
+          },
+          {
+            "segment": {
+              "startIndex": 773,
+              "endIndex": 924,
+              "text": "Their \"Lollies Hamper\" can include popular Australian lollies such as Frogs, Gummi Teeth, Strawberries & Cream, Jelly Babies, Mixed Jellies, and Snakes"
+            },
+            "groundingChunkIndices": [
+              1
+            ]
+          },
+          {
+            "segment": {
+              "startIndex": 926,
+              "endIndex": 1001,
+              "text": "They also offer a 2.5kg \"Australian Lolly Box hamper\" for a generous treat."
+            },
+            "groundingChunkIndices": [
+              1
+            ]
+          },
+          {
+            "segment": {
+              "startIndex": 1002,
+              "endIndex": 1197,
+              "text": "*   **Dessert Boxes** features \"Candy Collection Boxes\" that can be sent anywhere in Australia, with the added benefit of same-day delivery for Sydney metro areas if ordered within specific times"
+            },
+            "groundingChunkIndices": [
+              2
+            ]
+          },
+          {
+            "segment": {
+              "startIndex": 1199,
+              "endIndex": 1250,
+              "text": "Their candy and lolly boxes can also be customised."
+            },
+            "groundingChunkIndices": [
+              2
+            ]
+          },
+          {
+            "segment": {
+              "startIndex": 1251,
+              "endIndex": 1388,
+              "text": "*   **Edible Blooms** has a range of \"Lolly Hampers\" and offers same-day delivery to Sydney if you order within their specified timeframe"
+            },
+            "groundingChunkIndices": [
+              3
+            ]
+          },
+          {
+            "segment": {
+              "startIndex": 1390,
+              "endIndex": 1452,
+              "text": "Their hampers are designed to be overflowing with sweet gifts."
+            },
+            "groundingChunkIndices": [
+              3
+            ]
+          },
+          {
+            "segment": {
+              "startIndex": 1453,
+              "endIndex": 1615,
+              "text": "*   **Sweet As** provides a \"same day delivery lolly box\" service, along with other gourmet chocolate and lolly gift hampers available for Australia-wide delivery"
+            },
+            "groundingChunkIndices": [
+              4
+            ]
+          },
+          {
+            "segment": {
+              "startIndex": 1617,
+              "endIndex": 1735,
+              "text": "They offer various share boxes, including a \"Happy Days Lolly & Chocolate Share Box\" and a \"Party Mix Lolly Gift Box.\""
+            },
+            "groundingChunkIndices": [
+              4
+            ]
+          },
+          {
+            "segment": {
+              "startIndex": 1736,
+              "endIndex": 1880,
+              "text": "*   **Lollygraze**, an Adelaide-based online store, delivers \"Lolly Box Gifts\" to Sydney, focusing on \"simple, affordable and memorable\" options"
+            },
+            "groundingChunkIndices": [
+              5
+            ]
+          },
+          {
+            "segment": {
+              "startIndex": 1882,
+              "endIndex": 1963,
+              "text": "They put \"lots of love and careful attention into each Lolly Gift Box/Candy Box.\""
+            },
+            "groundingChunkIndices": [
+              5
+            ]
+          },
+          {
+            "segment": {
+              "startIndex": 2133,
+              "endIndex": 2265,
+              "text": "They also ship their \"Pick & Mix Candy Boxes\" Australia-wide, allowing you to choose your favourite lollies for a personalised gift."
+            },
+            "groundingChunkIndices": [
+              6
+            ]
+          },
+          {
+            "segment": {
+              "startIndex": 2266,
+              "endIndex": 2404,
+              "text": "*   **The Sweet Giftorium** allows you to \"design a custom Lolly Gift Box\" with a selection of classic, imported, and freeze-dried lollies"
+            },
+            "groundingChunkIndices": [
+              7
+            ]
+          },
+          {
+            "segment": {
+              "startIndex": 2406,
+              "endIndex": 2456,
+              "text": "They also have a \"Birthday Box - Lollies & Candy.\""
+            },
+            "groundingChunkIndices": [
+              7
+            ]
+          },
+          {
+            "segment": {
+              "startIndex": 2457,
+              "endIndex": 2624,
+              "text": "*   **Treats From Home** offers \"Australian Snack Gift Box Mega 29 Pack\" and \"Australian Snack Box – 18 Piece (Medium)\" which contain a variety of Australian treats."
+            },
+            "groundingChunkIndices": [
+              8
+            ]
+          },
+          {
+            "segment": {
+              "startIndex": 2626,
+              "endIndex": 2784,
+              "text": "While **Sticky** offers an \"Aussie Favourites Gift Box\" with Musk Sticks, Australian Liquorice, Jelly Frogs, and Minties, it appears to be currently sold out."
+            },
+            "groundingChunkIndices": [
+              9
+            ]
+          },
+          {
+            "segment": {
+              "startIndex": 2785,
+              "endIndex": 3006,
+              "text": "Similarly, **Lollylicious** provides chocolate and lolly bouquets and hampers with delivery to Sydney, and they can tailor orders to your preferences, though their focus is broader than exclusively Australian candy mixes."
+            },
+            "groundingChunkIndices": [
+              10
+            ]
+          }
+        ],
+        "webSearchQueries": [
+          "Australian candy gift box delivery Sydney",
+          "best Australian lolly gift box Sydney",
+          "local Sydney Australian candy gift box",
+          "gourmet Australian lolly hampers Sydney"
+        ]
+      }
+    }
+  ],
+  "usageMetadata": {
+    "promptTokenCount": 31,
+    "candidatesTokenCount": 769,
+    "totalTokenCount": 1935,
+    "promptTokensDetails": [
+      {
+        "modality": "TEXT",
+        "tokenCount": 31
+      }
+    ],
+    "toolUsePromptTokenCount": 151,
+    "toolUsePromptTokensDetails": [
+      {
+        "modality": "TEXT",
+        "tokenCount": 151
+      }
+    ],
+    "thoughtsTokenCount": 984,
+    "serviceTier": "standard"
+  },
+  "modelVersion": "gemini-2.5-flash",
+  "responseId": "_HFbaqz9BPShjuMPgrqagQI"
+}

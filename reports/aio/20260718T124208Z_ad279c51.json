@@ -1,0 +1,125 @@
+{
+  "run": {
+    "run_id": "ad279c51-57b0-400d-9efc-4cecacccb5c3",
+    "site_id": "sweetsworld",
+    "basket_version": "2026-07-18.v2",
+    "trigger": "v2-five-cluster-baseline",
+    "status": "completed",
+    "started_at": "2026-07-18T12:36:06.935732+00:00",
+    "completed_at": "2026-07-18T12:41:30.174863+00:00",
+    "notes": "successes=20; errors=0"
+  },
+  "methodology": {
+    "unit": "one provider response to one prompt replicate",
+    "surface_separation": true,
+    "recommendation_detection": "conservative deterministic text-window heuristic",
+    "confidence_interval": "Wilson score interval, 95%",
+    "important_limit": "API search surfaces are not the ChatGPT UI or Google AI Overviews"
+  },
+  "basket": {
+    "observed_prompts": 5,
+    "configured_prompts": 30
+  },
+  "surfaces": {
+    "google/gemini_grounding_api": {
+      "observations": 10,
+      "valid_observations": 10,
+      "errors": 0,
+      "brand_mention": {
+        "successes": 3,
+        "total": 10,
+        "rate": 0.3,
+        "ci95_low": 0.10778928748621183,
+        "ci95_high": 0.6032267800204347
+      },
+      "brand_recommendation": {
+        "successes": 3,
+        "total": 10,
+        "rate": 0.3,
+        "ci95_low": 0.10778928748621183,
+        "ci95_high": 0.6032267800204347
+      },
+      "domain_citation": {
+        "successes": 3,
+        "total": 10,
+        "rate": 0.3,
+        "ci95_low": 0.10778928748621183,
+        "ci95_high": 0.6032267800204347
+      },
+      "product_citation": {
+        "successes": 0,
+        "total": 10,
+        "rate": 0.0,
+        "ci95_low": 0.0,
+        "ci95_high": 0.2775401687666165
+      },
+      "query_domain_coverage": {
+        "successes": 2,
+        "total": 5,
+        "rate": 0.4,
+        "ci95_low": 0.1176182311592533,
+        "ci95_high": 0.769280067791163
+      },
+      "mean_recommendation_position": 1.3333333333333333,
+      "mention_share_of_voice": {
+        "Sweetsworld": 0.15789473684210525,
+        "Candy Bar Sydney": 0.3157894736842105,
+        "Lolly Warehouse": 0.2631578947368421,
+        "Lollylicious": 0.15789473684210525,
+        "The Lolli Shop": 0.05263157894736842,
+        "The Professors": 0.05263157894736842
+      },
+      "competitor_mentions": 16
+    },
+    "openai/responses_web_search_api": {
+      "observations": 10,
+      "valid_observations": 10,
+      "errors": 0,
+      "brand_mention": {
+        "successes": 3,
+        "total": 10,
+        "rate": 0.3,
+        "ci95_low": 0.10778928748621183,
+        "ci95_high": 0.6032267800204347
+      },
+      "brand_recommendation": {
+        "successes": 2,
+        "total": 10,
+        "rate": 0.2,
+        "ci95_low": 0.05668094798069326,
+        "ci95_high": 0.5098431532792767
+      },
+      "domain_citation": {
+        "successes": 6,
+        "total": 10,
+        "rate": 0.6,
+        "ci95_low": 0.3126695474501864,
+        "ci95_high": 0.8318224187964902
+      },
+      "product_citation": {
+        "successes": 2,
+        "total": 10,
+        "rate": 0.2,
+        "ci95_low": 0.05668094798069326,
+        "ci95_high": 0.5098431532792767
+      },
+      "query_domain_coverage": {
+        "successes": 4,
+        "total": 5,
+        "rate": 0.8,
+        "ci95_low": 0.3755282641185388,
+        "ci95_high": 0.9637768390302125
+      },
+      "mean_recommendation_position": 1.5,
+      "mention_share_of_voice": {
+        "Sweetsworld": 0.2,
+        "Lolly Warehouse": 0.5333333333333333,
+        "Lollylicious": 0.13333333333333333,
+        "The Lolli Shop": 0.06666666666666667,
+        "The Professors": 0.06666666666666667
+      },
+      "competitor_mentions": 12
+    }
+  },
+  "comparison": null
+}

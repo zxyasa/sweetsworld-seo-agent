@@ -1,0 +1,157 @@
+{
+  "brief_id": "marshmallows-australia-brief-v1",
+  "slug": "marshmallows-australia",
+  "keyword": "marshmallows australia",
+  "search_intent": "Transactional with commercial intent",
+  "page_type": "landing_page",
+  "title": "Marshmallows Australia: Buy Bulk Marshmallows and Flavoured Varieties",
+  "meta_description": "Marshmallows Australia: Buy Bulk Marshmallows and Flavoured Varieties. Compare stock options, buying factors, and the best next steps for marshmallows...",
+  "intro": "Use this page to compare where to buy marshmallows in Australia, what to check before ordering, and which candy & lollies options are the best fit for your basket.",
+  "outline": [
+    "Where to buy marshmallows with less guesswork",
+    "How to compare Candy & Lollies options before ordering"
+  ],
+  "sections": [
+    {
+      "heading": "Where to buy marshmallows with less guesswork",
+      "paragraphs": [
+        "Landing pages for marshmallows need to show real commercial value quickly, including price context, stock clarity, and relevant product paths.",
+        "The goal is to reduce purchase friction rather than publish a thin page that repeats the keyword."
+      ],
+      "bullets": [
+        "ADULT MARSHMALLOW WILLIES 140g",
+        "Campfire Giant Marshmallows 340g",
+        "CAMPFIRE MARSHMALLOW 150G (Gluten & Fat Free)",
+        "Candy Can Marshmallow 330ml"
+      ]
+    },
+    {
+      "heading": "How to compare Candy & Lollies options before ordering",
+      "paragraphs": [
+        "A stronger landing page explains the trade-offs between pack size, flavour range, stock depth, and delivery timing.",
+        "That gives the page a conversion job as well as a ranking job."
+      ],
+      "bullets": [
+        "Compare unit price instead of headline price alone.",
+        "Check stock, bundle size, and delivery timing together.",
+        "Keep the call to action aligned with the buying task."
+      ]
+    }
+  ],
+  "faq_items": [
+    {
+      "question": "Where can I buy marshmallows online in Australia?",
+      "answer": "Start with Australian stores that show live stock, delivery windows, and product range depth for marshmallows before checkout."
+    },
+    {
+      "question": "How should I compare marshmallows prices?",
+      "answer": "Compare unit price, pack size, shipping cost, and bundle options together instead of looking at the headline price only."
+    },
+    {
+      "question": "Are there other candy & lollies options worth comparing?",
+      "answer": "Yes. Nearby collections or substitute products can be useful when marshmallows is out of stock or only available in limited pack sizes."
+    }
+  ],
+  "faq_questions": [
+    "Where can I buy marshmallows online in Australia?",
+    "How should I compare marshmallows prices?",
+    "Are there other candy & lollies options worth comparing?"
+  ],
+  "internal_links": [
+    {
+      "url": "https://sweetsworld.com.au/products/lollipops-australia/",
+      "label": "Lollipops Australia",
+      "anchor_text": "Shop Lollipops Australia",
+      "link_kind": "collection"
+    },
+    {
+      "url": "https://sweetsworld.com.au/where-to-buy/gummy-bears-australia/",
+      "label": "Gummy Bears Australia",
+      "anchor_text": "Browse Gummy Bears Australia",
+      "link_kind": "commercial"
+    },
+    {
+      "url": "https://sweetsworld.com.au/candy/",
+      "label": "Candy",
+      "anchor_text": "Compare Candy",
+      "link_kind": "category"
+    }
+  ],
+  "selected_products": [
+    {
+      "product_name": "ADULT MARSHMALLOW WILLIES 140g",
+      "category": "Candy",
+      "description": "",
+      "price": "19.99",
+      "url": "https://sweetsworld.com.au/candy/adult-marshmallow-willies-140g/",
+      "image_url": "https://sweetsworld.com.au/wp-content/uploads/2025/11/2bdd63d436e21cd24867a7ce87bde872ba64d585.jpg",
+      "matched_tokens": [
+        "marshmallow"
+      ],
+      "matched_phrases": [],
+      "selection_reason": "direct_match"
+    },
+    {
+      "product_name": "Campfire Giant Marshmallows 340g",
+      "category": "Candy",
+      "description": "",
+      "price": "11.99",
+      "url": "https://sweetsworld.com.au/candy/campfire-giant-marshmallows-340g/",
+      "image_url": "https://sweetsworld.com.au/wp-content/uploads/2025/03/Giant-Campfire-Marshmallows.webp",
+      "matched_tokens": [
+        "marshmallow"
+      ],
+      "matched_phrases": [],
+      "selection_reason": "direct_match"
+    },
+    {
+      "product_name": "CAMPFIRE MARSHMALLOW 150G (Gluten & Fat Free)",
+      "category": "Candy",
+      "description": "",
+      "price": "7.99",
+      "url": "https://sweetsworld.com.au/candy/campfire-marshmallow-150g/",
+      "image_url": "https://sweetsworld.com.au/wp-content/uploads/2025/07/IMG_4583.jpg",
+      "matched_tokens": [
+        "marshmallow"
+      ],
+      "matched_phrases": [],
+      "selection_reason": "direct_match"
+    },
+    {
+      "product_name": "Candy Can Marshmallow 330ml",
+      "category": "Uncategorized",
+      "description": "Candy Can Marshmallow 330ml Product Description: Your favourite campfire roast candy in a can, this refreshing, zero sugar, sparkling soft drink tastes just like a melted marshallow. Marshmallow flavour soft drink, a...",
+      "price": "5",
+      "url": "https://sweetsworld.com.au/uncategorized/candy-can-marshmallow-330ml/",
+      "image_url": "https://sweetsworld.com.au/wp-content/uploads/2022/06/candy-can-marshmallow_4e667f85-5680-4374-b25f-59f9a0cbac7b_300x300.jpg",
+      "matched_tokens": [
+        "marshmallow"
+      ],
+      "matched_phrases": [],
+      "selection_reason": "direct_match"
+    }
+  ],
+  "related_keywords": [
+    "sweetsworld",
+    "white knight chocolate",
+    "sweets world",
+    "fantales lollies",
+    "clinkers chocolate",
+    "darrell lea kotara"
+  ],
+  "cta": {
+    "heading": "Move from marshmallows research into a purchase",
+    "body": "Compare the shortlist, then click through to the most relevant collection or product page to check live stock and delivery details.",
+    "button_text": "Browse Related Collection"
+  },
+  "distribution_channels": [
+    "facebook",
+    "instagram",
+    "gbp",
+    "pinterest"
+  ],
+  "schema_types": [
+    "BreadcrumbList",
+    "ItemList"
+  ]
+}

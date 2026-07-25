@@ -1,11 +1,11 @@
 # Pilot Gate
 
-- Generated at: `2026-07-23T00:30:23+00:00`
+- Generated at: `2026-07-25T00:30:26+00:00`
 - Decision: **`hold`**
-- Next action: Waiting for GSC impression signal on the 60 live pilot pages. Re-run pilot_gate after 2026-07-24 to check again.
+- Next action: Waiting for GSC impression signal on the 62 live pilot pages. Re-run pilot_gate after 2026-07-26 to check again.
 - Dashboard source: `live`
 
-- Published pilot pages: `60`
+- Published pilot pages: `62`
 - Approved but unpublished pages: `0`
 - QA pass rate: `1.0`
 - GSC impressions: `0` | clicks: `0` | avg CTR: `0.0%` | avg position: `0.0`
@@ -14,9 +14,9 @@
 - Content upgrade candidates: `0`
 - GA4 sessions: `0` | avg bounce: `0%` | avg duration: `0.0s`
 - GA4 pages with data: `0` | high bounce: `0` | low duration: `0`
-- Technical blockers: `53`
-- Dashboard issue pages: `58`
-- Non-blocking technical warnings: `5`
+- Technical blockers: `54`
+- Dashboard issue pages: `60`
+- Non-blocking technical warnings: `6`
 
 ## Checks
 
@@ -41,7 +41,7 @@
 
 ## Technical Warnings
 
-- `missing_from_post_sitemap`: `5` page(s)
+- `missing_from_post_sitemap`: `6` page(s)
 
 ## GSC Performance Analysis
 

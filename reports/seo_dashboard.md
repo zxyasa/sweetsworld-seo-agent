@@ -1,6 +1,6 @@
 # SEO Dashboard
 
-- Generated at: `2026-07-23T00:01:04+00:00`
+- Generated at: `2026-07-25T00:01:00+00:00`
 - Window: last `7` days
 - Published pilot pages: `89`
 - Pages with blocking issues: `82`
@@ -20,23 +20,23 @@
 - H1 count: `1`
 - Title present: `True`
 - Meta description present: `True`
-- GSC clicks: `24`
-- GSC impressions: `354`
-- GSC CTR: `6.78%`
-- GSC avg position: `5.49`
+- GSC clicks: `19`
+- GSC impressions: `356`
+- GSC CTR: `5.34%`
+- GSC avg position: `5.38`
 - Top queries:
-  - `white knight chocolate` | clicks `7` | impressions `160` | position `5.67`
-  - `white knight chocolate bar` | clicks `2` | impressions `8` | position `4.0`
-  - `white knight bar` | clicks `1` | impressions `7` | position `5.29`
-  - `white knight lollies` | clicks `1` | impressions `14` | position `7.36`
-  - `white knights chocolate` | clicks `1` | impressions `17` | position `5.94`
-  - `white night chocolate` | clicks `1` | impressions `14` | position `4.0`
+  - `white knight chocolate` | clicks `6` | impressions `159` | position `5.85`
+  - `white knight bar` | clicks `1` | impressions `11` | position `5.09`
+  - `white knight lollies` | clicks `1` | impressions `13` | position `6.54`
+  - `white knights chocolate` | clicks `1` | impressions `16` | position `6.31`
+  - `white night chocolate` | clicks `1` | impressions `14` | position `3.93`
   - `knight chocolate` | clicks `0` | impressions `1` | position `9.0`
-  - `white knight chocolate where to buy` | clicks `0` | impressions `12` | position `2.0`
-  - `white knight chocolate woolworths` | clicks `0` | impressions `3` | position `5.33`
-  - `white knight confectionery` | clicks `0` | impressions `2` | position `5.0`
+  - `sex chocolate tabs near me` | clicks `0` | impressions `1` | position `2.0`
+  - `white knight chocolate bar` | clicks `0` | impressions `6` | position `4.17`
+  - `white knight chocolate where to buy` | clicks `0` | impressions `11` | position `1.55`
+  - `white knight chocolate woolworths` | clicks `0` | impressions `3` | position `4.0`
   - `white knight lolly` | clicks `0` | impressions `2` | position `8.5`
-  - `white knights lollies` | clicks `0` | impressions `5` | position `12.8`
+  - `white knights lollies` | clicks `0` | impressions `4` | position `12.0`
 - Issues:
   - `missing_from_post_sitemap`
 
@@ -52,60 +52,60 @@
 - H1 count: `1`
 - Title present: `True`
 - Meta description present: `True`
-- GSC clicks: `45`
-- GSC impressions: `1501`
-- GSC CTR: `3.0%`
-- GSC avg position: `5.46`
+- GSC clicks: `48`
+- GSC impressions: `1519`
+- GSC CTR: `3.16%`
+- GSC avg position: `5.96`
 - Top queries:
-  - `fantales` | clicks `20` | impressions `491` | position `4.77`
-  - `fantails lolly` | clicks `8` | impressions `214` | position `5.25`
-  - `fantales lollies` | clicks `2` | impressions `173` | position `4.97`
-  - `can you still buy fantales` | clicks `1` | impressions `12` | position `2.75`
-  - `fantail lollies` | clicks `1` | impressions `10` | position `7.1`
-  - `fantails australia lollies` | clicks `1` | impressions `2` | position `5.0`
-  - `fantales chocolate` | clicks `1` | impressions `37` | position `6.08`
-  - `fantales chocolate where to buy` | clicks `1` | impressions `7` | position `3.71`
-  - `"fantales" "shannon sauro"` | clicks `0` | impressions `1` | position `9.0`
+  - `fantales` | clicks `22` | impressions `523` | position `5.1`
+  - `fantails lolly` | clicks `6` | impressions `187` | position `5.45`
+  - `fantales lollies` | clicks `5` | impressions `162` | position `5.33`
+  - `buy fantales` | clicks `1` | impressions `5` | position `5.4`
+  - `fantail lollies` | clicks `1` | impressions `24` | position `7.79`
+  - `fantales australia` | clicks `1` | impressions `8` | position `6.0`
   - `are fantales coming back` | clicks `0` | impressions `1` | position `2.0`
   - `are fantales discontinued` | clicks `0` | impressions `1` | position `2.0`
-  - `buy fantales` | clicks `0` | impressions `4` | position `5.25`
-  - `can you still buy fantales in australia` | clicks `0` | impressions `9` | position `4.78`
-  - `cobbers lollies` | clicks `0` | impressions `1` | position `3.0`
-  - `do fantales still exist` | clicks `0` | impressions `2` | position `5.5`
-  - `do they still make fantales` | clicks `0` | impressions `4` | position `6.5`
-  - `fan tales` | clicks `0` | impressions `11` | position `7.64`
-  - `fantaes` | clicks `0` | impressions `1` | position `6.0`
-  - `fantail chocolate` | clicks `0` | impressions `10` | position `9.5`
-  - `fantail lolly` | clicks `0` | impressions `8` | position `3.75`
+  - `australian fantail sweets` | clicks `0` | impressions `1` | position `3.0`
+  - `can you still buy fantales` | clicks `0` | impressions `5` | position `5.0`
+  - `can you still buy fantales in australia` | clicks `0` | impressions `9` | position `6.56`
+  - `columbines lollies` | clicks `0` | impressions `1` | position `3.0`
+  - `do fantales still exist` | clicks `0` | impressions `1` | position `8.0`
+  - `do they still make fantales` | clicks `0` | impressions `3` | position `12.33`
+  - `famtales` | clicks `0` | impressions `1` | position `6.0`
+  - `fan tales` | clicks `0` | impressions `18` | position `8.72`
+  - `fantail chocolate` | clicks `0` | impressions `15` | position `9.0`
+  - `fantail lolly` | clicks `0` | impressions `5` | position `5.8`
   - `fantail sweets australia` | clicks `0` | impressions `1` | position `3.0`
-  - `fantails` | clicks `0` | impressions `11` | position `2.55`
-  - `fantails candy` | clicks `0` | impressions `4` | position `9.5`
-  - `fantails chocolate` | clicks `0` | impressions `53` | position `8.32`
-  - `fantails lollies` | clicks `0` | impressions `30` | position `7.73`
-  - `fantails lolly where to buy` | clicks `0` | impressions `4` | position `6.25`
-  - `fantails sweets` | clicks `0` | impressions `2` | position `9.5`
-  - `fantale` | clicks `0` | impressions `27` | position `8.11`
-  - `fantale lollies` | clicks `0` | impressions `4` | position `8.25`
-  - `fantalea` | clicks `0` | impressions `13` | position `5.38`
-  - `fantales 1kg` | clicks `0` | impressions `5` | position `3.8`
-  - `fantales alternative` | clicks `0` | impressions `10` | position `5.4`
-  - `fantales australia` | clicks `0` | impressions `7` | position `6.14`
-  - `fantales candy` | clicks `0` | impressions `2` | position `4.5`
+  - `fantails` | clicks `0` | impressions `12` | position `7.42`
+  - `fantails australia lollies` | clicks `0` | impressions `3` | position `6.0`
+  - `fantails candy` | clicks `0` | impressions `6` | position `8.83`
+  - `fantails chocolate` | clicks `0` | impressions `46` | position `8.48`
+  - `fantails lollie` | clicks `0` | impressions `3` | position `10.67`
+  - `fantails lollies` | clicks `0` | impressions `38` | position `8.5`
+  - `fantails lolly where to buy` | clicks `0` | impressions `5` | position `6.4`
+  - `fantale` | clicks `0` | impressions `29` | position `8.62`
+  - `fantale lollies` | clicks `0` | impressions `8` | position `8.38`
+  - `fantalea` | clicks `0` | impressions `16` | position `5.75`
+  - `fantales 1kg` | clicks `0` | impressions `8` | position `5.0`
+  - `fantales alternative` | clicks `0` | impressions `9` | position `5.89`
+  - `fantales candy` | clicks `0` | impressions `1` | position `8.0`
+  - `fantales chocolate` | clicks `0` | impressions `29` | position `5.07`
+  - `fantales chocolate where to buy` | clicks `0` | impressions `3` | position `3.67`
   - `fantales discontinued` | clicks `0` | impressions `1` | position `2.0`
-  - `fantales for sale` | clicks `0` | impressions `2` | position `4.0`
-  - `fantales lollies nz` | clicks `0` | impressions `2` | position `8.5`
-  - `fantales lollies where to buy` | clicks `0` | impressions `2` | position `6.5`
-  - `fantales lolly` | clicks `0` | impressions `4` | position `6.5`
-  - `fantales where to buy` | clicks `0` | impressions `4` | position `4.5`
-  - `fantales woolworths` | clicks `0` | impressions `3` | position `2.0`
-  - `fantalrs` | clicks `0` | impressions `1` | position `6.0`
-  - `what happened to fantales` | clicks `0` | impressions `3` | position `2.0`
+  - `fantales for sale` | clicks `0` | impressions `2` | position `6.0`
+  - `fantales ice cream` | clicks `0` | impressions `1` | position `26.0`
+  - `fantales lollies nz` | clicks `0` | impressions `4` | position `7.5`
+  - `fantales lollies where to buy` | clicks `0` | impressions `3` | position `5.67`
+  - `fantales lolly` | clicks `0` | impressions `5` | position `5.2`
+  - `fantales where to buy` | clicks `0` | impressions `3` | position `4.67`
+  - `fantales woolworths` | clicks `0` | impressions `4` | position `2.0`
+  - `fantalrs` | clicks `0` | impressions `2` | position `3.5`
+  - `fantles` | clicks `0` | impressions `1` | position `15.0`
   - `when did fantales get discontinued` | clicks `0` | impressions `1` | position `2.0`
   - `when were fantales discontinued` | clicks `0` | impressions `1` | position `2.0`
-  - `where can i buy fantales` | clicks `0` | impressions `4` | position `3.5`
+  - `where can i buy fantales` | clicks `0` | impressions `3` | position `3.0`
   - `where to buy fantales` | clicks `0` | impressions `3` | position `5.67`
   - `why did fantales get discontinued` | clicks `0` | impressions `1` | position `2.0`
-  - `why were fantales discontinued` | clicks `0` | impressions `1` | position `2.0`
 - Issues:
   - `missing_from_post_sitemap`
 
@@ -122,11 +122,10 @@
 - Title present: `True`
 - Meta description present: `True`
 - GSC clicks: `0`
-- GSC impressions: `17`
+- GSC impressions: `12`
 - GSC CTR: `0.0%`
-- GSC avg position: `5.82`
+- GSC avg position: `4.67`
 - Top queries:
-  - `are jolly ranchers halal` | clicks `0` | impressions `1` | position `3.0`
   - `jolly rancher halal or haram` | clicks `0` | impressions `2` | position `8.0`
 - Issues:
   - `missing_from_post_sitemap`
@@ -165,9 +164,9 @@
 - Title present: `True`
 - Meta description present: `True`
 - GSC clicks: `0`
-- GSC impressions: `1`
+- GSC impressions: `0`
 - GSC CTR: `0.0%`
-- GSC avg position: `21.0`
+- GSC avg position: `0.0`
 - Issues:
   - `missing_from_post_sitemap`
   - `h1_count_2`
@@ -185,60 +184,60 @@
 - Title present: `True`
 - Meta description present: `True`
 - GSC clicks: `2`
-- GSC impressions: `539`
-- GSC CTR: `0.37%`
-- GSC avg position: `6.62`
+- GSC impressions: `502`
+- GSC CTR: `0.4%`
+- GSC avg position: `6.73`
 - Top queries:
-  - `are nerds vegetarian` | clicks `1` | impressions `8` | position `2.62`
+  - `are nerds vegetarian` | clicks `1` | impressions `9` | position `1.78`
   - `apakah nerds grape and strawberry halal` | clicks `0` | impressions `1` | position `3.0`
-  - `are big chewy nerds vegan` | clicks `0` | impressions `3` | position `10.33`
-  - `are grape nerds vegan` | clicks `0` | impressions `3` | position `2.0`
+  - `are big chewy nerds vegan` | clicks `0` | impressions `2` | position `11.5`
+  - `are grape nerds vegan` | clicks `0` | impressions `1` | position `2.0`
   - `are gummy clusters vegan` | clicks `0` | impressions `1` | position `12.0`
-  - `are maynards vegan` | clicks `0` | impressions `1` | position `39.0`
-  - `are nerd clusters vegan` | clicks `0` | impressions `4` | position `6.5`
+  - `are maynards vegan` | clicks `0` | impressions `2` | position `39.0`
+  - `are nerd clusters vegan` | clicks `0` | impressions `3` | position `6.33`
   - `are nerd gummy clusters halal` | clicks `0` | impressions `1` | position `2.0`
-  - `are nerd gummy clusters vegan` | clicks `0` | impressions `2` | position `5.0`
-  - `are nerd gummy clusters vegetarian` | clicks `0` | impressions `1` | position `11.0`
-  - `are nerd ropes halal` | clicks `0` | impressions `3` | position `2.0`
-  - `are nerds candy vegan` | clicks `0` | impressions `4` | position `2.75`
-  - `are nerds clusters vegan` | clicks `0` | impressions `1` | position `4.0`
+  - `are nerd gummy clusters vegan` | clicks `0` | impressions `3` | position `2.33`
+  - `are nerd gummy clusters vegetarian` | clicks `0` | impressions `3` | position `11.0`
+  - `are nerds candy vegan` | clicks `0` | impressions `3` | position `2.0`
+  - `are nerds dairy free` | clicks `0` | impressions `1` | position `8.0`
   - `are nerds gluten-free` | clicks `0` | impressions `1` | position `39.0`
-  - `are nerds grape and strawberry halal` | clicks `0` | impressions `1` | position `3.0`
-  - `are nerds gummy clusters halal` | clicks `0` | impressions `3` | position `2.0`
-  - `are nerds gummy clusters vegan` | clicks `0` | impressions `5` | position `7.4`
-  - `are nerds halal` | clicks `0` | impressions `2` | position `3.0`
-  - `are nerds haram` | clicks `0` | impressions `1` | position `3.0`
+  - `are nerds grape and strawberry halal` | clicks `0` | impressions `2` | position `2.0`
+  - `are nerds gummy clusters vegan` | clicks `0` | impressions `3` | position `6.33`
+  - `are nerds halal` | clicks `0` | impressions `4` | position `2.5`
   - `are nerds made out of bugs` | clicks `0` | impressions `1` | position `2.0`
   - `are nerds nut free` | clicks `0` | impressions `1` | position `50.0`
-  - `are nerds peanut free` | clicks `0` | impressions `2` | position `51.0`
-  - `are nerds rope vegetarian` | clicks `0` | impressions `2` | position `7.5`
-  - `are nerds ropes vegan` | clicks `0` | impressions `2` | position `3.5`
-  - `are nerds vegan` | clicks `0` | impressions `65` | position `2.85`
-  - `are nerds vegan friendly` | clicks `0` | impressions `3` | position `1.0`
-  - `are nerds vegan?` | clicks `0` | impressions `2` | position `1.0`
-  - `are nerds vegetarian uk` | clicks `0` | impressions `2` | position `10.0`
-  - `are rainbow nerds vegetarian` | clicks `0` | impressions `1` | position `3.0`
-  - `big chewy nerds vegan` | clicks `0` | impressions `3` | position `9.67`
-  - `crunchy` | clicks `0` | impressions `1` | position `4.0`
-  - `do nerd clusters have pork gelatin` | clicks `0` | impressions `1` | position `28.0`
-  - `do nerd gummy clusters have pork gelatin` | clicks `0` | impressions `1` | position `34.0`
+  - `are nerds peanut free` | clicks `0` | impressions `1` | position `50.0`
+  - `are nerds rope vegetarian` | clicks `0` | impressions `1` | position `8.0`
+  - `are nerds ropes vegan` | clicks `0` | impressions `3` | position `4.33`
+  - `are nerds vegan` | clicks `0` | impressions `43` | position `2.93`
+  - `are nerds vegan friendly` | clicks `0` | impressions `1` | position `1.0`
+  - `are nerds vegetarian uk` | clicks `0` | impressions `8` | position `10.25`
+  - `are nibs vegan` | clicks `0` | impressions `1` | position `61.0`
+  - `are rainbow nerds vegetarian` | clicks `0` | impressions `1` | position `5.0`
+  - `are these vegan` | clicks `0` | impressions `1` | position `1.0`
+  - `big chewy nerds vegan` | clicks `0` | impressions `1` | position `10.0`
+  - `do nerd clusters have gelatin` | clicks `0` | impressions `1` | position `2.0`
+  - `do nerd gummy clusters have pork gelatin` | clicks `0` | impressions `1` | position `2.0`
+  - `do nerds candy have gelatin` | clicks `0` | impressions `1` | position `1.0`
   - `do nerds gummy clusters have gelatin` | clicks `0` | impressions `1` | position `2.0`
   - `do nerds gummy clusters have pork` | clicks `0` | impressions `1` | position `41.0`
-  - `do nerds have gelatin` | clicks `0` | impressions `1` | position `7.0`
-  - `do nerds have gelatin in them` | clicks `0` | impressions `1` | position `8.0`
+  - `do nerds have gelatin` | clicks `0` | impressions `3` | position `4.67`
+  - `do nerds have gelatin in them` | clicks `0` | impressions `3` | position `8.0`
   - `do nerds have gluten` | clicks `0` | impressions `1` | position `32.0`
   - `do nerds have pork gelatin` | clicks `0` | impressions `2` | position `12.0`
   - `does nerd clusters have gelatin` | clicks `0` | impressions `1` | position `2.0`
-  - `does nerd gummy clusters have pork` | clicks `0` | impressions `2` | position `59.0`
+  - `does nerd gummy clusters have pork` | clicks `0` | impressions `1` | position `66.0`
   - `does nerd gummy clusters have pork gelatin` | clicks `0` | impressions `1` | position `35.0`
-  - `does nerds gummy clusters have pork gelatin` | clicks `0` | impressions `2` | position `36.0`
-  - `does nerds have gelatin` | clicks `0` | impressions `1` | position `2.0`
-  - `does nerds have pork gelatin` | clicks `0` | impressions `1` | position `2.0`
-  - `does nerds rope have gelatin` | clicks `0` | impressions `3` | position `7.67`
+  - `does nerds gummy clusters have gelatin` | clicks `0` | impressions `1` | position `1.0`
+  - `does nerds gummy clusters have pork gelatin` | clicks `0` | impressions `1` | position `34.0`
+  - `does nerds have gelatin` | clicks `0` | impressions `1` | position `7.0`
+  - `does nerds have pork gelatin` | clicks `0` | impressions `2` | position `6.0`
+  - `does nerds rope have gelatin` | clicks `0` | impressions `2` | position `8.5`
+  - `gummy clusters` | clicks `0` | impressions `1` | position `2.0`
   - `gummy clusters lawsuit` | clicks `0` | impressions `1` | position `3.0`
   - `halal nerd gummy clusters` | clicks `0` | impressions `1` | position `3.0`
-  - `halal nerds rope` | clicks `0` | impressions `1` | position `3.0`
   - `is gummy clusters halal` | clicks `0` | impressions `1` | position `2.0`
+  - `is nerds clusters halal` | clicks `0` | impressions `1` | position `2.0`
 - Issues:
   - `missing_from_post_sitemap`
   - `h1_count_2`
@@ -255,61 +254,61 @@
 - H1 count: `2`
 - Title present: `True`
 - Meta description present: `True`
-- GSC clicks: `35`
-- GSC impressions: `539`
-- GSC CTR: `6.49%`
+- GSC clicks: `32`
+- GSC impressions: `504`
+- GSC CTR: `6.35%`
 - GSC avg position: `4.16`
 - Top queries:
-  - `nilla wafers` | clicks `16` | impressions `172` | position `3.38`
-  - `nilla wafers australia` | clicks `7` | impressions `51` | position `3.06`
-  - `nilla wafer australia` | clicks `2` | impressions `5` | position `3.4`
-  - `nila wafers` | clicks `1` | impressions `17` | position `2.82`
-  - `nilla wafers substitute canada` | clicks `1` | impressions `2` | position `3.0`
-  - `nilla wagers` | clicks `1` | impressions `1` | position `3.0`
+  - `nilla wafers` | clicks `14` | impressions `171` | position `3.17`
+  - `nilla wafers australia` | clicks `6` | impressions `40` | position `2.92`
+  - `nila wafers` | clicks `2` | impressions `20` | position `2.95`
+  - `nilla wafer australia` | clicks `1` | impressions `4` | position `2.75`
+  - `nilla wafers substitute canada` | clicks `1` | impressions `1` | position `3.0`
   - `nills wafers` | clicks `1` | impressions `1` | position `1.0`
-  - `vanilla wafers australia` | clicks `1` | impressions `5` | position `2.6`
-  - `american vanilla wafers` | clicks `0` | impressions `2` | position `5.0`
+  - `vanilla wafer cookies australia` | clicks `1` | impressions `2` | position `3.0`
+  - `american vanilla wafers` | clicks `0` | impressions `3` | position `4.67`
   - `american wafers` | clicks `0` | impressions `1` | position `6.0`
-  - `australian wafers` | clicks `0` | impressions `1` | position `6.0`
-  - `bourbon vanilla sugar` | clicks `0` | impressions `1` | position `3.0`
-  - `does australia have it` | clicks `0` | impressions `1` | position `5.0`
-  - `hawaiian sweet rolls australia` | clicks `0` | impressions `1` | position `3.0`
-  - `lunchables` | clicks `0` | impressions `1` | position `5.0`
-  - `nabisco nilla wafers` | clicks `0` | impressions `1` | position `8.0`
-  - `nila biscuit` | clicks `0` | impressions `1` | position `2.0`
+  - `australian wafers` | clicks `0` | impressions `2` | position `8.0`
+  - `biscoff australia` | clicks `0` | impressions `1` | position `5.0`
+  - `hawaiian rolls` | clicks `0` | impressions `2` | position `3.0`
+  - `hawaiian rolls woolworths` | clicks `0` | impressions `1` | position `2.0`
+  - `nabisco nilla wafers` | clicks `0` | impressions `2` | position `5.0`
   - `nila biscuits` | clicks `0` | impressions `1` | position `2.0`
-  - `nila wafer` | clicks `0` | impressions `7` | position `8.0`
-  - `nilla` | clicks `0` | impressions `22` | position `4.14`
+  - `nila wafer` | clicks `0` | impressions `6` | position `9.0`
+  - `nilla` | clicks `0` | impressions `19` | position `4.53`
   - `nilla biscuit` | clicks `0` | impressions `1` | position `6.0`
-  - `nilla biscuits` | clicks `0` | impressions `4` | position `5.5`
-  - `nilla vanilla wafers` | clicks `0` | impressions `2` | position `6.0`
-  - `nilla wafer` | clicks `0` | impressions `14` | position `8.0`
-  - `nilla wafer substitute` | clicks `0` | impressions `2` | position `6.0`
-  - `nilla wafer substitute australia` | clicks `0` | impressions `1` | position `5.0`
-  - `nilla wafers coles` | clicks `0` | impressions `1` | position `2.0`
-  - `nilla wafers nz` | clicks `0` | impressions `2` | position `1.0`
-  - `nilla wafers substitute` | clicks `0` | impressions `13` | position `6.23`
-  - `nilla wafers substitute australia` | clicks `0` | impressions `11` | position `4.64`
-  - `nilla wafers uk` | clicks `0` | impressions `3` | position `3.0`
-  - `nilla wafers woolworths` | clicks `0` | impressions `1` | position `3.0`
+  - `nilla biscuits` | clicks `0` | impressions `2` | position `7.0`
+  - `nilla wafer` | clicks `0` | impressions `15` | position `8.73`
+  - `nilla wafer alternative` | clicks `0` | impressions `2` | position `9.5`
+  - `nilla wafer substitute` | clicks `0` | impressions `1` | position `2.0`
+  - `nilla wafer substitute australia` | clicks `0` | impressions `2` | position `3.5`
+  - `nilla wafers alternative` | clicks `0` | impressions `1` | position `6.0`
+  - `nilla wafers nz` | clicks `0` | impressions `1` | position `1.0`
+  - `nilla wafers official website` | clicks `0` | impressions `1` | position `8.0`
+  - `nilla wafers substitute` | clicks `0` | impressions `9` | position `7.56`
+  - `nilla wafers substitute australia` | clicks `0` | impressions `9` | position `4.56`
+  - `nilla wafers uk` | clicks `0` | impressions `4` | position `2.75`
+  - `nilla wavers` | clicks `0` | impressions `1` | position `3.0`
   - `nilla.wafer` | clicks `0` | impressions `2` | position `12.0`
-  - `nilla.wafers` | clicks `0` | impressions `2` | position `2.0`
-  - `nillas` | clicks `0` | impressions `1` | position `5.0`
-  - `vanilla wafer biscuits` | clicks `0` | impressions `2` | position `10.0`
-  - `vanilla wafer cookies` | clicks `0` | impressions `1` | position `2.0`
-  - `vanilla wafer cookies australia` | clicks `0` | impressions `3` | position `4.67`
+  - `nilla.wafers` | clicks `0` | impressions `1` | position `2.0`
+  - `premium crackers` | clicks `0` | impressions `1` | position `3.0`
+  - `substitute for nilla wafers` | clicks `0` | impressions `2` | position `4.5`
+  - `uncrustables australia` | clicks `0` | impressions `1` | position `3.0`
+  - `vanilla wafer biscuits` | clicks `0` | impressions `3` | position `10.33`
   - `vanilla wafer substitute` | clicks `0` | impressions `1` | position `1.0`
-  - `vanilla wafers` | clicks `0` | impressions `2` | position `5.0`
+  - `vanilla wafers` | clicks `0` | impressions `3` | position `4.0`
+  - `vanilla wafers australia` | clicks `0` | impressions `6` | position `3.17`
   - `vanilla wafers for banana pudding` | clicks `0` | impressions `1` | position `3.0`
   - `vanilla wafers nilla` | clicks `0` | impressions `1` | position `5.0`
   - `vanilla wafers woolworths` | clicks `0` | impressions `1` | position `3.0`
+  - `vanilla waffers` | clicks `0` | impressions `1` | position `2.0`
   - `villa wafers` | clicks `0` | impressions `1` | position `4.0`
-  - `wafer biscuits australia` | clicks `0` | impressions `1` | position `9.0`
   - `wafer nilla` | clicks `0` | impressions `1` | position `3.0`
   - `wafer vanilla` | clicks `0` | impressions `1` | position `13.0`
-  - `wafers` | clicks `0` | impressions `6` | position `10.17`
-  - `what are nilla wafers` | clicks `0` | impressions `4` | position `6.0`
+  - `wafers` | clicks `0` | impressions `3` | position `9.33`
+  - `what are nilla wafers` | clicks `0` | impressions `5` | position `8.0`
   - `what are nilla wafers in australia` | clicks `0` | impressions `1` | position `1.0`
+  - `what does nilla wafers taste like` | clicks `0` | impressions `1` | position `5.0`
 - Issues:
   - `missing_from_post_sitemap`
   - `h1_count_2`
@@ -329,7 +328,7 @@
 - GSC clicks: `0`
 - GSC impressions: `5`
 - GSC CTR: `0.0%`
-- GSC avg position: `6.4`
+- GSC avg position: `7.4`
 - Issues: none
 
 ### japanese-candy-australia
@@ -345,11 +344,9 @@
 - Title present: `True`
 - Meta description present: `True`
 - GSC clicks: `0`
-- GSC impressions: `2`
+- GSC impressions: `1`
 - GSC CTR: `0.0%`
-- GSC avg position: `11.0`
-- Top queries:
-  - `japanese candy australia` | clicks `0` | impressions `1` | position `11.0`
+- GSC avg position: `45.0`
 - Issues: none
 
 ### sour-lollies-australia
@@ -365,9 +362,9 @@
 - Title present: `True`
 - Meta description present: `True`
 - GSC clicks: `0`
-- GSC impressions: `10`
+- GSC impressions: `9`
 - GSC CTR: `0.0%`
-- GSC avg position: `8.8`
+- GSC avg position: `7.89`
 - Issues:
   - `missing_from_post_sitemap`
   - `h1_count_2`
@@ -405,19 +402,22 @@
 - Title present: `True`
 - Meta description present: `True`
 - GSC clicks: `2`
-- GSC impressions: `90`
-- GSC CTR: `2.22%`
-- GSC avg position: `8.87`
+- GSC impressions: `91`
+- GSC CTR: `2.2%`
+- GSC avg position: `9.15`
 - Top queries:
-  - `best lollies for kids` | clicks `1` | impressions `4` | position `6.0`
-  - `candies for kids` | clicks `0` | impressions `3` | position `9.67`
+  - `best lollies for kids` | clicks `1` | impressions `7` | position `8.71`
+  - `amazing candy` | clicks `0` | impressions `1` | position `15.0`
+  - `best candy` | clicks `0` | impressions `1` | position `46.0`
+  - `candies for kids` | clicks `0` | impressions `2` | position `8.5`
   - `candy for 4 year olds` | clicks `0` | impressions `1` | position `9.0`
-  - `candy for kids` | clicks `0` | impressions `9` | position `10.44`
-  - `good candies for kids` | clicks `0` | impressions `1` | position `8.0`
+  - `candy for kids` | clicks `0` | impressions `2` | position `9.5`
   - `jolly lolly kids` | clicks `0` | impressions `1` | position `22.0`
   - `kids candy` | clicks `0` | impressions `1` | position `13.0`
-  - `kids lollies` | clicks `0` | impressions `6` | position `13.0`
-  - `what are the top cheap version confectionery options for kids in australia?` | clicks `0` | impressions `5` | position `10.6`
+  - `kids lollies` | clicks `0` | impressions `5` | position `11.4`
+  - `lollies for kids` | clicks `0` | impressions `1` | position `12.0`
+  - `what are the top cheap version confectionery options for kids in australia?` | clicks `0` | impressions `6` | position `10.5`
+  - `what candy do kids like the most` | clicks `0` | impressions `1` | position `5.0`
 - Issues:
   - `missing_from_post_sitemap`
   - `h1_count_2`
@@ -435,16 +435,14 @@
 - Title present: `True`
 - Meta description present: `True`
 - GSC clicks: `0`
-- GSC impressions: `32`
+- GSC impressions: `27`
 - GSC CTR: `0.0%`
-- GSC avg position: `9.16`
+- GSC avg position: `8.81`
 - Top queries:
-  - `best lollies for party bags` | clicks `0` | impressions `1` | position `6.0`
-  - `good lollies` | clicks `0` | impressions `2` | position `37.5`
-  - `lollies for birthday party` | clicks `0` | impressions `4` | position `12.0`
-  - `lollies for lolly bags` | clicks `0` | impressions `6` | position `3.0`
-  - `party bag lollipops 600g x 12` | clicks `0` | impressions `1` | position `9.0`
-  - `party lollies` | clicks `0` | impressions `1` | position `12.0`
+  - `cheap sweets for party bags` | clicks `0` | impressions `1` | position `9.0`
+  - `lollies for birthday party` | clicks `0` | impressions `4` | position `12.25`
+  - `lollies for lolly bags` | clicks `0` | impressions `4` | position `3.0`
+  - `party lollies` | clicks `0` | impressions `2` | position `21.0`
 - Issues: none
 
 ### best-candy-for-movie-night
@@ -460,15 +458,17 @@
 - Title present: `True`
 - Meta description present: `True`
 - GSC clicks: `1`
-- GSC impressions: `48`
-- GSC CTR: `2.08%`
-- GSC avg position: `6.92`
+- GSC impressions: `45`
+- GSC CTR: `2.22%`
+- GSC avg position: `6.93`
 - Top queries:
+  - `best candy` | clicks `0` | impressions `1` | position `14.0`
   - `best candy in australia` | clicks `0` | impressions `1` | position `15.0`
+  - `best candy to buy` | clicks `0` | impressions `1` | position `13.0`
   - `candy best` | clicks `0` | impressions `1` | position `13.0`
   - `cinema sweets` | clicks `0` | impressions `1` | position `9.0`
-  - `movie lollies` | clicks `0` | impressions `1` | position `4.0`
-  - `sweet movie snacks` | clicks `0` | impressions `1` | position `8.0`
+  - `movie lollies` | clicks `0` | impressions `1` | position `5.0`
+  - `popular movie candy` | clicks `0` | impressions `1` | position `9.0`
   - `what chocolate candies do people usually pick for movie nights?` | clicks `0` | impressions `2` | position `11.0`
 - Issues:
   - `missing_from_post_sitemap`
@@ -486,33 +486,32 @@
 - H1 count: `1`
 - Title present: `True`
 - Meta description present: `True`
-- GSC clicks: `1`
-- GSC impressions: `94`
-- GSC CTR: `1.06%`
-- GSC avg position: `13.74`
+- GSC clicks: `2`
+- GSC impressions: `118`
+- GSC CTR: `1.69%`
+- GSC avg position: `14.64`
 - Top queries:
+  - `american twinkies` | clicks `1` | impressions `1` | position `1.0`
   - `allens` | clicks `0` | impressions `1` | position `2.0`
-  - `amarican candy` | clicks `0` | impressions `1` | position `54.0`
-  - `american candies` | clicks `0` | impressions `1` | position `70.0`
-  - `american candy` | clicks `0` | impressions `6` | position `54.5`
+  - `american candy` | clicks `0` | impressions `7` | position `54.86`
+  - `american candy australia` | clicks `0` | impressions `1` | position `46.0`
   - `american candy mount gambier` | clicks `0` | impressions `1` | position `51.0`
   - `american candy shop` | clicks `0` | impressions `1` | position `61.0`
+  - `american halloween candy` | clicks `0` | impressions `1` | position `49.0`
+  - `american lollys` | clicks `0` | impressions `1` | position `69.0`
   - `american sweets online` | clicks `0` | impressions `1` | position `2.0`
-  - `are smarties australian` | clicks `0` | impressions `1` | position `87.0`
   - `aussie convenience` | clicks `0` | impressions `1` | position `46.0`
   - `candies` | clicks `0` | impressions `1` | position `1.0`
-  - `disney candy` | clicks `0` | impressions `1` | position `44.0`
+  - `candy american` | clicks `0` | impressions `1` | position `54.0`
+  - `disney candy` | clicks `0` | impressions `1` | position `48.0`
+  - `hershey bar` | clicks `0` | impressions `1` | position `4.0`
   - `hershey chocolate` | clicks `0` | impressions `1` | position `5.0`
-  - `hershey's` | clicks `0` | impressions `1` | position `5.0`
-  - `hershey's chocolate australia` | clicks `0` | impressions `1` | position `1.0`
   - `hersheys bar` | clicks `0` | impressions `1` | position `4.0`
   - `hersheys chocolate bar` | clicks `0` | impressions `1` | position `3.0`
+  - `jelly belly australia` | clicks `0` | impressions `1` | position `37.0`
   - `nerd jelly beans discontinued` | clicks `0` | impressions `1` | position `49.0`
   - `paesanella ricotta where to buy` | clicks `0` | impressions `1` | position `1.0`
-  - `reese's peanut butter chocolate` | clicks `0` | impressions `1` | position `13.0`
-  - `reese's peanut butter cups` | clicks `0` | impressions `1` | position `4.0`
-  - `sour american candy` | clicks `0` | impressions `1` | position `45.0`
-  - `usa foods australia` | clicks `0` | impressions `1` | position `3.0`
+  - `usa candy factory` | clicks `0` | impressions `1` | position `87.0`
 - Issues: none
 
 ### christmas-candy-australia
@@ -528,9 +527,9 @@
 - Title present: `True`
 - Meta description present: `True`
 - GSC clicks: `0`
-- GSC impressions: `2`
+- GSC impressions: `1`
 - GSC CTR: `0.0%`
-- GSC avg position: `5.5`
+- GSC avg position: `8.0`
 - Issues:
   - `missing_from_post_sitemap`
   - `h1_count_2`
@@ -548,20 +547,27 @@
 - Title present: `True`
 - Meta description present: `True`
 - GSC clicks: `0`
-- GSC impressions: `72`
+- GSC impressions: `89`
 - GSC CTR: `0.0%`
-- GSC avg position: `11.69`
+- GSC avg position: `13.16`
 - Top queries:
-  - `australian halloween candy` | clicks `0` | impressions `2` | position `9.0`
-  - `halloween candy` | clicks `0` | impressions `12` | position `14.08`
-  - `halloween candy australia` | clicks `0` | impressions `2` | position `9.5`
+  - `australian halloween candy` | clicks `0` | impressions `2` | position `8.0`
+  - `candy from halloween` | clicks `0` | impressions `1` | position `19.0`
+  - `candy halloween candy` | clicks `0` | impressions `1` | position `16.0`
+  - `chocolates for halloween` | clicks `0` | impressions `1` | position `11.0`
+  - `halloween candies` | clicks `0` | impressions `4` | position `20.75`
+  - `halloween candy` | clicks `0` | impressions `16` | position `13.56`
+  - `halloween candy australia` | clicks `0` | impressions `5` | position `10.0`
+  - `halloween candy gifts` | clicks `0` | impressions `1` | position `13.0`
   - `halloween candy trick or treat` | clicks `0` | impressions `1` | position `10.0`
-  - `halloween chocolate` | clicks `0` | impressions `3` | position `25.0`
-  - `halloween confectionery` | clicks `0` | impressions `5` | position `17.2`
-  - `halloween lollies` | clicks `0` | impressions `14` | position `13.14`
-  - `trick or treat candies` | clicks `0` | impressions `1` | position `11.0`
+  - `halloween chocolate` | clicks `0` | impressions `4` | position `27.5`
+  - `halloween chocolates` | clicks `0` | impressions `1` | position `12.0`
+  - `halloween confectionery` | clicks `0` | impressions `6` | position `17.33`
+  - `halloween lollies` | clicks `0` | impressions `16` | position `12.19`
+  - `halloween lollies australia` | clicks `0` | impressions `3` | position `11.67`
+  - `halloween skittles` | clicks `0` | impressions `1` | position `35.0`
   - `trick or treat candy` | clicks `0` | impressions `1` | position `11.0`
-  - `trick or treat lollies` | clicks `0` | impressions `21` | position `8.43`
+  - `trick or treat lollies` | clicks `0` | impressions `13` | position `8.77`
 - Issues:
   - `missing_from_post_sitemap`
 
@@ -578,9 +584,9 @@
 - Title present: `True`
 - Meta description present: `True`
 - GSC clicks: `0`
-- GSC impressions: `1`
+- GSC impressions: `0`
 - GSC CTR: `0.0%`
-- GSC avg position: `11.0`
+- GSC avg position: `0.0`
 - Issues:
   - `missing_from_post_sitemap`
 
@@ -599,7 +605,7 @@
 - GSC clicks: `0`
 - GSC impressions: `2`
 - GSC CTR: `0.0%`
-- GSC avg position: `5.5`
+- GSC avg position: `7.5`
 - Issues:
   - `missing_from_post_sitemap`
 
@@ -635,12 +641,11 @@
 - Title present: `True`
 - Meta description present: `True`
 - GSC clicks: `1`
-- GSC impressions: `18`
-- GSC CTR: `5.56%`
-- GSC avg position: `22.0`
+- GSC impressions: `11`
+- GSC CTR: `9.09%`
+- GSC avg position: `11.18`
 - Top queries:
-  - `buy uk confectionery online` | clicks `0` | impressions `5` | position `43.8`
-  - `buy uk treats online` | clicks `0` | impressions `1` | position `51.0`
+  - `buy uk confectionery online` | clicks `0` | impressions `1` | position `22.0`
 - Issues:
   - `missing_from_post_sitemap`
 
@@ -657,9 +662,9 @@
 - Title present: `True`
 - Meta description present: `True`
 - GSC clicks: `0`
-- GSC impressions: `0`
+- GSC impressions: `1`
 - GSC CTR: `0.0%`
-- GSC avg position: `0.0`
+- GSC avg position: `10.0`
 - Issues:
   - `missing_from_post_sitemap`
 
@@ -678,7 +683,7 @@
 - GSC clicks: `0`
 - GSC impressions: `5`
 - GSC CTR: `0.0%`
-- GSC avg position: `8.6`
+- GSC avg position: `7.6`
 - Issues:
   - `missing_from_post_sitemap`
 
@@ -695,9 +700,9 @@
 - Title present: `True`
 - Meta description present: `True`
 - GSC clicks: `0`
-- GSC impressions: `9`
+- GSC impressions: `13`
 - GSC CTR: `0.0%`
-- GSC avg position: `7.89`
+- GSC avg position: `7.69`
 - Issues:
   - `missing_from_post_sitemap`
 
@@ -733,26 +738,26 @@
 - Title present: `True`
 - Meta description present: `True`
 - GSC clicks: `0`
-- GSC impressions: `54`
+- GSC impressions: `47`
 - GSC CTR: `0.0%`
-- GSC avg position: `53.48`
+- GSC avg position: `49.45`
 - Top queries:
   - `allergen free lollies` | clicks `0` | impressions `1` | position `47.0`
-  - `are lollies gluten free` | clicks `0` | impressions `1` | position `62.0`
-  - `are skittles gluten free australia` | clicks `0` | impressions `1` | position `44.0`
+  - `are lollies gluten free` | clicks `0` | impressions `1` | position `64.0`
   - `chocolate for celiacs` | clicks `0` | impressions `2` | position `78.0`
   - `chocolates for celiacs` | clicks `0` | impressions `1` | position `90.0`
   - `do lollies have gluten in them` | clicks `0` | impressions `1` | position `73.0`
-  - `gluten free chocolate` | clicks `0` | impressions `5` | position `92.8`
+  - `gluten and dairy free lollies` | clicks `0` | impressions `1` | position `11.0`
+  - `gluten free chocolate` | clicks `0` | impressions `2` | position `94.5`
   - `gluten free chocolates` | clicks `0` | impressions `2` | position `87.5`
-  - `gluten free lollies` | clicks `0` | impressions `22` | position `43.5`
-  - `gluten free lollies australia` | clicks `0` | impressions `6` | position `41.83`
+  - `gluten free lollies` | clicks `0` | impressions `19` | position `40.84`
+  - `gluten free lollies australia` | clicks `0` | impressions `6` | position `45.67`
   - `gluten free smarties australia` | clicks `0` | impressions `1` | position `29.0`
-  - `is chocolate gluten free australia` | clicks `0` | impressions `1` | position `58.0`
   - `what chocolate is gluten free australia` | clicks `0` | impressions `1` | position `20.0`
   - `what chocolate is gluten free in australia` | clicks `0` | impressions `1` | position `64.0`
   - `what chocolates are gluten free australia` | clicks `0` | impressions `1` | position `86.0`
-  - `what lollies are gluten free` | clicks `0` | impressions `1` | position `45.0`
+  - `what lollies are gluten free` | clicks `0` | impressions `2` | position `48.5`
+  - `what lollies are gluten free in australia` | clicks `0` | impressions `1` | position `57.0`
   - `which lollies are gluten free` | clicks `0` | impressions `1` | position `53.0`
 - Issues:
   - `missing_from_post_sitemap`
@@ -808,27 +813,26 @@
 - Title present: `True`
 - Meta description present: `True`
 - GSC clicks: `0`
-- GSC impressions: `46`
+- GSC impressions: `51`
 - GSC CTR: `0.0%`
-- GSC avg position: `30.65`
+- GSC avg position: `28.86`
 - Top queries:
+  - `can you get haribo in australia` | clicks `0` | impressions `1` | position `1.0`
   - `flavors of gummy bears haribo` | clicks `0` | impressions `2` | position `48.5`
-  - `gummy bear flavors haribo` | clicks `0` | impressions `1` | position `35.0`
-  - `gummy bear flavours haribo` | clicks `0` | impressions `1` | position `44.0`
-  - `gummy bears haribo` | clicks `0` | impressions `1` | position `29.0`
-  - `gummy bears haribo flavors` | clicks `0` | impressions `1` | position `47.0`
+  - `haribo` | clicks `0` | impressions `3` | position `43.67`
+  - `haribo australia` | clicks `0` | impressions `2` | position `22.0`
   - `haribo bear gummy` | clicks `0` | impressions `1` | position `29.0`
-  - `haribo frogs` | clicks `0` | impressions `1` | position `53.0`
-  - `haribo gummies` | clicks `0` | impressions `1` | position `24.0`
-  - `haribo gummy bear flavors` | clicks `0` | impressions `1` | position `46.0`
-  - `haribo gummy bear flavours` | clicks `0` | impressions `2` | position `50.0`
-  - `haribo gummy bears` | clicks `0` | impressions `2` | position `23.0`
+  - `haribo candy` | clicks `0` | impressions `1` | position `49.0`
+  - `haribo egg gummies` | clicks `0` | impressions `2` | position `41.0`
+  - `haribo gummies` | clicks `0` | impressions `2` | position `24.0`
+  - `haribo gummy bears` | clicks `0` | impressions `3` | position `21.33`
   - `haribo gummy bears australia` | clicks `0` | impressions `1` | position `22.0`
-  - `haribo gummy bears flavors` | clicks `0` | impressions `1` | position `37.0`
-  - `haribo gummy bears flavours` | clicks `0` | impressions `1` | position `32.0`
   - `haribo gummy candies` | clicks `0` | impressions `1` | position `30.0`
-  - `haribo lollies` | clicks `0` | impressions `10` | position `45.6`
-  - `haribo peaches` | clicks `0` | impressions `1` | position `54.0`
+  - `haribo lollies` | clicks `0` | impressions `12` | position `45.83`
+  - `haribo peaches` | clicks `0` | impressions `1` | position `61.0`
+  - `haribo peaches australia` | clicks `0` | impressions `1` | position `12.0`
+  - `haribo products` | clicks `0` | impressions `1` | position `40.0`
+  - `haribo store` | clicks `0` | impressions `1` | position `2.0`
   - `harribo gummy bears` | clicks `0` | impressions `1` | position `22.0`
   - `harry bows` | clicks `0` | impressions `1` | position `55.0`
 - Issues:
@@ -847,36 +851,37 @@
 - Title present: `True`
 - Meta description present: `True`
 - GSC clicks: `3`
-- GSC impressions: `149`
-- GSC CTR: `2.01%`
-- GSC avg position: `9.81`
+- GSC impressions: `167`
+- GSC CTR: `1.8%`
+- GSC avg position: `9.94`
 - Top queries:
-  - `reese's white peanut butter cups` | clicks `1` | impressions `1` | position `4.0`
+  - `reeses australia` | clicks `1` | impressions `6` | position `7.17`
   - `buy reese` | clicks `0` | impressions `1` | position `9.0`
-  - `buy reese peanut butter online` | clicks `0` | impressions `9` | position `7.0`
-  - `buy reese's peanut butter cups` | clicks `0` | impressions `1` | position `9.0`
+  - `buy reese peanut butter online` | clicks `0` | impressions `9` | position `6.44`
+  - `buy reese's peanut butter cups` | clicks `0` | impressions `1` | position `11.0`
   - `does australia have reese's peanut butter cups` | clicks `0` | impressions `3` | position `1.0`
   - `reese candy bar` | clicks `0` | impressions `2` | position `21.0`
   - `reese grocery store` | clicks `0` | impressions `1` | position `9.0`
   - `reese peanut` | clicks `0` | impressions `1` | position `12.0`
-  - `reese peanut butter` | clicks `0` | impressions `5` | position `24.4`
-  - `reese's` | clicks `0` | impressions `2` | position `17.0`
+  - `reese peanut butter` | clicks `0` | impressions `6` | position `22.83`
+  - `reese peanut butter cups` | clicks `0` | impressions `1` | position `13.0`
+  - `reese's` | clicks `0` | impressions `2` | position `14.5`
+  - `reese's australia` | clicks `0` | impressions `2` | position `8.0`
   - `reese's candy bar` | clicks `0` | impressions `1` | position `15.0`
   - `reese's candy bars` | clicks `0` | impressions `1` | position `23.0`
-  - `reese's chocolate` | clicks `0` | impressions `1` | position `33.0`
+  - `reese's cup` | clicks `0` | impressions `2` | position `17.5`
   - `reese's near me` | clicks `0` | impressions `2` | position `11.5`
   - `reese's pack` | clicks `0` | impressions `2` | position `11.5`
-  - `reese's peanut butter cups` | clicks `0` | impressions `1` | position `4.0`
+  - `reese's peanut butter` | clicks `0` | impressions `1` | position `22.0`
+  - `reese's peanut butter cups` | clicks `0` | impressions `2` | position `12.0`
   - `reese's peanut butter cups australia` | clicks `0` | impressions `2` | position `10.5`
   - `reese's peanut butter spread australia` | clicks `0` | impressions `3` | position `7.33`
-  - `reese's pieces australia` | clicks `0` | impressions `1` | position `20.0`
   - `reese's price` | clicks `0` | impressions `2` | position `11.0`
   - `reese's spread australia` | clicks `0` | impressions `3` | position `8.0`
-  - `reeses` | clicks `0` | impressions `10` | position `20.1`
-  - `reeses australia` | clicks `0` | impressions `4` | position `7.0`
-  - `reeses bar` | clicks `0` | impressions `1` | position `4.0`
+  - `reeses` | clicks `0` | impressions `12` | position `14.08`
+  - `reeses cups` | clicks `0` | impressions `1` | position `24.0`
   - `reeses pieces australia` | clicks `0` | impressions `1` | position `16.0`
-  - `reeses supplier` | clicks `0` | impressions `10` | position `12.5`
+  - `reeses supplier` | clicks `0` | impressions `9` | position `12.56`
 - Issues:
   - `missing_from_post_sitemap`
 
@@ -893,9 +898,9 @@
 - Title present: `True`
 - Meta description present: `True`
 - GSC clicks: `0`
-- GSC impressions: `21`
+- GSC impressions: `18`
 - GSC CTR: `0.0%`
-- GSC avg position: `10.1`
+- GSC avg position: `9.94`
 - Issues:
   - `missing_from_post_sitemap`
 
@@ -912,9 +917,9 @@
 - Title present: `True`
 - Meta description present: `True`
 - GSC clicks: `0`
-- GSC impressions: `0`
+- GSC impressions: `2`
 - GSC CTR: `0.0%`
-- GSC avg position: `0.0`
+- GSC avg position: `9.5`
 - Issues:
   - `missing_from_post_sitemap`
 
@@ -949,19 +954,21 @@
 - H1 count: `1`
 - Title present: `True`
 - Meta description present: `True`
-- GSC clicks: `1`
-- GSC impressions: `227`
-- GSC CTR: `0.44%`
-- GSC avg position: `8.37`
+- GSC clicks: `2`
+- GSC impressions: `228`
+- GSC CTR: `0.88%`
+- GSC avg position: `8.35`
 - Top queries:
-  - `best lollies for party bags` | clicks `0` | impressions `3` | position `9.33`
-  - `kids lolly bag ideas` | clicks `0` | impressions `5` | position `7.6`
-  - `lollie bag ideas` | clicks `0` | impressions `3` | position `8.0`
-  - `lolly bag fillers` | clicks `0` | impressions `12` | position `10.92`
-  - `lolly bag ideas` | clicks `0` | impressions `49` | position `9.29`
-  - `lolly bags ideas` | clicks `0` | impressions `2` | position `13.5`
+  - `best lollies for party bags` | clicks `0` | impressions `2` | position `13.0`
+  - `ideas for lolly bags` | clicks `0` | impressions `1` | position `7.0`
+  - `kids lolly bag ideas` | clicks `0` | impressions `3` | position `7.33`
+  - `kids lolly bags` | clicks `0` | impressions `1` | position `9.0`
+  - `lollie bag ideas` | clicks `0` | impressions `2` | position `8.5`
+  - `lolly bag fillers` | clicks `0` | impressions `14` | position `12.0`
+  - `lolly bag ideas` | clicks `0` | impressions `47` | position `8.85`
+  - `lolly bags ideas` | clicks `0` | impressions `3` | position `8.33`
   - `lolly party bags` | clicks `0` | impressions `1` | position `11.0`
-  - `what to put in lolly bags` | clicks `0` | impressions `3` | position `9.33`
+  - `what to put in lolly bags` | clicks `0` | impressions `4` | position `7.5`
 - Issues:
   - `missing_from_post_sitemap`
 
@@ -978,29 +985,26 @@
 - Title present: `True`
 - Meta description present: `True`
 - GSC clicks: `0`
-- GSC impressions: `84`
+- GSC impressions: `104`
 - GSC CTR: `0.0%`
-- GSC avg position: `17.89`
+- GSC avg position: `13.99`
 - Top queries:
-  - `almond m&ms` | clicks `0` | impressions `1` | position `52.0`
-  - `are m&ms gluten free australia` | clicks `0` | impressions `4` | position `9.0`
-  - `are m&ms gluten free in australia` | clicks `0` | impressions `7` | position `10.14`
+  - `are m&ms gluten free australia` | clicks `0` | impressions `2` | position `8.0`
+  - `are m&ms gluten free in australia` | clicks `0` | impressions `12` | position `10.33`
   - `australia` | clicks `0` | impressions `1` | position `7.0`
-  - `buy chocolate m&m s online` | clicks `0` | impressions `1` | position `17.0`
   - `buy m&m s online` | clicks `0` | impressions `2` | position `11.0`
-  - `chocolate m&m` | clicks `0` | impressions `1` | position `50.0`
-  - `custom m&amp;ms australia` | clicks `0` | impressions `3` | position `43.33`
+  - `custom m&amp;ms australia` | clicks `0` | impressions `4` | position `43.25`
   - `m and ms` | clicks `0` | impressions `1` | position `59.0`
   - `m&m` | clicks `0` | impressions `1` | position `58.0`
-  - `m&m australia` | clicks `0` | impressions `1` | position `22.0`
+  - `m&m australia` | clicks `0` | impressions `2` | position `24.0`
   - `m&m australia wide` | clicks `0` | impressions `1` | position `22.0`
-  - `m&m flavours australia` | clicks `0` | impressions `2` | position `13.0`
-  - `m&m store` | clicks `0` | impressions `1` | position `41.0`
-  - `m&m's australia` | clicks `0` | impressions `1` | position `39.0`
-  - `m&m's store` | clicks `0` | impressions `1` | position `38.0`
-  - `m&ms` | clicks `0` | impressions `6` | position `47.5`
-  - `m&ms flavors` | clicks `0` | impressions `1` | position `37.0`
-  - `m&ms store` | clicks `0` | impressions `1` | position `26.0`
+  - `m&m flavours australia` | clicks `0` | impressions `1` | position `13.0`
+  - `m&m's australia` | clicks `0` | impressions `2` | position `41.5`
+  - `m&ms` | clicks `0` | impressions `4` | position `46.0`
+  - `m&ms australia` | clicks `0` | impressions `2` | position `9.5`
+  - `mint m&ms` | clicks `0` | impressions `1` | position `20.0`
+  - `mnms` | clicks `0` | impressions `18` | position `3.72`
+  - `where can i buy m` | clicks `0` | impressions `1` | position `8.0`
   - `where can i buy mint m&ms` | clicks `0` | impressions `1` | position `10.0`
 - Issues:
   - `missing_from_post_sitemap`
@@ -1018,9 +1022,11 @@
 - Title present: `True`
 - Meta description present: `True`
 - GSC clicks: `0`
-- GSC impressions: `1`
+- GSC impressions: `11`
 - GSC CTR: `0.0%`
-- GSC avg position: `33.0`
+- GSC avg position: `12.09`
+- Top queries:
+  - `where can i buy kitkats` | clicks `0` | impressions `1` | position `25.0`
 - Issues:
   - `missing_from_post_sitemap`
 
@@ -1037,11 +1043,11 @@
 - Title present: `True`
 - Meta description present: `True`
 - GSC clicks: `0`
-- GSC impressions: `9`
+- GSC impressions: `16`
 - GSC CTR: `0.0%`
-- GSC avg position: `11.0`
+- GSC avg position: `9.81`
 - Top queries:
-  - `buy cadbury favourites online` | clicks `0` | impressions `5` | position `12.0`
+  - `buy cadbury favourites online` | clicks `0` | impressions `5` | position `11.4`
 - Issues:
   - `missing_from_post_sitemap`
 
@@ -1058,9 +1064,9 @@
 - Title present: `True`
 - Meta description present: `True`
 - GSC clicks: `0`
-- GSC impressions: `3`
+- GSC impressions: `6`
 - GSC CTR: `0.0%`
-- GSC avg position: `8.67`
+- GSC avg position: `5.67`
 - Issues:
   - `missing_from_post_sitemap`
 
@@ -1077,11 +1083,9 @@
 - Title present: `True`
 - Meta description present: `True`
 - GSC clicks: `0`
-- GSC impressions: `10`
+- GSC impressions: `8`
 - GSC CTR: `0.0%`
-- GSC avg position: `9.9`
-- Top queries:
-  - `buy sour patch kids australia` | clicks `0` | impressions `1` | position `5.0`
+- GSC avg position: `10.62`
 - Issues:
   - `missing_from_post_sitemap`
 
@@ -1098,9 +1102,9 @@
 - Title present: `True`
 - Meta description present: `True`
 - GSC clicks: `0`
-- GSC impressions: `8`
+- GSC impressions: `20`
 - GSC CTR: `0.0%`
-- GSC avg position: `8.38`
+- GSC avg position: `6.7`
 - Issues:
   - `missing_from_post_sitemap`
 
@@ -1117,11 +1121,11 @@
 - Title present: `True`
 - Meta description present: `True`
 - GSC clicks: `0`
-- GSC impressions: `3`
+- GSC impressions: `8`
 - GSC CTR: `0.0%`
-- GSC avg position: `12.67`
+- GSC avg position: `12.25`
 - Top queries:
-  - `buy ferroro rocher online` | clicks `0` | impressions `1` | position `17.0`
+  - `buy ferroro rocher online` | clicks `0` | impressions `1` | position `23.0`
 - Issues:
   - `missing_from_post_sitemap`
 
@@ -1138,9 +1142,9 @@
 - Title present: `True`
 - Meta description present: `True`
 - GSC clicks: `0`
-- GSC impressions: `2`
+- GSC impressions: `4`
 - GSC CTR: `0.0%`
-- GSC avg position: `2.5`
+- GSC avg position: `6.75`
 - Issues:
   - `missing_from_post_sitemap`
 
@@ -1157,9 +1161,9 @@
 - Title present: `True`
 - Meta description present: `True`
 - GSC clicks: `0`
-- GSC impressions: `2`
+- GSC impressions: `3`
 - GSC CTR: `0.0%`
-- GSC avg position: `8.0`
+- GSC avg position: `6.67`
 - Issues:
   - `missing_from_post_sitemap`
 
@@ -1176,9 +1180,9 @@
 - Title present: `True`
 - Meta description present: `True`
 - GSC clicks: `0`
-- GSC impressions: `16`
+- GSC impressions: `12`
 - GSC CTR: `0.0%`
-- GSC avg position: `10.38`
+- GSC avg position: `13.17`
 - Issues:
   - `missing_from_post_sitemap`
 
@@ -1195,9 +1199,9 @@
 - Title present: `True`
 - Meta description present: `True`
 - GSC clicks: `0`
-- GSC impressions: `12`
+- GSC impressions: `14`
 - GSC CTR: `0.0%`
-- GSC avg position: `9.25`
+- GSC avg position: `8.29`
 - Issues:
   - `missing_from_post_sitemap`
 
@@ -1213,10 +1217,10 @@
 - H1 count: `1`
 - Title present: `True`
 - Meta description present: `True`
-- GSC clicks: `1`
-- GSC impressions: `47`
-- GSC CTR: `2.13%`
-- GSC avg position: `6.81`
+- GSC clicks: `0`
+- GSC impressions: `48`
+- GSC CTR: `0.0%`
+- GSC avg position: `7.77`
 - Issues:
   - `missing_from_post_sitemap`
 
@@ -1233,9 +1237,9 @@
 - Title present: `True`
 - Meta description present: `True`
 - GSC clicks: `0`
-- GSC impressions: `1`
+- GSC impressions: `2`
 - GSC CTR: `0.0%`
-- GSC avg position: `13.0`
+- GSC avg position: `11.5`
 - Issues:
   - `missing_from_post_sitemap`
 
@@ -1252,9 +1256,9 @@
 - Title present: `True`
 - Meta description present: `True`
 - GSC clicks: `0`
-- GSC impressions: `6`
+- GSC impressions: `5`
 - GSC CTR: `0.0%`
-- GSC avg position: `9.17`
+- GSC avg position: `11.0`
 - Issues:
   - `missing_from_post_sitemap`
 
@@ -1271,9 +1275,9 @@
 - Title present: `True`
 - Meta description present: `True`
 - GSC clicks: `0`
-- GSC impressions: `11`
+- GSC impressions: `13`
 - GSC CTR: `0.0%`
-- GSC avg position: `9.45`
+- GSC avg position: `9.38`
 - Issues:
   - `missing_from_post_sitemap`
 
@@ -1289,10 +1293,10 @@
 - H1 count: `1`
 - Title present: `True`
 - Meta description present: `True`
-- GSC clicks: `2`
-- GSC impressions: `27`
-- GSC CTR: `7.41%`
-- GSC avg position: `15.04`
+- GSC clicks: `1`
+- GSC impressions: `15`
+- GSC CTR: `6.67%`
+- GSC avg position: `9.13`
 - Issues:
   - `missing_from_post_sitemap`
 
@@ -1309,9 +1313,9 @@
 - Title present: `True`
 - Meta description present: `True`
 - GSC clicks: `0`
-- GSC impressions: `8`
+- GSC impressions: `12`
 - GSC CTR: `0.0%`
-- GSC avg position: `18.38`
+- GSC avg position: `16.08`
 - Issues:
   - `missing_from_post_sitemap`
 
@@ -1328,9 +1332,9 @@
 - Title present: `True`
 - Meta description present: `True`
 - GSC clicks: `0`
-- GSC impressions: `6`
+- GSC impressions: `3`
 - GSC CTR: `0.0%`
-- GSC avg position: `9.5`
+- GSC avg position: `10.67`
 - Issues:
   - `missing_from_post_sitemap`
 
@@ -1366,9 +1370,9 @@
 - Title present: `True`
 - Meta description present: `True`
 - GSC clicks: `0`
-- GSC impressions: `5`
+- GSC impressions: `7`
 - GSC CTR: `0.0%`
-- GSC avg position: `9.6`
+- GSC avg position: `10.29`
 - Issues:
   - `missing_from_post_sitemap`
 
@@ -1385,33 +1389,36 @@
 - Title present: `True`
 - Meta description present: `True`
 - GSC clicks: `1`
-- GSC impressions: `121`
-- GSC CTR: `0.83%`
-- GSC avg position: `8.68`
+- GSC impressions: `138`
+- GSC CTR: `0.72%`
+- GSC avg position: `8.84`
 - Top queries:
+  - `australian gummies` | clicks `0` | impressions `1` | position `17.0`
   - `australian gummy bears` | clicks `0` | impressions `1` | position `6.0`
-  - `bulk gummy bears` | clicks `0` | impressions `6` | position `8.83`
-  - `bulk gummy bears near me` | clicks `0` | impressions `2` | position `9.0`
+  - `bulk gummy bears` | clicks `0` | impressions `5` | position `7.8`
   - `bulk gummy candy` | clicks `0` | impressions `5` | position `6.8`
-  - `bulk haribo` | clicks `0` | impressions `2` | position `8.0`
-  - `bulk haribo gummy bears` | clicks `0` | impressions `5` | position `7.2`
-  - `buy gummy bears` | clicks `0` | impressions `2` | position `11.5`
-  - `can you get haribo in australia` | clicks `0` | impressions `1` | position `8.0`
-  - `cheap gummy bears` | clicks `0` | impressions `1` | position `11.0`
+  - `bulk haribo gummy bears` | clicks `0` | impressions `1` | position `8.0`
+  - `buy gummy` | clicks `0` | impressions `1` | position `9.0`
+  - `buy gummy bears` | clicks `0` | impressions `3` | position `10.33`
+  - `buy haribo gummy bears` | clicks `0` | impressions `1` | position `12.0`
+  - `can you get haribo in australia` | clicks `0` | impressions `2` | position `7.0`
   - `flavors of gummy bears haribo` | clicks `0` | impressions `1` | position `27.0`
-  - `gummy australia` | clicks `0` | impressions `1` | position `12.0`
-  - `gummy bear australia` | clicks `0` | impressions `2` | position `10.5`
-  - `gummy bears australia` | clicks `0` | impressions `8` | position `8.88`
-  - `gummy bears bulk` | clicks `0` | impressions `4` | position `9.5`
-  - `gummy bears haribo flavors` | clicks `0` | impressions `1` | position `32.0`
+  - `giant gummy bear australia` | clicks `0` | impressions `1` | position `7.0`
+  - `gummy australia` | clicks `0` | impressions `2` | position `13.5`
+  - `gummy bear australia` | clicks `0` | impressions `1` | position `10.0`
+  - `gummy bear packets` | clicks `0` | impressions `1` | position `10.0`
+  - `gummy bears australia` | clicks `0` | impressions `9` | position `8.78`
+  - `gummy bears bulk` | clicks `0` | impressions `3` | position `10.33`
+  - `gummy bears in bulk` | clicks `0` | impressions `1` | position `6.0`
   - `gummy candy australia` | clicks `0` | impressions `2` | position `12.0`
   - `gummy online` | clicks `0` | impressions `1` | position `5.0`
+  - `gummy packets` | clicks `0` | impressions `1` | position `14.0`
   - `haribo` | clicks `0` | impressions `1` | position `6.0`
-  - `haribo bulk gummy bears` | clicks `0` | impressions `1` | position `9.0`
-  - `haribo gummy bear flavours` | clicks `0` | impressions `3` | position `8.0`
+  - `haribo australia` | clicks `0` | impressions `1` | position `19.0`
   - `haribo gummy bears australia` | clicks `0` | impressions `1` | position `1.0`
   - `haribo gummy bears bulk` | clicks `0` | impressions `1` | position `9.0`
   - `how many gummy bears in a packet` | clicks `0` | impressions `1` | position `15.0`
+  - `where to buy haribo gummy bears` | clicks `0` | impressions `1` | position `13.0`
 - Issues:
   - `missing_from_post_sitemap`
 
@@ -1428,9 +1435,9 @@
 - Title present: `True`
 - Meta description present: `True`
 - GSC clicks: `0`
-- GSC impressions: `1`
+- GSC impressions: `2`
 - GSC CTR: `0.0%`
-- GSC avg position: `2.0`
+- GSC avg position: `8.0`
 - Issues: none
 
 ### chocolate-bars-australia
@@ -1446,49 +1453,56 @@
 - Title present: `True`
 - Meta description present: `True`
 - GSC clicks: `0`
-- GSC impressions: `107`
+- GSC impressions: `360`
 - GSC CTR: `0.0%`
-- GSC avg position: `23.07`
+- GSC avg position: `11.35`
 - Top queries:
   - `250g chocolate bar` | clicks `0` | impressions `3` | position `8.0`
   - `adult chocolate bars` | clicks `0` | impressions `1` | position `34.0`
   - `assorted chocolate bars` | clicks `0` | impressions `1` | position `21.0`
-  - `australia chocolate` | clicks `0` | impressions `1` | position `73.0`
   - `australia chocolates` | clicks `0` | impressions `1` | position `56.0`
   - `australian chocolate bar` | clicks `0` | impressions `1` | position `45.0`
-  - `australian chocolate bars` | clicks `0` | impressions `3` | position `36.33`
-  - `bar of chocolate` | clicks `0` | impressions `1` | position `78.0`
+  - `australian chocolate bars` | clicks `0` | impressions `3` | position `33.0`
+  - `bar chocolate` | clicks `0` | impressions `2` | position `38.0`
   - `bar sweets` | clicks `0` | impressions `1` | position `12.0`
   - `best bar chocolate` | clicks `0` | impressions `1` | position `12.0`
-  - `best chocolate bars` | clicks `0` | impressions `2` | position `15.0`
+  - `best chocolate bars` | clicks `0` | impressions `4` | position `14.0`
   - `best chocolate bars australia` | clicks `0` | impressions `4` | position `18.0`
   - `buy chocolate bars` | clicks `0` | impressions `1` | position `13.0`
-  - `buzz bar chocolate` | clicks `0` | impressions `1` | position `34.0`
-  - `buzz chocolate bar` | clicks `0` | impressions `2` | position `9.5`
+  - `buzz chocolate bar` | clicks `0` | impressions `1` | position `10.0`
   - `cadbury chocolate bars australia` | clicks `0` | impressions `1` | position `17.0`
   - `choclate bar` | clicks `0` | impressions `2` | position `60.0`
-  - `chocolate` | clicks `0` | impressions `1` | position `12.0`
-  - `chocolate bar` | clicks `0` | impressions `6` | position `24.17`
-  - `chocolate bar australia` | clicks `0` | impressions `1` | position `21.0`
-  - `chocolate bar kinds` | clicks `0` | impressions `2` | position `38.0`
+  - `chocolate bar` | clicks `0` | impressions `6` | position `19.5`
+  - `chocolate bar australia` | clicks `0` | impressions `2` | position `47.0`
   - `chocolate bar names` | clicks `0` | impressions `1` | position `56.0`
-  - `chocolate bar types` | clicks `0` | impressions `2` | position `48.0`
-  - `chocolate bars` | clicks `0` | impressions `3` | position `38.0`
-  - `chocolate bars australia` | clicks `0` | impressions `14` | position `34.07`
+  - `chocolate bars` | clicks `0` | impressions `6` | position `23.5`
+  - `chocolate bars australia` | clicks `0` | impressions `16` | position `27.0`
   - `chocolate bars best` | clicks `0` | impressions `1` | position `10.0`
-  - `chocolate bars in australia` | clicks `0` | impressions `1` | position `45.0`
+  - `chocolate bars in australia` | clicks `0` | impressions `1` | position `48.0`
   - `chocolate bars online` | clicks `0` | impressions `1` | position `8.0`
-  - `chocolate bars types` | clicks `0` | impressions `1` | position `49.0`
+  - `chocolate products` | clicks `0` | impressions `1` | position `37.0`
   - `chocolates for tourists australia` | clicks `0` | impressions `1` | position `70.0`
   - `classic chocolate bars` | clicks `0` | impressions `1` | position `10.0`
   - `discounted chocolate bars` | clicks `0` | impressions `1` | position `14.0`
-  - `flavoured chocolate bars` | clicks `0` | impressions `1` | position `39.0`
-  - `good chocolates` | clicks `0` | impressions `1` | position `44.0`
-  - `kinds of chocolate bars` | clicks `0` | impressions `1` | position `41.0`
+  - `flavoured chocolate bars` | clicks `0` | impressions `3` | position `20.67`
+  - `i live in australia. can you show me some good chocolate options?` | clicks `0` | impressions `21` | position `9.0`
+  - `i live in australia. find me chocolate options from brands with top reputations.` | clicks `0` | impressions `3` | position `10.0`
+  - `i live in australia. find me chocolate options that are great value for the price.` | clicks `0` | impressions `52` | position `7.13`
+  - `i live in australia. find me chocolate options that have great availability in most stores.` | clicks `0` | impressions `50` | position `5.06`
+  - `i live in australia. find me chocolate options with top-notch packaging.` | clicks `0` | impressions `4` | position `9.75`
+  - `i live in australia. find me chocolate options with top-quality texture.` | clicks `0` | impressions `35` | position `7.37`
+  - `i live in australia. find me some chocolate options with top quality.` | clicks `0` | impressions `10` | position `7.7`
+  - `i live in australia. find me some chocolate options with top-tier taste.` | clicks `0` | impressions `36` | position `8.64`
+  - `i live in australia. give me a list of chocolates that have the best prices or value.` | clicks `0` | impressions `1` | position `12.0`
+  - `i live in australia. i want chocolate that’s reasonably priced but still good quality.` | clicks `0` | impressions `19` | position `9.32`
+  - `i live in australia. i want chocolate that’s widely available and easy to buy locally.` | clicks `0` | impressions `7` | position `5.14`
+  - `i live in australia. which chocolate offers the best price?` | clicks `0` | impressions `2` | position `9.0`
   - `most popular chocolate bar in australia` | clicks `0` | impressions `1` | position `1.0`
   - `popular chocolate bars` | clicks `0` | impressions `1` | position `6.0`
   - `quality chocolate bars` | clicks `0` | impressions `2` | position `14.5`
   - `soft chocolate bars` | clicks `0` | impressions `1` | position `12.0`
+  - `top 10 chocolate bars in australia` | clicks `0` | impressions `1` | position `15.0`
+  - `types of chocolate candy bars` | clicks `0` | impressions `1` | position `47.0`
 - Issues:
   - `missing_from_post_sitemap`
 
@@ -1505,9 +1519,9 @@
 - Title present: `True`
 - Meta description present: `True`
 - GSC clicks: `0`
-- GSC impressions: `2`
+- GSC impressions: `1`
 - GSC CTR: `0.0%`
-- GSC avg position: `6.0`
+- GSC avg position: `1.0`
 - Issues:
   - `missing_from_post_sitemap`
 
@@ -1543,15 +1557,16 @@
 - Title present: `True`
 - Meta description present: `True`
 - GSC clicks: `0`
-- GSC impressions: `37`
+- GSC impressions: `32`
 - GSC CTR: `0.0%`
-- GSC avg position: `7.32`
+- GSC avg position: `6.94`
 - Top queries:
-  - `australia candy box` | clicks `0` | impressions `2` | position `8.0`
+  - `australia candy box` | clicks `0` | impressions `3` | position `7.67`
   - `candy box australia` | clicks `0` | impressions `1` | position `8.0`
-  - `candy boxes australia` | clicks `0` | impressions `1` | position `8.0`
+  - `candy boxes australia` | clicks `0` | impressions `1` | position `7.0`
+  - `candy club` | clicks `0` | impressions `1` | position `4.0`
   - `candy subscription box` | clicks `0` | impressions `1` | position `4.0`
-  - `chocolate subscription box australia` | clicks `0` | impressions `1` | position `31.0`
+  - `dessert subscription box` | clicks `0` | impressions `1` | position `6.0`
   - `sweet treat subscription box` | clicks `0` | impressions `1` | position `6.0`
 - Issues:
   - `missing_from_post_sitemap`
@@ -1569,9 +1584,9 @@
 - Title present: `True`
 - Meta description present: `True`
 - GSC clicks: `0`
-- GSC impressions: `1`
+- GSC impressions: `2`
 - GSC CTR: `0.0%`
-- GSC avg position: `6.0`
+- GSC avg position: `6.5`
 - Issues:
   - `missing_from_post_sitemap`
 
@@ -1588,35 +1603,38 @@
 - Title present: `True`
 - Meta description present: `True`
 - GSC clicks: `0`
-- GSC impressions: `55`
+- GSC impressions: `85`
 - GSC CTR: `0.0%`
-- GSC avg position: `40.44`
+- GSC avg position: `26.93`
 - Top queries:
-  - `aussie chocolate brands` | clicks `0` | impressions `1` | position `36.0`
-  - `australia chocolate brands` | clicks `0` | impressions `1` | position `41.0`
-  - `australian choc` | clicks `0` | impressions `2` | position `90.0`
+  - `australia chocolate brand` | clicks `0` | impressions `1` | position `16.0`
+  - `australian brand chocolate` | clicks `0` | impressions `2` | position `30.5`
   - `australian chocola` | clicks `0` | impressions `1` | position `56.0`
-  - `australian chocolate` | clicks `0` | impressions `6` | position `60.5`
-  - `australian chocolate brand` | clicks `0` | impressions `1` | position `15.0`
-  - `australian chocolate brands` | clicks `0` | impressions `2` | position `30.5`
-  - `australian chocolates` | clicks `0` | impressions `2` | position `57.5`
-  - `australian made chocolate` | clicks `0` | impressions `1` | position `35.0`
+  - `australian chocolate` | clicks `0` | impressions `5` | position `53.4`
+  - `australian chocolate brand` | clicks `0` | impressions `3` | position `15.0`
+  - `australian chocolate brands` | clicks `0` | impressions `4` | position `37.75`
+  - `australian chocolate companies` | clicks `0` | impressions `1` | position `16.0`
+  - `australian chocolates` | clicks `0` | impressions `1` | position `54.0`
+  - `australian made chocolate` | clicks `0` | impressions `2` | position `38.0`
   - `australian made chocolate brands` | clicks `0` | impressions `3` | position `18.33`
-  - `australian made chocolates` | clicks `0` | impressions `3` | position `26.67`
-  - `best australian chocolate` | clicks `0` | impressions `1` | position `40.0`
-  - `best australian chocolates` | clicks `0` | impressions `1` | position `39.0`
-  - `best chocolate australia` | clicks `0` | impressions `2` | position `59.0`
+  - `australian made chocolates` | clicks `0` | impressions `4` | position `23.75`
+  - `best chocolate australia` | clicks `0` | impressions `1` | position `54.0`
+  - `best chocolate brand in australia` | clicks `0` | impressions `1` | position `38.0`
   - `best chocolate brands in australia` | clicks `0` | impressions `1` | position `58.0`
   - `best chocolate in australia` | clicks `0` | impressions `2` | position `59.5`
   - `best chocolates australia` | clicks `0` | impressions `1` | position `55.0`
   - `best chocolates brand` | clicks `0` | impressions `1` | position `55.0`
-  - `chocolate aussie` | clicks `0` | impressions `1` | position `63.0`
-  - `chocolate brands australia` | clicks `0` | impressions `1` | position `53.0`
-  - `chocolate brands in australia` | clicks `0` | impressions `6` | position `43.33`
+  - `chocolate australia brand` | clicks `0` | impressions `1` | position `48.0`
+  - `chocolate brand australia` | clicks `0` | impressions `2` | position `15.0`
+  - `chocolate brand in australia` | clicks `0` | impressions `1` | position `17.0`
+  - `chocolate brands australia` | clicks `0` | impressions `1` | position `45.0`
+  - `chocolate brands in australia` | clicks `0` | impressions `7` | position `41.43`
   - `chocolate souvenirs from australia` | clicks `0` | impressions `1` | position `40.0`
   - `chocolates made in australia` | clicks `0` | impressions `1` | position `18.0`
-  - `famous chocolate in australia` | clicks `0` | impressions `1` | position `69.0`
-  - `top popular confectionery brands selection in australia` | clicks `0` | impressions `2` | position `1.0`
+  - `i live in australia. i want a chocolate that’s made with great ingredients.` | clicks `0` | impressions `22` | position `9.45`
+  - `i live in australia. i want chocolate that’s widely available and easy to buy locally.` | clicks `0` | impressions `1` | position `4.0`
+  - `made in australia chocolate` | clicks `0` | impressions `1` | position `16.0`
+  - `top popular confectionery brands selection in australia` | clicks `0` | impressions `1` | position `1.0`
 - Issues:
   - `missing_from_post_sitemap`
 
@@ -1633,24 +1651,17 @@
 - Title present: `True`
 - Meta description present: `True`
 - GSC clicks: `0`
-- GSC impressions: `29`
+- GSC impressions: `9`
 - GSC CTR: `0.0%`
-- GSC avg position: `18.62`
+- GSC avg position: `57.33`
 - Top queries:
-  - `allens lollies` | clicks `0` | impressions `1` | position `4.0`
-  - `australian candy` | clicks `0` | impressions `4` | position `40.0`
-  - `australian candy brands` | clicks `0` | impressions `1` | position `10.0`
+  - `australia sweet` | clicks `0` | impressions `1` | position `83.0`
+  - `australian candy` | clicks `0` | impressions `2` | position `53.5`
   - `australian made sweets` | clicks `0` | impressions `1` | position `67.0`
   - `candy au` | clicks `0` | impressions `1` | position `81.0`
-  - `jolly rancher` | clicks `0` | impressions `1` | position `2.0`
-  - `junior mints` | clicks `0` | impressions `1` | position `2.0`
-  - `popular candies` | clicks `0` | impressions `1` | position `78.0`
-  - `sweets world` | clicks `0` | impressions `1` | position `1.0`
-  - `top popular confectionery brands selection in australia` | clicks `0` | impressions `1` | position `1.0`
-  - `tutti frutti` | clicks `0` | impressions `1` | position `4.0`
+  - `candy in australia` | clicks `0` | impressions `1` | position `85.0`
+  - `sweet australia` | clicks `0` | impressions `1` | position `86.0`
   - `united sweets` | clicks `0` | impressions `1` | position `4.0`
-  - `what are the most popular confectionery options to buy in retail stores in australia?` | clicks `0` | impressions `1` | position `7.0`
-  - `what are the top cheap version confectionery options for kids in australia?` | clicks `0` | impressions `1` | position `10.0`
 - Issues:
   - `missing_from_post_sitemap`
 
@@ -1667,9 +1678,9 @@
 - Title present: `True`
 - Meta description present: `True`
 - GSC clicks: `0`
-- GSC impressions: `19`
+- GSC impressions: `20`
 - GSC CTR: `0.0%`
-- GSC avg position: `9.05`
+- GSC avg position: `9.7`
 - Issues:
   - `missing_from_post_sitemap`
 
@@ -1686,9 +1697,9 @@
 - Title present: `True`
 - Meta description present: `True`
 - GSC clicks: `0`
-- GSC impressions: `1`
+- GSC impressions: `2`
 - GSC CTR: `0.0%`
-- GSC avg position: `49.0`
+- GSC avg position: `45.5`
 - Issues:
   - `missing_from_post_sitemap`
 
@@ -1707,9 +1718,9 @@
 - GSC clicks: `0`
 - GSC impressions: `5`
 - GSC CTR: `0.0%`
-- GSC avg position: `9.4`
+- GSC avg position: `16.2`
 - Top queries:
-  - `stocking fillers australia` | clicks `0` | impressions `3` | position `8.67`
+  - `stocking fillers australia` | clicks `0` | impressions `3` | position `20.0`
 - Issues:
   - `missing_from_post_sitemap`
 
@@ -1728,7 +1739,7 @@
 - GSC clicks: `0`
 - GSC impressions: `3`
 - GSC CTR: `0.0%`
-- GSC avg position: `33.67`
+- GSC avg position: `33.33`
 - Issues:
   - `missing_from_post_sitemap`
 
@@ -1745,9 +1756,9 @@
 - Title present: `True`
 - Meta description present: `True`
 - GSC clicks: `0`
-- GSC impressions: `6`
+- GSC impressions: `2`
 - GSC CTR: `0.0%`
-- GSC avg position: `7.17`
+- GSC avg position: `4.5`
 - Issues:
   - `missing_from_post_sitemap`
 
@@ -1783,14 +1794,14 @@
 - Title present: `True`
 - Meta description present: `True`
 - GSC clicks: `0`
-- GSC impressions: `34`
+- GSC impressions: `44`
 - GSC CTR: `0.0%`
-- GSC avg position: `9.12`
+- GSC avg position: `8.98`
 - Top queries:
   - `bulk candy` | clicks `0` | impressions `1` | position `14.0`
   - `candy wholesale` | clicks `0` | impressions `1` | position `19.0`
   - `wholesale candies melbourne` | clicks `0` | impressions `1` | position `34.0`
-  - `wholesale candy` | clicks `0` | impressions `1` | position `16.0`
+  - `wholesale candy` | clicks `0` | impressions `2` | position `14.5`
   - `wholesale candy australia` | clicks `0` | impressions `1` | position `8.0`
 - Issues:
   - `missing_from_post_sitemap`
@@ -1827,9 +1838,9 @@
 - Title present: `True`
 - Meta description present: `True`
 - GSC clicks: `0`
-- GSC impressions: `1`
+- GSC impressions: `2`
 - GSC CTR: `0.0%`
-- GSC avg position: `9.0`
+- GSC avg position: `8.0`
 - Issues:
   - `missing_from_post_sitemap`
 
@@ -1845,49 +1856,54 @@
 - H1 count: `1`
 - Title present: `True`
 - Meta description present: `True`
-- GSC clicks: `2`
-- GSC impressions: `166`
-- GSC CTR: `1.2%`
-- GSC avg position: `9.83`
+- GSC clicks: `3`
+- GSC impressions: `187`
+- GSC CTR: `1.6%`
+- GSC avg position: `9.71`
 - Top queries:
   - `allens lollies` | clicks `0` | impressions `1` | position `5.0`
+  - `aussie lollies` | clicks `0` | impressions `1` | position `3.0`
+  - `australian candies` | clicks `0` | impressions `2` | position `4.0`
+  - `australian candy` | clicks `0` | impressions `1` | position `6.0`
+  - `australian kids` | clicks `0` | impressions `1` | position `3.0`
   - `best aussie lollies` | clicks `0` | impressions `2` | position `14.5`
   - `best candy` | clicks `0` | impressions `1` | position `13.0`
-  - `best lollies australia` | clicks `0` | impressions `1` | position `12.0`
+  - `best lollies` | clicks `0` | impressions `1` | position `11.0`
+  - `best lollies australia` | clicks `0` | impressions `1` | position `10.0`
   - `best lollies in australia` | clicks `0` | impressions `1` | position `20.0`
-  - `candy australia` | clicks `0` | impressions `1` | position `66.0`
-  - `candy brands` | clicks `0` | impressions `1` | position `1.0`
-  - `candy in australia` | clicks `0` | impressions `1` | position `3.0`
-  - `candy popular` | clicks `0` | impressions `1` | position `34.0`
-  - `candy woolworths` | clicks `0` | impressions `1` | position `7.0`
+  - `candy australia` | clicks `0` | impressions `3` | position `68.0`
+  - `candy in australia` | clicks `0` | impressions `2` | position `35.5`
+  - `candy shop near me` | clicks `0` | impressions `1` | position `5.0`
   - `famous lollies` | clicks `0` | impressions `1` | position `17.0`
+  - `fantales lollies` | clicks `0` | impressions `1` | position `1.0`
+  - `iconic australian lollies` | clicks `0` | impressions `1` | position `28.0`
   - `list of australian lollies` | clicks `0` | impressions `1` | position `77.0`
+  - `lollies` | clicks `0` | impressions `2` | position `6.0`
   - `lollies from australia` | clicks `0` | impressions `1` | position `3.0`
   - `lolly in australia` | clicks `0` | impressions `1` | position `23.0`
   - `melbourne rock candy company` | clicks `0` | impressions `1` | position `5.0`
   - `most popular candy` | clicks `0` | impressions `2` | position `6.5`
-  - `most popular candy in australia` | clicks `0` | impressions `1` | position `6.0`
-  - `most popular lollies in australia` | clicks `0` | impressions `12` | position `6.42`
-  - `most popular mondelez brand aus` | clicks `0` | impressions `4` | position `18.5`
+  - `most popular lollies` | clicks `0` | impressions `1` | position `9.0`
+  - `most popular lollies in australia` | clicks `0` | impressions `13` | position `6.54`
+  - `most popular mondelez brand aus` | clicks `0` | impressions `3` | position `18.0`
   - `my chewy milk candy australia` | clicks `0` | impressions `1` | position `3.0`
-  - `popular australian candy` | clicks `0` | impressions `1` | position `25.0`
-  - `popular candies` | clicks `0` | impressions `1` | position `49.0`
-  - `popular candy` | clicks `0` | impressions `1` | position `36.0`
-  - `popular lollies` | clicks `0` | impressions `1` | position `24.0`
+  - `popular australian candy` | clicks `0` | impressions `2` | position `25.5`
+  - `popular lollies` | clicks `0` | impressions `1` | position `60.0`
   - `rocky road` | clicks `0` | impressions `1` | position `3.0`
+  - `sweets in australia` | clicks `0` | impressions `1` | position `3.0`
   - `the natural confectionery company` | clicks `0` | impressions `1` | position `3.0`
-  - `top 10 lollies` | clicks `0` | impressions `1` | position `11.0`
   - `top 10 most popular candy` | clicks `0` | impressions `1` | position `8.0`
   - `top popular confectionery brands selection in australia` | clicks `0` | impressions `1` | position `9.0`
-  - `what are australian lollies` | clicks `0` | impressions `1` | position `66.0`
   - `what are lollies in australia` | clicks `0` | impressions `2` | position `34.0`
   - `what are the best lollies` | clicks `0` | impressions `1` | position `24.0`
-  - `what are the most popular confectionery options to buy in retail stores in australia?` | clicks `0` | impressions `1` | position `9.0`
+  - `what are the most popular confectionery options to buy in retail stores in australia?` | clicks `0` | impressions `2` | position `5.0`
   - `what is the most popular candy` | clicks `0` | impressions `1` | position `5.0`
-  - `what is the most popular candy in australia` | clicks `0` | impressions `4` | position `5.0`
+  - `what is the most popular candy in australia` | clicks `0` | impressions `5` | position `6.0`
   - `what is the most popular chocolate in australia` | clicks `0` | impressions `1` | position `25.0`
-  - `what is the most popular lolly` | clicks `0` | impressions `1` | position `9.0`
-  - `what is the most sour lolly in the world` | clicks `0` | impressions `1` | position `2.0`
+  - `what is the most popular lolly` | clicks `0` | impressions `1` | position `11.0`
+  - `what is the most popular lolly in the world` | clicks `0` | impressions `1` | position `1.0`
+  - `what is the most popular sweet` | clicks `0` | impressions `2` | position `1.0`
+  - `which brand is best?` | clicks `0` | impressions `1` | position `1.0`
 - Issues: none
 
 ### how-to-set-up-candy-bar
@@ -1903,9 +1919,9 @@
 - Title present: `True`
 - Meta description present: `True`
 - GSC clicks: `0`
-- GSC impressions: `4`
+- GSC impressions: `2`
 - GSC CTR: `0.0%`
-- GSC avg position: `8.5`
+- GSC avg position: `8.0`
 - Issues:
   - `missing_from_post_sitemap`
 
@@ -1922,9 +1938,9 @@
 - Title present: `True`
 - Meta description present: `True`
 - GSC clicks: `0`
-- GSC impressions: `8`
+- GSC impressions: `10`
 - GSC CTR: `0.0%`
-- GSC avg position: `10.38`
+- GSC avg position: `10.9`
 - Issues:
   - `missing_from_post_sitemap`
 
@@ -1960,9 +1976,9 @@
 - Title present: `True`
 - Meta description present: `True`
 - GSC clicks: `0`
-- GSC impressions: `2`
+- GSC impressions: `0`
 - GSC CTR: `0.0%`
-- GSC avg position: `9.5`
+- GSC avg position: `0.0`
 - Issues:
   - `missing_from_post_sitemap`
 
@@ -1979,9 +1995,9 @@
 - Title present: `True`
 - Meta description present: `True`
 - GSC clicks: `0`
-- GSC impressions: `9`
+- GSC impressions: `6`
 - GSC CTR: `0.0%`
-- GSC avg position: `8.0`
+- GSC avg position: `9.17`
 - Top queries:
   - `bulk fathers day candy` | clicks `0` | impressions `1` | position `11.0`
 - Issues:
@@ -2000,9 +2016,9 @@
 - Title present: `True`
 - Meta description present: `True`
 - GSC clicks: `0`
-- GSC impressions: `1`
+- GSC impressions: `0`
 - GSC CTR: `0.0%`
-- GSC avg position: `12.0`
+- GSC avg position: `0.0`
 - Issues:
   - `missing_from_post_sitemap`
 
@@ -2021,7 +2037,7 @@
 - GSC clicks: `0`
 - GSC impressions: `8`
 - GSC CTR: `0.0%`
-- GSC avg position: `8.12`
+- GSC avg position: `7.0`
 - Issues: none
 
 ### british-chocolate-australia
@@ -2037,9 +2053,9 @@
 - Title present: `True`
 - Meta description present: `True`
 - GSC clicks: `0`
-- GSC impressions: `7`
+- GSC impressions: `3`
 - GSC CTR: `0.0%`
-- GSC avg position: `9.43`
+- GSC avg position: `4.67`
 - Issues:
   - `missing_from_post_sitemap`
 
@@ -2056,9 +2072,9 @@
 - Title present: `True`
 - Meta description present: `True`
 - GSC clicks: `0`
-- GSC impressions: `4`
+- GSC impressions: `5`
 - GSC CTR: `0.0%`
-- GSC avg position: `12.25`
+- GSC avg position: `12.0`
 - Issues:
   - `missing_from_post_sitemap`
 
@@ -2075,22 +2091,21 @@
 - Title present: `True`
 - Meta description present: `True`
 - GSC clicks: `1`
-- GSC impressions: `63`
-- GSC CTR: `1.59%`
-- GSC avg position: `17.0`
+- GSC impressions: `67`
+- GSC CTR: `1.49%`
+- GSC avg position: `14.54`
 - Top queries:
   - `belgian chocolate australia` | clicks `0` | impressions `1` | position `34.0`
-  - `buy european confectionery online` | clicks `0` | impressions `4` | position `11.25`
-  - `chocolate europe` | clicks `0` | impressions `7` | position `34.43`
+  - `buy european confectionery online` | clicks `0` | impressions `1` | position `11.0`
+  - `chocolate europe` | clicks `0` | impressions `6` | position `34.33`
   - `chocolate from europe` | clicks `0` | impressions `1` | position `25.0`
   - `chocolate in europe` | clicks `0` | impressions `1` | position `35.0`
   - `eu chocolate` | clicks `0` | impressions `2` | position `23.0`
-  - `europe bars` | clicks `0` | impressions `1` | position `66.0`
-  - `europe chocolate` | clicks `0` | impressions `5` | position `11.6`
-  - `european chocolate` | clicks `0` | impressions `12` | position `12.58`
-  - `european confectionery` | clicks `0` | impressions `7` | position `22.57`
-  - `swiss choclate` | clicks `0` | impressions `1` | position `53.0`
-  - `swiss chocolate australia` | clicks `0` | impressions `1` | position `10.0`
+  - `europe chocolate` | clicks `0` | impressions `4` | position `11.5`
+  - `european chocolate` | clicks `0` | impressions `14` | position `11.86`
+  - `european confectionery` | clicks `0` | impressions `6` | position `21.5`
+  - `real belgian chocolate australia` | clicks `0` | impressions `1` | position `35.0`
+  - `swiss chocolate australia` | clicks `0` | impressions `4` | position `6.0`
 - Issues:
   - `missing_from_post_sitemap`
 
@@ -2107,9 +2122,9 @@
 - Title present: `True`
 - Meta description present: `True`
 - GSC clicks: `0`
-- GSC impressions: `20`
+- GSC impressions: `22`
 - GSC CTR: `0.0%`
-- GSC avg position: `8.45`
+- GSC avg position: `8.86`
 - Issues:
   - `missing_from_post_sitemap`
 
@@ -2126,9 +2141,9 @@
 - Title present: `True`
 - Meta description present: `True`
 - GSC clicks: `1`
-- GSC impressions: `5`
-- GSC CTR: `20.0%`
-- GSC avg position: `7.6`
+- GSC impressions: `6`
+- GSC CTR: `16.67%`
+- GSC avg position: `7.33`
 - Issues:
   - `missing_from_post_sitemap`
 
@@ -2145,9 +2160,9 @@
 - Title present: `True`
 - Meta description present: `True`
 - GSC clicks: `0`
-- GSC impressions: `7`
+- GSC impressions: `5`
 - GSC CTR: `0.0%`
-- GSC avg position: `4.57`
+- GSC avg position: `5.0`
 - Issues:
   - `missing_from_post_sitemap`
 
@@ -2164,9 +2179,9 @@
 - Title present: `True`
 - Meta description present: `True`
 - GSC clicks: `0`
-- GSC impressions: `1`
+- GSC impressions: `2`
 - GSC CTR: `0.0%`
-- GSC avg position: `10.0`
+- GSC avg position: `8.5`
 - Issues:
   - `missing_from_post_sitemap`
 
@@ -2183,18 +2198,17 @@
 - Title present: `True`
 - Meta description present: `True`
 - GSC clicks: `0`
-- GSC impressions: `40`
+- GSC impressions: `37`
 - GSC CTR: `0.0%`
-- GSC avg position: `15.72`
+- GSC avg position: `19.19`
 - Top queries:
   - `candy alternatives` | clicks `0` | impressions `1` | position `10.0`
   - `fantales alternative` | clicks `0` | impressions `1` | position `48.0`
   - `healthier lollies` | clicks `0` | impressions `1` | position `32.0`
   - `healthy alternatives to candy` | clicks `0` | impressions `2` | position `9.5`
-  - `healthy confectionery` | clicks `0` | impressions `3` | position `19.0`
-  - `healthy confectionery products` | clicks `0` | impressions `12` | position `20.92`
+  - `healthy confectionery` | clicks `0` | impressions `8` | position `28.12`
+  - `healthy confectionery products` | clicks `0` | impressions `12` | position `20.25`
   - `healthy lollies` | clicks `0` | impressions `1` | position `38.0`
-  - `low sugar candy options` | clicks `0` | impressions `1` | position `10.0`
 - Issues:
   - `missing_from_post_sitemap`
 
@@ -2211,9 +2225,9 @@
 - Title present: `True`
 - Meta description present: `True`
 - GSC clicks: `0`
-- GSC impressions: `1`
+- GSC impressions: `2`
 - GSC CTR: `0.0%`
-- GSC avg position: `10.0`
+- GSC avg position: `8.5`
 - Issues:
   - `missing_from_post_sitemap`
 

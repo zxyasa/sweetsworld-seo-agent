@@ -1,0 +1,158 @@
+{
+  "brief_id": "cola-candy-australia-brief-v1",
+  "slug": "cola-candy-australia",
+  "keyword": "cola candy australia",
+  "search_intent": "Commercial category intent",
+  "page_type": "category_page",
+  "title": "Cola Candy Australia: Buy Cola Bottles and Cola Flavoured Lollies",
+  "meta_description": "Cola Candy Australia: Buy Cola Bottles and Cola Flavoured Lollies. Compare stock options, buying factors, and the best next steps for cola candy in...",
+  "intro": "This page explains the cola candy range, the main product formats to compare, and the next collection or product pages worth opening before you buy.",
+  "outline": [
+    "What defines the cola candy range",
+    "How to shop Candy & Lollies more confidently"
+  ],
+  "sections": [
+    {
+      "heading": "What defines the cola candy range",
+      "paragraphs": [
+        "A category page for cola candy should explain flavour profile, product format, and the most recognisable options in the range.",
+        "That helps search engines and shoppers understand the scope of the page before they move deeper into the catalogue."
+      ],
+      "bullets": [
+        "Gummi Cola Bottles 130g",
+        "Sour Cola Bottles 130g",
+        "Super Gummy Cola Bottle- 150g (Gluten Free)",
+        "Yupi Giant Cola Bottle 32g"
+      ]
+    },
+    {
+      "heading": "How to shop Candy & Lollies more confidently",
+      "paragraphs": [
+        "Category pages should guide users through format, suitability, and value instead of listing products without context.",
+        "This is the section that turns a collection page into a useful SEO landing surface."
+      ],
+      "bullets": [
+        "Show best sellers before long-tail variants.",
+        "Explain when bundles make more sense than single items.",
+        "Link into adjacent collections and product pages."
+      ]
+    }
+  ],
+  "faq_items": [
+    {
+      "question": "What should I look for when choosing cola candy?",
+      "answer": "Focus on suitability for the use case, flavour profile, pack size, and delivery timing rather than assuming every popular candy is the right fit."
+    },
+    {
+      "question": "What is the best next step after reading this page?",
+      "answer": "Use the linked category or product pages to compare live stock, range depth, and practical buying options."
+    },
+    {
+      "question": "Can this page help me compare candy & lollies options?",
+      "answer": "Yes. It should clarify which products or collections are the best fit instead of leaving the reader with generic advice."
+    }
+  ],
+  "faq_questions": [
+    "What should I look for when choosing cola candy?",
+    "What is the best next step after reading this page?",
+    "Can this page help me compare candy & lollies options?"
+  ],
+  "internal_links": [
+    {
+      "url": "https://sweetsworld.com.au/products/mint-chocolate-australia/",
+      "label": "Mint Chocolate Australia",
+      "anchor_text": "Explore Mint Chocolate Australia",
+      "link_kind": "collection"
+    },
+    {
+      "url": "https://sweetsworld.com.au/candy/",
+      "label": "Candy",
+      "anchor_text": "Browse Candy",
+      "link_kind": "category"
+    },
+    {
+      "url": "https://sweetsworld.com.au/candy/sour-lollies/sourcolabottles130g/",
+      "label": "Sourcolabottles130g",
+      "anchor_text": "See Sourcolabottles130g",
+      "link_kind": "product"
+    }
+  ],
+  "selected_products": [
+    {
+      "product_name": "Gummi Cola Bottles 130g",
+      "category": "Uncategorized",
+      "description": "",
+      "price": "4.99",
+      "url": "https://sweetsworld.com.au/uncategorized/oiledcolabottles130g/",
+      "image_url": "https://sweetsworld.com.au/wp-content/uploads/2023/11/81d17a6c6b7925916aa1217c0a64260ad0171c91.jpg",
+      "matched_tokens": [
+        "cola",
+        "bottle"
+      ],
+      "matched_phrases": [],
+      "selection_reason": "direct_match"
+    },
+    {
+      "product_name": "Sour Cola Bottles 130g",
+      "category": "Candy",
+      "description": "Sour Cola Bottles offer a tangy and refreshing candy experience with cola flavor and a sour twist. Perfect for any occasion, they combine great taste with playful enjoyment. Enjoy and share with friends for a...",
+      "price": "4.99",
+      "url": "https://sweetsworld.com.au/candy/sour-lollies/sourcolabottles130g/",
+      "image_url": "https://sweetsworld.com.au/wp-content/uploads/2024/03/4e3dba84a9b18ec8d2c7ceb0e4504b0165877288.jpeg",
+      "matched_tokens": [
+        "cola",
+        "bottle"
+      ],
+      "matched_phrases": [],
+      "selection_reason": "direct_match"
+    },
+    {
+      "product_name": "Super Gummy Cola Bottle- 150g (Gluten Free)",
+      "category": "Candy",
+      "description": "Super Gummy Cola Bottle- 150g (Gluten Free) Get ready for a fun and chewy treat with the Super Gummy Cola Bottle ! This oversized gummy candy is bursting with classic cola flavour that’s sure to bring a smile to your...",
+      "price": "8.99",
+      "url": "https://sweetsworld.com.au/candy/super-gummy-cola-bottle/",
+      "image_url": "https://sweetsworld.com.au/wp-content/uploads/2023/09/07f70638db08bcd4a7303bbfa5e4d851d885acab.jpg",
+      "matched_tokens": [
+        "cola",
+        "bottle"
+      ],
+      "matched_phrases": [],
+      "selection_reason": "direct_match"
+    },
+    {
+      "product_name": "Yupi Giant Cola Bottle 32g",
+      "category": "Candy",
+      "description": "",
+      "price": "1.99",
+      "url": "https://sweetsworld.com.au/candy/yupi-giant-cola-bottle-32g/",
+      "image_url": "https://sweetsworld.com.au/wp-content/uploads/2026/01/Yupi-Giant-Cola-Bottle-32g.webp",
+      "matched_tokens": [
+        "cola",
+        "bottle"
+      ],
+      "matched_phrases": [],
+      "selection_reason": "direct_match"
+    }
+  ],
+  "related_keywords": [
+    "sweetsworld",
+    "white knight chocolate",
+    "sweets world",
+    "fantales lollies",
+    "clinkers chocolate",
+    "darrell lea kotara"
+  ],
+  "cta": {
+    "heading": "Use this page as a shortlist for cola candy",
+    "body": "Review the key options, then move into the linked collection or product pages when you are ready to compare live stock and pricing.",
+    "button_text": "Browse Collection"
+  },
+  "distribution_channels": [
+    "pinterest",
+    "facebook"
+  ],
+  "schema_types": [
+    "BreadcrumbList"
+  ]
+}

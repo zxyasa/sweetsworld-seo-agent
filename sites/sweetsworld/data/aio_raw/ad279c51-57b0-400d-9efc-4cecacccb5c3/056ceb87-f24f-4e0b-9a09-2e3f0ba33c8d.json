@@ -1,0 +1,472 @@
+{
+  "id": "resp_0c58b496812c5f1d006a5b7382c808819bab3df01feda4a529",
+  "object": "response",
+  "created_at": 1784378242,
+  "status": "completed",
+  "background": false,
+  "billing": {
+    "payer": "developer"
+  },
+  "completed_at": 1784378259,
+  "error": null,
+  "frequency_penalty": 0.0,
+  "incomplete_details": null,
+  "instructions": null,
+  "max_output_tokens": null,
+  "max_tool_calls": null,
+  "model": "gpt-5-mini-2025-08-07",
+  "moderation": null,
+  "output": [
+    {
+      "id": "rs_0c58b496812c5f1d006a5b73833540819ba704d088ed828601",
+      "type": "reasoning",
+      "content": [],
+      "encrypted_content": "gAAAAABqW3OT1-22g5prD--nAaVsPebItzZHMWa3OC5SabW1C1mDklJDQSnYtzg6ADdKh-ytvS0UixB-R5WeKOUnhTj0hKElDnIUIqEzBUSpsC4eeNYmg8S1nfA_mPQ0O2gSolhaGAaLcXsRFw8EHNC4YOVXuaRQq62xrJN-DdbhViULT752KGCny5UCtwMu75QtTwsajSInQgzLnSfvGfA0nwfCXNSGIG0EUIrOvfiT2tgMqfUBBgdCUZmJ1M4sdL1qEcC84hvIgJ9OlItU08sNhiy8ZSqpB2eav5yH-6bDCcGBTYnDW-JtaFeN3yGKF3BO3oO6JXoV-bAIaKRjr2rNUImLKywBX7CNFR7aDiycECGjrKWplJ1qQ0oFfGMSFs0gJDmjSCpORamWsZiMjHPOGdvaS_q-0N_mXsD55nB870c_5_nQz3Uc4z_onTkpWG_WAHEeyv0TnszOcDDRdyhO3KRVrjsYVPW8DDwbDbGOly5nHOdFuStof5lUbecorWr2i8GwHPQVcY3psGT3bZwgzjAVDBP9cemSHRcletqnGl5ElI9bJKzzjOZis2u0QHjQ_XPSL2afHXAKSxwTQRpPEp4rQhehS04tk6ympHc2IqCIMOAoEwfqco0mnaka-4FIXJC2KOWZKKPeA3gQjx1V7-gl6YcUg7eu9oerHczcqooMOBn4-x6_I0nPk4sDrECulRyeSNfXQica7g3ofjLB4LwhuvGH0KPCGV6XPT-ge_GtnUWRc9gDFznvTgs_ir2x55iANQ95-enh-KjEJccUukLsMa01WcVgjkfRDSTFuSl6Appe8NOkLzu9-BEOiC4jjmAupodXYyaDEjIA-4zMjzRae8QJO-dm5s3Yr02Eo-dL1-LKO4SmhnSKrgRqcLvE07JTFphd2Zg1nYv-IXW-rMbMnB1VcGZQcEBSQccaUQSRXqbTBrgaU4ZKUEXRf6YwB60Y9IgquvxoZl-iSnFVjbAgVvWDTerAUOTYyXyU-CDqc7tLqeUg-kMXVTXJGSPZIh9aQQAK1dw5_hP5ytHQ3qe1m0yeCifKsfm4XSFJtt627cYXpcfASpJwe3anxHut2obWcZ0A8Hlz_68yQ5FCdPAlD4t_RLoKEvq8lSUKcowELM0x2GGD0sXQSrgGKPRDABszO4Lk5nic5olK4FXFUvPisDkMRiG9tvMLt72niLlo-LmWobF7aBPRKKMzubmgE6_IBMgs9ZR7DV7KXbFQr5BrW9E2ToikYckIV9DXfOw7tWa4PlzMVRIj5p6PjS4nN-4M6bkVxYl11s9y-RCOFWe-fw1aly6nqUBG-QQ9_6Orkj4Oc0H5XBoeXOaWOdoyHCGX3kpO9MBuN_SHzZ8XrlhYYeg83cbkZ2gqO7HdVT4rBkUwEwCXBvxh3ZyqN8Hccgtl_a6DRcLsVltoPrroYFJitdEyicGF1w-9fm2igXScYZbt_fxyzM_d-gxq0R3xZK38aIw9Au-IxseU8UeRqR76W7stqqpWgvOIswyIrQUNeRRxSNqus7AqI53FwOZahV8YlZvl6x0D6jxFSIitPMxmo_Td-N96ljr9lFZDR0d2BpUx8wKux8eNEiuJmCPRTi8nWtWkl0AAci-Qqbb7uq8DGkd9ENDvb_GNELjvbeIAgG9ogON9HKGpoqXGolZWoYsb0k7Be608f2Z7tm0T7HOQtMgoFloYdFKT3jXN349y4vC1UKvUyBUkF1kcSaRc_rAvsi6sEZjMSL8LjPjJFLX9VCFwLQeN0ea_t0ID-BxywF7cOw41RzUVegyoxNFe0qQ-ePdf32dRUcWaKHouKhOevkcq59-3ujIgCyPGqLb-WcVoXZlHaJaTE6iOaufEETjNz7Aht5I1kSZdbwX0rmKJczBIygkvJyNZcmCRN6mQPxUB18rrRGBQhKGliB_l2WLgMkL3fz--STYHNZRS5vrs5SfsFFru53FwAunBbC-ioPmISdInT28IqV47suZq45UUBQufG2T1CMK8zHDm_31x5xfI6ZtUcMqMFJZZEEjsK_aPzKSr_nbJlWtXu0l8RV4cP2J9kKBDNZPblBX8qw52mg1_p1LnucIZMm83_T4qtgfDB12ope2VF5DStaCIKQUdOpbCbwd8Y0lBjZocn_uIQESJp6T0wdIQr8LwFqFDFPxUQI_OUGysPGsbZxnMaEr85trL2eQlkuZWJDloRfmFjMCU5kQtzGuhmEjiQsSmhG5SEMs=",
+      "summary": []
+    },
+    {
+      "id": "ws_0c58b496812c5f1d006a5b738683a0819b86ef13c76adf1779",
+      "type": "web_search_call",
+      "status": "completed",
+      "action": {
+        "type": "search",
+        "queries": [
+          "buy halal lollies online Australia",
+          "halal lollies Australia online store gummy halal Australia",
+          "halal candy Australia online store halal certified lollies",
+          "Where to buy halal marshmallows Australia online halal marshmallows Australia"
+        ],
+        "query": "buy halal lollies online Australia",
+        "sources": [
+          {
+            "type": "url",
+            "url": "https://www.lollywarehouse.com.au/product-category/special-dietary-lollies/halal/"
+          },
+          {
+            "type": "url",
+            "url": "https://globalsweetsandlollies.com/collections/buy-halal-candies-online-australia"
+          },
+          {
+            "type": "url",
+            "url": "https://www.sweetas.net.au/collections/halal-lollies-chocolate"
+          },
+          {
+            "type": "url",
+            "url": "https://tinysugargems.com.au/"
+          },
+          {
+            "type": "url",
+            "url": "https://www.eatsweetlollies.com.au/collections/halal"
+          },
+          {
+            "type": "url",
+            "url": "https://lovinitsweet.com.au/"
+          },
+          {
+            "type": "url",
+            "url": "https://www.bigw.com.au/product/trolli-planet-gummi-16g-single-ball-/p/9903175030"
+          },
+          {
+            "type": "url",
+            "url": "https://themarshmallow.co/collections/halal-marshmallows"
+          },
+          {
+            "type": "url",
+            "url": "https://www.lotsalollies.com.au/collections/halal"
+          },
+          {
+            "type": "url",
+            "url": "https://tinysugargems.com.au/products/tiny-sugar-acrylics-100g"
+          },
+          {
+            "type": "url",
+            "url": "https://www.sweetas.net.au/products/juicy-jelly-gummy-lemon-drops-1kg"
+          },
+          {
+            "type": "url",
+            "url": "https://sweetsworld.com.au/best-candy/best-halal-lollies-australia/"
+          },
+          {
+            "type": "url",
+            "url": "https://www.aph.gov.au/DocumentStore.ashx?id=66cd917c-f404-4a99-9a17-bcee88b5cdbe&subId=353837"
+          },
+          {
+            "type": "url",
+            "url": "https://www.lollywall.com.au/wp-content/uploads/2025/11/TLW-Ingredients-Information.pdf"
+          },
+          {
+            "type": "url",
+            "url": "https://www.salaammarketmy.com/company_documents/112195_halal_certificate_for_product_2611_03fefe4b81fa274fed8f69a301fe68f8c6f95103.pdf"
+          },
+          {
+            "type": "url",
+            "url": "https://www.aph.gov.au/DocumentStore.ashx?id=932e98df-0bb3-4d41-8db4-76418c047df9&subId=351963"
+          },
+          {
+            "type": "url",
+            "url": "https://everest-icecream.com.au/wp-content/uploads/2026/02/2026-Halal-EV-Cer.Everest-52.pdf"
+          },
+          {
+            "type": "url",
+            "url": "https://www.henderson-foodservice.com/productpdf/download/file/id/2594/name/Mcdougalls_Mini_White_Marshmallows_%2528450g%2529.pdf/"
+          },
+          {
+            "type": "url",
+            "url": "https://www.reddit.com/r/dubai/comments/1g50fzn"
+          },
+          {
+            "type": "url",
+            "url": "https://www.reddit.com/r/oxford/comments/1pibyrb/where_can_i_buy_vegan_marshmallows_on_cowley_road/"
+          },
+          {
+            "type": "url",
+            "url": "https://www.reddit.com/r/australianvegans/comments/1fyl4cf"
+          },
+          {
+            "type": "url",
+            "url": "https://www.reddit.com/r/auckland/comments/1llhn0h"
+          },
+          {
+            "type": "url",
+            "url": "https://en.wikipedia.org/wiki/Cheekies"
+          },
+          {
+            "type": "url",
+            "url": "https://www.reddit.com/r/EatingHalal/comments/1rqecj2/halal_blue_moam/"
+          },
+          {
+            "type": "url",
+            "url": "https://www.reddit.com/r/90dayfianceuncensored/comments/1jffaxk"
+          },
+          {
+            "type": "url",
+            "url": "https://www.reddit.com/r/progressive_islam/comments/1uiurnc/are_these_candies_halalokay_for_muslims_to_eat/"
+          },
+          {
+            "type": "url",
+            "url": "https://www.reddit.com/r/AustralianTeachers/comments/1q6yhzf/berated_for_not_knowing_nerds_the_lollies_are/"
+          },
+          {
+            "type": "url",
+            "url": "https://www.reddit.com/r/stcatharinesON/comments/1l6eyy4"
+          },
+          {
+            "type": "url",
+            "url": "https://www.reddit.com/r/ottawa/comments/1lceu4z"
+          }
+        ]
+      }
+    },
+    {
+      "id": "rs_0c58b496812c5f1d006a5b7388b014819b814ed2abcbee20a5",
+      "type": "reasoning",
+      "content": [],
+      "encrypted_content": "gAAAAABqW3OTsrMlBIE2Pa-RgsCR1EF9jO1cLtCSipUBJMUZhNeObKa36vv5h4Xj6UPBZjQE28gjBoAkcykJeAVspt4xzsfJn_TWxa0phDvTmlT44OZLA3SHBC2g4U_GHSWIhCTmsW3XWYzE_ob9NWO0UyF9NE29_fc3pup887XMl4Fvqi_0vaT_RyP_DZB7tHYLNlijzuclmeqP0-AlFziAfypswhCMqHNX70e21CwqmWMrZGF8LDeyadSEBQFPLrSK3s5JoU1O5Ft_LVifCtEMGtmWRnHKQ0ri2wjsC1xc03iJTWIJacLxkUgKFQbDl8zHqZUWMu5mHVjIGWPP1SlJYI3SL44JqzY-SjqMkCLC-DcwYDVmObHMJzd5In5rqFKaJKZc6iOoY7w8EsJ7z7LUMi2ibLAJj100MnPvFjqbRVIzCiRB_mVD-4GcsKSfszB0PSgwP0IR6taGogR5CSdxQxUfkJSmiqPVtAm2OlTYiV_3VMyGpowKTVWtUdgp7_eyvFPx5jS5uvXzPs7idSNpYMC2fnxhF9DaLoLz3J2bgCi6_UWFElQ2GCsvkArnDE0E7NYQZyK6BvM6NpJALiO_Xue3goK2wFKFyxNEmf1atgl3g_FEWPkzH5ryT8YLr-GOmrSNe7wPXT5WjibkTARLzYM98K3J69eEA_tKWw3e4o5UFWWjcgWlJR-OJfH2hzB4NW44SSO_BNEISKdFgrOo2TNHOLVSogXwqPxTd3IYQdy2g0OrjG45ulWeA9sVXzlmpzwfBe1WMC9fiwvuVYRoGHrmVJQ6g74gBbmcjg9GlPfg1IKpcbyZRs2f3OAv4ZZ9yNpnoHeDNlQ00UOYAjfoBLQPGttCbWHRRvehqeqbqmb70GVDBB3YC33_nCaPATD6XYogeIikyveShd_YshRWrLtvFZk_SLnlMA4_erwdqJi6BupSEiiJxdT6MeCqNnHuR5JsVQleFdiKC_1WOsVtqTEQhGiqfvznf6O8_D_GDzKh0uxvk-fjNRRRL5nnR_i_KVCvzHVyGNFQHbIRR4VSzeuPqhPjN10sBprRSVpdoDpIM2ub12fQAl8TXK_R1xo48mTbVoHvXnOoq8zFVh2rGwUeFDJ4VCCEk4k4VQhBiPQ2pObUM2IfheRHbG2Pi0BHhKLnQKWU7PZcivVXYTGWQD6YuLOL37meiiFbIDIrR6S_7p-aun8kZsa6sPHrzsO0oPVjoubO2mYAbRwSn1FL_2DOfag2OsqqyOH7rsHR5PTW70RP0SCOoT3RugJCZcYs6UXsL4rHDq_k32zQ-1iy5ItxOTUPYsE2DaUcZKA_KLiR8MyJ5lF_N_jM3MDNzkRkAGTfYiXgJKrD2nazBtzjkgyGq2NcMTKWtr7vrx9pFUKlh2M02Nto0YhDjJBpoEGgQnmGSwFJNaJ1mAfrcc0hq_ueVvtgtvBD5JG9pQ2AMrq32c02Wx3CEvSucg1tqKvMwGvlOxHkdoAl3-U0WnUUW4fIcPLK7bj0pnoQDABSRiG2Eet3s9jRBBd-o5gIKOe3IXR4kJQEYYGzvNPMZX5cF6HaGjLdcC23UmKKYOlhWss6p_F4SRzr47IrzZGh9qOSNQYK4Q5GD1TH1GP-IkgKerOyKF1oNM1c6MSt9pntjv8dEcA2SI3MUFEBgh8kFoETIHK0ppqhiwuqnnyjt_l4GLigGYkVHUtVGES3s1Q72Fjd3Er2smoQ-QeGBHpa3ob6jeWWwHJQEr_kHbolLi6mQtdZ26SX-jhqu7rCyB53vbPUnKTHfkLr7x5TqxFUpmPBFIXVKaBkOJaoZOJhiDC20cp5QGsuPc1c8JhbLp9sPB8KsQPKv00CrOLahuXH1umZm9thAJDx-fmhtE8C4Q4XuKAqd_2VLUKR4H35P0iglx4tq4kTDOs20_Mdmo3Ui47w8Nd6w6owJTuww5edtGk-Zqz08-AwQ77Cse4YsaBDW2eKz9f6xwRQD-E-1On4RtTVqL803ckgeueDki2pm9B3cQe5vTMdNA==",
+      "summary": []
+    },
+    {
+      "id": "ws_0c58b496812c5f1d006a5b738953a8819b9356eddf6d91d9b2",
+      "type": "web_search_call",
+      "status": "completed",
+      "action": {
+        "type": "search",
+        "queries": [
+          "Woolworths halal marshmallows gelatin beef halal Australia Woolworths marshmallows halal",
+          "Coles halal lollies online"
+        ],
+        "query": "Woolworths halal marshmallows gelatin beef halal Australia Woolworths marshmallows halal",
+        "sources": [
+          {
+            "type": "url",
+            "url": "https://www.woolworths.com.au/shop/productdetails/583490"
+          },
+          {
+            "type": "url",
+            "url": "https://www.coles.com.au/browse/meat-seafood/halal"
+          },
+          {
+            "type": "url",
+            "url": "https://halalhq.io/au/brands/coles"
+          },
+          {
+            "type": "url",
+            "url": "https://www.woolworths.com.au/shop/productdetails/1120897127/rainbow-mini-marshmallows-800g"
+          },
+          {
+            "type": "url",
+            "url": "https://www.coles.com.au/browse/dietary-world-foods/halal?sortBy=recommendedDescending"
+          },
+          {
+            "type": "url",
+            "url": "https://www.lollywarehouse.com.au/product-category/special-dietary-lollies/halal/"
+          },
+          {
+            "type": "url",
+            "url": "https://halalhq.io/au/halal-at/coles"
+          },
+          {
+            "type": "url",
+            "url": "https://globalsweetsandlollies.com/collections/buy-halal-candies-online-australia"
+          },
+          {
+            "type": "url",
+            "url": "https://fettayleh.com/shop-online/"
+          },
+          {
+            "type": "url",
+            "url": "https://www.sweetas.net.au/collections/halal-lollies-chocolate"
+          },
+          {
+            "type": "url",
+            "url": "https://themarshmallow.co/collections/halal-marshmallows"
+          },
+          {
+            "type": "url",
+            "url": "https://themarshmallow.co/pages/faqs"
+          },
+          {
+            "type": "url",
+            "url": "https://quantum.org.au/wp-content/uploads/2020/06/fact-sheet-culturally-appropriate-foods.pdf"
+          },
+          {
+            "type": "url",
+            "url": "https://www.aph.gov.au/Parliamentary_Business/Committees/Senate/Economics/Food_Cert_Schemes/~/media/Committees/economics_ctte/Food_Cert_Schemes/d01.pdf"
+          },
+          {
+            "type": "url",
+            "url": "https://www.henderson-foodservice.com/productpdf/download/file/id/3812/name/Cool_Delight_Twin_Ice_Lollies_%252840_x_60mls%2529.pdf/"
+          },
+          {
+            "type": "url",
+            "url": "https://www.reddit.com/r/90dayfianceuncensored/comments/1jffaxk"
+          },
+          {
+            "type": "url",
+            "url": "https://www.reddit.com/r/australianvegans/comments/1uw2vsh/new_vegan_lollies_in_coles/"
+          },
+          {
+            "type": "url",
+            "url": "https://www.reddit.com/r/oxford/comments/1pibyrb/where_can_i_buy_vegan_marshmallows_on_cowley_road/"
+          },
+          {
+            "type": "url",
+            "url": "https://www.reddit.com/r/foodies_sydney/comments/1o9rcpe"
+          },
+          {
+            "type": "url",
+            "url": "https://d3vvi2v9oj75wh.cloudfront.net/uploads/pdf/COLNSWMETRO_311225_AQCPHRS.pdf"
+          },
+          {
+            "type": "url",
+            "url": "https://www.bakels.com.au/wp-content/uploads/sites/21/2019/05/343002-Mallowhip.pdf"
+          },
+          {
+            "type": "url",
+            "url": "https://www.muslim.org.au/uploads/1/3/7/8/13783065/a_guide_to_halal_food_2020.pdf"
+          },
+          {
+            "type": "url",
+            "url": "https://www.reddit.com/r/australianvegans/comments/1p7p8ic/new_line_of_lollies_spotted_at_coles_theyre_all/"
+          },
+          {
+            "type": "url",
+            "url": "https://www.reddit.com/r/islam/comments/18yfum9"
+          },
+          {
+            "type": "url",
+            "url": "https://www.reddit.com/r/AldiAustralia/comments/1qgtmfz/is_this_for_real/"
+          },
+          {
+            "type": "url",
+            "url": "https://www.reddit.com/r/Muslim/comments/16pne70/are_these_halal/"
+          },
+          {
+            "type": "url",
+            "url": "https://www.reddit.com/r/islam/comments/1i6mhxl"
+          },
+          {
+            "type": "url",
+            "url": "https://www.reddit.com/r/australianvegans/comments/1qh1co1/this_is_the_best_thing_ive_ever_had/"
+          },
+          {
+            "type": "url",
+            "url": "https://www.reddit.com/r/sydney/comments/nowplt"
+          },
+          {
+            "type": "url",
+            "url": "https://www.lollywarehouse.com.au/product-category/special-dietary-lollies/halal/?utm_source=openai"
+          },
+          {
+            "type": "url",
+            "url": "https://www.sweetas.net.au/collections/halal-lollies-chocolate?utm_source=openai"
+          },
+          {
+            "type": "url",
+            "url": "https://tinysugargems.com.au/?utm_source=openai"
+          },
+          {
+            "type": "url",
+            "url": "https://www.eatsweetlollies.com.au/collections/halal?utm_source=openai"
+          },
+          {
+            "type": "url",
+            "url": "https://themarshmallow.co/collections/halal-marshmallows?utm_source=openai"
+          },
+          {
+            "type": "url",
+            "url": "https://www.woolworths.com.au/shop/productdetails/1120897127/rainbow-mini-marshmallows-800g?utm_source=openai"
+          },
+          {
+            "type": "url",
+            "url": "https://themarshmallow.co/pages/faqs?utm_source=openai"
+          }
+        ]
+      }
+    },
+    {
+      "id": "rs_0c58b496812c5f1d006a5b738bfe10819b96e80ff9ec72e7ee",
+      "type": "reasoning",
+      "content": [],
+      "encrypted_content": "gAAAAABqW3OTOTamEGm0gbam_TdDg8pKB_JHoW_jh7mkIYmFAhfFc54p2-_aJZMaW521t0c68KUAmY0CoW196ayDuV-soarp7aHGu8eM08DzMMjluf4DS1VkzaVTFtzYh1rBH4ZibjrQ0FYh7y_QWsTysbov4vOQT7lYFCSiz-HoEd71wYFcsv3T_fpwkxh3n9qqGILC-SEK7S4AmpCkyqChCPD4NjKRQ6lHCvsGWg0su5FqIrLra_w924O1qPlaPZwKhpM4_4MSO1lyZTh_Q2TSXq71RqV4rdOVMijktUuMPwZF0cuRAlfaHqJUfLaSO_tZ4wkzxmMgt1QwK2gCpB8OcNFwtmnw6eogqRUy9J6ZFvaKMpstYfVF6GZUzRA_5XZ3iI2symoC2Qu1PNQM-bJeH80RvDeEqp66mAq924bz9gLAfXYu-sYTDPSslgXbD6YJwkPthp5gz7yFfoZzTtAc4nryv-Y4GolKxedU1DjpY9wI4dTqIgXD2OPPpuCUoe3z8OSigIN_uzE88cpk9reBwL806Aq-Snr8LShpmEu8iQHsI15kYw1rPqHed0Yg3PsSq6Kuqn3Bbeck1Y_hDBGdEme1pvpQs709UMs2HvJgKfPlxSIvKU0nYiNkMoXhmPpe4jHH6elcu55Djy8JYvsgjaVw-Dr_G2Z0jwHOsNi82iH2rB_c7lnMsMF1uOLk5wXfeyqMtD034wwXrzPvLHfgm1wKdKrxHyroAJwPFJTdkcUAAxWQe1nNmAFIFMPg31nRMlH-RN5wgWZKGxWEY6ojK7mX0BWzkjQSEr0L2W3XJ74l-r7AvBcU9P8yFME7V4IWOYgUrxFo4VQY8F6H_SgqwpqtdDpGnXMxLtmr6PaBweLPNxitHq7CTZwUV1ITZ31kdjMPcQkk_0xQ7TiV3NX1xzpnH5EoU8sfuZlj7-XowQG095389b-HsIYVreRYGSdwPJ0Qx2nv30vNRbIUbaeMSoA1kQxIU9msDmkUSNhrXIwBqjwR6DoYAty0ocxB-wQcSMdW_lqwAFivo3r3vP0zdP8XCv1WinX-tyOoASz9zdU3LBjaZzVdMlHcMPWAR7YBBJPJ4m9Mzk43neon_1_i34IFKbPtr4VHAZSRaHafoSTWhwBeKYoCZlhTtu8QSTkkAkckuFWTm-vDqAA_fALDJU1ZWnQZ_m42DWesFztd47YzqA0QNLa3XJ_xqKtntoiuZngrimGF0MSQROb8Lg-WtPiMaK0aIL4ehrZtfpMEsSllZTwnfmTenGDNctzEeoajlA9s0Xr5EgW6dhALzWioC1RVsCqXFz1FzOW_H-F1VP1UqhcWWONGxu8Mls3Sdu83mymVACgSEtGRPunZxNX_JiQSkxj9VleqDCw5ursa3i6EYpxXikXgEEeN37ioPxVdhYxx-7VnAa77g944mQBoFu5EjReKZlX8n-_T8RQtk4ZUswrVEQSr4YqphK7yesmz4Kos1lhBm4uUharwRjVYgf_AD2pYMg238OrXaWqSgHCbkh0TdAqwvTdAtRrBaeFro1ABdUYThKIBTJMiF59hD7vmulHvoIApARuA70K3SFkE5nPYwOw1dmTVp4XrhCOwy9FwFgwBAWRluozbnLdDtnUx0lt1ABjF-XLuxAZbMkslXzKih1nyLCxtcB60oPDr_S_rOY8TsZ2zHZYyi22Ox-YUW_zcIh016qEC4rIXaSuAcS3up--YwCXsFQOIFODiPoEzFwBGEeRM_NmR7y00nxoIqAIpD9co7pUcEkU9fRA9SEVB4wTnTZCMF1icbA9c683dvTXzGlm55HcAnciR8Qsc9R04WspvvHkiMwC8I42ddImd2KXPABISWFaasH7fA35qVmQCieBfl62nug4gzK3p153f-PZqwNuRGRvPWaPYEZGHS6n2oXPlYin6HsRcKNb9z1sfR9ozC_yIfVrx2HBSrV91rnL0B3r4-OhplrPjJ2a8AvGm4JG68L_hVKOrmte7s1fycKvXXvuAgcklopItpjThIXeuxL0p_R1VNWpbJyr5DUm_Gp_-4r6pgeK2V4MYGhHkELz_J_PdzZcK4vZqqX3wQ-k2jqeYp5kFplo2GDfbjDPtSenSTBn6jAMmyj3-VRounStyUVa7m5tGXbd1qAKkJLIZu-hNR55OaABFRsUkF9gppP6tcVwaXEx0rWahwNa-ncgN5X09a3tZABDMWJnt387bTQvd-_EXpAWah2qXRBkr7eRSchMrp0jk5FAM_vFzgv6F-beA4C_57l52rxVSSPOQgcBnMmcLKIiA6yowqSoYyPhmEXvxE5c0rQ7UKURwVbhYakjeR1q7moyxJrVQUiR5jgurwCgk-CGVpf6y0vkI4qmDhMj9gIVh6QscAStArOHrrSHIEKtOCMDEyKeLvXaVLPOAPpGvKtr3O5OKS6IYyF5RYWzMc9L1RVZBnlfCTe9kEhUQahOmpf2vuGV5ROwERM4YZuEyfCOJzRZOiszGBS2jmWL8ywtizkDXkMVjyqLAnKmwF7zitzEz-HJR_4N5eQTHSUlrZIx96RbvjemWM1YEJILce5n6_NEexEur83aHTDyamzSwvk9k2rTQmYv6VbIS5Aiuc9HmntzujfHsZKhP9NxyJfkBYCPNWhmUirWPIlflIt4VPdArBPfDMRCF2-xzEcN2fXf5BjrRgUqzQUb7AViU0KHzcqV7zmY8f4z05kEC-pkkO7GFTZaCrvhlh-SONuYNzj5mLiu48oT1D6jWC64KeTJmhBI-OQ-0xFUtyMeorw1p6JIkHxr5ZgvjTuy7LQBoduPxsnMCjg7gzRlDn7Zu1Py9LkY_J93jwMHg27zNW7ckcq3zmIPAz24TQWcqFAuyMArgSLqMqWcyvu6m6erY_h0ZDePVC2QkXwgApLb7zhqCB_sSsxcZO_ENySxF6_WOEmr80P1LIgQROoL9GvDWMmx7TXUXqmadb3cyFWrOQlsHm6DrOq_MjDEBmcQ31kFvpOM958Eb41n7297X4b9hJV7xSXg09VwQILrcVovCAoJJF4zHc1ft5OQk2X-kMZbjH9rNYs7KTwZz4ZZmHDdfwS2yrETZjzPToa_67Y6NBKW_11VU33vemDDaH6zs2Q5HDY-mSKDma4c4Z276LpYRbYa5J_AOAS3Pw33U7bDK_PYmPXectSfvWB5Ax1B8cTjwetqOI1Qy1B_xc46jy4J_GisSdTpUDoO3xeeIl-K9HSROBjpXaqeiQqpQ8uwNMrM2_W0FOV7shncd-WmElJz42nAgrdPjN4lwJwLBcCD9xFJ9zmdO414PeyrmELMxbPwGWYbs3ZZik78cIK89-_t-wOwD6ZD55yy1gi1hGLlWjSMQhgBsopDs083R0OShXKLI-Dyu6Okkmqb4TuDgysvUfdGjtozRQUH0BI18u1aRsOpjycu5Agpd1GbNPSK13ru_v2XgVXdeYuEn4779qpV1PgJ1ZK02PKiqIcySdEp13TO6GWnjF-jsGSirH3nMypXwAfXaOR9pJCsQtuCkKCaSOJcBAkBdbx8sSo8PXFG6OW1k-9Nl7lUqCwgR2UVfGph1bg3ZLZubVa6PWvxifFCdWGUoKPNpHbfvIcMzKYq47zmz5tL4e9ZsG1Ll__5n8b42_p7iPTvRrjsF5w0Hn05PFB37UIBZAKYyLUYVfHLWTYbyrCTFpUB5i0kIy7RurdHY6eZ42hfNvLunuNcLYJ2_ZpNIpWgynV9sCZDnCnjJup5z2OPUlbgudi82ROLNATUC1ofvZ5VtsYEFGNmNFKMGHHPmZYlMF6kRGqUOQDFMBwo25SMVRyCqhilNAXFNRVEVhtSrXMNj2HP2lzVrBgk3gv8CC55UxCXJkk6g4tNq3Qj3NK89EPoEevZBZ-IYIK9-1GZe6_TlbsGU0PGzwf260ogJV0l07APtnN66e9ZnHyFN3CNmJpc3jrVC383-yfiX5jIiaN2V4s_MG1JEtOvCDl4fb51sNBVMMeNhyqD1ZLLQYXctt6nco6yPmCummyydZo6pdDMGoVoYB-62aZWy08x_53np4ovIDn93IF1ERkWmDG3TtdlsMykOMVy4KEybMLm4Kgo5JykftCG4scLbiRH7uwR3l8TGrBlmC3hNFupJ4ZUZ34MlhmZhLTWHtB08s2tx74d4c0bSQ4Agr7XZq00As0R-Z2UE9LZ88djUashhYrxjR-fz4h9KSNx9etTN043fYurbHqImk6M33fPzeTlCOBg_pmXZ5EqKQ9tuaZzUEqW1TYLie2cUlPxPkQLnxg4U1VOmkrxWjiMnX6I9unwIJTkKLSksXbugF_QaphB5fSw61kmPppSZnZ7yHcz9X5Hwe1xMu7mFXdsSZAwbB5Iok0qHIy96G5Eda6Y8t0Bq8PAsqhQv3_FyKthxvkpFM05IjcNG5mUiDBVSOreYPsRflN6haJPidMhAaJaHadLV_yE5HpDsjmcV1W0bccCx0AU10Y9K9QPjYjHynESmK0XYuS3BFTqgPeuETq6BR7afRrMnvC3VIXktM5N83IL4jebLA42ttapU4JIHb6-NmwgWATCvS13cGh3Ymx1_iUXP7BTWbZTovv_RcyiPiZMLBTQqlj2xCAs8tHjM8Ko0Ij9Nx4Q48a6urC-zxjKgcco1ZZoTyMU0Hjb8jsCXvuY1JICcLTYfOCRsz0z6njvU3N0hHOH8dWeM0O3mG21LUCuhUHUGrEDUmu7bQon-fL2Hll8LntxsMfgf85xFxIUyeosKK7Y25VP1V1WJvZDNMyRlJT30MyYoTS9xenXx17D6sjwXt-WzmSaoIx8wq4Gdzza5qSmMvFgtitJmMbAgGwjFq3g6PyJhjFfRbpHkaKJfZtPBtEbu_GuzhI0HA6wHNgEvnC7lFvWtmcTzj7vzjxAD32OphgTdOxwk8JmWH4UUcRwbhMTEsNiysdds6KurAGLdQ4RRABp7CVolSB5NB8XB819fQ_caJHJ03kblrYp7wOW0yihtOKO4FsNEv6t5Bot_nROzv2k0U3Wp4U5bkyKt_BIu-fsOhZnURKL4lOSSnM6IEf-CY4AkAp3Q4RQBOhSQMWWKkaMSmcZ9riyJNAVuBKEPmbtkplWNJBSPYDoj6g7mZOCuPUmbWE-nKlfrBdWr56swJ1ZF_u-mdgl3uNFpRMloOcsdzipMPawgV14ifXn94oua1Ek1jnQfAgmGYypGOH0w8-nH5dDV12zSF3giPsJmZWXeOBSsMVCWEk54wJYSr6PBI-3kkTBw6curmlQDBiwm_jggjpdamFvauOLJELUReR6b1ktM4Cz8UgVDmZNNn-n8Yut5zSn6AXE9EN4DEFnUxMJy469Y2a_AYd-4Fzr9b3XTBDBpHWKsb04pCa20-V0LNbYGwbReS7gIJU-wWOKUPuvNXTL1zzMfFCwfd1GrVRra905lCXZOPpW8swhVUt0aT6Y=",
+      "summary": []
+    },
+    {
+      "id": "msg_0c58b496812c5f1d006a5b738f6d70819b9d031c6e85ebc266",
+      "type": "message",
+      "status": "completed",
+      "content": [
+        {
+          "type": "output_text",
+          "annotations": [
+            {
+              "type": "url_citation",
+              "end_index": 409,
+              "start_index": 283,
+              "title": "Halal - Online Lolly Shop - Lolly Warehouse",
+              "url": "https://www.lollywarehouse.com.au/product-category/special-dietary-lollies/halal/?utm_source=openai"
+            },
+            {
+              "type": "url_citation",
+              "end_index": 573,
+              "start_index": 473,
+              "title": "Shop Halal Lollies & Chocolates Online | Sweet As",
+              "url": "https://www.sweetas.net.au/collections/halal-lollies-chocolate?utm_source=openai"
+            },
+            {
+              "type": "url_citation",
+              "end_index": 735,
+              "start_index": 662,
+              "title": "Tiny Sugar Gems Australia | Buy Halal Candy and Lollies Online",
+              "url": "https://tinysugargems.com.au/?utm_source=openai"
+            },
+            {
+              "type": "url_citation",
+              "end_index": 973,
+              "start_index": 875,
+              "title": "Halal Range – Eat Sweet Lollies",
+              "url": "https://www.eatsweetlollies.com.au/collections/halal?utm_source=openai"
+            },
+            {
+              "type": "url_citation",
+              "end_index": 1384,
+              "start_index": 1287,
+              "title": "Buy Halal Marshmallows | The Marshmallow Co.",
+              "url": "https://themarshmallow.co/collections/halal-marshmallows?utm_source=openai"
+            },
+            {
+              "type": "url_citation",
+              "end_index": 1789,
+              "start_index": 1657,
+              "title": "Rainbow Mini Marshmallows 800g | Woolworths",
+              "url": "https://www.woolworths.com.au/shop/productdetails/1120897127/rainbow-mini-marshmallows-800g?utm_source=openai"
+            },
+            {
+              "type": "url_citation",
+              "end_index": 2121,
+              "start_index": 2044,
+              "title": "FAQs | The Marshmallow Co.",
+              "url": "https://themarshmallow.co/pages/faqs?utm_source=openai"
+            }
+          ],
+          "logprobs": [],
+          "text": "Short answer — several Australian online lolly shops and mainstream supermarkets sell halal-labelled or halal-friendly lollies. Good places to start:\n\nRecommended specialty online stores (carry clear “halal” ranges)\n- Lolly Warehouse — has a Halal category and ships Australia‑wide. ([lollywarehouse.com.au](https://www.lollywarehouse.com.au/product-category/special-dietary-lollies/halal/?utm_source=openai))  \n- Sweet As — dedicated halal lollies & chocolate collection. ([sweetas.net.au](https://www.sweetas.net.au/collections/halal-lollies-chocolate?utm_source=openai))  \n- Tiny Sugar Gems — small Australian candy brand that offers halal‑certified lollies. ([tinysugargems.com.au](https://tinysugargems.com.au/?utm_source=openai))  \n- Lotsa Lollies / Eat Sweet / Global Sweets & Lollies — other Australian online sweet stores that list halal sections or halal products. ([eatsweetlollies.com.au](https://www.eatsweetlollies.com.au/collections/halal?utm_source=openai))\n\nMarshmallows and gelatin sweets\n- The Marshmallow Co. sells halal marshmallows made with halal‑certified beef gelatine (they state halal certification on product/FAQ pages). If you want marshmallows or gummies, check brands that explicitly say “halal certified” or list beef (not pork) gelatine and a certifier. ([themarshmallow.co](https://themarshmallow.co/collections/halal-marshmallows?utm_source=openai))\n\nMainstream supermarkets / marketplaces\n- Woolworths and Coles online can also carry halal or halal‑safe items (some marshmallows and packaged sweets list beef gelatine or “halal” on the product page). Use the supermarket site search and look for product halal labelling. ([woolworths.com.au](https://www.woolworths.com.au/shop/productdetails/1120897127/rainbow-mini-marshmallows-800g?utm_source=openai))\n\nQuick tips when you buy\n- Look for an official halal certifier logo (and the certifier name) on the product page or packaging. If only “beef gelatine” is listed without a certifier some people will accept it, others prefer explicit halal certification. ([themarshmallow.co](https://themarshmallow.co/pages/faqs?utm_source=openai))  \n- Avoid products that list “gelatine” without stating source, or list pork ingredients or alcohol.  \n- Vegan or pectin‑based lollies are an easy halal‑safe alternative (many stores label vegan products clearly).  \n- If in doubt, message the online shop to ask which certifier issued the halal certificate and whether the production line handles pork.\n\nWould you like me to:\n- search for a specific brand (e.g., Haribo, Nerds, Sour Patch) and check halal availability in Australia, or  \n- find the cheapest option with delivery to Sydney (postcode or suburb)?"
+        }
+      ],
+      "role": "assistant"
+    }
+  ],
+  "parallel_tool_calls": true,
+  "presence_penalty": 0.0,
+  "previous_response_id": null,
+  "prompt_cache_key": null,
+  "prompt_cache_retention": "in_memory",
+  "reasoning": {
+    "context": "current_turn",
+    "effort": "medium",
+    "mode": "standard",
+    "summary": null
+  },
+  "safety_identifier": null,
+  "service_tier": "default",
+  "store": true,
+  "temperature": 1.0,
+  "text": {
+    "format": {
+      "type": "text"
+    },
+    "verbosity": "medium"
+  },
+  "tool_choice": "auto",
+  "tool_usage": {
+    "image_gen": {
+      "input_tokens": 0,
+      "input_tokens_details": {
+        "image_tokens": 0,
+        "text_tokens": 0
+      },
+      "output_tokens": 0,
+      "output_tokens_details": {
+        "image_tokens": 0,
+        "text_tokens": 0
+      },
+      "total_tokens": 0
+    },
+    "web_search": {
+      "num_requests": 2
+    }
+  },
+  "tools": [
+    {
+      "type": "web_search",
+      "return_token_budget": "default",
+      "search_content_types": [
+        "text"
+      ],
+      "search_context_size": "medium",
+      "user_location": {
+        "type": "approximate",
+        "city": "Sydney",
+        "country": "AU",
+        "region": "New South Wales",
+        "timezone": "Australia/Sydney"
+      }
+    }
+  ],
+  "top_logprobs": 0,
+  "top_p": 1.0,
+  "truncation": "disabled",
+  "usage": {
+    "input_tokens": 13279,
+    "input_tokens_details": {
+      "cache_write_tokens": 0,
+      "cached_tokens": 3584
+    },
+    "output_tokens": 1759,
+    "output_tokens_details": {
+      "reasoning_tokens": 1088
+    },
+    "total_tokens": 15038
+  },
+  "user": null,
+  "metadata": {}
+}

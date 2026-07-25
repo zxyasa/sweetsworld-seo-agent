@@ -1,0 +1,421 @@
+{
+  "id": "resp_02be84cf444eae4a006a5b73cad23c819883ca4df995b49d3d",
+  "object": "response",
+  "created_at": 1784378314,
+  "status": "completed",
+  "background": false,
+  "billing": {
+    "payer": "developer"
+  },
+  "completed_at": 1784378339,
+  "error": null,
+  "frequency_penalty": 0.0,
+  "incomplete_details": null,
+  "instructions": null,
+  "max_output_tokens": null,
+  "max_tool_calls": null,
+  "model": "gpt-5-mini-2025-08-07",
+  "moderation": null,
+  "output": [
+    {
+      "id": "rs_02be84cf444eae4a006a5b73cb2a5c81988c990bfb4829bea4",
+      "type": "reasoning",
+      "content": [],
+      "encrypted_content": "gAAAAABqW3Pj0K_sv3n4xQku3EPrkmulyvS4l9KfL0-h1alQ-GxyCc18L8qh_fSMVfgklcCW2hfe9k3aUXaJEhALAQsl0D0N1RqAvN_UGjeP3Tq_0tQ-4i-iFkX_qyA2orJH0V_uX_32TyMwsGFb2aqiGiF8cK67bq1V-5unqRIbi1XH1ww0zhoe68GyLTTYm5XZ0J7mV5r-ACrSEfdSl3OgTkEkCwJEq_Ao46s25L7FLqM1uhMbf_wwnIV-R0XVweqU3VSeD-5WEnHVb1KwdJ8FILANREiYfd8RgkclSy_scaYTSbWJ1jwX010LckBfQYTB9uzy549oX1335F6pkNxkrBlEBT-5i3EGf4sOpZ5Glec6TMibHUafryqxTqqGzDwcyCJIiJWbW-Z6W6-r9yWbmkH80U50f61APARhwjZ5wzNzFR2eQY1ceJ8Nd3Daa_C7QySUHGDkDbFAgcjbeFuAsu-73fkx3vNp93-xzBLPewDw1agBMpN0ghvmUs-UMF8-O8v6kBDVsbWT4aRUKOLPAAm0UwhiWLm-POp8fJUsUHYHq1SPFGSsAEUQ_MLEcFmLsMTlFDz2cjxxoQsAvrtoyiKPz1MZMfTPKeE61yvCBkTU1OSZfNlqrUpgywmZg5ICNKrO8HJsKZYlxFDuBcphABd_90obuaA92qZ7M8xAYccxYJ55jgGYjeM65kGwc99gjRDoE9mXPPHbF5IDIoPJ3krETtrfM7zw3eZUBEkXU_zZykXKVPPMPaHJtRLzV5nMxMZa1eo5c-rPcSCczCci0IOFkbZZgHOJllndBz5wGIp_vYS0tnAnB80Yl4PIEFM3C43XXVsSKxnEhicc5ovv1OzRGBQAxvLCMjE0xOrYjj88DTAhp-lnDxOdQb1y6MTZKmqJZV-8v5QrTCsGxnkfRNRiftpWhueOnOSbCQ9XAcjWxerKRyA8HjkbQR5JYwbZiL7qwmbj5Qcc1JUIz_e2xLtwl9r4MC4FwSTm8gYHa19_ah4OCSN1J-_O5JunZ0XBuJkK8qvLnZuGrE8yN9C26oK5xdQtZx7NECE5-eH8-13IV8ZsVl-8_FQkNFvXo3XAk6zBOAxXPPi1hjeo5U9tkDaW6Pphl8pi9w20t2LpL6U9Hzj-NS4CueSth7oEOZ9m1tjiGXBS3HfYHg8SU4NsWyJBjEADaRlS6CpvpVjgXuDF8wSf_VBnsw_Y-55AQccrzUdbJS51LmAIJa2l8ga6mdsW73xRrgxZG2JjN6KBTvFOSrezvXzrQ4Lj6yztVxE03jy6yvIjWlcNYMmXS76A0vnqAAyRYQJ3ou4wetGbKiTfy3wD5igwwlCayCeLARYHJT5fFmGrdKKsjAFcjWhu4jd2rmoSlIrszPMX57kGqXfFH-YVjcWGru3cvMQU9XkZn-aZaDAdns-U7iA5vsrOMv3s_hDMuJopZIVhN0eWkT64TeqKXn1jDBV6cZrWvAmkPbF-2agsZC19IPZ2RNqQ2gaMgaIcgMR6shXRrA39poS3IVNdE2MNTfhN-5f76s2IOFK9vjL2WPBY_l7hPGlRuR_5zH6bOnDPZtEmyYS1cotS9a58bQCsYbP8h9ZkqnzzqQrsUge13ZGt7nt4JwcKeuVVhRVE8y1_H93yasymq2MkziejKMWiE2t0mbRPGhl2DHmCxsj6YeBDZQ-lXzYy6MCW9SpDzgkqJK839vd2VtTzdaWTlt4Q5aztBtpcrOh76RFCvNYMBZc2NuRTaGEhGR7fXRBPZorcgXFJnNvRtvFsK6Q-Q0G6hFJnOOmmgNiJMe7zUqHz_OAnwiZfnQvgycsZreNatBWTQoDMArxGI6MXzvwakaevo5j-dYBvFrO2YlGWFQKVnLTXm6bI37N7cQdOT2y6FF-zsi1ss2Zmn0PbveBa8xAwf7gH1fhhKuRR25Y2JNngQE3XHrn1CwRJNo7efqpyQpB316SK6Q0muki1H8Lu9aLH7chmh2md3ja3Q5XU9LOeSGM7tM5dzKR1Iripax68dPodG9CWdsZ7q7OJmLD9mdq8n-w7WcywYdW47JXzoU4WoFSR1ktWOc7SEIEehAZ-hHyUnKADbLFWuPqCgqbJeUKoud7jqRnELzdF1NF0eMOfvY4E3zl8Xjzo_aC8orO7D7ZBuSzGNQO0XV5HLya9JzYJVljRrLJftVSkpDVlyChIdD8HQWxy5Qdh5y0bdzGUedafVijYamOVkxFw1OLqT6iQYygziLJ-savNpMlgzUe-1Kbuawzfm9BIZ0kRTSB-h0qiqPIg8-CzBPDsb1NEU1Z1fJZo64bm6PZufEL6JRskvqQp4yEJwhE7R1ltcZNfKorxexGq-p6bc3WIYyJIE19DrdBcTfMWuUNrGXkytX6hbiC98pcgzXPeBXhmQB-hSA==",
+      "summary": []
+    },
+    {
+      "id": "ws_02be84cf444eae4a006a5b73ccc98c819893c5c157195ee7ea",
+      "type": "web_search_call",
+      "status": "completed",
+      "action": {
+        "type": "search",
+        "queries": [
+          "buy bulk lollies online Australia wholesale bulk candy Australia 'bulk lollies' 'buy online'",
+          "best places to buy bulk lollies online Australia 'bulk candy' 'wholesale' 'party'",
+          "'bulk lollies' Australia 'Bulk Candy Store' 'Lolly' 'wholesale' 'Australia'"
+        ],
+        "query": "buy bulk lollies online Australia wholesale bulk candy Australia 'bulk lollies' 'buy online'",
+        "sources": [
+          {
+            "type": "url",
+            "url": "https://www.goodygoodygumdrops.com.au/"
+          },
+          {
+            "type": "url",
+            "url": "https://www.lollywarehouse.com.au/"
+          },
+          {
+            "type": "url",
+            "url": "https://www.sweetas.net.au/collections/bulk-candy-bar"
+          },
+          {
+            "type": "url",
+            "url": "https://thebasewarehouse.com.au/collections/confectionery"
+          },
+          {
+            "type": "url",
+            "url": "https://sweetsworld.com.au/wholesale-candy-australia/"
+          },
+          {
+            "type": "url",
+            "url": "https://www.theprofessors.com.au/pages/bulk-candy-and-bulk-confectionery.html"
+          },
+          {
+            "type": "url",
+            "url": "https://www.globalconfectionery.com/wholesale/candy-coated-chocolate/"
+          },
+          {
+            "type": "url",
+            "url": "https://www.lolly.com.au/jubes-in-10kg-carton"
+          },
+          {
+            "type": "url",
+            "url": "https://discountpartywarehouse.com.au/lollies/by-type/bulk/"
+          },
+          {
+            "type": "url",
+            "url": "https://www.goodygoodygumdrops.com.au/collections/allens-lollies"
+          },
+          {
+            "type": "url",
+            "url": "https://buywisely.com.au/au/product/party-mix-10kg-bulk-carton-by-cadbury-fresha"
+          },
+          {
+            "type": "url",
+            "url": "https://www.ancelonline.com.au/collections/bulk/gift-bag-candy"
+          },
+          {
+            "type": "url",
+            "url": "https://www.reddit.com/r/askvan/comments/1t18p3o/best_bulk_candy_selection/"
+          },
+          {
+            "type": "url",
+            "url": "https://files-backend.assets.thrillshare.com/documents/asset/uploaded_file/1953/Misd/c5c37408-2991-4111-a645-d3027cfd1cbb/PaidInvoiceListing_09.01.25-11.30.25.pdf?disposition=inline"
+          },
+          {
+            "type": "url",
+            "url": "https://yourhouse.org/biocop/Images/images-editor/file/85457607354.pdf"
+          },
+          {
+            "type": "url",
+            "url": "https://www.reddit.com/r/australia/comments/1dmm5sl"
+          }
+        ]
+      }
+    },
+    {
+      "id": "rs_02be84cf444eae4a006a5b73cf5b54819881c6748cd6a8f3a8",
+      "type": "reasoning",
+      "content": [],
+      "encrypted_content": "gAAAAABqW3Pj6iVlFTRLEPdSOwAzs0IzxaFbDfwmdO_-50qimG5vBDJMX_7GEWxLfFo3E0CYQM2QQBA6fKUxbLAm1wmLxB0rW67n7c931jcmCSfy-jdo0Jd3-1K_6esaAOv5UNQ_1frkMKytSkuwfHBKjLmzNbw_qpR-p69VuUR5V404UxAgIA46oMk_3Z3xXcoFIv17l5EObITNq_ysVv2okbWvcrWVgSeVcRgdjHnQqespG5f9nJvA_do4v6sQWkNkcuVsLQWM6hXDTFgoC2c_V6g6MHWo9Y89HPsZhy1T-r2ku3LCkLc7V-eXdyM-545T3_w06wGTJcxRKEcWTsoSP1bkq8WSkUhuVKbSgIazSGxMedZgxh_YbvvSdjCsRfehpb0XobGWRobYTheQefOxZr--_QnBJwn1jEd87yHGir7x89K4DlMHUKxJxZ6RZjTWwbhunZTjUGYTEtk8Ui2NDkWiWmvSbf-Z9E8ibCjz8zAGBVawZfiLMHIV6bwDxHm1PPW9oUyPZlT7hqbwZWUzdpeDRSaP0305s2Qtha4rCMjqTdQTRFLTc1JDfm3jvQDvLrJPvMBr-CGNgstg_ds8vSqg58GownNMotYVgze767mTU7vZo1N4vPjy_RK6Q1tDR2WW6tMuPXicxPlScxCkXM3apouwUof77zbJLOop52pB8jVbKBOCNj1hx-Y4-jSTlc4YyzCCCwNJeaCO2Lg30P_DpMYxToKKnE1o1haMkr8U9zlQ-t1wX4Q1fpo59-hyBEqAkRqWz7y1U0Sqle6FZAV6I9D1TeGXP6azAI_BSC-UUbWU3nU1iPlLxCp46CWHiiSdAmueliWn-KnyPxsKP4FlHuxxHnNqhDaS7lUNis9mk3mZmY6fSORJ8vTP6Wnbefp-8uY4Cq7DkWXY4-hvHBAt1aHLGej12H3iA2vf2zdMaE_iMxt2ES7oDvNiQZYAm5GXqYIqIPkIam4btoKiK8P1aS2Z0ep6xArjXA-6PimEulO8SA5eqWXtEsqRxZQ_Ph5YMYarjOVywSk9Pt81uXpthaaCRS_kUmcYxsKQ-OYGKYQMyW9J1F7VNTDZ_io8K1yYn5Ij7kZZf46AAd7xJ2LqOD-B8lxAbWOSa4BIsk9xltlvXZSGXug5Y9T2Vim3MLFxLucbTy6suBoWLvkwZp-zuY6KcNQAA5CAhFhdNjmHrjL0arxLN5Nl4sWGN11bsLvejbJ2SSdKtuwKg8Worz9XIo97VYjAPPkktchhq7GReojQSc9dBlCuuuX-wYY6rtB3P4nDE08tNjwN_TUX6b-jJGnZ8lXOCeXUgsyCn-vT3YLN6Hk3siEDI7si6HF7i_f4sPcYmk9SYNHBc7lGXUezD4UVFx5rq3DDPup_5aYfg_HXItXEX59qVTDgxIbBmLKUJ_XHbkeVFvrhv6fcXr8yWNM7bvHCIz3YuziMB8drw6xFJtfy-oG1ZxssSoy3ml6WvntAWD8Dkq2t19YYGxRkLxoRH_PEPlnofEn2bDPWv2zGAv6my05ybG5vsfpZBqLgGN1twexr3BJVpVpqBLZrCRq7BcY22MkMHPCy9rYQxxPOd33eNeisLat7VxVy8NPce6anICkspHHDKG8Umsa0hLv3uD-b1HnOmeT7JedvZdqmHqLoNNmH2Y_DtUIgTHqFjrFZ0MQi35tu6DeEU7WuDUjEQlp3QZFWn5skVDFTB3EnDvH-5CP5MKBhgiBim5y4e0n-ZGd5-RgdWWnzmfmnc5SG_4raPEJuOqMXYGyR4HLpum7PjuhnKRJTmBKaKcoxmaOLudRTVOVDtSSKrP-jNVLt6FGGCw8IQBwwvLO9slJiqjCeEW8nbUhWC_Yqd74hw5xziHOc5sC6gEzTPvxw6Hx7KB7uaYJ0tlhHbeDTtxuDIAxI2xooB7e5CHX_YyMnVAvyiPL3Ijezmg4iVuwVVmHeKFUN-DhHlTl4yGBMjtPq3lzAoFT53w_UdIgwhpdAyUCUMgGEb5RYP-wcn9a22sOKX_980mT3vQu1BD3UbsA0zx_x236_0po3bz-NX1E5a738blNSua-rhgNgekxBo9wAyFv-HqSG21bTRdtaU-RyP47kjA4Bw7IbUzlLEFmsvQUJAOQ1oCkVF9Y0dvEZMatVuhL6XhuyERa1NO2y6l3yA7hL8tAagTg-Y7BNAk4xeBKQOroMzqF3bsAwD3t6ajZETfqu1SOtrjexak6Mp9v1rEU1g9rCCWiNgwlidxnK1Ty5AEYNOrc8Z0039cZc7hCbUxFhsfnkPnBe1OJQBb6AdFphF8osZKBsSK50RrcS82iBpf29xY9EEaWSjifSH-x10cQdMjpdHbolAHej_JTYGrI=",
+      "summary": []
+    },
+    {
+      "id": "ws_02be84cf444eae4a006a5b73d09afc8198bcadba0a98cedc23",
+      "type": "web_search_call",
+      "status": "completed",
+      "action": {
+        "type": "search",
+        "queries": [
+          "Costco Australia bulk lollies candy 'Costco Australia' 'bulk candy' 'lollies'",
+          "Amazon Australia bulk lollies 'bulk candy' 'Amazon Australia'",
+          "IKEA candy bulk 'IKEA Australia' 'sweets' 'bulk'"
+        ],
+        "query": "Costco Australia bulk lollies candy 'Costco Australia' 'bulk candy' 'lollies'",
+        "sources": [
+          {
+            "type": "url",
+            "url": "https://www.desertcart.com.au/products/541208604-jolly-rancher-hard-candy-bulk-5-lb-assorted-variety-individually"
+          },
+          {
+            "type": "url",
+            "url": "https://studylib.net/doc/25595278/stimulus"
+          },
+          {
+            "type": "url",
+            "url": "https://domain.glass/search/?q=snack+lollies"
+          },
+          {
+            "type": "url",
+            "url": "https://yegexotic.com/products/lays-max-overload-nori-seaweed"
+          },
+          {
+            "type": "url",
+            "url": "https://forums.whirlpool.net.au/archive/1024984"
+          },
+          {
+            "type": "url",
+            "url": "https://www.tangocard.com/reward-catalog?29828585_page=20"
+          },
+          {
+            "type": "url",
+            "url": "https://wanderlog.com/list/geoCategory/756203/best-gift-and-souvenir-shops-speciality-and-artisan-stores-in-legian"
+          },
+          {
+            "type": "url",
+            "url": "https://www.ebay.com/b/Crispbreads/258503/bn_7116056397"
+          },
+          {
+            "type": "url",
+            "url": "https://queondamagazine.com/?p=live-bbw-sex"
+          },
+          {
+            "type": "url",
+            "url": "https://www.onlymelbourne.com.au/c-%24id/adventure"
+          },
+          {
+            "type": "url",
+            "url": "https://ethical.org.au/companies/4530"
+          }
+        ]
+      }
+    },
+    {
+      "id": "rs_02be84cf444eae4a006a5b73d2f5f48198a109a1cd15d931c4",
+      "type": "reasoning",
+      "content": [],
+      "encrypted_content": "gAAAAABqW3PjHSUwjTVGRzhQoElgRpcw2iVvMdP9-mZ136XtYiG5jY6uWhAEMQ9eRG4m4y57eZuoEhPTJ6eRq-iD-i8ZRSj5j0Vkw8okxFYjCJQPdgjmGK44NnmvG6y1hO6hiBKvn7qAkkA0uHxq4X_GwZd_AQhiqJjV3pGkwbB148IcxhgGHhpxZPxeEtyRAcxd6lLJgB8XBCmWwISxMLK1Myyz2lbwlufoRimUZ1AeXrngiijxFqRYs7eWh1SLPL1qB1E0zvofDu9mUO9m8GP5WU8-bV-Bg7zJrOMySJetQG64PomsO14-sut6oWEf9vh5guDx0IsehuoCW7P9atVsatfBd3axJMiOCNr75xmnhjWvkMFWSmvgbDRowDaRJbotTI3xXGSbTShs1tSzkVvCkQBielQPdwwIKKaU7yYc7q1eP9ceK2AgvsxCMIL2yPAVErCW47Bda-v7XLTt7hcnLXs6WUR92cae2Yuu_v5Gtp4pJmICDNa4MkWu0Hf2ElIS3JaB2aTkjhVQj0MnJl07Z4sFst3GA2n-lrWb-pAL8Xl9ClhLUOoEbwBds0nb4B_qNQo_rrHIBrxcT3iORE58XbPNW6Ri8pywPvowGSvvGaYncTlMaA6PkJpHNv3LD4aTZE9_vtAlqG14QgYei6UYSR1XXG-0Ygv_-PbEU4JiXlwhtYKBQDhfyo1hzWGVcxhfJgZxTPovf3k07kyLl6XgCE34_hSHY0lZhmT1qVr6UkRvr_tZtpW9ieXFAOB3meAPBI8LFCcB2QA_noG12tlflmiRmOC04bZ0nZihyXlVNlEBPkpyFjYhthp9l1pjBp9YXq3FT84T_mkdyRk0-OZwvDJeJWmJ5gAf747hl0Lnbdv8cXNoGPdOcbToxfIj1unh5Bp8Tu5l-U3KV62SThpSw85JL1tWkKRGWrmAbsTN4GLu0a-bKqaYyZbV-9JEnbFJIXNb2wmQS1V0h7Tcc7qDsOzRsHdHFYxzh7Be0PRsrUPxPRnG6bCQPvNJh5OZysQvFe_7ZL34QQM2DBBB1tUQyTwcAHM4-_1eMxPGCwQhyLU8RKiyc7gsYWK2oJqRHRAqiXR0Yo10ggk0LDLAV6_YIfFDR0RQKxxtQe60u5VUppCEuhyoOM6cy8ksfpTB-yJiNaH-RTY7VF9-gVGpe3CB311MdReDvBFMY32ezt479S5-l4kEDo27aS1sbmcP6ZEUVNo1UwUdgOSs-wpYZ08SA-PvUlRjb7zYrNmbS7bANQfg4fg3bjr8-G-_35jSGwgVGhror7ZfOzNm-zsVPOxVXcdo-9FJj9OqG3t64LyndOqxAzYLKI4ZxSBbgEDsYgX8Cem-iZkwskSDctbfFRQFtrYSnUuvDkH1fzOd4nEDPsoLQvxeTQSTf5IsyzbVnbnDFPkWj7Q1vcbOGfNWuz59KT0dcG_OV4Tkq0Ql810kU2d1GE9OydA=",
+      "summary": []
+    },
+    {
+      "id": "ws_02be84cf444eae4a006a5b73d3700c8198aa1eb3bb7f6318c5",
+      "type": "web_search_call",
+      "status": "completed",
+      "action": {
+        "type": "search",
+        "queries": [
+          "Costco Australia online candy bulk 'Costco' 'lollies' 'Australia' site:costco.com.au",
+          "Costco Australia 'bulk candy' 'lollies' 'Costco' 'Australia' 'online'"
+        ],
+        "query": "Costco Australia online candy bulk 'Costco' 'lollies' 'Australia' site:costco.com.au",
+        "sources": [
+          {
+            "type": "url",
+            "url": "https://www.costco.com.au/SKITTLES/Skittles-Variety-Pack-60-Pack-900g/p/93134_BD"
+          },
+          {
+            "type": "url",
+            "url": "https://www.costco.com.au/THE-NATURAL-CONFECTIONERY-CO/The-Natural-Confectionery-Company-Snakes-12kg/p/27672_BD"
+          },
+          {
+            "type": "url",
+            "url": "https://www.costco.com.au/THE-NATURAL-CONFECTIONERY-CO/The-Natural-Confectionery-Company-Party-Mix-1kg/p/41220_BD"
+          },
+          {
+            "type": "url",
+            "url": "https://www.costco.com.au/Wine-Spirits/Over-Sized-Spirits/Fireball-Cinnamon-Whisky-Keg-525L/p/263706"
+          },
+          {
+            "type": "url",
+            "url": "https://www.onlymelbourne.com.au/c-%24id/adventure"
+          },
+          {
+            "type": "url",
+            "url": "https://www.grocery.com/store/manufacturer"
+          },
+          {
+            "type": "url",
+            "url": "https://preteengirlsnaked.blogspot.com/2020/10/gingerbread-house-kit.html"
+          },
+          {
+            "type": "url",
+            "url": "https://www.unique-animation.com/resources/most-profitable-vending-machines.html"
+          },
+          {
+            "type": "url",
+            "url": "https://www.sitelike.org/ja/similar/systemkitchen.co.jp/"
+          },
+          {
+            "type": "url",
+            "url": "https://doczz.net/doc/239387/company---exclusivebrandsourcing.com"
+          },
+          {
+            "type": "url",
+            "url": "https://huffnovence.blogspot.com/2021/11/hoe-to-designate-games-in-amd-relive.html"
+          },
+          {
+            "type": "url",
+            "url": "https://brukdost.blogspot.com/2021/04/i-boistelle-liberal-democratici-con.html"
+          },
+          {
+            "type": "url",
+            "url": "https://www.costco.com.au/SKITTLES/Skittles-Variety-Pack-60-Pack-900g/p/93134_BD?utm_source=openai"
+          },
+          {
+            "type": "url",
+            "url": "https://www.goodygoodygumdrops.com.au/?utm_source=openai"
+          },
+          {
+            "type": "url",
+            "url": "https://www.lollywarehouse.com.au/?utm_source=openai"
+          },
+          {
+            "type": "url",
+            "url": "https://www.lolly.com.au/jubes-in-10kg-carton?utm_source=openai"
+          },
+          {
+            "type": "url",
+            "url": "https://sweetsworld.com.au/wholesale-candy-australia/?utm_source=openai"
+          },
+          {
+            "type": "url",
+            "url": "https://discountpartywarehouse.com.au/lollies/by-type/bulk/?utm_source=openai"
+          }
+        ]
+      }
+    },
+    {
+      "id": "rs_02be84cf444eae4a006a5b73d5ff508198a3d6e9a311f2c1d8",
+      "type": "reasoning",
+      "content": [],
+      "encrypted_content": "gAAAAABqW3PjdjcrckkkE4ToBp9Sh-VewHrZCpkHg1N_g12jZ4jq7vwQ9FV2ei_oB7Z3_DRvGi0pf6C7sK_39_Hvzr3H2wNw6fO_9oWbg6no_EneQmhTSi7RZw94XMBgbYpV7wtGYd0vBIPifTAPAnVx_-B4PStB3V83BX-Cxo2cWa7_hpP82SiEy5nHOUY2Gadis7JTkfzAouvcN-WPPlaMM8D1Hsos0W1WsfuKjuT5tF3tHAZooGJL96_ZDFYPfh2bXmeIAZF1WbZa2L7UvddWne3AuiFlne2VT_kwRpI8EHt1d3y4T4RmXoajukw6I589z1a8Cl6_DoiCJRBOqpGvNjbfZBiO-J33GlMlQ9j96qJuTfQDCbf37dF2oSbPlNdwRxCxEqOJANNbCpYYnBkXNfGnZFDN185efKagzsgLYswcJtT29h7jp2mZM-4y70ZnZo4LIihBmdZObk4SR6Rp2uUd-05_jiMom0sKt4zMWOHbpHmqOCkj-Y-AP0y01soagXk_TD4nkpLXEi70OqlfqZMzp4l9p_whAnOy-E1B9IzdLZNeOAl8wzxdfM1LzTwPXbgzyU_MnEzZADcOXwbdb8uVPzCJGCzBXsWiafRrUzfTQVO8sF0Ewx0pqPUOa69brIYqlG0z9Hk37x9QG1DM7rmtcIH4QAECqQbSW9G1oZ5WeQxTSfYoVHpgnzglEfwmyza5yi4U4Gvkg0eY4CwJE3sHglTvV0htXpXPzUNSBgdkOhS_GPP5UiGDkA3SX19n5QezAvoikGTXjFATenK7JY1yHVNjFCtRBvfWhtn-b1OKKcYfHPpcsldqRMpf6w-pwVTG1hLPf_rOM7b7Vbpc3kfEkNd1gazFQS_eaxWrDI9enEiMehoU1yhnwI-KRejq4eYOPxu_V_NYl34ehjOLx3obnUzNeCu4y7NdgyqFpk5iRLzM8Ux3dINeCSWGYNWOt1zPT-PGkPwRFhEUUQze9l9N7xKYSwcEI4FsYOZb1ZRRC6P8bGllRq0TXkKQXv3GxTgdea3HGMDOfWlIfk8JPpT_WmL7Fz-QpypVWiKKcl0JpwrGa11D1dTKlc0ennHA369xbabZNu4A3KffO1YMaNP_BN0iMNLDbIw6PxCkEwrNtzcghyWgmoKhZNUirVDf4MT1dQt8hmMOJRpZa2aJ-xxvik_uZcJgaQc6PmhUBbOs8XdqmoFt09kau2qBTOEIjiQ6KNzxc4uRvlOYE_NtHeHDfIdsFuMrWdTcqu6V60OnCS70iawCho3cjDNF4ELhTenScO6SMZjsHMruG4P3RNOkjPYGFFcHbD0TF9ix7f0Tq68djb_G9h8lyPo4aKzRHL79_ky7wCvkhN5W3qYpkdtUBuxaZQo-th8shvb601tTqG882xRuzJELkiPb51bRYBPYpmU8hXDXva4Z5kKeTr4jByclHAY8zXNupQRgPiZEQz0DDJoEbAZ4J3-d3Mv-OsXlB7vqz-HJ9KDyDYcNO5qNXPtYRwxt5GzOAm2DtxbpgIUoPx4iLcH8xNDkZaeJCzfhUli-e1EkCGaE9bjXMnvCHVWUn4vU7o_MrdgEhWc-ZdZ2YHglWYymz0KbORpY8cJlRNrcTQOuz7UKBZBsshEeCIyOKl2nwQA9iplXyWx-FIsw660XQ84fRtblwqbxN_P3qtk4OOyfsPM4DFBaplTW2lXdILXJO2AYsI16xfXMHPdU88VII41upZNMBfwXj1IezOdkiU-0UEL7692-MGeUr9hkEOit3Nbv6LsHsZMpHyP33NoOa1UiMEGtb5WQ2azGDxLdStaZPlgjIf76akQ4NljxosMnZT_upjFEK-VEr0S9n0VgMAMPIZrMJKeVq3lNXLIYb85GC4nMpNF9m0BuYBl0o30NdoFWzJiO_ejvMzSEUjWecwl_Ng92o_uBGjhk3eGA2qBp4aMoXivrs4GrUS0OyjGVYLBX5p8GaUgVtPrT80MUOf3X6JGbUxherKiMIFswB9jLKdmiV-D-QDJEyAzP4cvuiXLl1lETYg2Dh7qAT6Lo0ROcaboLotn3bk5bAZehfgK40ARD0_12Kw_Odxmiz-31a34N5EoU-K8ZGIy4iRl_LejaBNE-5GBSKwl5bp9CBzvgek5CxtVw83mrmWTh2UlT93WJ-OJDo7B9TS-iID04ESHpBiAYFfxtRs8hweZgjNXGlWSJ-W_5o006ZUb39vHXslv7-yTdMtupgPfRmFIrirtJ_zhQjMPF-aHoiEuVdSBSl47Ae1RJ-PSZ9Mq0cNdp0uwKGm3ugTOqQPmeHWGBY9rHkMdiWuRsH2dOyuEenU7oGDCDiM_5m82CATuIukysalPQGZY5A9dDpPUFDj3hrC5q2KuXc4vtByCJ6qe7V2JeSR9iw9PTQ7sYxrvF0ezNjMxlAVHy_YFTPhK6XEHXuh_hux8h6c5C4HlPoP82Kb3lRCVyc39VIIQUgs1pRGH_GI77_dCr5oH2CQyIO-N-sMY4TUe54Y7dsRj9lfHsSCGZU15unAAR7tySrI-2hbAdPueckzZHFN7C8VYjCUMox3d5gS-RysF5hJq7_2orJCwg3bdR12jTFYzyPj97TUSEqGOK9s1gaEBKtNVAeP02NtTP-g1ITCeZ5x-Icm-lpU3q58vORtDQDkESwmW4AFBsDiwriZ8xADoQQxsuqdkS-Y4YGsLrHzD33eoe9s1Tc61SuPntfnQfJ66aHZhGzkoTHFk9j41ZIeyUYDvYVDRDIpm1lvy5NN1_LKZoioBuWNhjca9TqjSXtWm7C8uzw8xJkPM30amja_iIh56ym-zBFlwj2htXvv87fQsNUXX0ebquG8EvIY76RgCZ4KYweCwA8l2SYO6nmiUDroambsb2AdwKFhsNHlVMunOEVVYE2jYQh4_zMA886_-mKA9Qj1pKH9vHvScX_iI7DrMyMAT_hQAuSrJf5se40oy-P_TAKMk2GiM6NqZF6KULfLozMYOtieifzmUi1pPfhazqBjHrNoPU8bUpNld_pZbQjgCgTbJJdeMLh4iA6uJYaFpuxRqJ_tbYcUb1iwBxN-Xkywk6fuUZX7gtnfC2oJcNIbk8gRHNV-pOKdfpyzpZrD4e33LyuXDuT6VS9m1DkiJxIsOCJelLZ9WZpBT48We0umln4exbpafc_omC8DPKJ8I3oZ7z_Qq2iSFQlEDdRU6z92HEgMt7NKC6KX4s2RM4OM2KZm3tGZ9uUAl42Mv4N1b9UyehJU0pkzQCiARkqgwLPnorHD2bMa978mzPVTC2Oe4LHGHgM4vJcMg8tVffI80kDQ4IUlKxlrpz7fUXTT9EW2cJ2ut4KVauirjtjZUcmEuWbEBomO3M8RfRfmsVJ3DIgBElGmUCWxMp7tLNElWjPayrtYQYqLIeDir1qxN0LtyfL5s1L8MxuzOEqqL6ym5KHL83afbuGG1Bw-9Y6necRbK2pSum8m1pOTh_eYkTUEOhjCx43YL0UOeqXX-bcfS23OMWWN9J0dJFOvcN3dOUGxRFRpYEItQkOMKRavOQd2S2yDew_KbvtN29o3uwG-dSGh1SWOgVvns6gz4-HEeltkLzI01-pcer_ugNCxhgBhC-USw4q__BGRdBoC88fr_iHubsH6Mrr46opcz8gStMpOzClOYRZ7XcTpC6lzAa-rO1yqTW6Fn6L4nhG-M457bH5WTJ5Xsi9Dorb9NH7oQPFW7tQ8J8n14r5cnEBogK6Fww6Q0gBrHrccEOmRENDth2TF7SuzenhRO1cDm_gK9LUVgnWJJsCd-RvoNN5VfuUPteSnyI00nTYSZlLOmJ_vnb0_CNt_NE_FvtS86vV9gWaT9m3vs0lex03NcQfnZXIjfK9VRK42i7sllZrQZ_8uH0ainlATvMgPUQR5-C08eztrH9hMcIXj6I9vuf_gpUjB7TmCcRGL5XqtNJOeG9USPx9J6z0STbVQ7drNb-o3FHSN2TP1QEifYy1mDxFrR80LxloPRoRbdkXhj_FVchNfrOqsm7nL3A9eEJEDDJAg4bJiyfDUx5J6C3wmd0G4QEujiGVZ3Cu4xBynj8gIbM4s5bIbNiXiRlze_mZtVSzhKywSWDIZBZNzKggYFp43xCDr-RdLqdadrePq3BjemGvSxzMNp_xFMl5A3yXM2vv9sFTZ2cF0uhIDNZpmOvNWd9MsUs-qhL1FYtY-re1oX-6A1Xpb6CRnaswbtBv745Pkb0AKvWNPT2pfDTKYkCvXb5_fqJ_G6BaLGtqM_tDLB30_K2F7XoeECbsIPV7a6RJm3EOqQaV5CUdJCtB0plRsVG0xaMQK7XYAKzMKMZUS5d3yPpPyrbFFxSdeRDLwZhfsDoSTq_9IiazAR16IWhSu7eO17rR3m558h6Vy27g-6i4UZT8XpOu3-gLzzdD1AM4rtE1oL_6N3UENgd8zjq7xgwyMFYhD-URu89x-6lCZywqKG6p96lJxxOuWLsLBeg4o20tJQIk6Ki_dTaHX0O71sZu2740ThMxru5rDB7mEffCF_CImuj_2exD9Kd5-CEsnw_XSMx9BJ5ccBz8cQD2ipy2iQCvXsT84B8Pl6XkEHR5Zf3_90QnjZDzwfVNklJkoGhd3ARoasw1TY9J7mAsK12cUyasBd1mPUSyUttI86haEWqb2_9_vkrGBSurcTGfn3cg3wj8Q2zUr6vGQRumv2ESlMOftaNWYuok2XOdwHfAkusXbmK069UWAVTlhCpl_Yrn_pu2HUSmJOS6Jm5iOJ5aROk_UhA_jGjr8gMR89UVLL9dAq66TWx4cH-lPMQo5XeHT-XUy_cFaedxZXGXkCKU7nlR5XfxYl6OqHovLeDKaT0dwcfxebo0-mxWHSQTq14CRDHLq3U_Igsu2aNjJcMXWFXnjLYsq_Gfu4HT0PkFyY-mRE7SNWE1uJThOMVvM39zOZm3bS_-QvGy1cgPv9EJ7QkYNcjVhx7Rtw9WizjlCz-dAkH1HcK0bP8eAFTJmz-lXIQIEgS0t_hUoILEVlS-UatQZYvg8pOaDJH0Hz6IXphhggA5R1IrGqzH48yGN9uSG_WNnPk5IJF8esz1stchr_-fQRHYXlJ33YUlP85xuOktMQFAm5EXUwPyeRsl7i0v2-4WefkTDdycL3iFBUJZuhNl_Ra0tBfGYu3a_t8J_6YHFwFNyyn4JIMZwP5MA-XtWmTBvAVJuH79nG9_DOxppxPM9loQ0gsmdx3LO_JyV4htu39SR6FIQKhkyIHEVIfkkUZN0TXtyL1PHCzCWxY3uQgEUnLuuZEt40aelwHqwFim2JBYVJmOyYIkihr4TiUAg0JlFIhig155le20DDybUdfKJq2aII1XbPPbc0CSZtUnY-2HiDn8pItzrB0XB4Jn2aJPjz6350RFdlCSBgu_FTfb5L92jtnhKiJUvWPLszy8wu9R1xjH8-ayw8Soc9-Nwa9vWRsjBEE6vUoIyMmbxORFxcBPHF_EWoKXfe5441tgAkcKQKldIzNl_371ri_xbyldVzfuyPURU3YcZNIxuLFC6azZ-Jb_CN8BHfCAJT8EJAdxYPmnbNpnx4Iazr8rKfq3ih8YhELu-zR7h_cnduO-ZT9WYrmbBuqihMrDgpy-1kF3J5IFFvz8nOcdvO9AVsJKGW09Xc0hMeDajJ4JQxapedXis6NoHcUGKJrhjP4Uo_2-SIJ235_v_EQoEP_G8na48hnNL_o5o8uQvRA99H7jheOKGX1lVk11K4ImEUAO4EzV1gESbmp-HfQpowl6XelMa3qBcqps5UyhXUAaeWSyk9-cZH0BXsJKK3XZtMFGgP56Rzw53-AeYGi6qMkQDm2n9-S35S-Bc-Tsdv6PzouftMXYzELOsAhMlsMK04MSIErxhb7QOKqoSs0EKZj31XksPdkMv7buiHtVhVPzUHmSm12rptOV5xuptm4L8roX4Xp0Hsh0ZJWzjRfEQdFnUOhcDXd0QSv3Islbw4tbp41pBxn2ca1asPJ7OXSvQUGl7c_1VfdfpAtUFYB1S2ZHeT1NpdHVOyPmcj9KTDIpnL7I2NInlM4TD2LyU00_0zTyJl1Ox_5EFpFJb3cfhrNhCFrWIdbszE9lJ9fh4uENa-Iph5x3V4YUlg6_8E4ukCtPSLX66eaoYlXB4YIbbMpH6TKclFmd_fIgPxUPSeMoDXe8NPFg57aNOpiYGgFLW-uLa4VsM2ELcs-1BFoU_bkwyWlki-lXMrteZfXqpNO8nPfCecMb47CEvJBszswvCHfb6fnFbCe2Us_u2mCoAt2r1h-tdv4ylZ6UAx96edrGen2FcRS6hs5lFpVH7Mw64ft0a1R_H3yMLkA-gds-1Ne4r82oW2DbwnBfJYFdalUYiUwQl7jUSxfIOYBMR1OKr91Y_pndQtV3zc6pApmb12R9ZcpGPuencDuZEoR90cymLxRCHhjTupliOdbuIl_VugKch4aif1Ys-ndfP1tVQGH57TTEkTSEBFWajkkoCH3QCr54DQb-lQUl5UhzG_j5U9PQpd6Qna-Mkh5JOPqTZaCSn6KKEcVS40dCAcRezAO8T7j5Bz97MNOKRzpsHX3a4UNeAmzvADEwbeedl8ugbRgnh59xvOACyzbUH-218wWlq7sXTfxNIO6c_9A5I6b7rULwapfNg4C-CASChHdEDEGxLuCv7oqLABzMM8aMkxoJxN5zYDJ72gY3uv-Hyhf5Fs9fxdhfPCr9IVleddCGaHV6i0FtxmcLsFj1C09l393qQ1sYAS7tkME8cyzhbb2oWSTHohjv5bZPsRtD012Z-xeLKXtz4S-wafyHMRw3wSr2ZKZuvSi5woHoW9a7EhqK-Bo_EETNdud6HgfC2vUiR_-IiWhSKZlMQ1zKlcYlWn5JEJqJXwBVz_7Jx_j8J56NGmYvZsvVt1vv4shu1QawYygSDfmRRhR8gMjCdzMn6IgB4a6nwhfyCNuHZmyim1JqLKckHlq41zIXkoHT5SRqvLkfYDRBo8Otuvilo0_dEMPlnGnH_b0_i7IKu19hxqqPLCWVmTxGld-BQh8jYzkwn9PsWlm-qh0_mFeE3ut0kAFcjdrmdece86UyunG1zbStWsBRY2K9PGX-dWL4sGuwnBH0FC1TMM1SPXiT47pf2plqY5x9J7GQOWc6D6whgXijJp-9vyIkWWdGYc9B8yOjxOZowzceEPgjmnDlzatO_cFhEvLRYWOddsStvPqB1C7RZZpvCyloVb-6uUcNyBFj1avKKT-OWucDBeCMUel6BJwJVo0XUq1Ye0ToxpgQMbkzfg5FRlcsoxMJOUzuLI_hJJaa7FSmeJA9U9xIp6LSKkCeFbInK1ocb5P0apCX_dEyKp-DslTdIY-s4A6XkNV1ZafxW3LjfvBNV63uc0zyIA_GxNeL7A6RW6yosdXFqLJwCvNPe0kKslcFH-v0qjmHfTbnoki5TOs04R5GPhf9ycIPb1YvviFL_wy2xsObv0RmEbd0E8gVPGbcH2hrxDr1_QwY1NJgPiQ9wv6ZHYmYY9bRtH9tv6ElQSD2ZVHgvH4nKXNoiTBAQ9fyd41E2N4JEX5WmJj7lFONb-oZhoolmuBNeBx7wZYYM6JPuMOERqnI3iSFYY4gqyMyChViZZ1GuYyeWxc6gubQM_o92KK3jsfVSwgXL0qUUIbcz1JPbB91tqAHgstMFjZGTSrKTYDS1P4zCvLHqz8DQ1EcpMFmTi4ovqnW42U1JYg52p7ZiU5MsfETRAmVHENwsE5pmvdO0miARAY22l2CFOBp2di4lLoCq-xg816Jdk-KYpnw7qoIL-GdyICQEZ4M4MSTbqQKXEz-wQCyBESY2pAUrsYiErkCqm8QQIBeWleRE8OGxiJ-e3v81McEE5CIi1H9B2mkn_ChgNuauyWM4FvZLpmFutUL0vmhk-iXitj9G8aCBHR1zSsEDg6WvsUwOAsM9mW2jjznonQNqhJVVpere_fH2mmP2WxJTQRDkqSY-lFhTsuL_uiht3P-5fwJSD4TxkDZp1KZdk_FbRfVgEp5yOu24j6kmOzPHEModYdfqEIZPuHH6bQPVHhSSOLAb8Iond6r2WbcbIKpiD3wXS0F9Q3tfknSFJEH8u8lNA4L2tAwxYoKb098Q==",
+      "summary": []
+    },
+    {
+      "id": "msg_02be84cf444eae4a006a5b73de3a1c81988190857e886114ec",
+      "type": "message",
+      "status": "completed",
+      "content": [
+        {
+          "type": "output_text",
+          "annotations": [
+            {
+              "type": "url_citation",
+              "end_index": 599,
+              "start_index": 482,
+              "title": "Skittles Variety Pack 60 pack 900g | Costco Australia",
+              "url": "https://www.costco.com.au/SKITTLES/Skittles-Variety-Pack-60-Pack-900g/p/93134_BD?utm_source=openai"
+            },
+            {
+              "type": "url_citation",
+              "end_index": 914,
+              "start_index": 827,
+              "title": "Buy Bulk Lollies Online | Lolly Shop | Small Lolly Bags Australia",
+              "url": "https://www.goodygoodygumdrops.com.au/?utm_source=openai"
+            },
+            {
+              "type": "url_citation",
+              "end_index": 1212,
+              "start_index": 1133,
+              "title": "Lolly Shop | Candy Shop | Confectionery & Lollies Online | Candy Store",
+              "url": "https://www.lollywarehouse.com.au/?utm_source=openai"
+            },
+            {
+              "type": "url_citation",
+              "end_index": 1494,
+              "start_index": 1413,
+              "title": "10kg Box of Jubes - Fruity Chewy Candies in Bulk | Wallies Lollies. Wallies Lollies",
+              "url": "https://www.lolly.com.au/jubes-in-10kg-carton?utm_source=openai"
+            },
+            {
+              "type": "url_citation",
+              "end_index": 1843,
+              "start_index": 1748,
+              "title": "Wholesale & Bulk Candy Australia | SweetsWorld - Sweetsworld - Chocolate Shop",
+              "url": "https://sweetsworld.com.au/wholesale-candy-australia/?utm_source=openai"
+            },
+            {
+              "type": "url_citation",
+              "end_index": 2145,
+              "start_index": 2033,
+              "title": "Buy Bulk Lollies Online Australia | Wholesale Bulk Lollies, Order Bulk Candy Online - Discount Part Warehouse",
+              "url": "https://discountpartywarehouse.com.au/lollies/by-type/bulk/?utm_source=openai"
+            },
+            {
+              "type": "url_citation",
+              "end_index": 2448,
+              "start_index": 2331,
+              "title": "Skittles Variety Pack 60 pack 900g | Costco Australia",
+              "url": "https://www.costco.com.au/SKITTLES/Skittles-Variety-Pack-60-Pack-900g/p/93134_BD?utm_source=openai"
+            },
+            {
+              "type": "url_citation",
+              "end_index": 2683,
+              "start_index": 2566,
+              "title": "Skittles Variety Pack 60 pack 900g | Costco Australia",
+              "url": "https://www.costco.com.au/SKITTLES/Skittles-Variety-Pack-60-Pack-900g/p/93134_BD?utm_source=openai"
+            }
+          ],
+          "logprobs": [],
+          "text": "Short answer: it depends on what you need (lowest price, biggest cartons, branded lollies, or a huge selection). Here are the best Australian online options by use-case, with quick pros/cons and sources so you can check stock/prices.\n\n- Cheapest for bulk/brand-name party packs (good if you have a membership): Costco Australia — big, low-cost multipacks and 1–10+ kg party bags (membership/warehouse-delivery rules apply). Example: Skittles 60-pack / 900 g listed at about $38.98. ([costco.com.au](https://www.costco.com.au/SKITTLES/Skittles-Variety-Pack-60-Pack-900g/p/93134_BD?utm_source=openai))\n\n- Best all-round selection (wide range of sweets, single-SKU bulk and small bulk, easy site search): Goody Goody Gum Drops — long-running Aussie online lolly shop with many bulk options. Good for nostalgic or branded lollies. ([goodygoodygumdrops.com.au](https://www.goodygoodygumdrops.com.au/?utm_source=openai))\n\n- Excellent variety + party / candy-bar fulfilment (party favours, curated mixes): Lolly Warehouse / Candy Store — big catalogue and ready-made party mixes. Good if you need themed packs or to sort by colour/flavour. ([lollywarehouse.com.au](https://www.lollywarehouse.com.au/?utm_source=openai))\n\n- Good for large wholesale cartons and very large-volume orders (10 kg cartons, wholesale-focused lines): Wallies / Lolly.com — sells 10 kg cartons and wholesale-sized lots for events and retailers. ([lolly.com.au](https://www.lolly.com.au/jubes-in-10kg-carton?utm_source=openai))\n\n- Best for wholesale / business / fundraising orders (trade pricing, B2B service): SweetsWorld / other confectionery wholesalers (The Professors, Global Confectionery) — set up a wholesale account for tiered pricing and faster dispatch for big orders. ([sweetsworld.com.au](https://sweetsworld.com.au/wholesale-candy-australia/?utm_source=openai))\n\n- Good value for party-supplies + mix-and-match bulk lollies: Discount Party Warehouse and Sweet As — handy if you want pre-mixed packs, bulk 1 kg bags, and party-stuff in the same order. ([discountpartywarehouse.com.au](https://discountpartywarehouse.com.au/lollies/by-type/bulk/?utm_source=openai))\n\nQuick buying tips\n- Compare price per kg (or per-piece) including shipping — some “cheap” listings become pricey with freight. (Check each store’s product page for weight & delivery). ([costco.com.au](https://www.costco.com.au/SKITTLES/Skittles-Variety-Pack-60-Pack-900g/p/93134_BD?utm_source=openai))  \n- Check minimums / membership requirements (Costco often needs membership and has delivery/postcode restrictions). ([costco.com.au](https://www.costco.com.au/SKITTLES/Skittles-Variety-Pack-60-Pack-900g/p/93134_BD?utm_source=openai))  \n- If you’re serving at an outdoor event or need chocolate items, consider temperature and choose insulated shipping or local pickup.  \n- For school events or public distribution, check ingredient/allergen labelling and shelf-life on the supplier page.  \n- For very large or regular orders, ask wholesalers about trade pricing, samples and lead times.\n\nIf you tell me:\n- roughly how many kilos or how many party bags, and  \n- whether you want branded lollies (e.g., Allen’s/Skittles/Jellybeans) or unbranded/gourmet/sour/gummies — I can compare current per-kg prices & delivery for 3–4 of these sites and give a clear cheapest option for your exact needs."
+        }
+      ],
+      "role": "assistant"
+    }
+  ],
+  "parallel_tool_calls": true,
+  "presence_penalty": 0.0,
+  "previous_response_id": null,
+  "prompt_cache_key": null,
+  "prompt_cache_retention": "in_memory",
+  "reasoning": {
+    "context": "current_turn",
+    "effort": "medium",
+    "mode": "standard",
+    "summary": null
+  },
+  "safety_identifier": null,
+  "service_tier": "default",
+  "store": true,
+  "temperature": 1.0,
+  "text": {
+    "format": {
+      "type": "text"
+    },
+    "verbosity": "medium"
+  },
+  "tool_choice": "auto",
+  "tool_usage": {
+    "image_gen": {
+      "input_tokens": 0,
+      "input_tokens_details": {
+        "image_tokens": 0,
+        "text_tokens": 0
+      },
+      "output_tokens": 0,
+      "output_tokens_details": {
+        "image_tokens": 0,
+        "text_tokens": 0
+      },
+      "total_tokens": 0
+    },
+    "web_search": {
+      "num_requests": 3
+    }
+  },
+  "tools": [
+    {
+      "type": "web_search",
+      "return_token_budget": "default",
+      "search_content_types": [
+        "text"
+      ],
+      "search_context_size": "medium",
+      "user_location": {
+        "type": "approximate",
+        "city": "Sydney",
+        "country": "AU",
+        "region": "New South Wales",
+        "timezone": "Australia/Sydney"
+      }
+    }
+  ],
+  "top_logprobs": 0,
+  "top_p": 1.0,
+  "truncation": "disabled",
+  "usage": {
+    "input_tokens": 17169,
+    "input_tokens_details": {
+      "cache_write_tokens": 0,
+      "cached_tokens": 3584
+    },
+    "output_tokens": 2615,
+    "output_tokens_details": {
+      "reasoning_tokens": 1792
+    },
+    "total_tokens": 19784
+  },
+  "user": null,
+  "metadata": {}
+}

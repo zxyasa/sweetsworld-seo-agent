@@ -1,0 +1,161 @@
+{
+  "brief_id": "top-australian-candies-2026-brief-v1",
+  "slug": "top-australian-candies-2026",
+  "keyword": "Australian candies",
+  "search_intent": "Transactional with commercial intent",
+  "page_type": "landing_page",
+  "title": "Top 10 Australian Candies You Must Try in 2026",
+  "meta_description": "Top 10 Australian Candies You Must Try in 2026. Compare stock options, buying factors, and the best next steps for Australian candies in Australia.",
+  "intro": "Use this page to compare where to buy Australian candies in Australia, what to check before ordering, and which local flavours options are the best fit for your basket.",
+  "outline": [
+    "Where to buy Australian candies with less guesswork",
+    "How to compare Local Flavours options before ordering"
+  ],
+  "sections": [
+    {
+      "heading": "Where to buy Australian candies with less guesswork",
+      "paragraphs": [
+        "Landing pages for Australian candies need to show real commercial value quickly, including price context, stock clarity, and relevant product paths.",
+        "The goal is to reduce purchase friction rather than publish a thin page that repeats the keyword."
+      ],
+      "bullets": [
+        "Aura Blackcurrant Flavour 70g",
+        "Extra Long Lasting Flavour Cinnamon 15 sticks",
+        "JELLY BELLY 10 Flavours POUCH 28G",
+        "Maple Flavoured Fudge 180g"
+      ]
+    },
+    {
+      "heading": "How to compare Local Flavours options before ordering",
+      "paragraphs": [
+        "A stronger landing page explains the trade-offs between pack size, flavour range, stock depth, and delivery timing.",
+        "That gives the page a conversion job as well as a ranking job."
+      ],
+      "bullets": [
+        "Compare unit price instead of headline price alone.",
+        "Check stock, bundle size, and delivery timing together.",
+        "Keep the call to action aligned with the buying task."
+      ]
+    }
+  ],
+  "faq_items": [
+    {
+      "question": "Where can I buy Australian candies online in Australia?",
+      "answer": "Start with Australian stores that show live stock, delivery windows, and product range depth for Australian candies before checkout."
+    },
+    {
+      "question": "How should I compare Australian candies prices?",
+      "answer": "Compare unit price, pack size, shipping cost, and bundle options together instead of looking at the headline price only."
+    },
+    {
+      "question": "Are there other local flavours options worth comparing?",
+      "answer": "Yes. Nearby collections or substitute products can be useful when Australian candies is out of stock or only available in limited pack sizes."
+    }
+  ],
+  "faq_questions": [
+    "Where can I buy Australian candies online in Australia?",
+    "How should I compare Australian candies prices?",
+    "Are there other local flavours options worth comparing?"
+  ],
+  "internal_links": [
+    {
+      "url": "https://sweetsworld.com.au/candy-types/best-lolly-shops-near-me-2026/",
+      "label": "Best Lolly Shops Near Me 2026",
+      "anchor_text": "Shop Best Lolly Shops Near Me 2026",
+      "link_kind": "collection"
+    },
+    {
+      "url": "https://sweetsworld.com.au/candy/",
+      "label": "Candy",
+      "anchor_text": "Browse Candy",
+      "link_kind": "category"
+    },
+    {
+      "url": "https://sweetsworld.com.au/candy/american-candy/extralonglastingflavourcinnamon15sticks/",
+      "label": "Extralonglastingflavourcinnamon15sticks",
+      "anchor_text": "View Extralonglastingflavourcinnamon15sticks",
+      "link_kind": "product"
+    }
+  ],
+  "selected_products": [
+    {
+      "product_name": "Aura Blackcurrant Flavour 70g",
+      "category": "Candy",
+      "description": "Aura Blackcurrant Flavour 70g Product Description: Sugar free, gluten free low carb and fat free. No artificial colours and flavours. A delicious hard-boiled gourmet blackcurrant flavoured candy made with natural...",
+      "price": "6.99",
+      "url": "https://sweetsworld.com.au/candy/aurablackcurrantflavour70g/",
+      "image_url": "https://sweetsworld.com.au/wp-content/uploads/2021/02/Aura-Blackcurrant-Flavour-70g.png",
+      "matched_tokens": [
+        "candy",
+        "flavour"
+      ],
+      "matched_phrases": [],
+      "selection_reason": "direct_match"
+    },
+    {
+      "product_name": "Extra Long Lasting Flavour Cinnamon 15 sticks",
+      "category": "American Candy Box",
+      "description": "Extra Long Lasting Flavour Cinnamon 15 sticks Product Description: Delicious Cinnamon that always offers long-lasting flavor. Give Extra, get extra, because sometimes the little things last the longest. Sharing a...",
+      "price": "4.99",
+      "url": "https://sweetsworld.com.au/candy/american-candy/extralonglastingflavourcinnamon15sticks/",
+      "image_url": "https://sweetsworld.com.au/wp-content/uploads/2020/05/58c204bcbd574864dec3b72b3ef59398f0cd323a.jpg",
+      "matched_tokens": [
+        "candy",
+        "flavour"
+      ],
+      "matched_phrases": [],
+      "selection_reason": "direct_match"
+    },
+    {
+      "product_name": "JELLY BELLY 10 Flavours POUCH 28G",
+      "category": "Candy",
+      "description": "JELLY BELLY 10 Flavours POUCH 28G Product Description: Our newest pocket perfect fun size bag; just right for those moments when nothing but a handful of your favourite beans will do.... Mix: Berryblue, Coconut...",
+      "price": "2.5",
+      "url": "https://sweetsworld.com.au/candy/jelly-belly-10-flavours-pouch-28g/",
+      "image_url": "https://sweetsworld.com.au/wp-content/uploads/2021/07/5d3359afe8f26f4986080b2c9821e46c9543ec1e.jpeg",
+      "matched_tokens": [
+        "candy",
+        "flavour"
+      ],
+      "matched_phrases": [],
+      "selection_reason": "direct_match"
+    },
+    {
+      "product_name": "Maple Flavoured Fudge 180g",
+      "category": "Candy",
+      "description": "",
+      "price": "11.99",
+      "url": "https://sweetsworld.com.au/candy/maple-flavoured-fudge-180g/",
+      "image_url": "https://sweetsworld.com.au/wp-content/uploads/2025/12/IMG_5610.webp",
+      "matched_tokens": [
+        "candy",
+        "flavour"
+      ],
+      "matched_phrases": [],
+      "selection_reason": "direct_match"
+    }
+  ],
+  "related_keywords": [
+    "sweetsworld",
+    "white knight chocolate",
+    "sweets world",
+    "clinkers chocolate",
+    "fantales lollies",
+    "darrell lea kotara"
+  ],
+  "cta": {
+    "heading": "Move from Australian candies research into a purchase",
+    "body": "Compare the shortlist, then click through to the most relevant collection or product page to check live stock and delivery details.",
+    "button_text": "Browse Related Collection"
+  },
+  "distribution_channels": [
+    "facebook",
+    "instagram",
+    "gbp",
+    "pinterest"
+  ],
+  "schema_types": [
+    "BreadcrumbList",
+    "ItemList"
+  ]
+}

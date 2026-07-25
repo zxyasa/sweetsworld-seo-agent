@@ -1,0 +1,149 @@
+{
+  "brief_id": "humbugs-candy-australia-brief-v1",
+  "slug": "humbugs-candy-australia",
+  "keyword": "humbugs candy australia",
+  "search_intent": "Transactional with commercial intent",
+  "page_type": "landing_page",
+  "title": "Humbugs Australia: Buy Peppermint Humbugs Boiled Sweets Online",
+  "meta_description": "Humbugs Australia: Buy Peppermint Humbugs Boiled Sweets Online. Compare stock options, buying factors, and the best next steps for humbugs candy in...",
+  "intro": "Use this page to compare where to buy humbugs candy in Australia, what to check before ordering, and which classic candy options are the best fit for your basket.",
+  "outline": [
+    "Where to buy humbugs candy with less guesswork",
+    "How to compare Classic Candy options before ordering"
+  ],
+  "sections": [
+    {
+      "heading": "Where to buy humbugs candy with less guesswork",
+      "paragraphs": [
+        "Landing pages for humbugs candy need to show real commercial value quickly, including price context, stock clarity, and relevant product paths.",
+        "The goal is to reduce purchase friction rather than publish a thin page that repeats the keyword."
+      ],
+      "bullets": [
+        "NZ Sweets Peppermint Cream Bar 50g",
+        "OATFIELD MINT HUMBUGS 150g",
+        "Fry's Peppermint Cream 49g"
+      ]
+    },
+    {
+      "heading": "How to compare Classic Candy options before ordering",
+      "paragraphs": [
+        "A stronger landing page explains the trade-offs between pack size, flavour range, stock depth, and delivery timing.",
+        "That gives the page a conversion job as well as a ranking job."
+      ],
+      "bullets": [
+        "Compare unit price instead of headline price alone.",
+        "Check stock, bundle size, and delivery timing together.",
+        "Keep the call to action aligned with the buying task."
+      ]
+    }
+  ],
+  "faq_items": [
+    {
+      "question": "Where can I buy humbugs candy online in Australia?",
+      "answer": "Start with Australian stores that show live stock, delivery windows, and product range depth for humbugs candy before checkout."
+    },
+    {
+      "question": "How should I compare humbugs candy prices?",
+      "answer": "Compare unit price, pack size, shipping cost, and bundle options together instead of looking at the headline price only."
+    },
+    {
+      "question": "Are there other classic candy options worth comparing?",
+      "answer": "Yes. Nearby collections or substitute products can be useful when humbugs candy is out of stock or only available in limited pack sizes."
+    }
+  ],
+  "faq_questions": [
+    "Where can I buy humbugs candy online in Australia?",
+    "How should I compare humbugs candy prices?",
+    "Are there other classic candy options worth comparing?"
+  ],
+  "internal_links": [
+    {
+      "url": "https://sweetsworld.com.au/products/old-fashioned-lollies-australia/",
+      "label": "Old Fashioned Lollies Australia",
+      "anchor_text": "Shop Old Fashioned Lollies Australia",
+      "link_kind": "collection"
+    },
+    {
+      "url": "https://sweetsworld.com.au/where-to-buy/allens-red-frogs-australia/",
+      "label": "Allens Red Frogs Australia",
+      "anchor_text": "Browse Allens Red Frogs Australia",
+      "link_kind": "commercial"
+    },
+    {
+      "url": "https://sweetsworld.com.au/candy-categories/90s-candy-australia/",
+      "label": "90s Candy Australia",
+      "anchor_text": "Compare 90s Candy Australia",
+      "link_kind": "collection"
+    }
+  ],
+  "selected_products": [
+    {
+      "product_name": "NZ Sweets Peppermint Cream Bar 50g",
+      "category": "Candy",
+      "description": "",
+      "price": "4.99",
+      "url": "https://sweetsworld.com.au/candy/nz-sweets-peppermint-cream-bar-50g/",
+      "image_url": "https://sweetsworld.com.au/wp-content/uploads/2025/11/NZ-Sweets-Peppermint-Cream-Bar-50g.png",
+      "matched_tokens": [
+        "peppermint",
+        "sweet"
+      ],
+      "matched_phrases": [],
+      "selection_reason": "direct_match"
+    },
+    {
+      "product_name": "OATFIELD MINT HUMBUGS 150g",
+      "category": "Uncategorized",
+      "description": "OATFIELD MINT HUMBUGS 150g Product Description: 150g bag of Peppermint flavoured boiled sweets with a chewy toffee centre. A taste of yesteryear! Looking for a classic minty treat? OATFIELD MINT HUMBUGS are the...",
+      "price": "4.99",
+      "url": "https://sweetsworld.com.au/uncategorized/oatfield-mint-humbugs-150g/",
+      "image_url": "https://sweetsworld.com.au/wp-content/uploads/2023/03/OATFIELD-MINT-HUMBUGS-150g.jpeg",
+      "matched_tokens": [
+        "humbug",
+        "peppermint",
+        "boiled",
+        "sweet",
+        "classic"
+      ],
+      "matched_phrases": [],
+      "selection_reason": "direct_match"
+    },
+    {
+      "product_name": "Fry's Peppermint Cream 49g",
+      "category": "Candy",
+      "description": "",
+      "price": "4.99",
+      "url": "https://sweetsworld.com.au/british-lollies/uk-chocolate/fryspeppermintcream/",
+      "image_url": "https://sweetsworld.com.au/wp-content/uploads/2024/08/895a3cbc093043cf974ded870a77facaaf811cbe.jpeg",
+      "matched_tokens": [
+        "peppermint",
+        "sweet"
+      ],
+      "matched_phrases": [],
+      "selection_reason": "direct_match"
+    }
+  ],
+  "related_keywords": [
+    "sweetsworld",
+    "white knight chocolate",
+    "sweets world",
+    "clinkers chocolate",
+    "fantales lollies",
+    "darrell lea kotara"
+  ],
+  "cta": {
+    "heading": "Move from humbugs candy research into a purchase",
+    "body": "Compare the shortlist, then click through to the most relevant collection or product page to check live stock and delivery details.",
+    "button_text": "Browse Related Collection"
+  },
+  "distribution_channels": [
+    "facebook",
+    "instagram",
+    "gbp",
+    "pinterest"
+  ],
+  "schema_types": [
+    "BreadcrumbList",
+    "ItemList"
+  ]
+}
